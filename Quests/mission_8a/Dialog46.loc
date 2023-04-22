@@ -1,0 +1,29 @@
+;*****************************
+;Dialog46.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Viper
+#L_D46_msg00=Now tell me who has messed with the bomb. And you'd better tell me the truth!
+#L_D46_ans00=(Dalej)
+#L_D46_msg10=That's ridiculous! You've set it up and now you're making scapegoats out of us.
+#L_D46_ans10=(Dalej)
+#L_D46_msg20=Dear, I recommend you to keep your mouth shut, because only nonsense is coming out of it. I had no reason to demolish the station.
+#L_D46_ans20=Yeah, right! And the bomb was to turn into a pumpkin on midnight!
+#L_D46_msg30=I had no reason to destroy the station, when it was tactically unjustified. The backup ships hadn't reach Endoria 2 yet; my agents also died at the station; and journalists will chew over this "bloody massacre" for the next half a year!
+#L_D46_ans30=You said there were soldiers.
+#L_D46_msg40=It doesn't matter what I say, it matters how the separatist propaganda will communicate the news to media. Damn, it all went wrong, not like I had planned. If you didn't mess with the bomb - you probably had no time for this - it would mean that Aylon had decided to set me up...
+#L_D46_ans40=We didn't take the container from Aylon.
+#L_D46_msg50=Huh?
+#L_D46_ans50=The system was overrun by pirates. They had the container.
+#L_D46_msg60=Oh, this gives me a good clue to hold on to. When I find the bastards behind this, I'll hang them on their own guts. As for you, be close to the Imperial space. I'll let you know when I need you.
+#L_D46_ans60=Oh no. I'm not playing these games anymore. No way.
+#L_D46_msg70=Nobody's asking you. We both have blood on our hands now. And it calls to revenge. So, my dear, you're either with me or dead. Am I making myself clear?
+#L_D46_ans70=(Dalej)
+#L_D46_msg80=Clear enough...
+#L_D46_ans80=What about the information you've promised me?
+#L_D46_msg90=Oh yes, the information. I'll upload it to your log. And there's one more thing, your ships are junk. Upgrade!
+#L_D46_ans90=Sure, why not. Just give me the money.
+#L_D46_msg100=I have no spare funds, but I'll give you a Panther. It's an excellent vessel worth more than all your clunkers put together. You're a trader, aren't you? So trade yourself better ships or something, and the Panther will cover your rearguard. The next time we meet, be sure to have ships capable of adequate fire support. Viper out.
+#L_D46_ans100=(Dalej)

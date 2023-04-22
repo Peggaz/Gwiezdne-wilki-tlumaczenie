@@ -1,0 +1,15 @@
+;*****************************
+;Dialog5.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m9b_Fry
+#L_D5_msg00=I guess rumors of your combat abilities are grossly exaggerated. I'm sorry, but I must leave.
+#L_D5_ans00=What about that Kane of yours?
+#L_D5_msg10=If you couldn't protect the transports, you would hardly overcome Kane. And I'm not going to take part in an operation that is bound to fail. Good luck, you will need it.
+#L_D5_ans10=(Dalej)
+#L_D5_msg20=So much for corporators' help...
+#L_D5_ans20=(Dalej)
+#L_D5_msg30=Let him leave, we'll manage.
+#L_D5_ans30=(Dalej)

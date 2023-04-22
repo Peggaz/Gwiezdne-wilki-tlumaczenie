@@ -1,0 +1,13 @@
+;*****************************
+;Dialog11.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;VksAce
+#L_D11_msg00=Is that it? Did you deliver you damned cargo? What took you so long?! My shift ends very soon! Let's scram, I'm calling in the rookies that have been here.
+#L_D11_ans00=Just a second, there's something left to do. I need to get a few transports out of the system.
+#L_D11_msg10=What transports are you talking about?! Are you mad? I'm risking my head here for your meager 50,000 credits!
+#L_D11_ans10=Those are my friends who would like to get away from local struggles.
+#L_D11_msg20=Transports you say... All right, I'll take you to the XT-81 portal. But that is going to cost you 100,000 credits.
+#L_D11_ans20=How much?! Jeez, you need to fix your imagination. I can't pay that much.

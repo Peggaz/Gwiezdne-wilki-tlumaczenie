@@ -1,0 +1,11 @@
+;*****************************
+;Dialog4.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;VksOfficer
+#L_D4_msg00=Hey, are you still there? I have an order to let you go. You're off the wanted list.
+#L_D4_ans00=So you got him?
+#L_D4_msg10=That's none of your concern. Heed my advice and scram before my command reconsiders.
+#L_D4_ans10=(Dalej)

@@ -1,0 +1,18 @@
+;*****************************
+; mission_5_1_03
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_6M_a=Reach Beta Lethera 1.
+#L_Quest_6M_b=The last signal from the convoy came from Beta Lethera 1. It was a mayday. The ships were most likely destroyed, cargo stolen. But there's still a chance that some of the pilots have survived. Besides, an examination of the wreck site can shed light on what's happened.
+#L_Quest_6_01a=Meet Ternie's friend.
+#L_Quest_6_01b=A friend of Ternie who lives in New Jerusalem 3 might have heard something about the missing convoy.
+
+;*****************************
+;Speeches
+;*****************************

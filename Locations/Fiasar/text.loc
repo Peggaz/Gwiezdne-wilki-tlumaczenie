@@ -1,0 +1,15 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#M_pstation=Stacja Patrolu
+#M_trade_station=Stacja Handlowa
+#M_mining_station=Stacja wydobywcza
+#L_pstation=Stacja patrolu USS
+#L_trade_station=Stacja Handlowa "Fiasar"
+#L_terminal=Terminal tranzytowy
+#L_plasma_lab=Laboratoria plasmy USS
+#L_factory=Zak³ad "PT-2"
+#L_dip=Stacja dyplomatyczna USS

@@ -1,0 +1,21 @@
+;*****************************
+;Dialog9.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m_LiImu
+#L_D9_msg00=What's going on here? Ah, the mongrel. Just as I thought.
+#L_D9_ans00=(Dalej)
+#L_D9_msg10=Don't you ever call me that again, you bastard.
+#L_D9_ans10=(Dalej)
+#L_D9_msg20=Oh, you don't like it? But you are a mongrel like your dad. But he at least had enough brains to respect the Original Dynasties. Pity, I can't say the same about you... mongrel.
+#L_D9_ans20=(Dalej)
+#L_D9_msg30=Why you... Whatever. The Triumvirate will have you on a plate after I deliver those guys. We'll see what you have to say, when they find out you've left the system nearly unguarded.
+#L_D9_ans30=(Dalej)
+#L_D9_msg40=Haven't you realized it yet, mongrel? But why should you, really. Who told you that you'd be the one to deliver those people to the Triumvirate? Why not me? Man, it's so hard to talk to genetically wretched.
+#L_D9_ans40=(Dalej)
+#L_D9_msg50=There's just one thing. To deliver Dickens to the InoCo HQ is my priority task. And I have a right to use any means to accomplish it.
+#L_D9_ans50=(Dalej)
+#L_D9_msg60=Die, you piece of metal!
+#L_D9_ans60=(Dalej)

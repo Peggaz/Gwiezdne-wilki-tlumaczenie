@@ -1,0 +1,13 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;USSOfficer
+#L_D1_msg00=We have an order to take you to the portal. Please stick to the designated route.
+#L_D1_ans00=(Dalej)
+#L_D1_msg10=What if I badly need to take a leak at one of your stations that has a store?
+#L_D1_ans10=(Dalej)
+#L_D1_msg20=I repeat, proceed to the portal.
+#L_D1_ans20=(Dalej)

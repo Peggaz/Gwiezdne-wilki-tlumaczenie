@@ -1,0 +1,11 @@
+;*****************************
+;Dialog6.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m51_USSAgent
+#L_D6_msg00=Where have you been?! What in the phrase "time is running out" didn't you get?
+#L_D6_ans00=You left us unprotected, so we had to go round to avoid pirates.
+#L_D6_msg10=I don't care about your excuses. Dock and start loading.
+#L_D6_ans10=(Dalej)

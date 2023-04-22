@@ -1,0 +1,53 @@
+;*****************************
+; mission_8e
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_7a_a=Reach the MSF headquarters.
+#L_Quest_7a_b=MSF Security has to know everything about what happened in Beta Lethera 1. You just have to reach New Jerusalem 2 and find someone who would be willing to share this information.
+#L_Quest_7c_a=Reach the Mercenary Market.
+#L_Quest_7c_b=The debris of a ship, lacking any imperial or corporate labels, most likely belongs to a mercenary team. The Mercenary Market in Cassily has the biggest database on free fighters, but they won't share it remotely.
+#L_Quest_7d_a=Meet with Alex.
+#L_Quest_7d_b=Alex needs help in escorting a convoy, and his client is willing to pay good money. Alex will be waiting in XT-54. There's some free time to spend, but not much.
+#L_Quest_8e_02a=Jump into the portal.
+#L_Quest_8e_02b=Dickens claims you just have to jump into the abnormal portal to get into XT-54.
+#L_Quest_8e_03a=Reach XT-45.
+#L_Quest_8e_03b=Dickens says the cargo from the missing convoy is hidden at the Kuru Station in XT-45.
+#L_Quest_8e_04a=Mine the portal.
+#L_Quest_8e_04b=The local security agents have surely sent out a distress signal. But thanks to the mines at the Dosis portal you won't have to worry about Triada thugs coming from the Sagittarius Sector.
+
+;*****************************
+;Speeches
+;*****************************
+#L_Dikkens_01=Jump first and recon. You won't arouse suspicions.
+
+#L_Hero_01=All clear except for one small problem. Jump in.
+#L_tri_01=Attention, all posts! Alarm! Alarm! Large enemy forces at the XT-54 portal. We're under attack!
+
+#L_Hero_02=We're at the portal, ready to jump. All clear.
+#L_Dikkens_02=Fine, jump. We'll catch up in a few seconds.
+
+#L_Lastochka_01=The surpise has been set.
+#L_Hero_03=Let's get back to the XT-45 portal.
+#L_Dikkens_03=Fine, the first stage is complete. Jump in, we'll follow.
+
+#L_Lastochka_02=Is that all you can?!
+#L_Dikkens_04=Hurry up, time is of the essence!
+
+#L_Dikkens_05=Head for the station everyone, we don't have much time!
+#L_Sedoy_01=Right, like they can fight. Might as well attacked us with bows or slings.
+#L_Hero_04=Whatever! Attack!
+#L_Lastochka_03=It's an ambush!
+#L_Dikkens_06=No! Wait! Damn, damn, damn! Trader, I triple your reward! Quintuple! Attack the bloody piece of junk! We can win! No one will stand before us, when these technologies are in our possession! We'll rule the world!
+#L_Sedoy_02=Yep, he's finally cracked. It's good we took the money beforehand.
+#L_Aia_01=It seems we're just in time, they haven't plundered the station yet. InoCo ships! My, what a coincidence.
+#L_Sedoy_03=Let's scram, boss, while they are fighting each other!
+
+#L_Dikkens_07=That was a mortally stupid move.
+
+#L_sys_01=Mining in process.

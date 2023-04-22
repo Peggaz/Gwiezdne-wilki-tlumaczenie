@@ -1,0 +1,34 @@
+;*****************************
+;Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m9e_Meier
+#L_D2_msg00=It's a miracle you've arrived! Let me introduce myself. Name's Claus Meier, and I badly need a transport!
+#L_D2_ans00=It's not for sale.
+#L_D2_msg10=Not for... Oh, it's a joke! Unfortunately, I'm not in the mood for jokes. Hapha is going to hell in a hand-basket. People are fleeing, all transports have been commandeered by the corporation. Like this isn't enough, I've recently spotted an MSF team here, in an InoCo system. Can you imagine?!
+#L_D2_ans10=(Dalej)
+#L_D2_msg20=What are you waiting for, friend? Scram!
+#L_D2_ans20=(Dalej)
+#L_D2_msg30=I'm not waiting for anything! I would have been long gone, if it weren't for my things - a container with certain equipment located at the InoCo engineering station. I bet you're headed for that very place. Why, there's nothing else to go to here.
+#L_D2_ans30=(Dalej)
+#L_D2_msg40=Stop pulling my leg, will you? What is your equipment doing at an InoCo station?
+#L_D2_ans40=(Dalej)
+#L_D2_msg50=InoCo was upgrading its station hardware, selling old things at knock-down prices. But what InoCo considers junk is a technological breakthrough in some other systems. So I wanted to resell it and make some cash. You should know what business is like, shouldn't you?
+#L_D2_ans50=(Dalej)
+#L_D2_msg60=I don't like him, partner. All this sounds too silly...
+#L_D2_ans60=(Dalej)
+#L_D2_msg70=I'll pay! 10,000 credits for delivering the box here.
+#L_D2_ans70=(Dalej)
+#L_D2_msg80=Ok... And what are you going to do next? Kick it all the way to the portal?
+#L_D2_ans80=(Dalej)
+#L_D2_msg90=No, but... I can't insist... Would you be so kind as to get it through? I'll manage it from there. You can always leave it here, if you want. But you wouldn't, right? It's so easy! I've invested everything into that cargo! Please help me!
+#L_D2_ans90=All right, we'll help you. Wait here, we'll be back soon.
+#L_D2_ans91=Sorry, friend, but this is no deal. First, you ask us to get the box here, then to take it through the portal. Then you'll want to take pity on you and deliver it to some back and beyond. I've gone through this.
+#L_D2_msg100=Oh, thank you! I'll be right here. But please hurry.
+#L_D2_ans100=(Dalej)
+#L_D2_msg110=Calm down, will you? So, boss, let's visit the station?
+#L_D2_ans110=(Dalej)
+#L_D2_msg101=No, just deliver it here! Oh, dammit, how else can I persuade you? I'll give you 25,000 credits. It's all I have! Just pick the container up and deliver it here. I'll wait for you, I promise.
+#L_D2_ans101=(Dalej)

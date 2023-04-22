@@ -1,0 +1,13 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka2
+#L_D1_msg00=Partner, we must get closer to the Gates. I'll try to surprise the tincans.
+#L_D1_ans00=(Dalej)
+#L_D1_msg10=We'll get into their field of fire.
+#L_D1_ans10=(Dalej)
+#L_D1_msg20=We'll end up in a field of fire anyway, so let's be targets with a surprise than just targets! Look that that, Ternie, the Gates are as good as new!
+#L_D1_ans20=(Dalej)

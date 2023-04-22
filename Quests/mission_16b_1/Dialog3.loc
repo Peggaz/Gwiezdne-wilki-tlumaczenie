@@ -1,0 +1,21 @@
+;*****************************
+;Dialog3.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m17b_Medish
+#L_D3_msg00=Aja, leave Tan alone! I don't want to quarrel with you, but I won't let you hurt her either!
+#L_D3_ans00=(Dalej)
+#L_D3_msg10=Medish! First, you dare show your face to honest people, then you dare threaten them! What drugs are you on today, you meager nobody?
+#L_D3_ans10=(Dalej)
+#L_D3_msg20=You can insult me to hell and gone. But leave Tan alone.
+#L_D3_ans20=(Dalej)
+#L_D3_msg30=Why have you suddenly decided to protect her I wonder? Do you fear for your pitiful business?
+#L_D3_ans30=(Dalej)
+#L_D3_msg40=I love her!
+#L_D3_ans40=(Dalej)
+#L_D3_msg50=By the Great Dragon, that's a good one! A pirate accountant and a slaver - such a nice couple! Well, I'm going to help you. As we all know, marriages are made in heaven, right? Fine! You're going there together right now!
+#L_D3_ans50=(Dalej)
+#L_D3_msg60=It's a pity, you're so dumb, Aja. Mind you, I'm not here alone.
+#L_D3_ans60=(Dalej)

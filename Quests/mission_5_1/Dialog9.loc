@@ -1,0 +1,21 @@
+;*****************************
+;Dialog9.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;PirateTough
+#L_D9_msg00=Get closer to the station to unload the cargo.
+#L_D9_ans00=(Dalej)
+#L_D9_msg10=Nicely done, without a hitch.
+#L_D9_ans10=(Dalej)
+#L_D9_msg20=Eric, get out of that corporate clunker. Did you forget we have to shoot it?
+#L_D9_ans20=(Dalej)
+#L_D9_msg30=It's nice here. Damn, those corporate bastards know how to live in style!
+#L_D9_ans30=(Dalej)
+#L_D9_msg40=They do. But right now that stylish ride of yours will signal it's been hijacked. That and our location.
+#L_D9_ans40=(Dalej)
+#L_D9_msg50=I wish I could keep this good ship.
+#L_D9_ans50=(Dalej)
+#L_D9_msg60=Feel free to stay inside, we'll shoot you both. Huckster, you may scram. We're in a good mood, so consider yourself lucky.
+#L_D9_ans60=(Dalej)

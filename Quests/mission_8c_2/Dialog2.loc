@@ -1,0 +1,15 @@
+;*****************************
+;Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D2_msg00=Hey, station, we need to talk to Carl.
+#L_D2_ans00=(Dalej)
+#L_D2_msg10=Oh, old friends.
+#L_D2_ans10=We need our mothership's license plates cleaned.
+#L_D2_msg20=Sure thing. 600,000 credits and you'll be as good as new.
+#L_D2_ans20=You're overcharging. No deal.
+#L_D2_msg30=It's your call, but I'm not in the mood for haggling. Over and out.
+#L_D2_ans30=(Dalej)

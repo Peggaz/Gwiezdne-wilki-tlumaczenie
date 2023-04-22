@@ -1,0 +1,19 @@
+;*****************************
+;Dialog5.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Tramp
+#L_D5_msg00=Attention, MSF security ships, this is Admiral Trump. You were involved in a conflict provoked by Major Viper's violation of imperial army regulations and laws. I hereby order you to end all resistance and get back to your posts!
+#L_D5_ans00=(Dalej)
+#L_D5_msg10=Admiral, what's happened here?
+#L_D5_ans10=(Dalej)
+#L_D5_msg20=Captain, you will be informed in due time. For now just go on following the regulations.
+#L_D5_ans20=(Dalej)
+#L_D5_msg30=By Space, what's going on here?! Flower lovers are streaming from Tira, we can't contact either Earth or other sectors, the fleet is buzzing with wildest rumors.
+#L_D5_ans30=(Dalej)
+#L_D5_msg40=Captain, I can't tell you anything specific or clear up confusion at the moment. If enemies attack in large force, retreat to the space of the MSF immediately. Saving people's lives and buying us time is your top priority now.
+#L_D5_ans40=(Dalej)
+#L_D5_msg50=Yes, sir! All right, boys, you heard the admiral. Retreat to the base. Somebody tell them to get us out of here.
+#L_D5_ans50=(Dalej)

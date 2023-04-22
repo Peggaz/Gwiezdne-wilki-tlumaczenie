@@ -1,0 +1,13 @@
+;*****************************
+;Dialog9.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m12_CaptainVKSgraft
+#L_D9_msg00=Fine. Now let's apprehend Cleric and get him to the base. And make sure not to harm a hair of his head!
+#L_D9_ans00=Hey, that wasn't the deal.
+#L_D9_msg10=Too late for deals, trader. Be nice and get out of my way. So, boys, are you frozen or what? Each will get a medal and a month's vacation for catching that criminal!
+#L_D9_ans10=I must destroy his ship!
+#L_D9_msg20=Sheesh, you're so bothersome...
+#L_D9_ans20=(Dalej)

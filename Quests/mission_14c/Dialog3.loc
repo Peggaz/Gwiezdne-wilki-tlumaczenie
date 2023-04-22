@@ -1,0 +1,41 @@
+;*****************************
+;Dialog3.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D3_msg00=Alexandra, so what kind of help do you need?
+#L_D3_ans00=(Dalej)
+#L_D3_msg10=It's those Greys. I'd like to give you thanks, my and Empress Astra's. If you didn't arrive to Gideon timely and notice the grey ships, we could have lost a very dangerous enemy. At a critical moment for the New Empire.
+#L_D3_ans10=(Dalej)
+#L_D3_msg20=We also whacked their ål diablo principal!
+#L_D3_ans20=(Dalej)
+#L_D3_msg30=Sorry to disappoint you, but he wasn't a 'principal'. Or at least he wasn't the only one. Greys are a much branched and deeply underground organization that managed to infiltrate the management of empires, corporations and patrol forces. We know neither about their goals they pursue nor resources they have. But we managed to figure out their agents and nearly identified a few higher-ups.
+#L_D3_ans30=(Dalej)
+#L_D3_msg40=Let me guess, we are to play an honorable role of law enforcers.
+#L_D3_ans40=(Dalej)
+#L_D3_msg50=No, we can arrest criminals in the New Empire ourselves. As for other systems, except for one, our data is pretty vague. Besides, there's no one to apprehend yet, Greys found out they were being shadowed, wound up their operations in the New Empire and evacuated all agents. So...
+#L_D3_ans50=So you flopped. What were those Greys doing at least?
+#L_D3_msg60=Mostly thieving at mid-managerial level. Such clerks are usually responsible for main workflow, including minor financial services. And lots of those at that. Agents of Greys forged official requests and reports, picking the plums out of every worthy transaction or government work. They were especially interested in shipments of the latest fighters and weaponry, sometimes stealing a ship, sometimes valuable equipment. We don't know where they delivered the loot after that.
+#L_D3_ans60=(Dalej)
+#L_D3_msg70=Caramba! How could you miss it?! I thought only las cabezas de alcornoque could mess up like this! Oh, those thick skulls...
+#L_D3_ans70=(Dalej)
+#L_D3_msg80=It's not that simple. The New Empire badly needs competent government employees. Nearly all ex-clerks ran off, and new people are willing to do anything - run businesses, pilot ships - except for administrative staff. A smart man willing to be a humble clerk doesn't go unemployed for too long. Of course, we control his work at first, but it can't always be done in full. Greys totally knew and exploited that 'breach'.
+#L_D3_ans80=And now that it has been closed, they sailed beyond the sunset. Finito la commedia. 
+#L_D3_msg90=Not quite. They didn't do all the work to just leave it. That was a tactical retreat, and Corsair believes that Greys are preparing to deliver a blow. Given that we have no data about their numbers, we need allies. Even if this means former enemies, by which I mean Admiral Trump of the MSF who has left to XT-86. But a hyper spring on my ship can't send us there directly, so we'll have to visit XT-93 first, then hyper jump to the destination.
+#L_D3_ans90=(Dalej)
+#L_D3_msg100=Some encounter that will be. "Oh hi, admiral. We work for the NESF and did you much harm in the past. But it seems we have some grey enemies. Do you mind if we fight them together? Only to get back to our regular war later".
+#L_D3_ans100=(Dalej)
+#L_D3_msg110=Corsair and me realize that persuading the admiral will be tough. We have prepared enough documentary proofs, which should convince Trump of gravity of the threat.
+#L_D3_ans110=(Dalej)
+#L_D3_msg120=This is great, but what if Trump is allied with the Greys? That'll be awkward.
+#L_D3_ans120=(Dalej)
+#L_D3_msg130=We've thought of that and we shall recon the system in the first place, unnoticed by the enemy. If Trump is an agent or a leader of the Greys, we'll have to eliminate him.
+#L_D3_ans130=How nice.
+#L_D3_msg140=We have no other choice. Or time to look for alternative ways to solve this riddle. So we'll have to strike first and think later. Organizations like the Greys are very dangerous.
+#L_D3_ans140=Strike? Strike who?
+#L_D3_msg150=We've located their nerve center. I can't tell you right now, but you'll get to know it in due time, I promise.
+#L_D3_ans150=(Dalej)
+#L_D3_msg160=Why is it always like this? You'll be happy, but not today. Anyway, enough chatter, let's visit that Trump. If we can't persuade him, we can always kick his butt!
+#L_D3_ans160=(Dalej)

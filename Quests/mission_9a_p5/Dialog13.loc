@@ -1,0 +1,25 @@
+;*****************************
+;Dialog13.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Alexandra
+#L_D13_msg00=Let me introduce myself. I'm Alexandra Sukhova. I was reported you wanted to voluntarily hand over some strategically vital cargo. A very smart move I'd say. According to our prices, the cargo costs 2,500,000 credits, and I'm willing to pay the sum. But what should I do about you? You're cooperating with our enemy.
+#L_D13_ans00=Not cooperating, but doing a one-time job. In exchange for information about the pilots of my convoy wrecked in Beta Lethera 1. Don't take it amiss, but I'm trying to get information I need the way I can.
+#L_D13_msg10=Beta Lethera 1... Now that's interesting. How are you connected to Triada?
+#L_D13_ans10=It's a usual trade contract. I don't care about your political conflicts, I just want to find out what has happened to my employees.
+#L_D13_msg20=Find out by smuggling for the military? So they can butcher more people? Is that your way of doing things?
+#L_D13_ans20=Don't impute to us things we haven't done! I gave you the cargo. Besides, it's only regular. And the MSF forced me into going on this mission. But I have no connection with any military business.
+#L_D13_msg30=I know. Or we wouldn't be talking. All right, I have some information about thick skulls' affairs in that system and I'm willing to share it. You do me a one-time favor and get the data. What do you say?
+#L_D13_ans30=Like I have any choice. Of course, I agree...
+#L_D13_msg40=You do have a choice, I'm not going to force you. But your refusal would make our further cooperation impossible. The task is not that easy, but you will find it acceptable on the moral side, if you care. You'll receive all the details in a message, and the tactics is up to you. Now please excuse me, I'm very busy.
+#L_D13_ans40=(Dalej)
+#L_D13_msg50=Partner, we're changing political sides like gloves.
+#L_D13_ans50=Oh, spare me your poison. We'd just get killed here. Or, more likely, would get killed on the next Viper's mission.
+#L_D13_msg60=If my aunt had been a man, she'd have been my uncle. What do flower lovers want from us?
+#L_D13_ans60=Do you label everyone you meet?
+#L_D13_msg70=Not me, others do. The MSF are thick skulls, the NESF are flower lovers, USS are puffer toads. Only InoCo and Triada have no labels yet.
+#L_D13_ans70=Great...
+#L_D13_msg80=But it's convenient. So what do they want, partner? Or are you pulling my leg?
+#L_D13_ans80=(Dalej)

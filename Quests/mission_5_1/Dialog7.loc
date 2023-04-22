@@ -1,0 +1,24 @@
+;*****************************
+;Dialog7.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;PirateTough
+#L_D7_msg00=Eric, what took you so long?
+#L_D7_ans00=(Dalej)
+#L_D7_msg10=It's that slowpoke trader. Had to kick him all the way here.
+#L_D7_ans10=Huh? What's going on here?
+#L_D7_msg20=A change of plans. You'll deliver the cargo to a station of their choice.
+#L_D7_ans20=(Dalej)
+#L_D7_msg30=Since when has USS been giving away cargoes to pirates?
+#L_D7_ans30=(Dalej)
+#L_D7_msg40=Since the day they learned to ask politely. So quit bickering and head for the station.
+#L_D7_ans40=What about our payment?
+#L_D7_msg50=He's so funny! Eric, where did you find this clown? Be glad if we let you go alive.
+#L_D7_ans50=Ternie?
+#L_D7_msg60=Nothing else to discuss here, I know the value of a pirate's promise. So, I'll take care of the corporators since their ships are better, and you deal with the pirates.
+#L_D7_ans60=No, Ternie, wait! I don't want to risk it for a few boxes that should be delivered to someone somewhere. Do you get my point? So we'll follow these gentlemen to the destination.
+#L_D7_ans61=You're right. All the more so it'll be harder to handle the "customers" at the station.
+#L_D7_msg70=Right choice, huckster. Now move it.
+#L_D7_ans70=(Dalej)

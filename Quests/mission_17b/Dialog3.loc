@@ -1,0 +1,20 @@
+;*****************************
+;Dialog3.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Aia
+#L_D3_msg00=What should we do now?
+#L_D3_ans00=Let's face the inevitable and jump to X220.
+#L_D3_ans01=We shouldn't lose a chance to gain support. Let's jump to X297.
+#L_D3_msg10=I knew you had a dragon heart in your chest! I'll tell Ethan to start up the hyper catapult.
+#L_D3_ans10=(Dalej)
+#L_D3_msg20=You're all mad.
+#L_D3_ans20=(Dalej)
+#L_D3_msg30=Who's normal then? At least I haven't met any.
+#L_D3_ans30=(Dalej)
+#L_D3_msg11=You may be right, but I think this is a waste of time.
+#L_D3_ans11=(Dalej)
+#L_D3_msg21=Dead men have all the time in the world. So I'll vote for the boss on this one - we need all the help we can get.
+#L_D3_ans21=(Dalej)

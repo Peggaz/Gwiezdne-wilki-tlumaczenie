@@ -1,0 +1,12 @@
+;*****************************
+;Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D2_msg00=Perhaps, we should have stayed, partner. We've spent so much time in search of that cursed cargo. It's such a pity.
+#L_D2_ans00=Too much obscurity and too many secrets on InoCo's part.
+#L_D2_msg10=I agree, boss. I don't like taking leaps in the dark, too. What now?
+#L_D2_ans10=Let's try to find something out about those fighter remains we've found. Greyhair, you mentioned the Mercenary Market. Is it in Cassily? We're going there.
+#L_D2_ans11=Ternie, you're right. Let's pause on the investigation for the time being and try to make some credits. We should visit my friend Alex in XT-54, I think he has a job for us.

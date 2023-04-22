@@ -1,0 +1,27 @@
+;*****************************
+;Dialog10.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D10_msg00=Who're you?
+#L_D10_ans00=(Dalej)
+#L_D10_msg10=Cleric's friends.
+#L_D10_ans10=(Dalej)
+#L_D10_msg20=Nonsense. Cleric doesn't and cannot have any friends.
+#L_D10_ans20=(Dalej)
+#L_D10_msg30=True! But he's too valuable a thing to let anyone else own it.
+#L_D10_ans30=(Dalej)
+#L_D10_msg40=What the hell, Jamshedji?! Don't call me that ever again!
+#L_D10_ans40=(Dalej)
+#L_D10_msg50=Shut up. I've grown tired of you recently, so I believe it's high time to stop making a fuss about you. Now, boy, you're in a different streak and you might not like it.
+#L_D10_ans50=(Dalej)
+#L_D10_msg60=Oh really? You wanted information on InoCo's newest gun tech? You won't get it! I'm not telling you anything!
+#L_D10_ans60=(Dalej)
+#L_D10_msg70=You are. There are many ways to make you vocal. Now, gentlemen, I wouldn't like to conflict with you, but I'm afraid getting Cleric implies attacking you.
+#L_D10_ans70=He's yours, if you need him. But I need information he has promised. This won't harm your business.
+#L_D10_msg80=You're ones to decide what affects my business. Besides, I'm not giving information away, I trade it. Tell me what you need and I'll tell you the price.
+#L_D10_ans80=(Dalej)
+#L_D10_msg90=No way! I'm the decider here!
+#L_D10_ans90=(Dalej)

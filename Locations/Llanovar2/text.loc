@@ -1,0 +1,16 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#L_Nav_01=Portal do Llanowar 1
+#L_Nav_02=Stacja Triady
+#L_Nav_03=Stacja Triady
+#L_Nav_04=Statek-baza Triady
+#L_Nav_05=Centralne bióro LS
+#L_Nav_06=Zachodnia stacja LS
+#L_Nav_08=Turystyczna stacja LS
+#L_Nav_07=Stacja Neuro-BIO LS
+#L_fact=Zak³ad
+#L_mine=Kopalnia

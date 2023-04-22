@@ -1,0 +1,25 @@
+;*****************************
+;Dialog13.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m9c_Guard
+#L_D13_msg00=Friends, please forgive me for having doubts about you. We haven't been trusting our own shadows after some bastard masked as a trader blasted a part of the station.
+#L_D13_ans00=Don't worry, we understand.
+#L_D13_msg10="Don't worry"? What the hell? Proving our innocence, we wrecked our fighters only to get some junk instead. What are we going to fly now? Your lame excuses?
+#L_D13_ans10=(Dalej)
+#L_D13_msg20=I'm sorry you had to sacrifice your vessels, but I believe I can make up for that. I have a few decent fighters at the station, you may take them.
+#L_D13_ans20=(Dalej)
+#L_D13_msg30=Oh, that's nice.
+#L_D13_ans30=Wait, where's La'Vertius?
+#L_D13_msg40=Under arrest. He tried to contact the pirates as soon as you left. It's good our men intercepted and jammed his signal. Then he tried to get away with the transports, but a couple of missiles calmed him down. He's not saying anything, but only because we haven't cracked him properly yet.
+#L_D13_ans40=(Dalej)
+#L_D13_msg50=It seems we only have one problem then. The pirates are disorganized right now, blaming each other. But soon they'll attack us with all they have. And then we'll be done for.
+#L_D13_ans50=(Dalej)
+#L_D13_msg60=That's what I'm afraid of as well. We need to attack the pirates first before they come to their senses.
+#L_D13_ans60=(Dalej)
+#L_D13_msg70=You're crazy! We've barely survived.
+#L_D13_ans70=(Dalej)
+#L_D13_msg80=If we sit out here, no one will survive, so we have no choice. I guess our chances to win are higher now. Re-arm and get to the attack spot that I'll mark on the map. Remember, time is of the essence.
+#L_D13_ans80=(Dalej)

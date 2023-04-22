@@ -1,0 +1,21 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m14e_Ranolds
+#L_D1_msg00=Great, we made it! I shall personally energize the tincan with all the current I'll be able to get at InoCo stations.
+#L_D1_ans00=Glad to hear that... Damn, SAM had a pretty fine ship. And we lost it.
+#L_D1_msg10=This is nothing compared to what that crazy bag of bolts made by InoCo eggheads could have done to you. Feel free to reserve the transport  I've given you.
+#L_D1_ans10=(Dalej)
+#L_D1_msg20=This isn't enough...
+#L_D1_ans20=(Dalej)
+#L_D1_msg30=If you visit Alex Koshevoy, he'll find something more serious for you. I'll message him right away.
+#L_D1_ans30=You know Alex? How?
+#L_D1_msg40=This is a long story, so let him tell it. The message has been sent, and it's time to leave. Alex will be waiting in New Kyoto, try not to delay.
+#L_D1_ans40=(Dalej)
+#L_D1_msg50=Mister Reynolds, wait. Why did InoCo security try to kill you?
+#L_D1_ans50=(Dalej)
+#L_D1_msg60=Because I didn't deal with certain smart alecs from the science department in due time. As a result, the corporation has fallen victim to yet another electronic blockhead, and we all are in serious trouble. Now please excuse me, time is of the essence. And thanks again.
+#L_D1_ans60=(Dalej)

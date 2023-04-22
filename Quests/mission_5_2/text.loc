@@ -1,0 +1,85 @@
+;*****************************
+; mission_5_2
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_5_01a=Return to Alex's station.
+#L_Quest_5_01b=A former pirate base is a good purchase, all the more it's not on the wanted list anymore. But equipping it will require much money, so you better get back to Placid Docks - Alex is bound to have a few well-paid contracts.
+#L_Quest_5_2_01a=Reach Pegasus.
+#L_Quest_5_2_01b=Breakneck has cash and valuables stashed for a rainy day in Pegasus. Well, since he's been getting wet through already, the stash is just asking to be looted. Hey, we do have a right for it anyway!
+#L_Quest_5_2_02a=Find an escort.
+#L_Quest_5_2_02b=Even if the stash is unguarded, Pegasus is still far from being peaceful and quiet. You should think about additional support in case there are other "successors" after Breakneck's stuff.
+#L_Quest_5_2_03a=Reach Bursar's station.
+#L_Quest_5_2_03b=Bursar is bound to know the location of Breakneck's stash. It would take an eternity to find it without knowing the right coordinates.
+#L_Quest_5_2_04a=Avenge on Bursar.
+#L_Quest_5_2_04b=Bursar decided to play double, but went wrong. He's going to die!
+#L_Quest_5_2_05a=Intercept Bursar.
+#L_Quest_5_2_05b=If Bursar leaves Pegasus, he's as good as hidden forever. You must intercept him before he gets near the portal. Intercept and make him pay!
+#L_Quest_6M_a=Reach Beta Lethera 1.
+#L_Quest_6M_b=The last signal from the convoy came from Beta Lethera 1. It was a mayday. The ships were most likely destroyed, cargo stolen. But there's still a chance that some of the pilots have survived. Besides, an examination of the wreck site can shed light on what's happened.
+#L_Quest_6_01a=Meet Ternie's friend.
+#L_Quest_6_01b=A friend of Ternie who lives in New Jerusalem 3 might have heard something about the missing convoy.
+
+;*****************************
+;Speeches
+;*****************************
+#L_Hero_01=Let's hire those imperial soldiers who has escorted us here. They were some kind of a special force - should probably know how to handle guns.
+#L_Lastochka_01=You're the boss, but I don't like them. Let's pay a visit to those Scorpions or whatever.
+
+#L_pat_06=Here's our strategy: we stay back, so a potential enemy can't assess our forces correctly, and join in only when you civilians are in obvious danger.
+#L_Hero_13=Sounds reasonable. Let's go to the portal.
+#L_Lastochka_02=Scanning police frequencies... Seems quiet.
+
+#L_pat_01=We'll need to pass through an enemy system. Don't harbor any illusions about New Empire butchers, they are even worse than pirates. So you'd better stay away from stations and trade routes.
+#L_merc_01=Boss, rumor has it that something very bad had happened to the local pirates and they, like, vanished. But you know, nature abhors a vacuum, so I recommend you to stick to stations and trade routes.
+
+#L_Lastochka_03=Squinty, what are you doing here?
+#L_Squint_01=Quarter told me he hated losing customers. So I have to personally watch you get to the location. And I'm not violating his orders.
+#L_Hero_02=I don't like being looked after like that. I'll transmit the coordinates to our brave warriors, so they can be nearby.
+#L_Hero_03=I don't like being looked after like that. I'll transmit the coordinates to our brave mercenaries, so they can be nearby.
+
+#L_Squint_02=And Quarter also told me to play this message for you.
+#L_Treasurer_06=Ternie, my dear stupid girl, did you think you could trick Bursar? Is there a way to teach you youngsters any good? You're so stubborn. Did you really think I wouldn't know the truth about Breakneck and the Wild Cats clan? Which are also my good customers, by the way. Did you want to trick the old man? Not good, not good. I was like a father to you. I had looked after you, supported you and this is how you paid me back. How dare you come here at all! I have to teach you a lesson. It's a pity you don't have much time to learn it well. As for me, I'm forced to make up for losing customers by collecting their possessions. Well, it's time to say goodbye. Don't resist, otherwise Squinty will make your deaths very painful.
+#L_Hero_04=I knew it would go wrong! Calling in reinforcements!
+#L_merc_02=It's all right, boss, we're here.
+#L_Squint_03=Dammit, it's an ambush!
+#L_pat_02=Scorpions, attack!
+#L_Squint_04=Ambush!
+#L_Hero_05=Calling Scorpions! Scorpions, answer me. We need support! Scorpions!
+#L_Squint_05=Hah! A false alarm. I knew you were bluffing. All right, stay put and I'll make it quick.
+#L_Hero_14=Scorpions, answer me, damn you! We need support!
+#L_Lastochka_04=Forget it, partner, they dumped us. Focus on combat!
+
+#L_Hero_06=Dammit! Follow them! Having killed Quarter's guards, we've almost handed him over to them on a plate.
+
+#L_Treasurer_01=Ternie?! But how?
+#L_Hero_07=What? Didn't expect us?
+#L_Treasurer_02=Attack them! Attack now! Leave no one alive!
+#L_merc_03=Leave those clowns to us, boss. Watch the station so no one gets away!
+#L_Lastochka_05=Damn! Now we're in trouble!
+#L_pat_03=Attention, Scorpions, tactical retreat! Call in reinforcements!
+
+#L_vks_01=Attention, all ships, prepare to surrender. The station is under arrest. The MSF takes control of it until the investigation is over. Any resistance will be severely suppressed.
+#L_Treasurer_03=Protect the station! Kill them all! All!
+
+#L_Hero_08=A thousand comets down their throats and a black hole down their pants! It was all in vain! Bloody MSF, bloody Quarter, bloody-
+#L_Lastochka_06=Calm down, partner, calm down. I think I've intercepted a conversation between two pirate ships. And it seems one of them is the very man we've wanted to sweat. Those idiots think they're on an scrambled frequency that no one can listen to. Let's surprise them!
+#L_merc_04=We'll pack him right up, boss. You just watch the rearguard!
+
+#L_pat_04=Don't delay, trader, pass through the portal.
+#L_Hero_12=I'm waiting for someone here.
+#L_pat_05=Proceed to the portal immediately. I have clear orders about you.
+
+#L_Treasurer_04=You again?! Are you going to die or what?
+#L_Lastochka_10=You first, Quarter.
+
+#L_merc_05=That's it, boss, we did our job. Good luck, nice working with you.
+#L_Lastochka_11=The deed is done. So, partner, shall we go shopping?
+#L_Lastochka_12=Damn, he escaped none the less.
+
+#L_sysmsg_01=Wait for and eliminate Bursar.

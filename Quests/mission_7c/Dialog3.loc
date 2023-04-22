@@ -1,0 +1,27 @@
+;*****************************
+;Dialog3.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m7c_Dispetcher
+#L_D3_msg00=Welcome to the Mercenary Market. Are you looking for security or offering to secure?
+#L_D3_ans00=Neither. We need information about certain operations that involved mercenary teams.
+#L_D3_msg10=Switching to you the control center.
+#L_D3_ans10=(Dalej)
+#L_D3_msg20=Commander Samuel Fletcher, New Empire Space Forces. I'm listening.
+#L_D3_ans20=I need to know which mercenary teams joined MSF for a certain combat operation against the Triada station in Beta Lethera 1.
+#L_D3_msg30=Impossible. MSF got mercenaries involved only in operations against Berserks and aliens. As for this war, all mercenary teams were forced to maintain neutrality.
+#L_D3_ans30=Seems like not all of them. I have information about a very interesting ship. Not much has left of it, but it's clearly of mercenary origin. Transferring images.
+#L_D3_msg40=Hmm... That's very, very interesting. Please stay on the line, I need to check something.
+#L_D3_ans40=(Dalej)
+#L_D3_msg50=So it seems that the NESF runs the Exchange now, since their commander is in charge.
+#L_D3_ans50=(Dalej)
+#L_D3_msg60=Seems like it. Perhaps, the New Empire is trying to restore what the Old Empire has abandoned: to use mercenaries as effective means of support. A smart move, and completely expected.
+#L_D3_ans60=(Dalej)
+#L_D3_msg70=Are you there? We searched our databases, but found no mention of its equipment, weaponry or registration number. Of course, we don't have information about every mercenary team out there, but I don't think you'll get a better answer to your question anywhere else.
+#L_D3_ans70=That's a pity, we've come a long way.
+#L_D3_msg80=But that's not the first request I get about ships of that kind. That is what you do: try to find Lieutenant Alexandra Sukhova, NESF Special Operations. She was looking for the same information. As far as I know, she's in the Gideon system now. I'll give you an old secret frequency that you may use to contact her.
+#L_D3_ans80=Thanks a lot.
+#L_D3_msg90=Glad to be of help. Now please excuse me. Over and out.
+#L_D3_ans90=Well, Gideon is as good as anything else. It's not far at least.

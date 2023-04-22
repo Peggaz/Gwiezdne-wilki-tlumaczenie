@@ -1,0 +1,13 @@
+;*****************************
+;Dialog9.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Tramp
+#L_D9_msg00=Nice work! Just nice! Thanks to your very professionally conducted operation we know both army size and location or separatists. The pilot is being interrogated now. He seems to know the destination of the previous ships and who was onboard.
+#L_D9_ans00=Glad to be of help, but speaking of our agreement-
+#L_D9_msg10=Sure, sure. My men reported about a tight cluster of vessels of the needed color near the XT-23 system. Those ships are moving in groups of 2-3 teams, avoiding any contact. Besides, we can't identify them with our databases.
+#L_D9_ans10=Those can be pirates.
+#L_D9_msg20=That's a negative. For some reason, pirates try to stay away from the route from XT-05 to XT-93. But those systems are independent. Here's what I've looked up in the old imperial archives. Long before the civil war, the Empire built a military base in XT-24. I couldn't find its coordinates, but found an engineer team report stating that the base was completely functional and equipped with a working reactor. If your enemies needed a hideout, there would be no place better than XT-24. Unfortunately, I cannot risk my men and initiate a thorough checkup of the system.
+#L_D9_ans20=Thank you, admiral. We'll now be on our way, if you don't mind. Our partner needs to be saved. We hope she's still alive.

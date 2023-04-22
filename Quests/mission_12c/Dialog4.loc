@@ -1,0 +1,11 @@
+;*****************************
+;Dialog4.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;VksAce
+#L_D4_msg00=Attention, civilian ships, the system is under martial law. A special pass is required to move around freely.
+#L_D4_ans00=I'm a free trader and I go where I please. Got it?
+#L_D4_msg10=Quite so. General alert, intruders!
+#L_D4_ans10=(Dalej)

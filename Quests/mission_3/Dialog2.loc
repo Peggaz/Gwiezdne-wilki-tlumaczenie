@@ -1,0 +1,11 @@
+;*****************************
+;Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;PirateTough
+#L_D2_msg00=Hmm, this seems like our customer. Hey, huckster, want to live? But you won't! Hahaha!
+#L_D2_ans00=Listen, why don't we negotiate?
+#L_D2_msg10=It's already been done without you. So, I give you 15 seconds - to pray to whoever you believe in. Don't waste time.
+#L_D2_ans10=(Dalej)

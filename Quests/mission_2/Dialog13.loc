@@ -1,0 +1,14 @@
+;*****************************
+;Dialog13.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;PirateTough
+#L_D13_msg00=Dear sir, you know that using this portal is a paid service, don't you?
+#L_D13_ans00=Never heard of that.
+#L_D13_msg10=Sometimes news spread too slow, though it doesn't mean anything. The portal fee is 2,000 credits, our business is on the square.
+#L_D13_ans10=All right, here you go.
+#L_D13_ans11=You must be daydreaming. I'll give you with a fancy funeral instead of money!
+#L_D13_msg20=That's better. Have a safe flight and remember that we have nice discounts for loyal customers!
+#L_D13_ans20=(Dalej)

@@ -1,0 +1,9 @@
+;*****************************
+;Dialog38.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Sedoy
+#L_D38_msg00=Where to now, boss?
+#L_D38_ans00=It would be nice to get some information from the MSF. Why have they attacked a Triada system at all? We're going to New Jerusalem 2.

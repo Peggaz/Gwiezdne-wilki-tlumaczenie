@@ -1,0 +1,13 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Corsair
+#L_D1_msg00=Alexandra! You persuaded the admiral to hear us out!
+#L_D1_ans00=(Dalej)
+#L_D1_msg10=I can't say I have a lot of choices to turn down the invitation.
+#L_D1_ans10=(Dalej)
+#L_D1_msg20=Approach the station, admiral. I'll try to explain.
+#L_D1_ans20=(Dalej)

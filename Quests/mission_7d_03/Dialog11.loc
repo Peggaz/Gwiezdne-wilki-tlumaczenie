@@ -1,0 +1,13 @@
+;*****************************
+;Dialog11.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D11_msg00=Hey, partner, I think I've got a message about your friend. It says he was attacked by pirates.
+#L_D11_ans00=Is Alex alive?
+#L_D11_msg10=I have no idea. The message says that thick skulls picked up a few escape pods and offered to visit the regional MSF headquarters for information. So Alex might as well be alive.
+#L_D11_ans10=I'll send them a request. There's no sense in going there in person. Besides, if Alex is all right, he'll give me a good dressing-down. Let's focus on other matters for now.
+#L_D11_msg20=Fine with me. What should we do?
+#L_D11_ans20=We're invited to the InoCo headquarters, aren't we? It would be unwise to refuse, so let's go to Lidau.

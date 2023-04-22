@@ -1,0 +1,97 @@
+;*****************************
+; mission_8a
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_7b_a=Reach Triada headquarters.
+#L_Quest_7b_b=Triada has to know everything about what happened in Beta Lethera 1. You just have to reach their main headquarters in Candela and find someone who would be willing to share this information.
+#L_Quest_7c_a=Reach the Mercenary Market.
+#L_Quest_7c_b=The debris of a ship, lacking any imperial or corporate labels, most likely belongs to a mercenary team. The Mercenary Market in Cassily has the biggest database on free fighters, but they won't share it remotely.
+#L_Quest_7d_a=Meet with Alex.
+#L_Quest_7d_b=Alex needs help in escorting a convoy, and his client is willing to pay good money. Alex will be waiting in XT-54. There's some free time to spend, but not much.
+#L_Quest_8a_01_a=Meet with Viper.
+#L_Quest_8a_01_b=Viper will await you in Endoria 1.
+#L_Quest_8a_02_a=Pick up the container.
+#L_Quest_8a_02_b=The container Viper has mentioned is in Pandora. You must pick it up.
+#L_Quest_8a_03_a=Eliminate ambushes.
+#L_Quest_8a_03_b=If you don't eliminate pirates near all the stations, they might launch a surprise attack, when it's time to challenge Marco.
+#L_Quest_8a_04_a=Find and kill Marco.
+#L_Quest_8a_04_b=Find and kill Marco. He most likely has the container you need.
+#L_Quest_8a_05_a=Deliver the container to Viper.
+#L_Quest_8a_05_b=Bring the bomb container to Viper in Endoria 1.
+#L_Quest_8a_06_a=Deliver the container to Dionysus.
+#L_Quest_8a_06_b=Deliver the bomb container to the station in Dionysus. Viper promises the bomb has a timer, so station inhabitants will have time to evacuate.
+#L_Quest_8a_07_a=Leave the system.
+#L_Quest_8a_07_b=The mission was a success. Now you'd better leave the system.
+
+;*****************************
+;Speeches
+;*****************************
+#L_Lastochka_01=Partner, they had time to send a distress signal. We'd better leave.
+#L_Hero_01=You're right. I wonder what's going on here.
+#L_Lastochka_02=Oh, nothing unusual. No major player needed the system, so pirates decided to capture it. Most likely, a few clans united to rule the populations with a heavy hand. Partner, what station do we need?
+#L_Hero_02=Sending the coordinates.
+
+#L_Hero_03=We're done here. Might as well visit Marco.
+#L_Marco_01=What are you, frozen? Kill them!
+#L_Lastochka_03=Partner, he's getting away!
+#L_Hero_04=I see! Let's deal with the guards first.
+#L_Lastochka_04=Damn, we've let Marco escape.
+#L_Hero_05=There's only one way for him - to the portal. Let's move.
+#L_alone_01=I'm glad you're alive. You have no idea how much you've helped the system!
+#L_Lastochka_05=We let Marco get away...
+#L_alone_02=So he slipped again. Don't worry, I'll contact other stations so they perform a system-wide scan. Marco's not getting anywhere. Stay put for now.
+#L_alone_03=Well, what did I tell you - we found Marco. He's hiding in a small asteroid field at the edge of the system. Here are the coordinates. Goot hunting!
+#L_Sedoy_01=It's time to pay the bills.
+#L_Marco_02=Hey, I'm warning you! Touch me and you're dead. You have no idea who my patrons are! You will beg me to kill you, you'll long to cut your own throat, got it?! Just touch me!
+#L_Lastochka_06=Jeez, aren't you a drama queen. Ciao!
+#L_Sedoy_02=What the hell! Where's the cargo?
+#L_Hero_06=It seems Marco hasn't had it. Let's get back to the station.
+
+#L_Marco_03=So you're the ones behind all the fuss. Well, I have bad news: you're all going to die. Everyone attack!
+#L_Lastochka_07=Partner, we have a problem!
+
+#L_Lastochka_08=Partner, we have a problem! A reinforcement is approaching the station!
+#L_Marco_04=Cease fire! Everyone cease fire!
+
+#L_Lastochka_09=Partner, we must help.
+
+#L_vks_01=I have clear orders about that. You should really stay away from this portal.
+
+#L_vks_02=Here's the situation report. Though the imperial government agreed with renegades about free passage of ships with civilian cargo, we don't like their kind here. So we'll have to pretend you're forcing your way to Dionysus. Which is very close to real combat.
+#L_Hero_07=I don't get it, how will people in Dionysus get to know if I have passed the portal freely or forced my way in?
+#L_vks_03=They have spies. Enough talking.
+
+#L_Sedoy_10=Boss, we have a problem. The temperature is rising in the mothership cargo bay. It seems our toy is going to explode soon. Somebody has to push it out!
+#L_Lastochka_10=Curses! Partner, are you taking a nap there or something?!
+#L_Sedoy_03=That's it, we're done for. The game is over, as they put it.
+
+#L_Lastochka_11=That was close.
+#L_kfni_01=Attention, civilian ship. Follow the designated coordinates. Disobedience will be considered resistance.
+#L_kfni_02=As soon as the comm channel is up, you will talk to the chief security officer. Don't lie, Corsair can spot it a mile away.
+
+#L_Lastochka_12=Some trouble we're in. What shall we do, partner?
+#L_Hero_08=I don't know. Let's get out of here and then see.
+#L_Sedoy_04=Boss, aren't you forgetting something?
+#L_Hero_09=I don't think I am. Why?
+#L_Sedoy_05=Well, we ditched the bomb. Which means we've failed the mission. I think we'll have a welcoming party waiting for us on the other side.
+#L_Hero_10=Too bad... But we'll manage it. We shouldn't have gotten ourselves involved in these conflicts in the first place. Let's visit Alex. War is war, but friends have to stick together.
+
+#L_Sedoy_06=Boss, we'd better get away or we might get caught in the fireworks.
+#L_station_01=Attention! Emergency evac! Emergency...
+#L_Hero_11=What the... She promised the people would have time to evacuate!
+#L_Lastochka_13=And you believed her?
+#L_Hero_12=Couldn't you tell me?!
+#L_Lastochka_14=What's the use? I told you we shouldn't have contacted the MSF in the first place!
+#L_Sedoy_07=This is not the right moment for family quarrels. You'll have time to scratch each other's eyes out later. Right now we have to scram! And fast!
+#L_kfni_03=Calling all patrols. Stop the transport with civilian license plates. If resisted, fire for effect!
+
+#L_Sedoy_08=Boss, I hate to say it, but-
+#L_Hero_13=Greyhair.
+#L_Sedoy_09=Yes?
+#L_Hero_14=If you hate to say it, then don't say it. Without any but's. Let's get out of this system.

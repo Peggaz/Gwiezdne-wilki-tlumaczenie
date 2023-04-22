@@ -1,0 +1,13 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D1_msg00=Partner, I've been pondering on our choices, and you know, I don't recommend you to deal with Triada.
+#L_D1_ans00=(Dalej)
+#L_D1_msg10=Are there any personal reasons?
+#L_D1_ans10=(Dalej)
+#L_D1_msg20=Just common sense. Everyone says Triada cooperates with pirates, but it's not so. People at Triada just use them - as they use other people from outside the corporation. We're all expendable material that lets corporators achieve their goals. Information we're here for, it's just for insiders. The bottom line is quite simple: they'll offer us a dubious venture in exchange for the data, and then will throw us away. Either that or the information will actually worth the effort.
+#L_D1_ans20=Ternie, did you really have to wait till we get here to say this? We're already here and it will be stupid just to fly away. Anyway, we'll see how it turns out.

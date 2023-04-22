@@ -1,0 +1,45 @@
+;*****************************
+; mission_16e
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_16e_01a=Head for the station.
+#L_Quest_16e_01b=Reach SAM's mainframe to unload the neurochips.
+#L_Quest_16e_02a=Get back to the station.
+#L_Quest_16e_02b=Get back to the station to load additional equipment necessary for the operation and replenish ammo.
+#L_Quest_16e_03a=Destroy the NESF HQ.
+#L_Quest_16e_03b=Your primary goal is to destroy the NESF headquarters. Destroying communication or hyperspace jammers or portal guards will allow you to call for backup.
+
+;*****************************
+;Speeches
+;*****************************
+#L_Hero_01=Heh, it was right - they don't fire back.
+#L_Yana_01=Why did you do that? SAM said we would need them.
+
+#L_Yana_02=Whoa! If only I could shoot like this before! I would pass my entrance exams for corporation security service.
+#L_Hero_02=Why, did you dream of serving in InoCo Security?
+#L_Yana_03=Not quite. But their uniform is so nice!
+
+#L_sys_01=Your team is full.
+
+#L_Uel_01=Initiating hyper jump. Get ready.
+
+#L_Uel_02=Activating wide-range scanner.
+#L_Uel_03=Communication jammer detected.
+#L_Uel_04=Hyperspace jammer detected.
+#L_Uel_05=Automatic security systems detected.
+#L_Uel_06=Several large vessels detected.
+#L_Uel_07=Significant enemy forces detected by the portal. The intersystem portal is deactivated.
+#L_Uel_08=Marking detected objects on the map. Outputting results to screen.
+
+#L_Hero_03=Yes! Buoys destroyed. SAM, call for backup!
+#L_Uel_09=Affirmative. Signal sent, backup on the way.
+
+#L_Hero_04=SAM, you said you could call for backup from here. Do it!
+
+#L_Uel_10=Mission accomplished. Nothing prevents us from creating the perfect society now.

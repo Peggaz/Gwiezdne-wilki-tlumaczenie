@@ -1,0 +1,11 @@
+;*****************************
+;Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D2_msg00=This is bad, partner. I intercepted MSF radio conversations only to find out we're wanted. All patrols have been alerted in systems they are expecting us to be.
+#L_D2_ans00=I can't say it's a surprise, but... Damn! We can't visit the station, they'll detect us at once.
+#L_D2_msg10=Attention, ships, disable your engines and guns, heave aback and prepare to surrender! We'll open fire without a second warning!
+#L_D2_ans10=(Dalej)

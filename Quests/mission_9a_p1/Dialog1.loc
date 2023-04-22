@@ -1,0 +1,31 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m9a_Voronov
+#L_D1_msg00=And what are you doing here?
+#L_D1_ans00=Nothing special, officer, just minding our own business. Will probably find some work along the way, if we're lucky.
+#L_D1_msg10=You should ask for a job at the station. But if I were you, I'd get away from this system. It's going to be very hot here soon.
+#L_D1_ans10=(Dalej)
+#L_D1_msg20=Oh, we saw that.
+#L_D1_ans20=(Dalej)
+#L_D1_msg30=Nah, that was but a skirmish. Some guys had too much adrenaline and too little brains to control it. I'm talking about a real massacre that will happen here soon. And I'm afraid we're not on the winning side. So heed my advice and get away while you're in one piece.
+#L_D1_ans30=Why are you being so nice to us all of a sudden?
+#L_D1_msg40=You know, neither me nor my boys will survive a local Armageddon, and I'd like to leave fond memories of myself. Anyway, I warned you, so it's your call. Over and out.
+#L_D1_ans40=(Dalej)
+#L_D1_msg50=Per aspera ad astra. Boss, what are we going to do?
+#L_D1_ans50=Let's visit the station. We'll get the news and probably help in some way.
+#L_D1_ans51=Let locals deal with their local problems.
+#L_D1_msg60=Help?! Jeez, partner, that came unexpected. Why, sure, let's help. But I'm not going to heroically oppose a whole enemy fleet. I'm not that kind of girl.
+#L_D1_ans60=I don't need any suicidal missions myself. But sometimes small favors are rewarded quite handsomely.
+#L_D1_msg61=I couldn't agree more, but what about our destination? I suggest we visit Solncevka and find Aylon's friend first.
+#L_D1_ans61=(Dalej)
+#L_D1_msg71=Nah, it's a long way round. Besides, that system is not a pleasant one.
+#L_D1_ans71=(Dalej)
+#L_D1_msg81=The system? But we just need one man, and I doubt he's a scoundrel. Aylon despises their type.
+#L_D1_ans81=All right, Ternie, I give up. Let's find that Aylon's friend and see what we can do.
+#L_D1_ans82=First, let's deal with the mission, then see about Aylon's friend.
+#L_D1_msg92=Then we're going to New Donbass. Just one piece of advice, boss. People there are real hotheads, so mind what you're saying.
+#L_D1_ans92=I know, don't worry. Let's go.

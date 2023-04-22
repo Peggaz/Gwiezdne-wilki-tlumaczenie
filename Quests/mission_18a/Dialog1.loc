@@ -1,0 +1,21 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Viper
+#L_D1_msg00=Here it is, the capital of our Empire!
+#L_D1_ans00=(Dalej)
+#L_D1_msg10=I thought Earth was bigger. This is just a petty marble.
+#L_D1_ans10=(Dalej)
+#L_D1_msg20=But it's population is comparable to the population of all Outer Worlds together.
+#L_D1_ans20=(Dalej)
+#L_D1_msg30=Are they sitting on each other's heads or what?
+#L_D1_ans30=(Dalej)
+#L_D1_msg40=We're not here to see the sights, so let's find that out later. Right now our task is to warn His Majesty about traitors! So quit staring around, check the guns.
+#L_D1_ans40=(Dalej)
+#L_D1_msg50=Oh, I did that. There are so many guns here that we'll be reduced to dust in a second, if anything goes wrong.
+#L_D1_ans50=(Dalej)
+#L_D1_msg60=Then so be it. But if there are traitors in emperor's retinue, we must protect His Majesty at any cost. Now stop talking and head for the defensive perimeter.
+#L_D1_ans60=(Dalej)

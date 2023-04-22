@@ -1,0 +1,17 @@
+;*****************************
+;Dialog43.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Corsair
+#L_D43_msg00=Well, well, well. I wonder since when have FTU traders started to demolish stations?
+#L_D43_ans00=Actualy we're here because we haven't demolished anything.
+#L_D43_msg10=True enough. Why did you tell the patrol you were carrying a bomb?
+#L_D43_ans10=Because the MSF forced us into doing it. And because they tried too hard to give us baloney. I'm not a cold-blooded killer.
+#L_D43_msg20=Who gave you this task?
+#L_D43_ans20=Major Viper.
+#L_D43_msg30=Whoa! So she's decided to play dirty tricks on us! This explains everything. Viper has a degree in using dolts not smart enough to stay away from certain trouble.
+#L_D43_ans30=This sounds offensive, considering that I've actually saved this station.
+#L_D43_msg40=I don't give a damn! You deserve it! But you're kind of right, the station and staff are safe thanks to your confession. Well, I won't detain you, but heed my advice and try to leave this system as soon as possible. You and your friends are not welcome here. Corsair out.
+#L_D43_ans40=But I just... Aw, dammit, he hanged up.

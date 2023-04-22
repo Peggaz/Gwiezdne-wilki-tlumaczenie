@@ -1,0 +1,15 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#L_Nav_01=Portal do Asheron
+#L_Nav_02=Portal do Nowego Jerusalem
+#L_Nav_03=Portal Obcych
+#L_Nav_04=Specjalny obszar wyszukiwania
+#L_Nav_05=Oficer MSF
+#L_Nav_08=Konwoj InoCo
+#L_Nav_07=Baza wojskowa InoCo
+#L_Nav_06=Zniszczona stacja InoCo
+#L_trade=Stacja Handlowa "Hapha"

@@ -1,0 +1,13 @@
+;*****************************
+;Dialog22.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;USSOfficer
+#L_D22_msg00=Calling the trader. We managed to find the black boxes and read the data.
+#L_D22_ans00=We haven't picked anything up.
+#L_D22_msg10=Our equipment has some additional features. Anyway, I'd like to apologize for having doubts about your words. But I'd like to point out your pilots hadn't dealt with our men. According to the black boxes, our ships were just captured, their passcodes hacked. Unfortunately, our men are most likely dead... May those brave soldiers have a grand corporate party in the afterlife.
+#L_D22_ans10=I guess there's no sense in asking about the nature of cargo, because of which pirates had risked such a dangerous attack, is there?
+#L_D22_msg20=I'm afraid so. But we still have unfinished business: to find out where the pirates wanted to hide the loot. I have to insist on your rendering this service. Our team is too noticeable, while your ship won't draw pirates' suspicion.
+#L_D22_ans20=(Dalej)

@@ -1,0 +1,30 @@
+;*****************************
+;Dialog3.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D3_msg00=Hey! Anyone there? We're looking for Joseph.
+#L_D3_ans00=(Dalej)
+#L_D3_msg10=I'm Joseph. What do you need?
+#L_D3_ans10=Zurab sends his regards.
+#L_D3_msg20=Send him mine. Anything else?
+#L_D3_ans20=We need someone to guide us through this sector. Zurab has said you know it in-and-out.
+#L_D3_msg30=Well, I do. But I've retired. You may leave now.
+#L_D3_ans30=Wait, we'll pay.
+#L_D3_msg40=So what? What should I spend the money on? Look around, there's no one here. That's because I've chosen a quiet place to live. Get it?
+#L_D3_ans40=(Dalej)
+#L_D3_msg50=Heh, don't ride before you harness.
+#L_D3_ans50=(Dalej)
+#L_D3_msg60=I don't ride mules, wisecracker. So leave your harness to yourself.
+#L_D3_ans60=All right, time out. Listen, Joseph, we need a competent man who knows these systems.
+#L_D3_msg70=By Great Space, why? There's nothing interesting here, just those tins have started to arrive recently. Are you Berserk hunters?
+#L_D3_ans70=We're not looking for Berserks, we're looking for a Precursor portal.
+#L_D3_ans71=What does it matter? Whatever we are, we need a guide. I'm willing to pay handsomely.
+#L_D3_msg80=Heh, it's been long since I heard this - from Jacob. Why do you need the portal? It doesn't work anyway.
+#L_D3_ans80=A friend of mine says he can fix it.
+#L_D3_msg90=Then it's a deal! Why haven't you said so before? Just give me a second to warm up my clunker.
+#L_D3_ans90=(Dalej)
+#L_D3_msg81=Then pay someone else. I'm retired and that's it.
+#L_D3_ans81=(Dalej)

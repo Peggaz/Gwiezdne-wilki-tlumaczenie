@@ -1,0 +1,13 @@
+;*****************************
+;Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;USSOperative
+#L_D2_msg00=On behalf of our corporation allow me to thank you for effective cargo protection. I hope your flight was untroubled.
+#L_D2_ans00=I wouldn't say so. Your own agent tried to steal the cargo.
+#L_D2_msg10=Do you have him?
+#L_D2_ans10=Unfortunately, he managed to escape.
+#L_D2_msg20=That's quite a pity. Our security service would like to ask him a few questions. But we're glad you've protected the cargo. Here are the 100,000 credits, as we've agreed. Now please excuse me, I have other business to attend to. Thanks again, over and out.
+#L_D2_ans20=(Dalej)

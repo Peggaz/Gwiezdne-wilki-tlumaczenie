@@ -1,0 +1,15 @@
+;*****************************
+;Dialog22.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Alexandra
+#L_D22_msg00=Oh, curses. Ships!
+#L_D22_ans00=(Dalej)
+#L_D22_msg10=Lieutenant, I may be on the losing side, but I'm not a fool. When a group of cloaked ships arrives to a protected system, it means they are here to recon. And scouts are usually followed by strike teams.
+#L_D22_ans10=(Dalej)
+#L_D22_msg20=It's just-
+#L_D22_ans20=(Dalej)
+#L_D22_msg30=It's just that you've hoped to get new cruisers for your fleet, haven't you? If imperial authorities sign a mutually beneficial peace treaty, your fleet will have a working prototype of such a cruiser. But to let the NESF have it now would mean to threaten the lives of my subordinates. But let's not waste time on chitchat, I have already ordered the station to throw our ships to Eridan. We don't want to keep everyone waiting, do we?
+#L_D22_ans30=(Dalej)

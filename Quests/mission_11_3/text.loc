@@ -1,0 +1,19 @@
+;*****************************
+; mission_11_3
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_11_1_06a=Escort Phantom.
+#L_Quest_11_1_06b=Take Phantom to inhabited systems.
+#L_Quest_11_2_06a=Escort Heretic.
+#L_Quest_11_2_06b=Take Heretic to inhabited systems.
+
+;*****************************
+;Speeches
+;*****************************
+#L_sys_01=This game is obviously not for you. Try playing Doom, Quake or Lineage. You might like them better.

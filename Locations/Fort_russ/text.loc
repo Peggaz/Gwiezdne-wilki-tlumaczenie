@@ -1,0 +1,10 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#L_trade=Stacja Handlowa "Russ"
+#L_war=Baza wojskowa MSF
+#L_patrol=Stacja patrolu MSF
+#L_garb_pat=Zniszczona stacja Patrolu

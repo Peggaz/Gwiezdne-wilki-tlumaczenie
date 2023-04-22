@@ -1,0 +1,13 @@
+;*****************************
+;Dialog10.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m3_Recruit
+#L_D10_msg00=We're Dashing Riders, the best mercenary team of this sector. Welcome. What do you need? Armed escort, fire support?
+#L_D10_ans00=I need help in a delicate anti-pirate mission. Here's the deal: I set myself out as bait and we whack those who becomes interested. And they will, believe me. Then we head for the pirates' mothership and kill the rest. My ally will be waiting onboard the mothership.
+#L_D10_msg10=This is sure risky. Eliminating a pirate clan, huh? Well, it's a good idea. Ok, we shall help you, but that'll cost 10,000 credits.
+#L_D10_ans10=This is stiff... But it's a deal!
+#L_D10_msg20=Great. Give us some time to equip the ships and we'll be good to go.
+#L_D10_ans20=All right, let's meet at the designated spot, I'll send you the coordinates.

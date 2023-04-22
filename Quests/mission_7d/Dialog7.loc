@@ -1,0 +1,13 @@
+;*****************************
+;Dialog7.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D7_msg00=Some practice that was! Where did they come from? I had nothing on the scanner.
+#L_D7_ans00=(Dalej)
+#L_D7_msg10=Yeah, their cloaking is pretty nice.
+#L_D7_ans10=(Dalej)
+#L_D7_msg20=I bet they've got it from Triada. What if the corporation is actually behind this attack?
+#L_D7_ans20=Only time will tell. Alex has already left with the convoy, so I believe we need to move on too. This place is clear, now we need to check the portal out.

@@ -1,0 +1,29 @@
+;*****************************
+;Dialog9.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m12_Samir
+#L_D9_msg00=Alexandra! Finally! We've nearly lost all hope.
+#L_D9_ans00=(Dalej)
+#L_D9_msg10=Is it that bad?
+#L_D9_ans10=(Dalej)
+#L_D9_msg20=Even worse. We repelled a few MSF attacks, but I suspect those were just recon in force. We have heavy casualties and a third of the fleet is lost. Thick skulls have been keeping quiet recently, I'm afraid they may attack any minute.
+#L_D9_ans20=(Dalej)
+#L_D9_msg30=Sorry to hear this. But you know the situation, we can't offer you any military assistance.
+#L_D9_ans30=(Dalej)
+#L_D9_msg40=Corsair told me everything. But no military assistance is needed, we can protect the system for the time being. Just evacuate our women and children.
+#L_D9_ans40=(Dalej)
+#L_D9_msg50=What ships do we have to protect, amigos?
+#L_D9_ans50=(Dalej)
+#L_D9_msg60=Two Tern civilian vessels.
+#L_D9_ans60=(Dalej)
+#L_D9_msg70=Tern vessels?! Those are junk. The speed is fine, I admit, but the defense is meager.
+#L_D9_ans70=(Dalej)
+#L_D9_msg80=If only we had better ships, we could transport people on those. But alas... The ships will await you at the designated coordinates. Good luck!
+#L_D9_ans80=(Dalej)
+#L_D9_msg90=Samir, wait. What about the remaining people?
+#L_D9_ans90=(Dalej)
+#L_D9_msg100=Oh, the MSF is not going to capture this system that easily. We still got a few surprises. The key is to lure them away from the portal, which we cannot do while our families are at the stations. It will be all right, Alexandra, we'll talk later. Now please excuse me, I need to see how the evacuation is going on.
+#L_D9_ans100=(Dalej)

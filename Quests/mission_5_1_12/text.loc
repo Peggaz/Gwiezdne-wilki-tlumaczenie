@@ -1,0 +1,15 @@
+;*****************************
+; mission_5_1_12
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+
+;*****************************
+;Speeches
+;*****************************
+#L_uss_01=I suspected you would try to cheat us. Pity, but I have to activate container self-destruct procedure. Pity about the cargo, of course, not about you. I would detonate you three times in a row, if I had a chance.

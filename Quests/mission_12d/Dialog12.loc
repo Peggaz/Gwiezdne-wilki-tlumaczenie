@@ -1,0 +1,33 @@
+;*****************************
+;Dialog12.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Cleric
+#L_D12_msg00=Leave me alone! What do you want from me?! I know nothing! Nothing!
+#L_D12_ans00=(Dalej)
+#L_D12_msg10=Shut up! You've managed to anger me as well. I don't like such methods, but right now I want to keeping thrashing you until your memory clears up and you tell us what my friends want to know. You got it?
+#L_D12_ans10=(Dalej)
+#L_D12_msg20=Wait! Don't touch me, I'll tell you everything! The ships you asked about left to XT-24. I can show you the logs.
+#L_D12_ans20=(Dalej)
+#L_D12_msg30=That wasn't too hard, was it? What are we going to do with the guy?
+#L_D12_ans30=Let's drop him off at the nearest station. He has told us everything. If we take him along, he might play another trick on us.
+#L_D12_msg40=No, don't do that! I'll be killed right away! I have lots of enemies. If you hand me over to law enforcers, my friends will take revenge!
+#L_D12_ans40=(Dalej)
+#L_D12_msg50=What friends? The ones that consider you a thing? No, Cleric, I've already helped you a lot. Decent people show at least some gratitude in response to that, but you managed to wipe the floor with my trust. Fine. You're on your own now.
+#L_D12_ans50=(Dalej)
+#L_D12_msg60=Wait. I admit I got you into trouble at times, but what was I to do?! You've got a whole gang and I'm alone! I have to be a step forward to protect myself.
+#L_D12_ans60=(Dalej)
+#L_D12_msg70=Alone? It's ridiculous. Astra, Corsair, Ace, Phantom - they all were your friends. But you queered their pitch for some reason. Why should I trust you now? Sorry, but I can't and don't want to waste my time on you. If you can't understand anything, no words of mine will help. Go on being a lone freedom fighter and unacknowledged genius, but don't think that anyone will help. I guess it's time to disconnect the pod.
+#L_D12_ans70=(Dalej)
+#L_D12_msg80=No sooner said than done. Well, boss, should we go straight to XT-24 now? Does anyone know what system that is and what should we expect?
+#L_D12_ans80=(Dalej)
+#L_D12_msg90=Trouble. Or, if my suspicions are at least 20 per cent true, big trouble.
+#L_D12_ans90=Want to share your suspicions with us?
+#L_D12_msg100=I do, but not now. For the time being, remember this: the enemy we'll have to fight is very organized and well-armed. There was an MSF military base in XT-24 once. It was abandoned before the war. They dismantled the equipment, but making it habitable again wouldn't be a problem.
+#L_D12_ans100=Any guards?
+#L_D12_msg110=I'd bet for a few teams of the newest fighters and a few teams of missile carriers. There may be other suprises as well. The only good news is that the dense gas-and-dust cloud makes the system really hard to navigate, while static discharges jam long-range communication almost completely.
+#L_D12_ans110=(Dalej)
+#L_D12_msg120=We'll need help. And guns, lots of guns... And missiles. Hell, we'll need a freaking load of weaponry.
+#L_D12_ans120=Then we'll buy everything we need. But I swear I'll crush those grey bastards into fine dust, if they lift a finger against Ternie!

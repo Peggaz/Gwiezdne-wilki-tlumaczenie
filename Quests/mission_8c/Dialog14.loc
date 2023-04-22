@@ -1,0 +1,9 @@
+;*****************************
+;Dialog14.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D14_msg00=What's our plan?
+#L_D14_ans00=Alex sent me a message. He says that he has found someone who knows about the missing convoys. So we're going to Aurora.

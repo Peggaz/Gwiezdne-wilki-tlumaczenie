@@ -1,0 +1,15 @@
+;*****************************
+;Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D2_msg00=Hey, partner, I think I've got a message about your friend. It says he was attacked by pirates.
+#L_D2_ans00=Is Alex alive?
+#L_D2_msg10=I have no idea. The message says that thick skulls picked up a few escape pods and offered to visit the regional MSF headquarters for information. So Alex might as well be alive.
+#L_D2_ans10=I'll send them a request. There's no sense in going there in person. Besides, if Alex is all right, he'll give me a good dressing-down. Let's focus on other matters for now.
+#L_D2_msg20=Fine with me. What should we do?
+#L_D2_ans20=It would be nice to get some information from the MSF. Why have they attacked a Triada system at all? We're going to New Jerusalem 2.
+#L_D2_ans21=We're invited to the InoCo headquarters, aren't we? It would be unwise to refuse, so let's go to Lidau.
+#L_D2_ans22=Right now I'm concerned with the debris of that grey fighter we've found. It would be reasonable to find something out at the Mercenary Market in Cassily.

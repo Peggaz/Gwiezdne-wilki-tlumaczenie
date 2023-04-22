@@ -1,0 +1,19 @@
+;*****************************
+;Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Kalem
+#L_D2_msg00=I hate to remind you, but what about the portal?
+#L_D2_ans00=(Dalej)
+#L_D2_msg10=SAM seized control over our transportation system.
+#L_D2_ans10=(Dalej)
+#L_D2_msg20=You're a hacker, hack it!
+#L_D2_ans20=(Dalej)
+#L_D2_msg30=They are using very strong encryption alrorithms, which I cannot hack. Hmm, they seem familiar... Damn, it's my software!
+#L_D2_ans30=(Dalej)
+#L_D2_msg40=You'll get it patented later. Right now you must get us reinforcements! Or plug that metal fountain from the universe's junkyard! In other words, either fix the portal or enable the jammers. Or you won't have time to become the CEO of your Megasoft or whatnot.
+#L_D2_ans40=(Dalej)
+#L_D2_msg50=I'm on it already!
+#L_D2_ans50=(Dalej)

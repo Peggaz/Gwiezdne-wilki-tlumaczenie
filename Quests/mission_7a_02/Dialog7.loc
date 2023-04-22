@@ -1,0 +1,10 @@
+;*****************************
+;Dialog7.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D7_msg00=Where to now, partner?
+#L_D7_ans00=We had no luck with the MSF, so let's try Triada. We need to get to Candela.
+#L_D7_ans01=Well, we sure got nothing from the MSF. I think we need to find out about the debris we've stumbled upon. Let's head for the Mercenary Market in Cassily.

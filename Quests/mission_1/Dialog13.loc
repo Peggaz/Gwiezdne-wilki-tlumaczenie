@@ -1,0 +1,16 @@
+;*****************************
+;Dialog13.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;PirateTough
+#L_D13_msg00=Hey, what's the rush?
+#L_D13_ans00=Listen, you're picking on a wrong guy. I'm on a mission for Triada.
+#L_D13_msg10=So you're with a pull, eh? Anyway, you're in my part of space and I don't give a damn whose mission you're on. So cough up 500 credits or we'll punch additional holes in your body.
+#L_D13_ans10=Who are you to freaking tell me about parts of space, dolt?
+#L_D13_ans12=But I have no such money! Listen, there's some Triada cargo nearby and I'm to pick it up. I could use more protection and we could share the reward.
+#L_D13_msg22=A reward sounds nice. All right, we pick up the cargo, you get 20%, I get the rest.
+#L_D13_ans22=Just 20 percent?! Why?
+#L_D13_msg32=I have guns, you don't.
+#L_D13_ans32=(Dalej)

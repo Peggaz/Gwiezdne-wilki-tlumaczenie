@@ -1,0 +1,11 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;VksAce
+#L_D1_msg00=Attention, civilian ships, this system is under martial law. A special pass is required for free navigation.
+#L_D1_ans00=Transmitting confirmation codes from MSF security. We'd like to meet with Admiral Trump.
+#L_D1_msg10=Codes accepted. Follow us, please.
+#L_D1_ans10=(Dalej)

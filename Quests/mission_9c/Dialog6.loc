@@ -1,0 +1,21 @@
+;*****************************
+;Dialog6.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m9c_Kruger
+#L_D6_msg00=James, you there?
+#L_D6_ans00=(Dalej)
+#L_D6_msg10=I am. It's under control.
+#L_D6_ans10=(Dalej)
+#L_D6_msg20=It should be, you wouldn't contact me otherwise. Have the ships left?
+#L_D6_ans20=(Dalej)
+#L_D6_msg30=Yes. They'll reach the station soon. The detonators are connected to the weighing cell.
+#L_D6_ans30=(Dalej)
+#L_D6_msg40=Fine, fine. Then I'm sending out mop-up teams. Remember, leave no man alive.
+#L_D6_ans40=Hey, what detonators? What mop-up teams?! You promised to spare everybody.
+#L_D6_msg50=Oh hi, boss. Welcome to the reality.
+#L_D6_ans50=(Dalej)
+#L_D6_msg60=La'Vertius, you dunce, why the hell are they still alive? I told you there should be no witnesses. Get those fliers, men.
+#L_D6_ans60=(Dalej)

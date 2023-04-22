@@ -1,0 +1,11 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D1_msg00=It seems Matt didn't make it. I've detected a few cargo containers.
+#L_D1_ans00=Anything worthy?
+#L_D1_msg10=Nah, some junk. Somebody has already combed the place. Attention, partner, there's an escape pod. The life signal is very weak.
+#L_D1_ans10=Let's pick it up and get back to the Grid Station.

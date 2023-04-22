@@ -1,0 +1,20 @@
+;*****************************
+;Dialog3.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;KfniAce
+#L_D3_msg00=Attention, ships, stop immediately!
+#L_D3_ans00=(Dalej)
+#L_D3_msg10=Why so threatening, soldier? We're legit. We were just delivering a cargo and happened to be in the wrong place at the wrong time.
+#L_D3_ans10=(Dalej)
+#L_D3_msg20=What's the cargo?
+#L_D3_ans20=Ion deflectors. You've scanned it already, haven't you?
+#L_D3_msg30=I'm asking the questions here. Given the strategic nature of the cargo, it is to be commandeered. You will be compensated in full. Please proceed to the station. And don't try to resist.
+#L_D3_ans30=All right, we don't need any trouble and will head for the station.
+#L_D3_ans31=Sorry, pal, but the cargo is not yours. You can't just take it, it's called piracy.
+#L_D3_msg40=I can see you don't need my help anymore. I should return to the casino and look at their faces - as long as a fiddle, haha. As for you, kind people, don't ever try to contact me. So long.
+#L_D3_ans40=(Dalej)
+#L_D3_msg41=This is called military necessity. Well, I tried doing it the peaceful way, but alas.
+#L_D3_ans41=(Dalej)

@@ -1,0 +1,11 @@
+;*****************************
+;Dialog10.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D10_msg00=Let's wait for Alex here.
+#L_D10_ans00=(Dalej)
+#L_D10_msg10=I'd move forward a bit more.
+#L_D10_ans10=Leaving the convoy unprotected is dangerous.

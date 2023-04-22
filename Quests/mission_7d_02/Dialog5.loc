@@ -1,0 +1,16 @@
+;*****************************
+;Dialog5.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D5_msg00=Partner, I've got a message from your friend.
+#L_D5_ans00=(Dalej)
+#L_D5_msg10=Listen, if you didn't need this job, you could just tell me. But running away like this, hoping you wouldn't be noticed... It's not serious. But I took your hint, thanks. I'll manage on my own. Bye.
+#L_D5_ans10=(Dalej)
+#L_D5_msg20=Seems like we flushed the contract down the drain. Sorry for saying this, boss.
+#L_D5_ans20=Well, it's not the first and won't be the last. Let's move on.
+#L_D5_msg30=Where to, partner?
+#L_D5_ans30=It would be nice to get some information from the MSF. Why have they attacked a Triada system at all? We're going to New Jerusalem 2.
+#L_D5_ans31=We're invited to the InoCo headquarters, aren't we? It would be unwise to refuse, so let's go to Lidau.

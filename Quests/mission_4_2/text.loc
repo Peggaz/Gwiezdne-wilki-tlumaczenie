@@ -1,0 +1,37 @@
+;*****************************
+; mission_4_2
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_4_01a=Follow the waypoints.
+#L_Quest_4_01b=Follow the designated route, posing as a self-assured trader ready to challenge any local pirates.
+#L_Quest_4_02a=Leave the system.
+#L_Quest_4_02b=The mission has been completed. Leave Achilles.
+#L_Quest_4_03a=Meet with the pirates.
+#L_Quest_4_03b=The Wild Cats pirates are not the best choice for the job, but it's the only choice you have. Meet with them and elaborate a plan of action.
+
+;*****************************
+;Speeches
+;*****************************
+
+#L_WildCat_01=I'll give you the coordinates, you will have to visit them all. Let those stupid dogs think you're following a route. A couple of our boys will pose as your escort, the rest will follow behind to remain unseen. And remember, huckster, don't try to avoid the fight - we're not doing all the work for you.
+
+#L_Dogs_01=There's the huckster! Spare no one!
+#L_WildCat_02=Surprise, surprise, mangy beasts!
+#L_Hero_01=We need to hurry, my friend can't defend the base all alone.
+
+#L_Lastochka_01=What took you so long? They nearly blasted the door!
+#L_Hero_02=We did our best.
+#L_Lastochka_02=Hurry up. I unblocked the docking bay.
+
+#L_WildCat_03=Not so fast, baby. This is Wild Cats leader speaking. We killed your palookas, the same will happen to you in case of any resistance. If you behave, I might even let you into the team.
+#L_Hero_03=Hey! We had a deal!
+#L_WildCat_04=Then we have another deal now. Don't litter the channel or I'll cut your head off.
+#L_Lastochka_03=I've expected something like that and prepared. We got some cloaked mines from an InoCo transport a while ago. They've been all laid around the ship. And activated. Ciao, bambini...
+
+#L_merc_01=Why aren't you keeping to the terms of the contract, mister? You're upsetting people...

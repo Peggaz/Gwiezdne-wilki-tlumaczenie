@@ -1,0 +1,11 @@
+;*****************************
+;Dialog7.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D7_msg00=Perhaps, we should have agreed, partner. We've spent so much time in search of that cursed cargo. It's such a pity.
+#L_D7_ans00=Too much obscurity and too many secrets on InoCo's part.
+#L_D7_msg10=I agree, boss. I don't like taking leaps in the dark, too. What now?
+#L_D7_ans10=Ternie, you're right. Let's pause on the investigation for the time being and try to make some credits. We should visit my friend Alex in XT-54, I think he has a job for us.

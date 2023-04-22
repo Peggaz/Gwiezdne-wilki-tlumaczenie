@@ -1,0 +1,11 @@
+;*****************************
+;Dialog5.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D5_msg00=What's our plan?
+#L_D5_ans00=Let's try to get some information from the MSF. Let's head for New Jerusalem 2.
+#L_D5_ans01=I'm sure Triada is bound to have the information we need. We're going to Candela.
+#L_D5_ans02=My friend asked me for help with escorting a convoy. Let's visit him in XT-54 and make some cash.

@@ -1,0 +1,41 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D1_msg00=Hey, station, we need to talk to Tito.
+#L_D1_ans00=(Dalej)
+#L_D1_msg10=I'm Tito. Who's asking?
+#L_D1_ans10=(Dalej)
+#L_D1_msg20=You are in debt, pal.
+#L_D1_ans20=(Dalej)
+#L_D1_msg30=Not to you, kiddo, I'm not, so get lost.
+#L_D1_ans30=Wait, Alex sent us. Here's the ID.
+#L_D1_msg40=Why didn't you say so instead of complaining before I could say knife?
+#L_D1_ans40=Sorry, man, I didn't mean it. So what about that debt?
+#L_D1_msg50=You see, there's a little problem. I'm low on cash right now. The whole business went downhill because of the darned war. At the same time, creditors woke up ready to chew up anyone. But! I've been indebted to Alex for a long time and my conscience is bothering me. So instead of money I can offer you either an ASCL gun or a furnished Tiger. These cost more than I owe him. What do you say?
+#L_D1_ans50=Tiger sounds good. We could use a fighter.
+#L_D1_ans51=Well, I counted on money, as we're a bit down the wire too. But a gun is fine too.
+#L_D1_ans52=No, pal, I'm not interested in barter. Settle this up with Alex yourself. But I'll tell him you tried to shake off the debt.
+#L_D1_msg60=Deal. Unfortunately, I don't have any hardware now, except for an old transport. But a debt is a matter of honor. Good luck, guys. Give my regards to Alex.
+#L_D1_ans60=(Dalej)
+#L_D1_msg70=You made a bad bargain, partner. You should've let me negotiate, I would wring something better from him than this piece of junk!
+#L_D1_ans70=Hey, don't say that, it's a good fighter. Besides, if Alex doesn't like it, he can deal with his debtors himself. All right, let's head for Charon.
+#L_D1_msg61=Great. I'll load that piece into your cargo bay. As for money, there's that mission to deliver mining equipment to Debris 1. They've been expecting it for a long time, but all they can pay is 15,000 credits. Not much, I agree, but better than nothing.
+#L_D1_ans61=Oh, that's another pair of shoes, thanks! Nevermind the small reward - many a little makes a mickle.
+#L_D1_ans63=Thanks for the offer, but such missions are more hassle than they are worth.
+#L_D1_msg71=Thanks for understanding. I've loaded the equipment and sent you a message with mission details. Give my regards to Alex. Tito out.
+#L_D1_ans71=(Dalej)
+#L_D1_msg81=Now I get it. We've established a society of altruists. Should we advertise ourselves? Like, "A team of experienced unmercenaries will deliver goods for free. In case of extreme need we shall pay you".
+#L_D1_ans81=(Dalej)
+#L_D1_msg91=Aw, come on, it's along the way. Besides, you Ternie will be the first to complain, if we're on the rocks.
+#L_D1_ans91=Exactly. So let's focus on flying.
+#L_D1_msg62=Thanks for helping me out, pal, I haven't expected it. As for money, there's that mission to deliver mining equipment to Debris 1. They've been expecting it for a long time, but all they can pay is 15,000 credits. Not much, I agree, but better than nothing.
+#L_D1_ans62=Oh, that's another pair of shoes, thanks! Nevermind the small reward - many a little makes a mickle.
+#L_D1_ans64=Thanks for the offer, but such missions are more hassle than they are worth.
+#L_D1_msg72=It's up to you to decide. But thanks again for understanding. Give my regards to Alex. Tito out.
+#L_D1_ans72=(Dalej)
+#L_D1_msg82=Boss, we should've accepted the mission. It was an easy one.
+#L_D1_ans82=Greyhair, how many easy missions can you remember? Besides, I've noticed a pattern: the lower the reward the more troublesome the mission. So I suggest we focus on flying for the time being.

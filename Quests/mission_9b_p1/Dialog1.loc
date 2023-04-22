@@ -1,0 +1,13 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m7b_8b_Roem
+#L_D1_msg00=It's good you're still here.
+#L_D1_ans00=Roghem, if your new job is the same as the old one, don't bother.
+#L_D1_msg10=Ah, you're still angry. This time the customer is not Triada. One of our high-ranking friends from USS has a problem, solving which requires a third party. Funny thing, when I told him about you, he demanded that you should be chosen for the mission. Tell me, does the name Ethan Fry, USS CIO, ring a bell?
+#L_D1_ans10=Ethan and I go back a long way. We studied at the trade academy together. My, he's become a chief security officer.
+#L_D1_msg20=Great! I guess your friends remember about you. Ethan will await you at a USS military base in Al-Ariash. Good luck. It would be a pity, if our cooperation produced a negative impression.
+#L_D1_ans20=(Dalej)

@@ -1,0 +1,19 @@
+;*****************************
+;Dialog3.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D3_msg00=Good time of the day or night, gentlemen. Are you here on business or to see what the local cuisine can offer?
+#L_D3_ans00=(Dalej)
+#L_D3_msg10=Same to you, good man. Can we help you?
+#L_D3_ans10=I hope you can. I need some serious firepower for a certain business in XT-24.
+#L_D3_msg20=XT-24 you say? Yuck, that system is as bad as people that inhabit it. What might honest people like you want there?
+#L_D3_ans20=(Dalej)
+#L_D3_msg30=We're trying to set a good person free, bro.
+#L_D3_ans30=(Dalej)
+#L_D3_msg40=I see. So you're asking me to risk my men to free one of yours. I think 100,000 credits will balance the scales. What do you say?
+#L_D3_ans40=Some rates you have! As if I'm going to storm the emperor's residence itself.
+#L_D3_msg50=It's up to you, boss. We're not risking for peanuts.
+#L_D3_ans50=(Dalej)

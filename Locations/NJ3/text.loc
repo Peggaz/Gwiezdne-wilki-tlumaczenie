@@ -1,0 +1,10 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#L_nav_WM=Stacja "Herclijja"
+#L_trade=Stacja Handlowa 'Nesher"
+#L_Patrol=Stacja Patrolu "Karabinier"
+#L_hotel=Siedziba g³ówna Kolonialnego Banku Imperialnego

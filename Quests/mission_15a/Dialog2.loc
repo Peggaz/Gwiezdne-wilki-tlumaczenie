@@ -1,0 +1,45 @@
+;*****************************
+;Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Viper
+#L_D2_msg00=Get your guns ready!
+#L_D2_ans00=(Dalej)
+#L_D2_msg10=Wait, I'm here to negotiate.
+#L_D2_ans10=(Dalej)
+#L_D2_msg20=To spy is more likely, judging by your arrival!
+#L_D2_ans20=(Dalej)
+#L_D2_msg30=Considering that I had to go deep behind the enemy lines to deliver the message, the use of cloaking was logical.
+#L_D2_ans30=(Dalej)
+#L_D2_msg40=As logical as to spy on us, right, young lady?
+#L_D2_ans40=(Dalej)
+#L_D2_msg50=No, "young lady". Spying wasn't a part of my mission here.
+#L_D2_ans50=(Dalej)
+#L_D2_msg60=Wait! I've never attacked negotiators and I won't do it in the future. So, how may I help you?
+#L_D2_ans60=(Dalej)
+#L_D2_msg70=Admiral Trump, I'm Lieutenant Alexandra Sukhova, New Empire Security. I've come here to deliver an official message from Empress Astra and Chief Corsair, NESF Security.
+#L_D2_ans70=(Dalej)
+#L_D2_msg80=Hah, listen to how it sounds! "Empress", "Chief of Security". Let's call a spade a spade: from a terrorist and a pirate!
+#L_D2_ans80=(Dalej)
+#L_D2_msg90=Major! Let's hear the negotiator out.
+#L_D2_ans90=(Dalej)
+#L_D2_msg100=Admiral, Corsair asked me to tell you that the New Empire needs your help.
+#L_D2_ans100=(Dalej)
+#L_D2_msg110=And why do you think I would be willing to provide it?
+#L_D2_ans110=(Dalej)
+#L_D2_msg120=Sorry, admiral, but deciding on these issues under these circumstances is outside my competence. On behalf of the empress, Corsair would like to discuss an armistice between the MSF and the NESF. Besides, as I've already mentioned, he needs your help in fighting against our common enemies capable of inflicting so much damage to all the Outer Worlds - they pilot very noticeable grey fighters. So I am also here to give you all our intel on Greys. Besides, have in mind that the empress allowed you free passage across the New Empire space and ordered the NESF to escort you.
+#L_D2_ans120=(Dalej)
+#L_D2_msg130=Upload it, then. We'll take a look. Where is that meeting to happen, again?
+#L_D2_ans130=(Dalej)
+#L_D2_msg140=In Eridan.
+#L_D2_ans140=(Dalej)
+#L_D2_msg150=This is nonsense! Meeting, hah! Admiral, they are luring you into a trap! Greys, hah! I won't be surprised, if it's just a scam they've come up with! How else have they found us here?!
+#L_D2_ans150=(Dalej)
+#L_D2_msg160=Major, finding the admiral has never been too hard. After your beloved emperor ran off, there has been an evergrowing queue of MSF soldiers willing to sell us information.
+#L_D2_ans160=(Dalej)
+#L_D2_msg170=Why you bastard! Lieutenant, you're under arrest in the name of the Empire. Resist it, be my guest. Then I'll have the pleasure of smashing your old tub to smithereens and plucking you, brat, from a pod! Hell, even your corpse will suit me fine!
+#L_D2_ans170=(Dalej)
+#L_D2_msg180=Admiral, Corsair will be expecting you in Eridan. Now please excuse me, but I have to leave or the major might lose it completely.
+#L_D2_ans180=(Dalej)

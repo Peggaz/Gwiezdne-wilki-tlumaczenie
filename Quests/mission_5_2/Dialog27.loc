@@ -1,0 +1,15 @@
+;*****************************
+;Dialog27.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D27_msg00=A comet down your throat, what are you doing?! We nearly had him!
+#L_D27_ans00=Why, sorry.
+#L_D27_msg10=Shove your excuses! I needed Quarter, got it? Quarter! I wanted to beat the money out of him - as a compensation. But what now?
+#L_D27_ans10=We can look for him.
+#L_D27_msg20=Yeah, right. To let him slip again? I'm not sure about the first part, but I bet you'll do the second perfectly.
+#L_D27_ans20=Ok, ok, calm down. What were you doing yourself?
+#L_D27_msg30=Not having a coffee break, I assure you... All right, let's get out of this place, it makes me want to punch you in the head to start it up. And one more thing: don't contact me for some time or I might lose it.
+#L_D27_ans30=(Dalej)

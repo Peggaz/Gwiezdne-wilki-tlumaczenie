@@ -1,0 +1,9 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#L_Trade=Stacja "Styks"
+#L_Pirate_Station=Stacja "Cherubin"
+#L_sobor=Katedra Templariusza

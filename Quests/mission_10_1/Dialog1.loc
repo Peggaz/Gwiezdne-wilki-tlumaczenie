@@ -1,0 +1,15 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Sedoy
+#L_D1_msg00=No afternoon nap for us, it seems.
+#L_D1_ans00=(Dalej)
+#L_D1_msg10=I've located a source of hyperspace emission. Come on, friends, catch up!
+#L_D1_ans10=(Dalej)
+#L_D1_msg20=So now we have to protect this old scatterbrain? Sheesh...
+#L_D1_ans20=We'll get no artifacts without him, so keep your eyes open. Greyhair is right, there will be no afternoon nap for us.
+#L_D1_msg30=Greyhair is often right, but seldom heard...
+#L_D1_ans30=(Dalej)

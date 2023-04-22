@@ -1,0 +1,10 @@
+;*****************************
+;Dialog18.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m7f_Dikkens
+#L_D18_msg00=I'll double the pay if you help me. You should realize that Triada just used you!
+#L_D18_ans00=They sure did. We didn't agree to a contract murder. Fire at the pirates!
+#L_D18_ans01=I doubt you can be trusted as well. Attack!

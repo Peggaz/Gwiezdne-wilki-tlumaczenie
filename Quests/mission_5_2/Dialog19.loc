@@ -1,0 +1,19 @@
+;*****************************
+;Dialog19.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D19_msg00=Partner, are you out of your mind? Why the hell did you start firing?!
+#L_D19_ans00=Calm down. They were luring us into a trap, haven't you noticed?
+#L_D19_msg10=Boss, you should've told us there would be a whole gang of pirates involved. Instead, you tricked us with nonsense about debts of honor.
+#L_D19_ans10=Sorry, but I couldn't reveal everything back then.
+#L_D19_msg20=I don't care. Formally, we've executed our contract.
+#L_D19_ans20=Hey, wait, I have another small mission to offer you. I'll pay!
+#L_D19_msg30=I'm sure you do, But we don't work with customers who treat us like tin soldiers. So right after the portal we split. Daredevils out.
+#L_D19_ans30=(Dalej)
+#L_D19_msg40=We are truly in a scrape. Should we leave?
+#L_D19_ans40=Leave now? No way, that Quarter of yours owes me one. Let's get back to the station and put muscle on the old bastard. He might know something.
+#L_D19_msg50=Partner, I love adventuring, but there's a whole gang of pirates!
+#L_D19_ans50=Count again, Ternie. The station was guarded by only one team plus Squinty's men. Your Quarter seems to be a greedy bastard who saves on everything, including security. So let's pick up the trophies and pay him a return visit.

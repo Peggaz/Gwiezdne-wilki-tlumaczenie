@@ -1,0 +1,11 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka2
+#L_D1_msg00=By Space! Partner, I didn't see such traffic the last time we were here.
+#L_D1_ans00=I haven't seen such traffic ever. Has Al-Ariash suddenly become a center of the universe?
+#L_D1_msg10=We'll find out. Ethan sent me a very hyped up, but rather incoherent message. You know what, visit the store at the Al-Ariash Main Trade Station. Perhaps, USS has something useful for sale. And I'll try to contact Ethan and find out what's going on here.
+#L_D1_ans10=(Dalej)

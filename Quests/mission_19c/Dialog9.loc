@@ -1,0 +1,19 @@
+;*****************************
+;Dialog9.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D9_msg00=Now I'll just wait until you stop pulling rabbits out of your hat and call it a day.
+#L_D9_ans00=(Dalej)
+#L_D9_msg10=Unfortunately, these are all forces we have. So use them wisely. Cleric, are you there? Can you jam long-distance communications and disable portals? Oh, and hack tincan's protection.
+#L_D9_ans10=(Dalej)
+#L_D9_msg20=Communications and portals - piece of cake. But SAM's protection is very good! I'll see what I can do.
+#L_D9_ans20=What role do we have in your play?
+#L_D9_msg30=Talking cannon fodder...
+#L_D9_ans30=(Dalej)
+#L_D9_msg40=We'll have to stop SAM. I don't want to shoot people, but if they keep protecting the machine... Well.
+#L_D9_ans40=(Dalej)
+#L_D9_msg50=Jeez, I'm so tired of your babble my ears are aching! Let's get down to business! Otherwise they'll die of old age before we open fire!
+#L_D9_ans50=(Dalej)

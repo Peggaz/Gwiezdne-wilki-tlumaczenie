@@ -1,0 +1,25 @@
+;*****************************
+;Dialog3.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Alex
+#L_D3_msg00=All right, the scanner are clean. We can talk.
+#L_D3_ans00=Pardon my trite question, but who are you, Alex? I thought I knew you well, but now I see that my information is kind of outdated.
+#L_D3_msg10=I'm the same Alex Koshevoy you had traveled around the Outer Worlds with before you decided to change a cockpit to an office on some ball of dust. But I'm not into trade anymore. I lead an organization that protects traders both legally and physically. The former is provided by the FTU, the latter is carried out by our combat fleet - grey fighters you've already encountered. Before you ask me, no, I have nothing to do whatsoever with Ternie's abduction or the incident with your convoy.
+#L_D3_ans10=What do you have to do with then? Why do I get to know about your hobby of assembling combat fleets only now?
+#L_D3_msg20=Don't try to be sarcastic, you're not too good at it. As for our organization and fleet... For how long haven't you been in space? For about three years, am I right? It has changed a lot. Berserks and aliens had given the Outer Worlds a hard time, but the real troubles started along with the cursed civil war. Turned out there was too many weaponry around and enough people eager to use it. Power brokers had no resources to provide safety of traders. We pestered imperial bureaucrats, corporation directors. We told them the Outer Worlds would cease to exist, if we didn't establish reliable trade routes. Many systems were on the brink already, without necessary resources and equipment. Bureaucrats agreed, but held up hands, as if they were doing their best already. I guess only InoCo's CEO Oliver Reynolds and patrolmen promised to actually help us. But Reynolds was bound by the board of directors, while most patrolmen were poor as cargo bay rats. So we had to equip the fleet meant to protect traders and fight pirates all by ourselves.
+#L_D3_ans20=But why all the secrecy? You weren't doing anything wrong, were you?
+#L_D3_msg30=You see... The FTU only had money for a few up-to-date fighters. It would be unreal to collect the necessary funds by increasing union taxes, as most traders live by contracts and spend spare money on repairs and maintenance. So we had to infiltrate imperial governments and corporation managements to organize a small but steady leak of funds and equipment. After all, if governments doesn't care about ordinary people, let them at least pay to those who does. Many a little makes a fighter.
+#L_D3_ans30=(Dalej)
+#L_D3_msg40=This sounds too easy. Like, "Hi, I work at the loading dock, where do you keep your funds?"
+#L_D3_ans40=(Dalej)
+#L_D3_msg50=We don't have many agents. We mainly recruited people already working at positions we needed. Reynolds helped us at InoCo. The New Empire gladly accepts any competent managers - they have a deficit of government employees, given the amount of work. As for the Old Empire, we mainly had to bribe the bureaucrats. Triada and USS had been hard nuts, but we won them over in the end, having promised peace to some and careers to others.
+#L_D3_ans50=Was Cayer one of your agents?
+#L_D3_msg60=Cayer was special. He was the one of FTU founders and coordinated the Capricorn Sector. By the way, he also solved the problem with Triada and USS. But then... You see, we have completely forgotten about one thing. The level we operated on not only allowed access to other somebody else's funds, but also gave real power to those who controlled agents. Just one order and they would left their workplaces, destroyed all the data, compromised management chains and documents circulation. No empire or corporation would pick up after such a blow. Most likely, Cayer considered that a chance to establish his own empire or something. When we got to know that, it was already too late. As a result, we lost all agents in the Capricorn, Centaur and Sagittarius sectors. But worst of all was that Cayer befriended Min Imu, the current Triada leader, and Kane, USS top manager. It seems Emperor Azar joined their gang as well. Who knows what that alliance is capable of.
+#L_D3_ans60=You haven't said what happened to my convoy yet. What cargo were they delivering and why Cayer wanted it so bad?
+#L_D3_msg70=I'm very sorry, but your pilots are dead... They were shot down by Min Imu's goons who also murdered my investigators. We had to force nearly all agents to work like mad, but we found the cargo. It is stored at the FTU headquarters in New Kyoto. But I have no idea what that is exactly. I only know that the emperor, Imu, Kane and someone from InoCo will kill anyone for those containers.
+#L_D3_ans70=(Dalej)
+#L_D3_msg80=You're lucky to have Cleric with you, I'm telling you! Because in a few minutes I'll give you a clear answer to this question. I just have to organize this ship's databases. But that will be a bomb! Meanwhile, feel free to wander around the system. Might as well buy something useful.
+#L_D3_ans80=(Dalej)

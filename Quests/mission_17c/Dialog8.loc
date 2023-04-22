@@ -1,0 +1,15 @@
+;*****************************
+;Dialog8.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Corsair
+#L_D8_msg00=Damn, it got away!
+#L_D8_ans00=(Dalej)
+#L_D8_msg10=If only someone was quicker with guns, the tincan wouldn't have escaped!
+#L_D8_ans10=(Dalej)
+#L_D8_msg20=Sheesh... I have a feeling SAM will give us hell.
+#L_D8_ans20=Don't worry. The most important thing is that we know about it. The rest is a matter of time.
+#L_D8_msg30=If we have this time. If only we have it...
+#L_D8_ans30=(Dalej)

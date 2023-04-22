@@ -1,0 +1,16 @@
+;*****************************
+;Dialog5.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m6c_USSAgent
+#L_D5_msg00=Hey wait! We can come to an agreement!
+#L_D5_ans00=Oh really?
+#L_D5_msg10=Listen, Triada is willing to pay huge money for the cargo you're carrying. And I'm eager to give you a half. How about 500 grands?
+#L_D5_ans10=Why not a million?
+#L_D5_msg20=Hey pal, I'll get the same. Besides, I'll have to share with a lot of other people. So, what do you say? USS won't make you an offer like this!
+#L_D5_ans20=I can hardly believe some regular equipment might cost that much.
+#L_D5_msg30=Regular equipment? Wait, don't you know anything? Hah! Ah those corporators... Boy, you're escorting a unique uranium refining and enrichment plant. Only two of these exist in the inhabited universe. Do you imagine how much this technology costs?!
+#L_D5_ans30=Sorry, pal. Though corporators tricked me, I put even less trust in your words.
+#L_D5_ans31=So it's a plant you say. I knew there was something fishy about this mission. Greedy bastards! Paid me just 100,000 for escorting it! All right, I accept your offer. But remember, I am watching you.

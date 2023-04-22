@@ -1,0 +1,10 @@
+;*****************************
+;Dialog6.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Sedoy
+#L_D6_msg00=Target acquired.
+#L_D6_ans00=No, that's not the one. Let's wait.
+#L_D6_ans01=That's the one. Let's get back to Muscovy and wait for it that side of the portal.

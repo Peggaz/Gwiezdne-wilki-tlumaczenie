@@ -1,0 +1,28 @@
+;*****************************
+;Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;UFTTrader
+#L_D2_msg00=Phew, that was close. Thanks, we thought we were taken apart already.
+#L_D2_ans00=Glad to be of help. If you want, we can escort you to the nearest station.
+#L_D2_msg10=We could use security to the very destination, a USS station in Al-Ariash.
+#L_D2_ans10=Hire some mercenaries, no big deal.
+#L_D2_msg20=Prohibited by the contract. USS doesn't like mercs much. But they haven't mentioned hiring other traders as security. You've got enough weaponry to keep pirates away. And we've had a chance to see what you're capable of. We can offer you 100,000 credits, what do you say? By the way, a large trade convoy is to set out from Corrino soon. It'll be guarded by MSF fighters. Their route is close to ours and we'll be able to join. Come on, that'll be easy as a pie.
+#L_D2_ans20=I don't believe in all those easy as pie things. What's the catch?
+#L_D2_msg30=Oh, it should be a quick and anonymous ride. Don't stop, don't talk to anyone outside the convoy. As soon as the client has the cargo, we'll take a rest.
+#L_D2_ans30=What do you say, Ternie?
+#L_D2_msg40=Partner, 100 grands is quite an argument! What can I say? Thanks for being this generous. Besides, it's nearly along our way!
+#L_D2_ans40=I don't know, there's something fishy about all that. I beg your pardon, but we have to refuse.
+#L_D2_ans41=You're completely right. We agree.
+#L_D2_msg50=Well, that's quite a pity. We'll have to find help elsewhere. Over and out.
+#L_D2_ans50=(Dalej)
+#L_D2_msg60=Have you lost your mind?! "Fishy..." If you haven't noticed, war is all about "fishy". And flinging money about, like you do, is incredibly stupid. Ah, nevermind. Let's visit my friend in New Jerusalem 3. He might have some easy jobs for us to make up for the 100 grands we've just lost. Just listen to this, "One hundred thousand credits!"
+#L_D2_ans60=(Dalej)
+#L_D2_msg51=Great! Then let's set out immediately. But please don't forget that, while we have guns, transports are not meant for serious combat. So don't wander off us.
+#L_D2_ans51=(Dalej)
+#L_D2_msg61=Easy money! I love easy money!
+#L_D2_ans61=Don't count what you don't have. We're not at the destination yet. How should we get there by the way?
+#L_D2_msg71=Oh, it's easy. There's basically only one route: Aurora, Corrino, Tira, New Jerusalem 1 and 3, Prien, Cadi, Hanoi. There's also roundabout way, but I wouldn't risk it - those systems are either under Triada control or just too dangerous. Wait, I'll send you a message.
+#L_D2_ans71=(Dalej)

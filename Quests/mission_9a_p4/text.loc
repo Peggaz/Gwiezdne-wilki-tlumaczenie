@@ -1,0 +1,20 @@
+;*****************************
+; mission_9a_p4
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_9a_01a=Deliver the cargo.
+#L_Quest_9a_01b=You need to deliver the cargo stored at the Kharkov Cargo Terminal in New Donbass to the MSF Main Headquarters in New Jerusalem 2.
+#L_Quest_9a_03a=Find Aylon's friend.
+#L_Quest_9a_03b=Aylon asked to find and help his old friend, who's been frequenting the Golden Buck Casino in Solncevka of late.
+#L_Quest_9a_04a=Pick up the cargo.
+#L_Quest_9a_04b=Pick up the equipment from the Kharkov Cargo Terminal in New Donbass.
+
+;*****************************
+;Speeches
+;*****************************

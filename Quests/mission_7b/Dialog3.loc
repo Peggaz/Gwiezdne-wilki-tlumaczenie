@@ -1,0 +1,25 @@
+;*****************************
+;Dialog3.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D3_msg00=We need Agent Roghem.
+#L_D3_ans00=(Dalej)
+#L_D3_msg10=Greetings. I was reported you might visit us. Right now I have no suitable missions for you, sorry.
+#L_D3_ans10=So it seems our effective cooperation is not going to happen.
+#L_D3_msg20=Oh, that's just temporarily. Wait a minute, are you that trader who saved our men from the thick skulls in Corrino?
+#L_D3_ans20=I am. Why?
+#L_D3_msg30=One of them was my brother! I'm in your debt!
+#L_D3_ans30=Glad to be of help.
+#L_D3_msg40=Listen, friends, hang around here for some time and I'll try to get you an easy mission. I was to give you some meager 100,000 credits to re-equip, but hey, I can make it 500 grands!
+#L_D3_ans40=Excellent!
+#L_D3_msg50=So, if anything turns up, I'll give you a call. Thanks again for my brother! Candela Station out.
+#L_D3_ans50=Great!
+#L_D3_msg60="Great", "glad to help..." Going from rags to riches, aren't you?
+#L_D3_ans60=Is there something you don't like?
+#L_D3_msg70=There is. I don't like that you took money from those cunning goons. Partner, you might as well consider us all on a hook that we're not getting off so easily.
+#L_D3_ans70=(Dalej)
+#L_D3_msg80=I'm going to agree with Ternie completely, boss. We shouldn't have taken the money. The sum's ridiculous, but it lets Triada consider us purchased hide and hair.
+#L_D3_ans80=I don't care about Triada. If anything happens, I'll just give their money back. For now let's look around and see what is what.

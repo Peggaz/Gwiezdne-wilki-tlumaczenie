@@ -1,0 +1,9 @@
+;*****************************
+;Dialog9.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D9_msg00=Where to now, partner?
+#L_D9_ans00=Well, we sure got nothing from the MSF. I think we need to find out about the debris we've stumbled upon. Let's head for the Mercenary Market in Cassily.

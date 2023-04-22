@@ -1,0 +1,13 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D1_msg00=Yeah, we did it! But, partner, let's avoid such situations in the future. I'm a young girl, I should be living a long and a happy life. But apparently you're trying to bring us all to our graves.
+#L_D1_ans00=Don't exaggerate. It was fun!
+#L_D1_msg10=Way too much fun! All right, what now?
+#L_D1_ans10=We'll head for the station, what else? Or we can get back to Gredos and have another gunfight.
+#L_D1_msg20=Having fun, aren't you? Have a hard tack from an iron ration, it's your prize. If there's some justice in this universe, you'll be grinding it all the way to the station. In silence.
+#L_D1_ans20=(Dalej)

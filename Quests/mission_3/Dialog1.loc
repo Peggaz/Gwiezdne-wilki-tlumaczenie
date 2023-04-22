@@ -1,0 +1,19 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Alex
+#L_D1_msg00=You're not to be trifled with, are you? Left on a meager clunker and returned on a decent ship.
+#L_D1_ans00=I was lucky. Unlike the previous owner of this ship, may he rest in peace.
+#L_D1_msg10=Yeah, I heard the news. Sorry for getting you involved in this.
+#L_D1_ans10=It's not your fault. Why, if you commanded a whole fleet and decided to surprise me this way, I'd be offended. But I doubt you have a fleet, so let's leave it at that. You messaged me about a contract.
+#L_D1_msg20=Oh, it should be easy as pie. Just to deliver some equipment to the central station in Achilles. The reward is handsome. Even too handsome for this kind of work, which worries me.
+#L_D1_ans20=What's the catch, how do you think?
+#L_D1_msg30=I wish I knew... Formally, that system belongs to the New Empire, but it's actually run by the Laszlo clan, our customer. They are not pirates, but most of their profits comes from something you don't discuss openly.
+#L_D1_ans30=Smuggling?
+#L_D1_msg40=Could be. According to the papers and quick scan, the cargo is just electronics. But what that box really holds is unknown. It's sealed completely and my scanner is a piece of junk. So if you agree to this mission, be very careful, don't wander off trade routes and stay alert all the time.
+#L_D1_ans40=Sure thing. Anyway, I guess I'll make it. Start loading your electronics.
+#L_D1_msg50=I'm on it. You will get the details in a message as well. Good luck, friend.
+#L_D1_ans50=(Dalej)

@@ -1,0 +1,84 @@
+;*****************************
+; mission_2
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_2_00a=Dock to the station.
+#L_Quest_2_00b=Dock to the Placid Docks Station.
+#L_Quest_2_01a=Reach the Prometheus Station.
+#L_Quest_2_01b=The customer awaits at the Prometheus Station in Gredos. You shouldn't delay, as it seems Filine is just waiting for any excuse to break the contract.
+#L_Quest_2_02a=Deliver the package.
+#L_Quest_2_02b=Alice from the Prometheus Station asked to deliver a package to her friend Nataly at the Typhoon Station. The reward is tiny though - just 50 credits.
+#L_Quest_2_03a=Deliver the cargo to the Copernicus Scientific Station.
+#L_Quest_2_03b=Ray asked me to take his ship and the cargo to the Copernicus Scientific Station. The contract is a rush one, so I may be penalized for delays.
+#L_Quest_2_04a=Talk to Ray.
+#L_Quest_2_04b=Ray has some rush work to offer. He is at the Falcon Station.
+#L_Quest_2_05a=Deliver the documents.
+#L_Quest_2_05b=Deliver Donelly's documents to the yacht "Illumino" for 25,000. Easy money!
+#L_Quest_2_06a=Return the ship.
+#L_Quest_2_06b=I just have to return Ray's ship to the Falcon Station.
+#L_Quest_2_07a=Find work.
+#L_Quest_2_07b=I've lost the contract. Now I'll have to find work in this system all by myself.
+#L_Quest_3_Reta=Get back to Alex's station.
+#L_Quest_3_Retb=Right now I should return to the Placid Docks Station in Aurora, avoiding unnecessary adventures.
+
+;*****************************
+;Speeches
+;*****************************
+#L_Alex_01=I provided all the contract details in a message, but let's revise once again. Right now you'll head for the Prometheus Station in Gredos, where you shall meet Pablo Filine. Then you pick up his cargo and get back here. Just make sure you stay away from trouble and don't delay.
+#L_Hero_15=Hey, what's this, paternal instincts? I'm not a child.
+#L_Alex_02=Much worse, it's maternal instinct. Seriously, I can't look at the clunker you're flying. But don't worry, we'll find you something better, when the mission has been accomplished. The reward should be just enough for a decent vessel. Good luck.
+
+#L_Vks_01=Transport vessel, stop your engines immediately and prepare for examination.
+#L_Hero_01=Officer, I'm in such a hurry. Besides, I'm empty, you must be seeing it on the scanner.
+#L_Vks_02=Stop your engines and prepare for a full examination right now or we'll open fire.
+#L_Hero_02=Dammit!
+#L_Vks_05=We're done, all clear. Now move, don't block the portal.
+
+#L_Hero_03=Curses, I'm so late... Come on, old tub, move it!
+
+#L_Hero_04=Excuse me, does anyone here need transportation services?
+#L_Disp_01=We don't, right now.
+
+#L_Hero_05=My, I've sure gotten out of the habit of dragging myself from station to station, looking for cheap contracts. Where's this world coming to?
+
+#L_Hero_06=Free trader calling station. I'm offering transportation services. Moderate fees.
+#L_Disp_02=Station to trader, we don't have appropriate work right now. Drop by later. Over and out.
+#L_Hero_07=Damn, another flop.
+
+#L_Hero_08=It's a complete failure. I should've accepted Ray's offer immediately. I wonder if it's not too late yet.
+
+#L_Merc_01=We'll pay. Boys, attack!
+#L_Pir_01=Ambush! Malky set us up!
+
+#L_Merc_02=Boss, we'll go round a bit to surprise the pirates. Given there are any pirates, of course. So don't worry.
+
+#L_Merc_03=There's also a third option. Squash those bugs, men!
+#L_Merc_04=That was fun! Boss, jump into the portal!
+
+#L_Hero_09=Some idea of fun you have - risking your life.
+#L_Merc_05=Come on, boss, we're all going to die sooner or later.
+#L_Hero_10=But exposing yourself to bullets...
+#L_Merc_06=We got used to it. But it sure is fun! I'd die of boredom, if I had to toil along in a cumbersome transport. No offence, boss, just my two credits.
+#L_Hero_11=It's all right. But trader's life is also full of adventure.
+#L_Merc_07=Yeah, like accountant's life is full of shocks. Sorry, boss, let's just be done with the talking. First, the place isn't safe. Second, we have different ideas of fun. I don't want to thrust my ideas on you, and hope you'll do the same.
+
+#L_Merc_09=So, boss, let's escort you back.
+#L_Hero_14=Sure, I have a ship to return.
+
+#L_Pir_02=Dear sir, you know that... Fudge! He has guards!
+
+#L_Merc_08=That's it, boss, we've done our job. It's been nice working with you. Call us, if there's more work.
+
+#L_Disp_03=We're a peaceful trade station! Stop firing, we beg you!
+#L_Hero_12=Jeez! Need to scram, while they're occupied.
+
+#L_Hero_13=Sheesh... I think I got away. It's a pity that Ray didn't make it. And it seems my old ship is done for too. I guess Ray wouldn't mind me keeping his transport. I just wonder if that self-destruct sequence is automatic of manual...
+#L_Vks_04=Pillaging, eh, bastard?
+
+#L_Merc_10=No way, boss, that wasn't the deal. We only agreed to escort you from spot A to spot B. There was no spot C mentioned.

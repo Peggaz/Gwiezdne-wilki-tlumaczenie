@@ -1,0 +1,13 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D1_msg00=What the?.. Hey, where are they?
+#L_D1_ans00=(Dalej)
+#L_D1_msg10=Well, partner, seems like we've been simply tricked.
+#L_D1_ans10=Curse them. I guess there's no need to get back to Al-Ariash now.
+#L_D1_msg20=True. Well, let's visit my friend in New Jerusalem 3 then.
+#L_D1_ans20=(Dalej)

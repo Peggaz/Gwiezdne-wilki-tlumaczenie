@@ -1,0 +1,17 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;OthersPilot
+#L_D1_msg00=Mayday! We're a trade convoy, we're under pirate attack! Mayday!
+#L_D1_ans00=Damn, the mercs have left already. We'll have to act on our own.
+#L_D1_msg10=Why?! They don't owe us any money, why the hell should we join in? It's zero benefit.
+#L_D1_ans10=Do you think it's only about benefit? Traders have to help each other, it's in our code.
+#L_D1_msg20=Code-schmode, stop pulling my leg! Just say, "We're helping them now, so they will want to help us later". I can live with that.
+#L_D1_ans20=It's not what I mean!
+#L_D1_msg30=Oh, whatever, I don't care this much. Just tell your colleagues that all trophies belong to us, and they should keep their greedy hands to themselves. All right, let's go. We have two fighters, a mothership and your old clunker as backup, which means chances are good. Let's give those pirates what for.
+#L_D1_ans30=What for what?
+#L_D1_msg40=What? I said let's kill them, partner!
+#L_D1_ans40=(Dalej)

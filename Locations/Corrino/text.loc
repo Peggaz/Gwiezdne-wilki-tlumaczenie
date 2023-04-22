@@ -1,0 +1,13 @@
+LOCALE_FILE
+FILETYPE MODDING 
+
+;*****************************
+;NavPoints
+;*****************************
+#L_nav_03=Punkt spotkania: Triady
+#L_nav_04=Punkt spotkania: Piratów
+#L_nav_05=Zniszczony statek: Triady
+#L_nav_06=Punkt spotkania: Patrolu
+#L_nav_vks=Kwatera g³ówna MSF, Sektor Aquarius
+#L_nav_neutral=Stacja "Taihon"
+#L_STO=Stacja konserwacyjna

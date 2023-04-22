@@ -1,0 +1,22 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Viper
+#L_D1_msg00=Finally, you're here. Portal patrols reported of your arrival. You were lucky, I was going to leave already and issue certain orders regarding you. Now listen close. You need to pick up a cargo container in Pandora and take to a station in Dionysus. Can you do it?
+#L_D1_ans00=Dionysus belongs to the New Empire, doesn't it? Why would the MSF want to deliver anything to an enemy station?
+#L_D1_msg10=The cargo is a special equipment for those who remained loyal to the legal government.
+#L_D1_ans10=(Dalej)
+#L_D1_msg20=Weapons?
+#L_D1_ans20=(Dalej)
+#L_D1_msg30=That depends. A pencil can also be a weapon in skilled hands. You just need to pick up the cargo enclosed in a scanproof container and take it to the station, where our man will collect it. It's an easy task. In return, you will get the information on the Beta Lethera operation, as I've promised.
+#L_D1_ans30=Agreed. But I'm warning you, if I find out this is a shady deal, I'm out of it.
+#L_D1_ans31=No deal. Secret deliveries, mysterious cargoes... We don't like to take part in your games with the New Empire. I prefer to remain neutral.
+#L_D1_msg40=Fine with me. Now get to it, I'll send you the details in a message. Over and out.
+#L_D1_ans40=(Dalej)
+#L_D1_msg50=I smell a rat... Equipment? Hah! Couldn't they come up with anything better?
+#L_D1_ans50=True enough, this is a lame disguise. But I wonder where the trap is and what to expect. Anyway, we'll see it when we get there. Now let's pick up that container in Pandora.
+#L_D1_msg41=Neutrality is the favorite excuse of milksops to mask weakness and infantile lack of willpower. You're either a predator or a prey, there are no more natural options. Get the hell out, I despise you. What a waste of time. Over and out.
+#L_D1_ans41=(Dalej)

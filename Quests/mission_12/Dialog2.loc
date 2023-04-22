@@ -1,0 +1,15 @@
+;*****************************
+;Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Sedoy
+#L_D2_msg00=What's next, boss?
+#L_D2_ans00=We'll search for Ternie.
+#L_D2_msg10=Sure thing, but where exactly?
+#L_D2_ans10=(Dalej)
+#L_D2_msg20=I suggest that we try mining Triada for information. They collect and process even the weirdest underworld rumors with thoroughness many accountants would envy. I'm sure Greys have left some tracks.
+#L_D2_ans20=I've dealt with Triada before. It'll take an eternity to get even a grain of useful information from them. We don't have that much time.
+#L_D2_msg30=But there's a way to shorten this eternity significantly. Aja, the daughter of my old friend Kim Shumov, was the head of Triada's special security department the last time I heard of her. I hope she still is or has even got promoted. We'll find her in XT-52, at the Changchun Station.
+#L_D2_ans30=Well, we don't have much choice.

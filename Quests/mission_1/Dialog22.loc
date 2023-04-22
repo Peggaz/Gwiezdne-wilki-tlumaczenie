@@ -1,0 +1,13 @@
+;*****************************
+;Dialog22.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;PirateTough
+#L_D22_msg00=Is this the guy who has cheated you in that casino?
+#L_D22_ans00=(Dalej)
+#L_D22_msg10=Seems so.
+#L_D22_ans10=(Dalej)
+#L_D22_msg20=Then it's time to teach him a lesson.
+#L_D22_ans20=(Dalej)

@@ -1,0 +1,35 @@
+;*****************************
+;Dialog15.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D15_msg00=Alexandra, was it hard to find us?
+#L_D15_ans00=(Dalej)
+#L_D15_msg10=No, I knew where you had gone to. But first I had to take care of refugees and wait until they transport the Star Wolf from Simeiz. Sorry, if I arrived earlier, your ship could have survived... Anyway, I jumped to you as soon as I've settled everything.
+#L_D15_ans10=What do you mean jumped?
+#L_D15_msg20=By means of a hyperspace catapult. It had been developed before the war, but working prototypes were made just some time ago. I thought only we and the Old Empire had such equipment. Who could have guessed that Triada would get one too.
+#L_D15_ans20=(Dalej)
+#L_D15_msg30=Before pirates got me, I had read some rumors in the Web about this technology. But those were only theories.
+#L_D15_ans30=(Dalej)
+#L_D15_msg40=Well, to tell you the truth, only a tenth part of the whole idea was realized. The device is still not perfect. It's a binary system, consisting of a hyper catapult that can only be installed at a station, and a hyper spring that is compact enough to work on a ship. But the latter has limited range and needs to be recharged at a catapult after each use. But the idea is truly prospective. Perhaps, very soon it will change our Universe. Kalem, am I right that those are MSF major caliber guns?
+#L_D15_ans40=(Dalej)
+#L_D15_msg50=There's not much left of the original design, but generally you're right.
+#L_D15_ans50=(Dalej)
+#L_D15_msg60=Our department got a few of those, but without any blueprints. Even the most corrupted imperial minions are still choosing their customers warily. So, you're a weaponry expert?
+#L_D15_ans60=(Dalej)
+#L_D15_msg70=Just an expert I'd rather say. These guns don't require specialization. Any more or less competent technician will sort out how this thingamajig works in two days. You know, it seems they used legs, not hands, to assemble those. And were drunk at that. But, man, aren't there cool stickers all round instead! Advanced Multi Dynamics! Ridiculous...
+#L_D15_ans70=(Dalej)
+#L_D15_msg80=Advanced Multi Dynamics, hah! If that's the main source of thick skulls, we'll just have to retreat to the borders and wait until the Empire installs their junk onto every ship. Then their army will be as good as dead!
+#L_D15_ans80=(Dalej)
+#L_D15_msg90=Is is that bad?
+#L_D15_ans90=(Dalej)
+#L_D15_msg100=It's perfect! For the NESF that is. I can't think of anything better. Kalem, how did you end up with those grey bastards?
+#L_D15_ans100=(Dalej)
+#L_D15_msg110=I ended up with pirates first. A planetary raid, an offer you can't refuse. And the next moment you find yourself inside a pirate clunker with a bunch of tools in your hands. They handed me over to Greys later.
+#L_D15_ans110=(Dalej)
+#L_D15_msg120=I'm sorry. By Space, how many talented and good people are forced to work for all sorts of riffraff! How many of them have died already... But just you wait a bit, we'll sweep all Greys, pirates and the rest out for good. I promise!
+#L_D15_ans120=(Dalej)
+#L_D15_msg130=I'm afraid there's too much to clean. Enough for our grandchildren even.
+#L_D15_ans130=(Dalej)

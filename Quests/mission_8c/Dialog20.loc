@@ -1,0 +1,18 @@
+;*****************************
+;Dialog20.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;VksOfficer
+#L_D20_msg00=Well, well, well. Visitors, aren't you? What are you doing in the outskirts? Why won't you follow the usual route? Feeling shy or afraid of being caught by law enforcers? Nevermind, we'll sort you out in no time. Follow us, and it's an order.
+#L_D20_ans00=Officer, we're just trying to avoid pirates. Trouble is the last thing we need now, besides we're in a hurry. Can we negotiate and then be off?
+#L_D20_msg10=Negotiate, huh... Well, there's something you can do. Me and my boys need to deal with a local pirate gang, but we don't know where to look. So you will have an honor of doing the Empire a favor and posing as a decoy. You will follow a certain route until pirates notice you.
+#L_D20_ans10=What if they don't?
+#L_D20_msg20=Oh, they will, you look like a perfect prey. If I were a pirate, I would've checked your cargo bay for sure. So don't you worry, they'll buy it. And then we shall join in. What do you think? Note that refusal is not an option.
+#L_D20_ans20=I don't like the idea, but we have no choice. It's a deal.
+#L_D20_ans21=Shove your options. I'm not taking part in this affair.
+#L_D20_msg30=Right you are, there's no choice. I've marked your route and you should really stick to it. Don't contact us. Now move it.
+#L_D20_ans30=(Dalej)
+#L_D20_msg31=So that's how it is, huh? We, at the MSF, are risking our lives to eliminate piracy, but civilians don't care and dare threaten us even. Well, resistance to authority it is then. Let's teach them a lesson!
+#L_D20_ans31=(Dalej)

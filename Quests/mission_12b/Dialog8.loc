@@ -1,0 +1,16 @@
+;*****************************
+;Dialog8.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;PirateTough
+#L_D8_msg00=The boss sent me. He says the mission is complete and asks for the promised reward.
+#L_D8_ans00=You call that "complete"? You were to kick up a fuss to distract the guards!
+#L_D8_msg10=Hey, we did that! It's not our fault that the guards wouldn't pay attention. The boss says we've done a good job. He also says that if you don't pay, he'll contact Triada Security and report on you. You won't like that kind of fuss for sure.
+#L_D8_ans10=You've arranged everything... You're lucky I don't need publicity right now. Transferring the money.
+#L_D8_ans11=All right, you win. Here's a credit. You didn't earn more anyway. And don't even try to say I haven't paid, because I did. Adequately!
+#L_D8_msg20=Great, thanks a lot. Come visit us again, we're eager to work.
+#L_D8_ans20=(Dalej)
+#L_D8_msg21=So that's how you want it? Ok, blame yourself.
+#L_D8_ans21=(Dalej)

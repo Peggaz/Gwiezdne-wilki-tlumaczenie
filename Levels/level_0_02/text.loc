@@ -1,0 +1,87 @@
+;*****************************
+;text.script
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;MessageBox
+;*****************************
+#L_Msg_01=Przegra³eœ.
+#L_Msg_02=Samouczek nie powiód³ siê.
+#L_Msg_16=Przegra³eœ.
+#L_Msg_17=Statek zosta³ zniszczony.
+#L_Msg_05=Informacja
+#L_Msg_06=Przejœæ do drugiej czêœci samouczka?
+#L_Msg_07=Informacja
+#L_Msg_08=Ukoñczono samouczek. 
+#L_Hint=Wskazówka
+
+;*****************************
+;Hints (Pilot Hint, sounding)
+;*****************************
+#L_Msg_03=Statek-baza jest ruchom¹ stacj¹, któr¹ mo¿na wyposa¿yæ w broñ i systemy. Tam mo¿esz równie¿ uzbrajaæ i naprawiaæ myœliwce, oraz przypisywaæ do nich pilotów. Statek-baza mo¿e równie¿ zbieraæ trofea z pól bitewnych.
+#L_Msg_09=Aby u¿yæ jednorazowego systemu naprawczego wybierz w menu akcji panel bohatera i kliknij lewym przyciskiem myszy na systemie.
+#L_Msg_10=Zespó³ jest podstawow¹ taktyczn¹ jednostk¹ sk³adaj¹c¹ siê z jednego lidera, i kilku statków wsparcia, ustawionych w celu wykonywania ró¿nych zadañ.
+#L_Msg_11=Systemy zespo³owe dotycz¹ ca³ego zespo³u i mog¹ byæ skutecznie u¿yte tylko przez statki wsparcia. Aby uruchomiæ taki system, kliknij odpowiednie polecenie w panelu postaci, np. Obrona przeciwrakietowa.
+#L_Msg_12=Ka¿da postaæ ma specjalne zdolnoœci, które zapewniaj¹ korzyœci w walce przez ograniczony czas. Ka¿da umiejêtnoœæ ma ograniczon¹ liczbê zastosowañ podczas misji.
+#L_Msg_13=Wszystkie umiejêtnoœci specjalne mog¹ byæ aktywowane za pomoc¹ przycisków akcji na panelu postaci.
+#L_Msg_14=Mo¿esz tak¿e klikn¹æ "Poka¿ panel dzia³añ specjalnych" w prawym dolnym rogu ekranu.
+#L_Msg_15=Mo¿esz rozkazaæ swojemu zespo³owi wypuœciæ salwê w kierunku celu za pomoc¹ przycisku ataku rakietowego w dolnym prawym rogu ekranu.
+#L_Msg_18=Portale pozwalaj¹ podró¿owaæ miêdzy systemami gwiezdnymi, pokonuj¹c du¿e odleg³oœci w mgnieniu oka.
+#L_Msg_20=Kliknij prawym przyciskiem myszy na neutralnym statku, aby rozkazaæ wybranemu zespo³owi eskortowanie go.
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_1a=Obrona antyrakietowa
+#L_Quest_1b=Kliknij obronê antyrakietow¹ na panelu postaci instruktora (musi pilotowaæ statek wsparcia).
+#L_Quest_8a=Tryb ataku
+#L_Quest_8b=Kliknij atak na panelu postaci instruktora (musi pilotowaæ statek wsparcia).
+#L_Quest_2a=Jednorazowy system naprawczy
+#L_Quest_2b=U¿yj jednorazowego systemu naprawczego, aby naprawiæ statek instruktora. Aby to zrobiæ kliknij lewym przyciskiem na systemie, na jego panelu postaci.
+#L_Quest_3a=Dru¿yna
+#L_Quest_3b=Dodaj instruktora do swojego zespo³u. Kliknij lewym przyciskiem myszy jego portret i przeci¹gnij go do swojego panelu postaci.
+#L_Quest_4a=Specjalne zdolnoœci
+#L_Quest_4b=Uruchom specjaln¹ umiejêtnoœæ za pomoc¹ panelu postaci.
+#L_Quest_5a=Atak rakietowy
+#L_Quest_5b=Wyeliminuj piratów atakiem rakietowym.
+#L_Quest_9a=Eskorta
+#L_Quest_9b=Eskortuj statek patrolowy do portalu.
+#L_Quest_7a=Odejœcie
+#L_Quest_7b=Opuœæ strzelnicê przez portal w Endoria.
+
+;*****************************
+;Speeches
+;*****************************
+#L_Ace_01=Jesteœmy teraz w dalekim zak¹tku strzelnicy. Tutaj bêdziemy pracowaæ nad koñcow¹ czêœci¹ programu szkoleniowego. 
+#L_Ace_02=Doskona³e! Teraz rozka¿ mi przygotowaæ siê do ataku.
+#L_Ace_03=Uszkodzi³em mój statek w celu treningu. Twoim zadaniem jest, aby go naprawiæ za pomoc¹ nanobotów.
+#L_Ace_05=Œwietnie! Podczas gdy statek jest naprawiany, powiem Ci, jak tworzone s¹ zespo³y.
+#L_Ace_07=Jesteœmy w dwóch ró¿nych zespo³ach i teraz nasze panele s¹ oznaczone innymi kolorami. Spróbuj dodaæ mnie do swojego zespo³u. Kliknij lewym przyciskiem mój portret i przeci¹gnij go do swojego panelu postaci.
+#L_Ace_08=Dobrze, teraz jesteœmy w tym samym zespole. Poniewa¿ w³aœnie zosta³em dodany, jesteœ obecnym przywódc¹. Aby podzieliæ zespó³, musisz odci¹gn¹æ portret bohatera od przywódcy.
+#L_Ace_09=Teraz nadszed³ czas, aby spojrzeæ w systemy zespo³u. Ostatni raz u¿yliœmy jednego, ale dotyczy³ on tylko u¿ytkownika. Teraz mamy zamiar spróbowaæ innego, dotyczy on wszystkich statków w zespole.
+#L_Ace_11=Dobrze. Teraz powiem Ci o specjalnych umiejêtnoœciach pilotów.
+#L_Ace_15=Chocia¿ nie widzimy ¿adnych wrogów, spróbuj u¿yæ mojej umiejêtnoœci Strza³ Snajperski po prostu jako æwiczenie treningowe.
+#L_Ace_16=Idealnie. Teraz spójrzmy na wykrywacz wrogów. Standardowe skanery umo¿liwiaj¹ wykrywanie celów w odleg³oœci 120 klikniêæ od statku. Ale s¹ dro¿sze urz¹dzenia z wiêkszymi zasiêgami. Nie ma potrzeby mówiæ, ¿e w przestrzeni ten który pierwszy zauwa¿y wroga i przygotuje siê na jego spotkanie, wygrywa.
+#L_Ace_17=Kolega z patrolu zauwa¿y³ kilku piratów w pobli¿u. S¹dz¹c po ich opisach, oraz fakt, ¿e próbuj¹ polowaæ na strzelnicy, s¹ to rekruci. Tak wiêc, to jest ich wezwanie by staæ siê twoimi pierwszymi rzeczywistymi celami. Poka¿my im, z czego jesteœmy zrobieni. Dobra szansa na próbne ataki rakietowe.
+#L_Ace_18=Wybierz swoj¹ dru¿ynê i sprawdŸ, czy pociski s¹ gotowe.
+#L_Ace_19=To by³a bu³ka z mas³em, ale martwiê siê o sam¹ obecnoœæ piratów na strzelnicy. Eskortujmy mojego kolegê z patrolu do portalu do s¹siaduj¹cego systemu, poinformuje on o tym incydencie.
+#L_Ace_21=Dobra robota. Có¿, myœlê ¿e to koñczy nasz trening. Pozwól, ¿e dam ci przyjazn¹ wskazówkê: trudno jest ostatnio znaleŸæ spokojny system gwiezdny, dla tego lepiej jeœli na twoje ty³y patrz¹ godni zaufania ludzie. Powodzenia i wolnej przestrzeni.
+#L_Pir_01=Hej, mamy szczêœcie! Bierzmy go!
+#L_Ace_22=Hej, to nasz statek. Zwijaj siê póki jeszcze mo¿esz!
+#L_Pir_02=Tak, tak! Teraz umrzesz!
+#L_Ace_23=Dobrze im tak!
+#L_Ace_24=Nadszed³ czas, nauczyæ siê lataæ statkiem-baz¹. Kiedyœ lata³eœ transportowcem, ale nasz statek zosta³ przekszta³cony w statek wojskowy.
+#L_Ace_25=Wleæmy do hangaru.
+#L_Ace_26=Dobrze siê spisa³eœ, ch³opcze. Teraz jesteœmy dru¿yn¹!
+#L_Ace_27=Czujê siê tak dobrze, jak w dniu, w którym opuœci³em Patrol! Po tym zgni³ym biznesie, powietrze z tlenowni wygl¹da³o dla mnie jak powietrze wolnoœci!
+#L_Ace_28=Ok, doœæ gadania, czas na pracê. Otwórz mapê i poleæ statkiem-baz¹ do portalu.
+#L_Ace_32=Jeden pilot zadokowany.
+
+;*****************************
+;NavPoints
+;*****************************
+#L_nav_01=Statek-baza
+#L_nav_02=Nasza lokalizacja
+#L_nav_03=Wewnêtrzny portal w Endoria

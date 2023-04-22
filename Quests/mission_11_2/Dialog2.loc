@@ -1,0 +1,15 @@
+;*****************************
+;Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Heretic
+#L_D2_msg00=Whoa, a portal vessel!
+#L_D2_ans00=Why should we care?
+#L_D2_msg10=This may be our ticket home. Oh, dammit!
+#L_D2_ans10=What now?!
+#L_D2_msg20=It's protected by an energy shield. We can't jump through.
+#L_D2_ans20=Then let's force our way through! Get the guns ready!
+#L_D2_msg30=Hey, cool down a bit. I have a surprise for them.
+#L_D2_ans30=(Dalej)

@@ -1,0 +1,13 @@
+;*****************************
+;Dialog13.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Alice
+#L_D13_msg00=Dammit! We don't have cover anymore!
+#L_D13_ans00=Kalem, can you take a look at our mothership? Let me send you the latest telemetry data.
+#L_D13_msg10=Sure thing. Hmm... Just a second... Well, I can do something, but I will need lots of spare parts and a whole lot of time. It has all the electronics burned out. I also wouldn't risk running the reactor, judging by the numbers.
+#L_D13_ans10=Damn! It seems we'll have to fly your transport.
+#L_D13_msg20=Come on, boss, this tub is still better than an escape pod. I've just picked up a strong signal from the station. I have no idea where it's going, but we better leave now.
+#L_D13_ans20=(Dalej)

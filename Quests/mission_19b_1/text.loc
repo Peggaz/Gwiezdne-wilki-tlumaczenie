@@ -1,0 +1,23 @@
+;*****************************
+; mission_19b_1
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_19b_01a=Wait for Aja.
+#L_Quest_19b_01b=Wait until Aja returns and tells you the latest news.
+#L_Quest_19b_02a=Reach the Riyadh Commerce Station.
+#L_Quest_19b_02b=Refugee transports are expecting you by the Riyadh Commerce Station. Hurry up, the enemy may attack any time.
+#L_Quest_19b_03a=Escort the transports to the portal.
+#L_Quest_19b_03b=Defend refugee transports until they jump into the Dalled portal.
+#L_Quest_19b_04a=Leave the system.
+#L_Quest_19b_04b=The Berserks are going to block all system exits. Don't waste time, run for it!
+
+;*****************************
+;Speeches
+;*****************************
+#L_Sedoy_01=That's it for us, boss.

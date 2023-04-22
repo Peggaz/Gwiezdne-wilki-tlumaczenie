@@ -1,0 +1,26 @@
+;*****************************
+;Dialog16.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m1_DispTriada
+#L_D16_msg00=Taihon station. Can I help you?
+#L_D16_ans00=I need to contact a Triada representative.
+#L_D16_msg10=One moment please.
+#L_D16_ans10=(Dalej)
+#L_D16_msg20=Whoa, you're impudent and stupid to throw yourself in Triada's way after handing over our men to the imperial butchers.
+#L_D16_ans20=Wait, I'm sorry about that, but I had no choice. The MSF wouldn't let me out of their sight. But I need no problems with Triada, so I'm willing to make up for my wrongdoing. I have vital information from your pilots. And I hope the imperials don't know about it yet.
+#L_D16_msg30=I'm listening.
+#L_D16_ans30=Before we were attacked, your pilots told me about the lost cargo vessel and transmitted the coordinates of its contents.
+#L_D16_msg40=Is the cargo still there?
+#L_D16_ans40=I have no idea, I haven't checked.
+#L_D16_msg50=Then you'll have to. And deliver it here. Then we'll consider your debt to Triada paid in full.
+#L_D16_ans50=Don't get me wrong, but I've already made up for it by telling you about the cargo. Besides, my ship isn't suited for roaming the outskirts. Any ill-tempered pirate or patrol will chew me up and spit me out.
+#L_D16_msg60=You've probably got me wrong. Without a doubt, your information is valuable and rest assured that our little issue has been settled. But you see, we don't have a spare transport at the moment. As for pirates, don't worry they won't touch you. Triada seldom asks free traders for services, but every good turn is rewarded.
+#L_D16_ans60=I do believe you, but still have to refuse.
+#L_D16_ans61=You should have said this before instead of threatening me. All right, I'll deliver the cargo.
+#L_D16_msg70=Well, you shouldn't have. You'll see why soon enough. Over and out.
+#L_D16_ans70=(Dalej)
+#L_D16_msg71=I'm glad we've come to an understanding. But I'm surprised to hear about threats, those never crossed my mind. Let's consider this a misunderstanding that won't spoil our friendship. But please hurry, every minute counts.
+#L_D16_ans71=(Dalej)

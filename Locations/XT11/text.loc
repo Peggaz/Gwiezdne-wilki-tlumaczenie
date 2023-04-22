@@ -1,0 +1,9 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;**************
+;Nav Points
+;**************
+#L_trade=Stacja Handlowa "Wynalazca" USS
+#L_hotel=Hotel "Bastion"
+#L_mine=Stacja wydobywcza "XR-6"

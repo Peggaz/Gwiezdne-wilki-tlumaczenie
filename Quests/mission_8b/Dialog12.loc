@@ -1,0 +1,12 @@
+;*****************************
+;Dialog12.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;PirateTough
+#L_D12_msg00=Why did you vanish, you dolt? They asked us to watch you, but you... Wait! Who's that? InoCo?! Brothers, attack!
+#L_D12_ans00=(Dalej)
+#L_D12_msg10=Partner, what should we do?
+#L_D12_ans10=Whack the pirates!
+#L_D12_ans11=InoCo ships are our target.

@@ -1,0 +1,16 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#L_nav_01=Portal do Sunji
+#L_nav_02=Portal do Prien
+#L_nav_08=Chmura py³u
+#L_nav_09=Punkt przechwycenia
+#L_nav_10=Jacht Larsa
+#L_nav_04=Stacja patrolu USS
+#L_nav_07=Baza g³owna USS
+#L_nav_05=Stacja USS
+#L_nav_06=Stacja zasilania USS
+#L_STO=Stacja konserwacyjna

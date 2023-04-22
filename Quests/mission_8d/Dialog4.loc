@@ -1,0 +1,40 @@
+;*****************************
+;Dialog4.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m8d_Patrol
+#L_D4_msg00=Gentlemen, I happened to overhear your conversation, and I think we can help each other out.
+#L_D4_ans00=I wonder how.
+#L_D4_msg10=In exchange for a small favor I shall take you through the Charon portal with no trouble.
+#L_D4_ans10=(Dalej)
+#L_D4_msg20=Boss, my left eye starts twitching when I hear the words "small favor".
+#L_D4_ans20=(Dalej)
+#L_D4_msg30=But this one is really small. You just need to deliver a package to someone at the Cherub Station. I can't do it myself for obvious reasons. In return, I can guarantee you safe passage through the portal.
+#L_D4_ans30=What's inside the package?
+#L_D4_msg40=I don't think that'll interest you.
+#L_D4_ans40=(Dalej)
+#L_D4_msg50=I see. Contraband.
+#L_D4_ans50=(Dalej)
+#L_D4_msg60=I prefer to call it an optional source of my pension funds. So, are you taking this job?
+#L_D4_ans60=All right, we agree.
+#L_D4_ans61=No way, pal. You'll have to settle this up yourself. We don't need anymore trouble.
+#L_D4_msg70=Great. I have a signed form allowing unimpeded passage for trade ships. We wanted to smuggle in some gunmen, but cancelled this operation. The form is still valid though. Now let's head for the portal. I shall do the talking. And, by the way, when you're in Charon, don't try to dock with other stations or the package will explode.
+#L_D4_ans70=Hey, you haven't mentioned a mine!
+#L_D4_msg80=I should have a guarantee you will deliver the cargo, shouldn't I? You'll find all the details in your log.
+#L_D4_ans80=If I knew those 'details', I'd never agree. By the way, do you know why Charon is off-limits?
+#L_D4_msg90=Sure. Because of Templars.
+#L_D4_ans90=(Dalej)
+#L_D4_msg100=Who?!
+#L_D4_ans100=(Dalej)
+#L_D4_msg110=Some very serious guys on some very powerful ships. No one had known about them until recently, so there are more rumors than facts. They say Templars are members of a secret society that is several thousand years old.
+#L_D4_ans110=(Dalej)
+#L_D4_msg120=Are they good fighters?
+#L_D4_ans120=(Dalej)
+#L_D4_msg130=I don't know and there's no one to tell - their enemies just vanish into thin space. But I guess Templars pack a punch, given all the forces the Empire has pulled in. But we're losing time. Let's head for the portal. Keep radio silence.
+#L_D4_ans130=(Dalej)
+#L_D4_msg71=So rash of you. I'm afraid I'll have to report you're trying to break through. You have two minutes to leave the system.
+#L_D4_ans71=(Dalej)
+#L_D4_msg81=Let's head for the portal, boss, while it's still quiet!
+#L_D4_ans81=(Dalej)

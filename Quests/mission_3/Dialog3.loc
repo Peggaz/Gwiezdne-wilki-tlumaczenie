@@ -1,0 +1,23 @@
+;*****************************
+;Dialog3.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D3_msg00=Hey there, boy, are you all right?
+#L_D3_ans00=I guess so.
+#L_D3_msg10=Fine, then hear the bad news: your life is coming to an end, and your death will be painful.
+#L_D3_ans10=Listen, if this is about money-
+#L_D3_msg20=It's about your brains! Were you even listening to them? Somebody has put out a contract on your life, pal. Don't ask me who that is, I don't know. But I'm your only chance to get out of this mess.
+#L_D3_ans20=Oh really?
+#L_D3_msg30=Oh yes. Working together, not only we'll eliminate the clan that is hunting you, but also capture their mothership. Which is a great, well-armored transport. What do you say?
+#L_D3_ans30=Are you sure you're sane?
+#L_D3_msg40=Why, are you a doctor? You don't look like one. What you really look like is a deadman-to-be. Boy, I don't have time to chew the basics over for you, so listen close. We can eliminate the clan of Breakneck who's been paid by someone to help you cross the Great Divide. But only if we work together. First stage: I get back and tell them we've stumbled upon an escorted transport instead of a lone client. Like, you whacked my partners and I managed to escape, but had time to beacon you. Pirates know that I'm only a scout, providing intel and such. They gut ships themselves, so they'll buy it. What you need is to find mercenaries to cover us and take out clan's main forces. By the way, there's a team hanging around the central station.
+#L_D3_ans40=What about the second stage?
+#L_D3_msg50=Let's complete with first one first, then talk about the rest. Meet me at the designated spot I'll give you the coordinates of. All right, boy, time's running out. So long.
+#L_D3_ans50=Wait, what's in it for you?
+#L_D3_msg60=A chance to wash off the dirt and start a new life. Enough for you?
+#L_D3_ans60=Perhaps. Another question: what's your name?
+#L_D3_msg70=Sheesh, I already regret I've met you. My name's Ternie, boy. I've been broadcasting this call sign exactly for our entire conversation. Now let's get down to business before I'll be really disappointed and missile your clunker.
+#L_D3_ans70=(Dalej)

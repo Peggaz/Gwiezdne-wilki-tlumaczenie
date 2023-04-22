@@ -1,0 +1,56 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Cleric
+#L_D1_msg00=Stopover! Please remain seated and don't pop your heads out of windows. The hyper engine will recharge in a few minutes and we'll jump to Hephaestus.
+#L_D1_ans00=(Dalej)
+#L_D1_msg10=Hephaestus? What business do we have there? We need to go to Prien!
+#L_D1_ans10=(Dalej)
+#L_D1_msg20=Actually we need to get to Vulcan, but even this ship isn't as good as to take us there in one jump. So there will be a stopover in Hephaestus. And what business do we have in Prien, may I wonder?
+#L_D1_ans20=(Dalej)
+#L_D1_msg30=Cleric, I don't know why the hell you're trying to enter InoCo's space again, but we're going to Prien and that's it!
+#L_D1_ans30=(Dalej)
+#L_D1_msg40=What do you mean that's it? I, for example, want to go to Valencia - to go shopping, to bathe in the sun... As a recently kidnapped girl, whose delicate life could have ended at any moment, I believe I have a right to rest, relax and treat my stress, nightmares and whatnot!
+#L_D1_ans40=(Dalej)
+#L_D1_msg50=I vote for this too. Besides, they grow fine cantaloupes on Valencia. Pirates weren't treating us to cantaloupes, which is a stress already. Joking aside, can anyone explain to me what have we forgotten in Prien or Vulcan?
+#L_D1_ans50=(Dalej)
+#L_D1_msg60=Sure. Unfortunately, our agent network idea wasn't much of a success. We weren't only hunting for money, we used to borrow modern eqipment, with manuals and such. Not the smartest tactics, I agree, but we badly needed to equip the fleet to protect traders. Information on all things we acquired was shared between all FTU coordinators, Cayer being one of them. And, unfortunately, he had time to share it, in turn, with the emperor, Imu and Kane. Now imagine what a fleet can this trio build with Old Empire's funds and USS manufacturing facilities in Vaudille and Sunji. While Min Imu will provide crews hired from pirates... The FTU flopped big time. We might have also unwillingly shaken people's faith in all free traders. The worst of all is that all trade will cease and we'll get a crisis that I've mentioned and that we have been trying to avoid. So I'm asking you to accompany me to Prien, from where we'll be able to attack the emperor hiding in Vaudille. Both Imu and Kane will be powerless without him.
+#L_D1_ans60=(Dalej)
+#L_D1_msg70=What a touching story. For you to know, Alex, that emperor is a petty shoplifter compared to the enemy that is threatening us all. Even if you get Azar, it won't help, as the doomsday countdown has already started. I said that I stole my ship from the previous owner, but I never mentioned who or what was it. And it was InoCo's new artificial intelligence, a bastard so cunning, powerful and quick with numbers that I barely managed to crack its protection and kill executables. I left the database though. Its name is SAM, an Superior Artificial Mind.
+#L_D1_ans70=(Dalej)
+#L_D1_msg80=Apparently the lesson of Berserks and Al hasn't taught InoCo's eggheads anything.
+#L_D1_ans80=(Dalej)
+#L_D1_msg90=Wait for the tastiest bit... Here it goes... Ta-da! That SAM wants to "upgrade" every human with a neurochip connected a global controlling network. It calls it "collective consciousness", but I'm not eager to join. And the cargo you've talked your ears off about is those very neurochips - the only batch, ready for insertion! There were some pilot samples, but they were no good. Now admit it, you're glad the good old Cleric has told you this. Also tell me that you share my idea of kicking tincan's electronic butt to become the heroes of all time and dominate the minds of chicks everywhere!
+#L_D1_ans90=(Dalej)
+#L_D1_msg100=I'll send a message to New Kyoto at once, so they hide the chips better.
+#L_D1_ans100=(Dalej)
+#L_D1_msg110=Well, this means no applause for me I guess... Alex, they need to be destroyed not hidden. SAM must be erased down to the last bit of data! To be honest with you, I'm scared to death. I don't want them to catch me, plug a chip into my brain and make me dance to machine's tune! That's why we need to head for Vulcan where that tincan resides.
+#L_D1_ans110=(Dalej)
+#L_D1_msg120=I can't provide enough support for assault on Vulcan, all our fighters have been gathering in Prien according to the plan. You know what... I'll message to Oliver Reynolds. Let InoCo deal with that computer.
+#L_D1_ans120=(Dalej)
+#L_D1_msg130=Yeah, you do that. But don't forget to type in "disciplinary cell" in the address field. Reynolds has been ousted from office, InoCo's security is to detain him on sight. This was in the database left from SAM. Why don't you want to realize the obvious?! We're all potential enemies for SAM. It's waiting for any major fight, in which we'll lose lots of ships! After that its Berserks will deliver a strike and that will be it for all of us!
+#L_D1_ans130=(Dalej)
+#L_D1_msg140=I've fought the Berserks, boss. That plague must be nipped in the bud. I think we should visit Vulcan.
+#L_D1_ans140=(Dalej)
+#L_D1_msg150=SAM-schmem, this is ridiculous. I'd prefer to stay away from these conflicts at all. Really, partner, for how much longer do we need to sort out others' mess?! Tell them, Kalem!
+#L_D1_ans150=(Dalej)
+#L_D1_msg160=I'm not much into military things, so decide without me. But if you want to do something to restore peace, I'm in it. I'm so tired of pirates, Berserks, imperial scuffles and such.
+#L_D1_ans160=(Dalej)
+#L_D1_msg170=Let's deal with the emperor first. Then we'll be able to enlist NESF's help to handle SAM. This will be smarter strategically.
+#L_D1_ans170=I agree. Let's hunt Azar down.
+#L_D1_ans171=Alex, what if Cleric is right and SAM has just been waiting for the right moment to stab us in the back? Let's deal with that crackpot computer first. The emperor will need time to build a fleet using those secret technologies he has stolen.
+#L_D1_msg180=Are we at cross-purposes with each other?! Azar is not our real enemy, SAM is!
+#L_D1_ans180=(Dalej)
+#L_D1_msg190=Cleric, start up the hyper engine, we'll heading for Prien.
+#L_D1_ans190=(Dalej)
+#L_D1_msg200=Damn... Mark my words, you'll be sorry about this!
+#L_D1_ans200=(Dalej)
+#L_D1_msg181=I knew you'd get me right! I knew it! Now we'll be heroes, I'm telling you!
+#L_D1_ans181=(Dalej)
+#L_D1_msg191=Don't try laurels on before you fire the first shot. All right, smart alecs, who's going to explain to me how we are supposed to assault a system on our own, with no backup? This team is fine all right, but we have to be reasonable about things.
+#L_D1_ans191=(Dalej)
+#L_D1_msg201=This isn't just a fine team, it's a superteam! Mega-team! Giga-team even! As for backup, I have an idea. I'll just send a message, if you don't mind... Fasten your seatbelts, ladies and gentlemen, and prepare for a trip to Hephaestus! Spacecraft Commander Cleric, the best in three galaxies, wishes you a safe journey and reminds that sickbags are under your seats.
+#L_D1_ans201=(Dalej)

@@ -1,0 +1,10 @@
+;*****************************
+;Dialog6.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;USSAgent
+#L_D6_msg00=Perfect. Cargoes jump first, we follow.
+#L_D6_ans00=No way. Something's wrong!
+#L_D6_ans01=All right. But remember, I'm watching your every move!

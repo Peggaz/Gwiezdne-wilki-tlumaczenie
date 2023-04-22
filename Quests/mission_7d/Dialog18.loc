@@ -1,0 +1,11 @@
+;*****************************
+;Dialog18.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Trader
+#L_D18_msg00=Are you mercenaries? Listen, if you take us to the nearest imperial sector, I'll pay you handsomely!
+#L_D18_ans00=A reward would be nice. Stay here, our convoy will arrive soon and then you join it. We'll check the way to the portal.
+#L_D18_msg10=Great! We'll wait!
+#L_D18_ans10=(Dalej)

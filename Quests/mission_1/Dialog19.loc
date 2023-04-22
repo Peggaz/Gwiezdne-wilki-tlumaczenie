@@ -1,0 +1,11 @@
+;*****************************
+;Dialog19.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Alex
+#L_D19_msg00=You're late. I've already started worrying if something bad happened. No trouble getting here?
+#L_D19_ans00=Getting here was such fun that I haven't completely recovered yet.
+#L_D19_msg10=That's something I do believe. All right, dock. We'll wet our whistles and hear your story.
+#L_D19_ans10=(Dalej)

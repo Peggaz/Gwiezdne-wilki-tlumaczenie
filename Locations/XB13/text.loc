@@ -1,0 +1,10 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#L_mine=Stacja wydobywcza "XR-3"
+#L_uss=Stacja USS
+#L_stores=Magazyny
+#L_relay=Bar "Jah Rastafari Szisza"

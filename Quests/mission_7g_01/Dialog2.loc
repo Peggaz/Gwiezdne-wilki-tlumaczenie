@@ -1,0 +1,15 @@
+;*****************************
+;Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D2_msg00=Partner, why the hell did we fly all the way to this place, if you decided to refuse a new ship?
+#L_D2_ans00=To assess the tactical situation.
+#L_D2_msg10=Have you finished?
+#L_D2_ans10=I have. And I find it not too favorable, given our current capabilities. So we'll have to stick to the old base.
+#L_D2_msg20=Fine. Where to now, partner?
+#L_D2_ans20=To the MSF HQ in New Jerusalem 2. Our license plates are clean, so they should have nothing against us. I'd very much like to know about all that fuss in Beta Lethera.
+#L_D2_ans21=To Triada's main HQ in Candela. Let's see what they have to say about special units, which had arrived before the attack.
+#L_D2_ans22=The investigation will wait. We have to make some money and get better hardware. I suspect our future will not be without difficult situations. I got a message from my friend Alex. He claims he has a good mission, right for a team like ours. We're heading for XT-54.

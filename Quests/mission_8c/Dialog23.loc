@@ -1,0 +1,17 @@
+;*****************************
+;Dialog23.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;VksOfficer
+#L_D23_msg00=Thanks for helping us. But we'd have managed on our own.
+#L_D23_ans00=Every gun counts in a fight.
+#L_D23_msg10=True enough! If only all civilians were helping authorities, we'd put space to rights in no time.
+#L_D23_ans10=(Dalej)
+#L_D23_msg20=What did those guys do to you?
+#L_D23_ans20=(Dalej)
+#L_D23_msg30=They were smugglers. While we're at war, they are living at rack and manger. But this bunch got what they deserved. And don't you worry, we'll get the rest sooner or later.
+#L_D23_ans30=Excuse us, officer, but we're in a hurry.
+#L_D23_msg40=Just a second. You earned a reward of 75,000 credtis for helping authorities. I have already reported to my higher-ups about your deed, you have their gratitude. Now you may leave. Good luck.
+#L_D23_ans40=Thanks! Have a peaceful time.

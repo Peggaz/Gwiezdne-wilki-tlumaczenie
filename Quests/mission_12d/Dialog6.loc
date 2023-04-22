@@ -1,0 +1,17 @@
+;*****************************
+;Dialog6.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;InocoOfficer
+#L_D6_msg00=Attention, ships, stop your engines and heave aback! You're under arrest.
+#L_D6_ans00=(Dalej)
+#L_D6_msg10=We're just repairmen!
+#L_D6_ans10=(Dalej)
+#L_D6_msg20=I repeat, stop your engines or we'll open fire!
+#L_D6_ans20=(Dalej)
+#L_D6_msg30=This is a special cybersecurity agent speaking. Transmitting the confirmation code. Guards, eliminate these hackers!
+#L_D6_ans30=(Dalej)
+#L_D6_msg40=Got it. Attacking.
+#L_D6_ans40=Why you!

@@ -1,0 +1,14 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#M_pstation_04=Stacja Patrolu
+#L_patrol=Stacja patrolu InoCo
+#L_trade=Stacja Handlowa "Merkury"
+#L_living=Siedlisko Olympus
+#L_cargo=Magazyn poboczny w Farles
+#L_ter1=Terminal G³ówny w Farles
+#L_ter2= Terminal poœredni w Farles
+#L_ter3=Terminal tranzytowy w Farles

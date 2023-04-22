@@ -1,0 +1,21 @@
+;*****************************
+;Dialog14.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D14_msg00=Hey, you're going to let him go. He ran this place!
+#L_D14_ans00=(Dalej)
+#L_D14_msg10=We don't care about him. But what were you doing by a pirate station?
+#L_D14_ans10=We are free traders and those pirates robbed us. We just want our cargo back!
+#L_D14_msg20=And this forced you to risk getting into the very pirate den? I can hardly believe it.
+#L_D14_ans20=We have good escort. If it weren't for you and your surrender screams, the pirate leader wouldn't have escaped! Where should we look for him now?! I will report on you to your higher-ups, oh yes I will!
+#L_D14_msg30=Hey, buddy, calm down. I'm not a rookie to be yelled at! As for the escaped pirate leader, I think we can come to an agreement. But it's not in my power to get your junk back from the base.
+#L_D14_ans30=But-
+#L_D14_msg40=But the Imperial Regulations provide for a 10,000-credit reward for helping law enforcers with pirate base destrution. Anyone will confirm your participation, so you should agree to my offer and leave the system. I'll let the portal patrol know to let you through. Over and out.
+#L_D14_ans40=(Dalej)
+#L_D14_msg50=Boss, we have a problem! Station reactor is going to explode any minute!
+#L_D14_ans50=(Dalej)
+#L_D14_msg60=All ships, get away from the station immediately! Move it!
+#L_D14_ans60=That's it, kiss our loot goodbye...

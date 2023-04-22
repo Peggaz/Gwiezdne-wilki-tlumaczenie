@@ -1,0 +1,26 @@
+;*****************************
+;Dialog11.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m1_DispTriada
+#L_D11_msg00=Taihon station. Can I help you?
+#L_D11_ans00=I need to contact a Triada representative.
+#L_D11_msg10=One moment please.
+#L_D11_ans10=(Dalej)
+#L_D11_msg20=Whoa, you're impudent and stupid to throw yourself in Triada's way after handing over our men to the imperial butchers.
+#L_D11_ans20=Wait, I'm sorry about that, but I had no choice. The MSF wouldn't let me out of their sight. But I need no problems with Triada, so I'm willing to make up for my wrongdoing. I have vital information from your pilots. And I hope the imperials don't know about it yet.
+#L_D11_msg30=I'm listening.
+#L_D11_ans30=Before we were attacked, your pilots told me about the lost cargo vessel and transmitted the coordinates of its contents.
+#L_D11_msg40=Is the cargo still there?
+#L_D11_ans40=I have no idea, I haven't checked.
+#L_D11_msg50=Then you'll have to. And deliver it here. Then we'll consider your debt to Triada paid in full.
+#L_D11_ans50=There's a little problem. I need protection. The cargo is in a dangerous quadrant, and my ship won't last a second even under light fire. Of course, you may pick up your cargo yourself.
+#L_D11_ans51=There's a little problem. The MSF is still on me. They've set up an ambush and I'm the bait.
+#L_D11_msg60=All right, I'll assign you a reliable escort. Besides, I can guarantee no pirate will touch you. Anything else?
+#L_D11_ans60=Nope. I'll deliver the cargo.
+#L_D11_msg61=That's a very interesting revelation.
+#L_D11_ans61=I've told you I'd like to stand well with your corporation.
+#L_D11_msg71=That's sensible of you. Well, I have an idea. I've transmitted instructions over a secure channel. You can go pick up the cargo now. Signal if anything happens, our ships will be nearby.
+#L_D11_ans71=(Dalej)

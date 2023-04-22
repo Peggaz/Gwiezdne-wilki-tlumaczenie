@@ -1,0 +1,13 @@
+;*****************************
+;Dialog14.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m7b_8b_Roem
+#L_D14_msg00=So how's it going?
+#L_D14_ans00=All is well except for one thing: we've encountered InoCo ships. What were they doing here?
+#L_D14_msg10=InoCo? Hmm... So the rumors were correct. Now get those satellites placed.
+#L_D14_ans10=Hey, no way. This place is crawling with InoCo fighters, and they are not to be trifled with.
+#L_D14_msg20=Wait. The satellites can be used to map enemy patrol routes. Not completely, but still better than nothing. I'll set it up. As for you, please finish the job you've started. Or it's no deal!
+#L_D14_ans20=All right, we'll place all the satellites. Let's go to the next spot.

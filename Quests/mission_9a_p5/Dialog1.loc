@@ -1,0 +1,23 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m9a_Pcholkin
+#L_D1_msg00=Huh? Who the hell is there again?
+#L_D1_ans00=(Dalej)
+#L_D1_msg10=Why so rude, Beekeeper?
+#L_D1_ans10=(Dalej)
+#L_D1_msg20=Oh, it's you, sir. Sorry for not recognizing you at once. How are you doing? I hope all is well. You disappeared so suddenly, there were rumors that you had nearly settled in a casino. Of course, I thought it was all lies-
+#L_D1_ans20=(Dalej)
+#L_D1_msg30=Don't pull my leg. These people are here for the cargo somebody has mistakenly entrusted you with. Time to hand it over and say good bye.
+#L_D1_ans30=(Dalej)
+#L_D1_msg40=What cargo? I don't get it, I really don't.
+#L_D1_ans40=Sending you the consignment notes.
+#L_D1_msg50=Beekeeper, do you feel well? Because I see you've forgotten who you're talking to. If your health is bad, I can mention your case history to certain people, and the next moment you'll be in at a health resort. Behind bars.
+#L_D1_ans50=(Dalej)
+#L_D1_msg60=Thank you, sir, but no thanks. I remember now what cargo you need. I have even found it. See, it's already in your cargo bay. Safe and sound.
+#L_D1_ans60=(Dalej)
+#L_D1_msg70=Oh, I'd never question your honesty, Beekeeper. I'm sure it's all right. Don't let us detain you any longer.
+#L_D1_ans70=(Dalej)

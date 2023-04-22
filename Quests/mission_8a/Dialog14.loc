@@ -1,0 +1,20 @@
+;*****************************
+;Dialog14.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m8a_Pirate
+#L_D14_msg00=Oh, we have visitors! Welcome to Pandora, travelers. To the only stronghold of true freedom and independence in the Phoenix Sector.
+#L_D14_ans00=What a surprise. Why, thank you.
+#L_D14_msg10=We are always glad to see guests, and our guests are always willing to pay a modest tax of 500 credits per ship. So, you have three fighters and that big clunker. Hmm, now add the tax... the transaction charge... and the bank fee... It's 3,000 credits total.
+#L_D14_ans10=Some math you have! I'm not paying this money.
+#L_D14_msg20=Freedom and independence are expensive these days. Besides, we have to maintain the portal. You have passed through already, by the way, which means you've used its services. So cough it up, dear guests. We want this to remain peaceful and quiet, right? Otherwise, I'll call in a larger force.
+#L_D14_ans20=More trophies for us then. Attack!
+#L_D14_ans21=I have more important things to do than to argue with you here. Transferring the money.
+#L_D14_msg31=Great. I knew you were a respected businessman.
+#L_D14_ans31=Now that we're past the formalities, there's something I want to know. I need a man by the name of Aylon. Where can I find him?
+#L_D14_msg41=Why do respected guests like you need that pain in the butt? He's still alive only because Marco is too kind!
+#L_D14_ans41=I'm waiting...
+#L_D14_msg51=Hey, buddy, it's just a warning. Stay away from the local riffraff, it would cost you dearly. Oh, and Aylon is at the Hamish Station.
+#L_D14_ans51=(Dalej)

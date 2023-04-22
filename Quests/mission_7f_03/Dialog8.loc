@@ -1,0 +1,11 @@
+;*****************************
+;Dialog8.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D8_msg00=Perhaps, we should have agreed, partner. We've spent so much time in search of that cursed cargo. It's such a pity.
+#L_D8_ans00=Too much obscurity and too many secrets on InoCo's part.
+#L_D8_msg10=I agree, boss. I don't like taking leaps in the dark, too. What now?
+#L_D8_ans10=I'm surprised that the MSF attacked the station my transports had been headed for. Let's try and find something out at the MSF HQ in New Jerusalem 2.

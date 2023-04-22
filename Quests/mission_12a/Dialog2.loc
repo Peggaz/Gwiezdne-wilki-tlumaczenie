@@ -1,0 +1,23 @@
+;*****************************
+;Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Tramp
+#L_D2_msg00=So you're the man the major has told me about.
+#L_D2_ans00=Told you what?
+#L_D2_msg10=That you have a problem, but also certain potential. That's a praise to be heard from Viper. As for your problem, I know but a few rumors about Greys, and those are discrepant.
+#L_D2_ans10=(Dalej)
+#L_D2_msg20=Not much...
+#L_D2_ans20=(Dalej)
+#L_D2_msg30=True enough. But while all my scouts have to stick around here, I can't assign another ship to check the collected data. I think that if you help me with a certain problem of mine, I'll be able to help you with yours.
+#L_D2_ans30=What do you need exactly?
+#L_D2_msg40=The neighboring system, which is strategically important for the Empire, went out of control and stopped shipping us osmium-190. We had conflicts with those miners before, but they never dared stop osmium-190 shipments. This made the emperor overlook their local political intrigues.
+#L_D2_ans40=Until miners carried those intrigues too far and the Empire decided to put an end to them.
+#L_D2_msg50=Correct. These are not mere intrigues now. The newly established government of Al-Zed is negotiating with Triada about exclusive osmium trading rights. Now force is the only way get these strategically important resource deposits back. And I badly need to know the size of enemy forces and their locations. Otherwise there will be collateral damage. You, a full member of the FTU, will success where my scouts have failed.
+#L_D2_ans50=All right, we'll play spies, but please find my partner.
+#L_D2_msg60=I'm going to send out two search parties. I have an idea where to look... Oh, and here's another request, by the way. Our men in other systems reported about passenger vessels coming from Al-Trabon. But we have registered none here, which means those ships are coming from Al-Zed.
+#L_D2_ans60=Refugees?
+#L_D2_msg70=Could be. Or saboteurs. Whatever they are, they get help from someone this side of the portal. It would be great if you find out who this is. If you manage to capture such a ship, it would be even better. If all passengers turn out to be civilians, they will be released, you have my word on that. But I wouldn't like to suddenly find a few well-armed strike teams nearby. The briefing is over, get moving. A special forces detachment of Captain Kishimov will escort you to the Al-Zed portal. I'll order to load your cargo bay with supplies and medicines. A humanitarian cargo is the best cover for such operations. Besides, you'll get all the necessary papers. Those are authentic -- obtained from a trader who tried to smuggle weapons among supplies.
+#L_D2_ans70=(Dalej)

@@ -1,0 +1,11 @@
+;*****************************
+;Dialog8.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D8_msg00=I'm detecting a small group of cloaked ships. It pretty much seems like a pirate ambush, it's their style. Well, well, what do we have here? A Butcher and two fighters.
+#L_D8_ans00=(Dalej)
+#L_D8_msg10=The Butcher is not a problem, just sit on its tail and it's done for. Too cumbersome. But the fighters will take some time. How should we distract them?
+#L_D8_ans10=Throw some dust in their eyes?

@@ -1,0 +1,19 @@
+;*****************************
+;Dialog5.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Sedoy
+#L_D5_msg00=What's next, boss?
+#L_D5_ans00=We'll search for Ternie.
+#L_D5_msg10=Sure thing, but where exactly?
+#L_D5_ans10=(Dalej)
+#L_D5_msg20=Let's try our luck with InoCo, perhaps?
+#L_D5_ans20=You mean corporators might be involved in this?
+#L_D5_msg30=No, of course not! It's just... You see, our group was to create a mathematical model to optimize corporate trade routes. So, the company let us access the trade vessel monitoring system. You entered engine signature and it showed us which portals that ship had jumped through.
+#L_D5_ans30=Jana, spare me the details. I need results, not methods. You said it required engine signatures. Do you have them?
+#L_D5_msg40=Well, I had time to read a few, but not all of them. You know, it has just become a habit since that project and-
+#L_D5_ans40=Excellent! And don't ever try to get out of it! Team, we'll going to pay InoCo a visit. I believe our passes are still valid.
+#L_D5_msg50=Aw, we'll have to drag through Hanoi again...
+#L_D5_ans50=Not again, but once more. And not to drag, but to sail through. Besides, I'm in the right mood to tan a few hides. Pirates'd better leave us alone. Off we go!

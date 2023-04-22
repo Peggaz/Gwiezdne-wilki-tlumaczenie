@@ -1,0 +1,37 @@
+;*****************************
+;Dialog10.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Kalem
+#L_D10_msg00=Damn, I lost their frequency. Give me a few minutes, I'll try selective scanning.
+#L_D10_ans00=(Dalej)
+#L_D10_msg10=Why should we bother eavesdropping? Let's just whack Azar and get out of there.
+#L_D10_ans10=(Dalej)
+#L_D10_msg20=Attention, attackers. This is Admiral Trump, MSF, speaking. I suggest that you cease fire immediately and leave Vaudille. The exit portal will be enabled, USS management promises to provide you a safe passage to Prien.
+#L_D10_ans20=(Dalej)
+#L_D10_msg30=Admiral, you're protecting the wrong guys! Azar, Kane and Imu are trying to manipulate you. Please, don't hamper.
+#L_D10_ans30=(Dalej)
+#L_D10_msg40=Who I should protect is none of your business. Thus I repeat: cease fire and leave. This is my last warning. Over and out.
+#L_D10_ans40=(Dalej)
+#L_D10_msg50=Got it! I found their new frequency. Just a second, I'll put in on air.
+#L_D10_ans50=(Dalej)
+#L_D10_msg60=And I'm telling you that protecting the station is our top priority!
+#L_D10_ans60=(Dalej)
+#L_D10_msg70=This is out of the question. Admiral, join our fleet and retreat to the station! We must withdraw as quickly as possible.
+#L_D10_ans70=(Dalej)
+#L_D10_msg80=Your Imperial Majesty, by order of the Crisis Committee you're under arrest and will be escorted to Earth to be tried by a military tribunal. The ships of your guards are to pass under my command, according to the Military Space Fleet Code, Section 5, Article 22. Here are the necessary confirmation codes.
+#L_D10_ans80=(Dalej)
+#L_D10_msg90=Codes accepted. We're under your command.
+#L_D10_ans90=(Dalej)
+#L_D10_msg100=It's an outrage!
+#L_D10_ans100=(Dalej)
+#L_D10_msg110=You will have time to object. All MSF teams, switch to the new frequency.
+#L_D10_ans110=(Dalej)
+#L_D10_msg120=They're taunting us! I'll try to adjust the scanner.
+#L_D10_ans120=(Dalej)
+#L_D10_msg130=Boss, shouldn't we just forget about Azar? Let them court-martial the bastard, and our job's done.
+#L_D10_ans130=(Dalej)
+#L_D10_msg140=Do you still believe in imperial justice? No way, we have to make sure Azar gets what he deserves. Let's head for the station, we'll intercept them there!
+#L_D10_ans140=(Dalej)

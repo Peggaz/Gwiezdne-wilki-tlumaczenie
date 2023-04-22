@@ -1,0 +1,52 @@
+;*****************************
+;Dialog8.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;AdmiralVKS_Heder
+#L_D8_msg00=Fine, we're here. Sappers, you know what to do. Combat teams, cover sappers. They are not to be distracted.
+#L_D8_ans00=(Dalej)
+#L_D8_msg10=Admiral Hader? What's going on here, may I wonder?
+#L_D8_ans10=(Dalej)
+#L_D8_msg20=We're curtailing the New Restoration Project. Emperor's orders. All data and equipment have to be destroyed. Admiral, you can take your men along and return to the front line.
+#L_D8_ans20=(Dalej)
+#L_D8_msg30=What do you mean destroyed?! Can I take a look at His Majesty's order? With all the necessary electronic signatures, of course.
+#L_D8_ans30=(Dalej)
+#L_D8_msg40=No, you can't. Admiral, don't be an idiot. Such orders are given in person, without documentary witness.
+#L_D8_ans40=(Dalej)
+#L_D8_msg50=In that case, I must ask you to leave the system. The New Restoration Project will be under my protection until I get an order from the emperor or the Admiralty.
+#L_D8_ans50=(Dalej)
+#L_D8_msg60=You're going too far! As a flag admiral of His Majesty I have a right to remove you from leadership or, if you go on being a stubborn ass, to arrest you. Take your men along and get out of my way!
+#L_D8_ans60=(Dalej)
+#L_D8_msg70=I know what rights you have, but your actions are illegal and may be considered high treason.
+#L_D8_ans70=(Dalej)
+#L_D8_msg80=This is unheard-of effrontery! Admiral, I dismiss you from leading this project as well as MSF forces in this system!
+#L_D8_ans80=(Dalej)
+#L_D8_msg90=Admiral James Hader, according to the Fleet Regulations, I arrest you on a charge of high treason, mutiny and attempted destruction of valuable MSF property. The charges have been logged and will be submitted to the tribunal.
+#L_D8_ans90=(Dalej)
+#L_D8_msg100=What are you mumbling there, you dunce?! I am the only emperor's representative here, and you're just an impudent beggar on horseback! Azar was right to throw you out of the HQ and send to Empire's back of beyond! Listen to me, soldiers of the MSF. This is His Majesty's Flag Admiral James Hader speaking. Admiral Trump has been removed from leadership and outlawed! Attack him with all you have! Anyone who disregards this order will be accused of treason and eliminated!
+#L_D8_ans100=(Dalej)
+#L_D8_msg110=Don't overstrain your voice. My men will defend this system to the death. And you have just become an enemy. I wonder how much you were paid for treason. And who bought you out - the NESF? Or maybe the Greys?
+#L_D8_ans110=(Dalej)
+#L_D8_msg120=Yeah, go on barking, you don't have much time left. Attention, sappers, stick to the plan.
+#L_D8_ans120=(Dalej)
+#L_D8_msg130=What should we do, boss?
+#L_D8_ans130=(Dalej)
+#L_D8_msg140=Let's get us some popcorn and watch the show.
+#L_D8_ans140=(Dalej)
+#L_D8_msg150=We have to help Trump!
+#L_D8_ans150=(Dalej)
+#L_D8_msg160=We're risking to get between the hammer and the anvil.
+#L_D8_ans160=Nothing. Let's get some beer and watch the show.
+#L_D8_ans161=Let's kill them all! They'll sort them in a better world!
+#L_D8_ans162=Let's help Trump!
+#L_D8_ans163="Trump must die". Hey, these are not my words! Somebody scratched it on my fighter's dashboard!
+#L_D8_msg170=Ooh, a movie with a presence effect! This is a great idea, partner!
+#L_D8_ans170=(Dalej)
+#L_D8_msg171=Oh, we shouldn't be involved in this.
+#L_D8_ans171=(Dalej)
+#L_D8_msg172=I agree! I'll try to pick his ship out!
+#L_D8_ans172=(Dalej)
+#L_D8_msg173=Why you parasites, I'll pay you back for it!
+#L_D8_ans173=(Dalej)

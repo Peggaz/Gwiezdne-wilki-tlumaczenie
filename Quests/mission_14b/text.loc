@@ -1,0 +1,37 @@
+;*****************************
+; mission_14b
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_14b_01a=Meet with Savay Tanaka.
+#L_Quest_14b_01b=Meet with Savay Tanaka in XT-05.
+
+;*****************************
+;Speeches
+;*****************************
+#L_Aia_01=Guys, I'll leave you for the moment to make sure our little revenge plan goes off without a hitch. You, in turn, will visit my friend Savay Tanaka. Let me send you the coordinates of his station in XT-05. He will explain the details and take you to the necessary system.
+
+#L_Aia_02=Don't touch that grey bastard! He's mine!
+#L_Alice_01=There's plenty for everyone.
+
+#L_Gray_01=Dammit! They've killed Cayer!
+#L_Aia_03=For you, father! Let's kill the rest!
+
+#L_Kair_01=Curses! Don't dawdle over that huckster, you lame dogs! Whack him already!
+
+#L_Kair_02=Idiots! Can't you handle a bunch of surface rats?! I'm calling in backup!
+#L_Sedoy_01=Now we're done for, boss.
+
+#L_unknown_01=Mission accomplished. Return to the HQ.
+#L_Sedoy_02=That's some ending. What was that?
+#L_Alice_02=It seems not everything is smooth in their nice family. But we'd better get away before new troubles arrive.
+#L_Sedoy_03=Boss, if I ever talk much before starting a fight, do stop me, all right? That's a typical cliche that always ends bad for the talker.
+#L_Lastochka_01=Another cliche is to hang around a battlefield, being a nice target for more grey lamebrains. It's high time to hit it, partner.
+#L_Aia_04=I agree. But I have to say I'd like to whack a few more grey scoundrels, just for the fun of it.
+
+#L_sys_01=That was your biggest mistake. Whatever happens next, you won't be a part of it.

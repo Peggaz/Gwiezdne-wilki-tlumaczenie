@@ -1,0 +1,13 @@
+;*****************************
+;Dialog23.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;USSOfficer
+#L_D23_msg00=Calling the trader. We managed to find the black boxes and read the data.
+#L_D23_ans00=We haven't picked anything up.
+#L_D23_msg10=Our equipment has some additional features. Anyway, I'd like to apologize for having doubts about your words. But I'd like to point out your pilots hadn't dealt with our men. According to the black boxes, our ships were just captured, their passcodes hacked. Unfortunately, our men are most likely dead... May those brave soldiers have a grand corporate party in the afterlife.
+#L_D23_ans10=I guess there's no sense in asking about the nature of cargo, because of which pirates had risked such a dangerous attack, is there?
+#L_D23_msg20=I'm afraid so. I can just tell you that the MSF was also after the cargo. But you can join us in the elimination of the pirate base - as a small moral compensation. This might be very funny!
+#L_D23_ans20=(Dalej)

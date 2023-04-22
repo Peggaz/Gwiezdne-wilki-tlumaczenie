@@ -1,0 +1,19 @@
+;*****************************
+;Dialog17.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;PirateTough
+#L_D17_msg00=We get seventy percent! We destroyed most MSF ships!
+#L_D17_ans00=(Dalej)
+#L_D17_msg10=Seventy?! Why not more?! If it weren't for our corvette, the imperial cruiser would have squashed you like bugs!
+#L_D17_ans10=(Dalej)
+#L_D17_msg20=Cruiser, hah! You arrived when we had neadly destroyed it!
+#L_D17_ans20=(Dalej)
+#L_D17_msg30=I saw that "nearly", it was tearing you to shreds. It's either fifty-fifty or start praying!
+#L_D17_ans30=(Dalej)
+#L_D17_msg40=Did radiation affect your brains? You're outnumbered two to one!
+#L_D17_ans40=(Dalej)
+#L_D17_msg50=More isn't the same as better! Get them, boys, and take the cargo!
+#L_D17_ans50=(Dalej)

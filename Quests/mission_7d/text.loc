@@ -1,0 +1,86 @@
+;*****************************
+; mission_7d
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_7a_a=Reach the MSF headquarters.
+#L_Quest_7a_b=MSF Security has to know everything about what happened in Beta Lethera 1. You just have to reach New Jerusalem 2 and find someone who would be willing to share this information.
+#L_Quest_7b_a=Reach Triada headquarters.
+#L_Quest_7b_b=Triada has to know everything about what happened in Beta Lethera 1. You just have to reach their main headquarters in Candela and find someone who would be willing to share this information.
+#L_Quest_7c_a=Reach the Mercenary Market.
+#L_Quest_7c_b=The debris of a ship, lacking any imperial or corporate labels, most likely belongs to a mercenary team. The Mercenary Market in Cassily has the biggest database on free fighters, but they won't share it remotely.
+#L_Quest_7d_a=Meet with Alex.
+#L_Quest_7d_b=Alex needs help in escorting a convoy, and his client is willing to pay good money. Alex will be waiting in XT-54. There's some free time to spend, but not much.
+#L_Quest_7d_01a=Reach the load station.
+#L_Quest_7d_01b=Take Alex's transports to the load station and dock with it.
+#L_Quest_7d_02a=Escort the convoy.
+#L_Quest_7d_02b=You must escort Alex's convoy along the route to XT-41, not losing a single transport.
+#L_Quest_7d_03a=Follow the convoy route.
+#L_Quest_7d_03b=Follow the convoy route to XT-52.
+#L_Quest_7d_04a=Eliminate the pirates.
+#L_Quest_7d_04b=Eliminate the pirates before their reinforcements arrive.
+#L_Quest_7d_05a=Wait for the convoy.
+#L_Quest_7d_05b=Wait for Alex's convoy to arrive.
+#L_Quest_7d_06a=Help the transport under attack.
+#L_Quest_7d_06b=Find the transport attacked by pirates and help it.
+#L_Quest_7d_07a=Check the ambush location out.
+#L_Quest_7d_07b=Check for pirates at the ambush location.
+#L_Quest_7d_08a=Get to the portal.
+#L_Quest_7d_08b=Get to the XT-41 portal.
+
+;*****************************
+;Speeches
+;*****************************
+#L_Alex_01=What, was the piracy more profitable? And I thought you were a friend.
+#L_trad_01=You bastards! You will pay for this!
+
+#L_Sys_01=Mission failed. You've lost at least one transport.
+
+#L_Hero_01=Now let's follow the convoy route to the XT-52 portal. Be very cautious!
+#L_Sedoy_01=Nothing gets past this scanner unnoticed, boss!
+
+#L_Alex_09=We're under attack! I repeat, we're under attack! Escort, where are you, dammit?! Get here quickly, we won't hold out for lo...
+
+#L_pir_01=Is it the escort we have to deal with?! Man, what's a poor show. All right, boys, let's whack the rookies and take the convoy with bare hands!
+#L_Sedoy_02=Boss! Hit the corvette from behind!
+
+#L_Hero_02=Don't bother hiding. We were told you would be expecting us here.
+#L_pir_02=Are you that support Franco has promised?
+#L_Sedoy_03=We are. But no one told us what would we have to support.
+#L_pir_03=Oh, it's easy as pie. We need to rob imperial transports. They are poorly guarded, so we'll capture them with bare hands.
+
+#L_pir_04=Franco sent us... Hey! They told us you would have a Butcher!
+#L_Sedoy_04=The Butcher was replaced by Trouble at the last minute.
+#L_pir_05=What the hell is that?
+#L_Sedoy_05=Let me explain.
+
+#L_Hero_03=Alex has already left with the convoy, so I believe we need to move on too. This place is clear, now we need to check the portal out.
+
+#L_Alex_02=Great job.
+#L_Hero_04=It's too early to rest yet. All right, we'll move on, you follow.
+
+#L_Sedoy_06=Damn! We're too late.
+
+#L_Lastochka_01=It's so nice to see it's still the good old space. Scavengers have failed to cut the melon yet again.
+#L_Sedoy_07=I suggest we watch the show from here. I have some popcorn.
+
+#L_Alex_03=We're under attack! I repeat, we're under attack! Calling the escort, where are you...
+
+#L_Lastochka_02=Partner, I received a message from your friend. Sharing now.
+#L_Alex_04=Friends, thank you so much for the escort, we'd never make it without you. It was strange that you didn't wait for me at the portal. And I was even more surprised that you weren't in XT-41. Where did you go? Well, you probably had matters to attend to. Anyway, you've performed the contract in full, and I'll transfer the money. I have some other business right now, but I will contact you soon. Good luck.
+#L_Alex_05=What's going on here? MSF ships, cease fire immediately. We're delivering an imperial cargo and that's our escort! Transmitting IDs now.
+#L_vks_01=Damn, I have to apologize. We got to know about pirates attacking transports in this system and accidentally mistook your guards for criminals. I'm really sorry, this happens. Move on, they are waiting for the cargo.
+#L_Alex_08=MSF ships, we're delivering an imperial cargo and that's our escort! Transmitting IDs now.
+#L_vks_02=Move on, they are waiting for the cargo.
+#L_Hero_05=Some welcoming party that was! I had lots fun, I don't think.
+#L_Lastochka_03=What should we do now, partner?
+#L_Hero_06=Let's wait for Alex at the portal. Considering our encounter with thick skulls, there might be another welcoming committee on the other side.
+
+#L_Alex_06=Is everything all right?
+#L_Hero_07=More or less.
+#L_Alex_07=Fine. Then let's head for the final destination - XT-41.

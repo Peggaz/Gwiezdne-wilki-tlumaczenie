@@ -1,0 +1,25 @@
+;*****************************
+;Dialog5.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Tramp
+#L_D5_msg00=Are you ready?
+#L_D5_ans00=That depends.
+#L_D5_msg10=You have a point. I can't stop worrying about the ship they've detected. It seems Viper was right, and our lieutenant friend came here not only to invite us.
+#L_D5_ans10=(Dalej)
+#L_D5_msg20=Do you mean the peace conference is cancelled? Just great!
+#L_D5_ans20=(Dalej)
+#L_D5_msg30=No, we can't lose a chance to make peace. But I don't want them to stack the deck. Lieutenant's information has serious - and most likely intentional - gaps. But we can fill them with the data Viper has collected. We must find out what goals those Greys are pursuing. Which means we'll have to visit them before the conference.
+#L_D5_ans30=Where at, if that's not a secret?
+#L_D5_msg40=The FTU Headquarters in New Kyoto.
+#L_D5_ans40=(Dalej)
+#L_D5_msg50=I say!
+#L_D5_ans50=(Dalej)
+#L_D5_msg60=My thoughts exactly. Though, on the other side, free traders are a perfect cover for any kind of activity. No one asks you too much questions about where you go and what you deliver. And no one knows how much money you have. If there's anyone to build a fleet by means of imperial or corporate funds, it must be you. As wise men say, if you're out of possible explanations, it's the impossible one you're looking for.
+#L_D5_ans60=(Dalej)
+#L_D5_msg70=I hate philosophy...
+#L_D5_ans70=(Dalej)
+#L_D5_msg80=Then let's get down to actions. Initiating hyper jump procedure.
+#L_D5_ans80=(Dalej)

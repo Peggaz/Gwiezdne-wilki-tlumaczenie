@@ -1,0 +1,12 @@
+;*****************************
+;Dialog13.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;VksAce
+#L_D13_msg00=General alert, perimeter breach!
+#L_D13_ans00=(Dalej)
+#L_D13_msg10=So it has begun. Boss?
+#L_D13_ans10=Cover the portal!
+#L_D13_ans11=Get them away from the portal!

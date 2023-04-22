@@ -1,0 +1,9 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#L_Trade=Centrum Handlowe "Diament"
+#L_STO=Stacja konserwacyjna Pata
+#L_Name_PStation=Stacja patrolu Triady

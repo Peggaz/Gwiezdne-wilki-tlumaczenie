@@ -1,0 +1,10 @@
+;*****************************
+;Dialog3.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D3_msg00=Where to now, partner?
+#L_D3_ans00=Well, we sure got nothing from the MSF. I think we need to find out about the debris we've stumbled upon. Let's head for the Mercenary Market in Cassily.
+#L_D3_ans01=You were right, I shouldn't have visited this place. All right, let's set the investigation aside for a while and improve our financial status. My friend Alex is offering a well-paying mission. Let's go to XT-54.

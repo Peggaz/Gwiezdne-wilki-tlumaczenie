@@ -1,0 +1,31 @@
+;*****************************
+;Dialog10.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m9c_Guard
+#L_D10_msg00=Will there be an end to them?!
+#L_D10_ans00=Captain, what's the status of our forces by the mine? Time to call for backup.
+#L_D10_msg10=The radio is silent, we're trying to fight back on our own.|What's on scanners? Recon teams, I need a report.
+#L_D10_ans10=(Dalej)
+#L_D10_msg20=It's clear. Pirates are regrouping by the portal, but we haven't seen them going deeper into the system. Captain, the mining station is sending backup.
+#L_D10_ans20=(Dalej)
+#L_D10_msg30=At least some good news.
+#L_D10_ans30=(Dalej)
+#L_D10_msg40=Captain, sir! We managed to hide the evac transports with women and children deep in the system. But a rigged transport broke through to the station and caused heavy casualities. We sent backup as soon as we could.
+#L_D10_ans40=(Dalej)
+#L_D10_msg50=Are you all there is?!
+#L_D10_ans50=(Dalej)
+#L_D10_msg60=Yes, captain. All who could get here.
+#L_D10_ans60=(Dalej)
+#L_D10_msg70=The pirates are disorganized right now, blaming each other. But soon they'll attack us with all they have. And then we'll be done for.
+#L_D10_ans70=(Dalej)
+#L_D10_msg80=That's what I'm afraid of as well. We need to attack the pirates first before they come to their senses.
+#L_D10_ans80=(Dalej)
+#L_D10_msg90=You're crazy! We've barely survived.
+#L_D10_ans90=(Dalej)
+#L_D10_msg100=If we sit out here, no one will survive, so we have no choice. Men, you did great defending the station. I hope your bravery will also be with you, when we attack the pirates.
+#L_D10_ans100=Bravery alone isn't going to win us this fight.
+#L_D10_msg110=Who say about bravery alone? I have a few decent fighters at the station, you may take them. I guess this increases your chances to win. Re-arm and get to the attack spot that I'll mark on the map. Remember, time is of the essence.
+#L_D10_ans110=(Dalej)

@@ -1,0 +1,23 @@
+;*****************************
+;Dialog13.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D13_msg00=Ternie, was your clan a serious one?
+#L_D13_ans00=(Dalej)
+#L_D13_msg10=First off, it wasn't mine. I prefer to think I was a burden to them. As for being serious, that clan was pure riffraff. Dumb, cowardly and thus especially cruel. All serious clans have long been in Hanoi, Cadi, Prien.
+#L_D13_ans10=What were you doing among those guys?
+#L_D13_msg20=You're funny. Do you think I've chosen that path myself? I was doing my best to survive.
+#L_D13_ans20=Care to explain?
+#L_D13_msg30=My, aren't you curious. All right. In brief, I was on a ship, it was attacked by Breakneck's goons, the crew was murdered, passengers were taken away - for ransom or to be sold. I was luckier, end of story. Happy now?
+#L_D13_ans30=Not quite. I find it strange that pirates decided to let you into the team all of a sudden.
+#L_D13_msg40=It wasn't all of a sudden. It was because of certain skills of mine. Like carrying rare and valuable things past customs officers unnoticed to sell them later.
+#L_D13_ans40=Ah, smuggling.
+#L_D13_msg50=I call it "duty-free deliveries". I had to make a living, mind you! Besides, I never messed with guns, drugs or espionage, and secretly delivering goods into another sector was kind of fun. I couldn't even think this would save my life someday. Though not for long. You see, though Breakneck somehow managed to reach as far as Golkonda and Corrino, he only knew a couple of go-betweens who offered him knockdown prices. Thus my customer base turned out to be so useful that he accepted that I didn't take part in their fun, which was raids and gunfights. Besides, I also didn't have to sleep with anyone. Still that bastard recorded my every meeting. In other words, I wasn't a real part of the team.
+#L_D13_ans50=Didn't you try to run away?
+#L_D13_msg60=Jeez, partner, your words make me want to escape in a pod and never see you again. Run away to where? To a nearest station, only to be shot on sight by guards? Or burn in some planet's atmosphere while trying to land a fighter? Portals were out of the question too, because of the total tonnage issue. If you attended physics lessons in school, you should know that a single fighter would be torn apart inside a portal. So I had to tag along with those frat boys until an opportunity turned up. Along with you.
+#L_D13_ans60=What opportunity?
+#L_D13_msg70=You see, once Breakneck started making more credits - thanks to yours truly - he went too far. He squabbled with the Laszlo brothers and they launched two thirds of his goons into eternity while those were tanking up in Achilles. Breakneck barely escaped. Then the Laszlos locked us up in there and Breakneck, not the sanest person in space, lost it completely. He started barking at everyone, especially at me. He blamed me for everything and whatnot. Were you a few days late, you would probably find me with my throat cut open. In other words, you were just in time and I owe you. But not as much as to go on talking about all this, ok? You may just nod, don't reply. Fine. Now let's focus on the flight. Breakneck is past, and I hope he's burning in hell right now.
+#L_D13_ans70=(Dalej)

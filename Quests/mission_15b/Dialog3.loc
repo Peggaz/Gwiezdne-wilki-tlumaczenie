@@ -1,0 +1,13 @@
+;*****************************
+;Dialog3.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Kalem
+#L_D3_msg00=I think you'll want to hear this. I messed with power circuitry a bit, hoping to fine-tune your mothership to fly faster, shoot more accurately and whatnot. I found out that some equipment is hardwired to the reactor and can probably drop reactor rods on command from the outside. In other words, we might get blown up if someone presses a button on some remore control.
+#L_D3_ans00=(Dalej)
+#L_D3_msg10=Well done, Aja. Gave a bomb to fly. Attagirl. She did learn a lot from Triada.
+#L_D3_ans10=Kalem, can you disable this circuit?
+#L_D3_msg20=I doubt that and I won't eventry. Breaking or changing is the same as pressing the self-destruct button.
+#L_D3_ans20=Well, then I have one more question to ask Tanaka. Let's visit the station, time to dot the i's.

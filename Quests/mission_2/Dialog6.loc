@@ -1,0 +1,20 @@
+;*****************************
+;Dialog6.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Donneli
+#L_D6_msg00=Sir, this is embarrassing, but may I have a minute of your precious time?
+#L_D6_ans00=I'm listening.
+#L_D6_msg10=You see, I'm in bad. I urgently need to submit the genealogy of our family, which counts over twenty generations, to the Imperial Court to prevent a bunch of lowly renegades from capturing my patrimonial system. Also, I was granted an audience with the emperor. It concurs and I can't be in two places at the same time. If I don't submit the genealogy, our family will loose the patrimonial system. But if I miss an audience with our suzerain, I'll lose my head, literally.
+#L_D6_ans10=I don't see how I can help...
+#L_D6_msg20=Oh, I'm just asking you to meet my cousin not far from here and give him this package. I see you're in a hurry, so I'm willing pay you 25,000 credtis to make up for it.
+#L_D6_ans20=The sum is good, but I have to refuse. Time is of the essence.
+#L_D6_ans21=This sounds good. Give me your genealogy.
+#L_D6_msg30=But, sir, please understand-
+#L_D6_ans30=Mister Donelly, I'm really sorry, but I can't help you. Good luck.
+#L_D6_msg31=Oh, you're a big heart! All our family is in your debt. There's one more thing. This document is very valuable, and certain people will do anything to destroy it. Along with the courier, mind you! So, please don't tell anyone about our deal, for your own good.
+#L_D6_ans31=I understand. What about the money?
+#L_D6_msg41=My cousin will pay you on delivery. He's at the yacht named "Illumino" right now. Good luck, and try to avoid unnecessary converstations.
+#L_D6_ans41=(Dalej)

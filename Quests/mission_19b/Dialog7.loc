@@ -1,0 +1,15 @@
+;*****************************
+;Dialog7.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Aia
+#L_D7_msg00=Curse those tincans! We lost the transports.
+#L_D7_ans00=(Dalej)
+#L_D7_msg10=But managed to stay alive so far! Boss, time to scram. We can't help anyone here. Aja, can we jump?
+#L_D7_ans10=(Dalej)
+#L_D7_msg20=No, dammit! The spring is discharged!
+#L_D7_ans20=(Dalej)
+#L_D7_msg30=Just why am I so calm? I probably knew it would come to this. Though it was fun, partner.
+#L_D7_ans30=(Dalej)

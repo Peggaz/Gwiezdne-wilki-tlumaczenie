@@ -1,0 +1,14 @@
+;*****************************
+;Dialog12.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D12_msg00=Partner, I picked up a distress signal. The ship has a trader ID.
+#L_D12_ans00=We should find the signal source. But keep your eyes open, it may be a trap.
+#L_D12_ans01=It must be another trap. Ignore and move on.
+#L_D12_msg10=There it is. Let's filter it out... I'm detecting 4 fighters and a transport. Partner, we need to hurry, if we want to see it in one piece!
+#L_D12_ans10=(Dalej)
+#L_D12_msg11=As you say, boss.
+#L_D12_ans11=(Dalej)

@@ -1,0 +1,19 @@
+;*****************************
+;Dialog5.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Sedoy
+#L_D5_msg00=I told you it was their den. It was nice knowing you, fellows.
+#L_D5_ans00=(Dalej)
+#L_D5_msg10=You're taking what's not yours. Items, lives.
+#L_D5_ans10=(Dalej)
+#L_D5_msg20=We're only examining. We mean no offence.
+#L_D5_ans20=(Dalej)
+#L_D5_msg30=The place of our ancestors. The place of sorrow. Leave. This is our legacy, not yours.
+#L_D5_ans30=(Dalej)
+#L_D5_msg40=Wait! Allow us to study your nation, your great achievements. We could use this knowledge for the common good.
+#L_D5_ans40=(Dalej)
+#L_D5_msg50=No. You won't understand. It's too early for you. Leave. You've been warned. Don't come back. Or your worlds will become your graves. Spread these words among your kind. Leave...|Follow the path. Deviate and you'll die.
+#L_D5_ans50=(Dalej)

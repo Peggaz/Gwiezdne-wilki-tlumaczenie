@@ -1,0 +1,13 @@
+;*****************************
+;Dialog25.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Dispetcher
+#L_D25_msg00=What, you again? Shooting again?! I can't bear this!
+#L_D25_ans00=Calm down, it's all right this time. We're ready for loading.
+#L_D25_msg10=I'll never get rid of that cursed cargo. It might as well chase me in the afterlife...
+#L_D25_ans10=Ok, we're done, moving out. The next destination is Debris 4. Good luck, station, thanks for the help.
+#L_D25_msg20=Are you jeering at me? I should've listened to wise people who told me to leave this back of beyond. To hell with business, I have to save my hide. Why didn't I listen to them in due time?..
+#L_D25_ans20=(Dalej)

@@ -1,0 +1,25 @@
+;*****************************
+;Dialog11.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Tramp
+#L_D11_msg00=So, lieutenant, what do I owe your visit to?
+#L_D11_ans00=(Dalej)
+#L_D11_msg10=Admiral, I'm here with an official message.
+#L_D11_ans10=(Dalej)
+#L_D11_msg20=Yeah, yeah, I heard that. Lieutenant, I can't say I haven't expected NESF to arrive to this sytem, but I'm somewhat surprised that your higher-ups have decided to send a courier instead of a fleet. If I get it all right. So, let's cut the official part out and proceed to the chase.
+#L_D11_ans20=(Dalej)
+#L_D11_msg30=All right. Admiral, Corsair asked me to tell you that the New Empire needs your help.
+#L_D11_ans30=(Dalej)
+#L_D11_msg40=And why do you think I would be willing to provide it?
+#L_D11_ans40=(Dalej)
+#L_D11_msg50=Admiral, I beg your pardon, but such decisions, especially given the circumstances, are out of my authority. Corsair, acting on behalf of the empress, would like to discuss an armistice between the MSF and the NESF. Besides, I've already said, he needs help in the fight against our common enemy - the organization capable of inflicting a huge damage to all Outer Worlds. The latter uses very noticeable grey fighters. I'm authorized to give you our intel on the Greys. And the digital signature of the empress that will allow you free passage and security on the New Empire territories.
+#L_D11_ans50=(Dalej)
+#L_D11_msg60=Upload it, then. We'll take a look. Where is that meeting to happen, again?
+#L_D11_ans60=(Dalej)
+#L_D11_msg70=In Eridan.
+#L_D11_ans70=(Dalej)
+#L_D11_msg80=Get to the station, you won't be harmed. I will join you in a few minutes, as soon as I finish some urgent business.
+#L_D11_ans80=(Dalej)

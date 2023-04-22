@@ -1,0 +1,25 @@
+;*****************************
+; mission_7c
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_7c_a=Reach the Mercenary Market.
+#L_Quest_7c_b=The debris of a ship, lacking any imperial or corporate labels, most likely belongs to a mercenary team. The Mercenary Market in Cassily has the biggest database on free fighters, but they won't share it remotely.
+#L_Quest_7e_a=Meet with Alexandra Sukhova.
+#L_Quest_7e_b=Lieutenant Alexandra Sukhova, NESF, was on cases similar to the convoy assault. She's currently in the Gideon system.
+
+;*****************************
+;Speeches
+;*****************************
+#L_Lastochka_01=Some ride that is! Did those cutthroats really need to settle that far?!
+#L_Sedoy_01=Boss, trouble! We need to help the boys!
+
+#L_Sedoy_02=What an interesting coincidence.
+#L_Hero_01=I noticed. I suspect we won't get the information we need that easy. All right, let's move.
+
+#L_Lastochka_02=What a weirdo!

@@ -1,0 +1,32 @@
+;*****************************
+;Dialog3.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;VksAce
+#L_D3_msg00=Attention, unknown ships. Flying is prohibited in this part of space. Settle on the back course.
+#L_D3_ans00=(Dalej)
+#L_D3_msg10=I am Major Viper, Imperial Security, Capricorn Sector. Here are the ID and clearance codes.
+#L_D3_ans10=(Dalej)
+#L_D3_msg20=Your clearance is fine, major, but I have to insist. This part of space is in the state of emergency. Please leave.
+#L_D3_ans20=(Dalej)
+#L_D3_msg30=Captain, we didn't come here to turn round and go back. I have information vital for His Imperial Majesty's safety. You have rats, captain, very dangerous rats in the emperor's retinue. I know the name of one of them, but while we are arguing here, other rats may panic and do the irreparable. So quit hanging a leg and get me my boss General Bentley on the phone.
+#L_D3_ans30=(Dalej)
+#L_D3_msg40=Unfortunately, the general is out of this system right now.
+#L_D3_ans40=(Dalej)
+#L_D3_msg50=Then let me talk to His Majesty, damn you! You know I have a right for this in emergency situations, and this is just the case!
+#L_D3_ans50=(Dalej)
+#L_D3_msg60=All right, I shall deliver your request to the high command. In the meantime you should stay put. I'm warning you, trying to move without permission will be considered an act of hostility. Over and out.
+#L_D3_ans60=(Dalej)
+#L_D3_msg70=He shall deliver the request... I don't like this, boss. The high command may easily deliver us to undertakers.
+#L_D3_ans70=You're right, we'd better split our forces.
+#L_D3_ans72=I'm not a paranoiac, but I don't like this too. We're in full view like a comet in starless space.
+#L_D3_msg82=Major, your request has been granted. You will now contact His Imperial Majesty over a directional beam, so you will have to get to the designated spot I shall mark.
+#L_D3_ans82=(Dalej)
+#L_D3_msg92=This sounds reasonable. We're moving out.
+#L_D3_ans92=(Dalej)
+#L_D3_msg102=Major, you got me wrong. By "you" I meant you alone and, perhaps, one soldier, but no more.
+#L_D3_ans102=(Dalej)
+#L_D3_msg112=I see. All right, team, you will have to wait for me here, I'll take your skipper along. Try not to flop it.
+#L_D3_ans112=(Dalej)

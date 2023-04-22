@@ -1,0 +1,23 @@
+;*****************************
+;Dialog7.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Sedoy
+#L_D7_msg00=Plasma be damned!
+#L_D7_ans00=What now?
+#L_D7_msg10=Our hacker has vanished!
+#L_D7_ans10=What? How?!
+#L_D7_msg20=How should I know, boss?
+#L_D7_ans20=(Dalej)
+#L_D7_msg30=That's his style all right. No electronic lock can stop that boy. Apparently, he managed to get the pod online and activated the reset procedure.
+#L_D7_ans30=(Dalej)
+#L_D7_msg40=What about the emergency beacon?
+#L_D7_ans40=(Dalej)
+#L_D7_msg50=Come on, Greyhair, even I can disable it.
+#L_D7_ans50=We can't leave him adrift in space. Let's look for the pod.
+#L_D7_msg60=Don't worry. He decided to wait until we get away. Then he'll drop from the clouds on someone. This is not the first time it happens.
+#L_D7_ans60=Well, if that's the case... Um, this still isn't right.
+#L_D7_msg70=Just don't you worry, he'll be fine. We, in turn, have to hurry.
+#L_D7_ans70=(Dalej)

@@ -1,0 +1,11 @@
+;*****************************
+;Dialog19.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;VksOfficer
+#L_D19_msg00=Attention, transport. Stop immediately!
+#L_D19_ans00=I'm just a free trader.
+#L_D19_msg10=I repeat, stop your engines or we'll open fire.
+#L_D19_ans10=(Dalej)

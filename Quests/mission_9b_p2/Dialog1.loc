@@ -1,0 +1,55 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;USSOfficer
+#L_D1_msg00=Mister Director, are you all right? Our team that had been dispatched to Cadenoa was ambushed.
+#L_D1_ans00=(Dalej)
+#L_D1_msg10=Are men safe?
+#L_D1_ans10=(Dalej)
+#L_D1_msg20=They are. As soon as the attackers realized you weren't with us, they retreated and we picked up escape pods.
+#L_D1_ans20=(Dalej)
+#L_D1_msg30=That's good news. Right now we're heading for Al-Ariash. Contact the main HQ and tell them to assemble the board of directors for an urgent meeting. One second, I'll send you the confirmation code. Oh yes, and let them send another team to Hanoi to meet us. We're not through troubles yet.
+#L_D1_ans30=(Dalej)
+#L_D1_msg40=Of course, mister director.
+#L_D1_ans40=(Dalej)
+#L_D1_msg50=Now you, my friend. What would I be doing without you? I owe you and I shall pay you back. For now, here's the money I've promised. I wish we could save the satellite, but what's done is done. I beg your pardon, but I have to leave. They'll escort me to the station, don't worry. Thanks again. Contact me, if anything happens. Alice, let's go.
+#L_D1_ans50=(Dalej)
+#L_D1_msg60=I'm not going.
+#L_D1_ans60=(Dalej)
+#L_D1_msg70=Come again? I need you so much right now.
+#L_D1_ans70=(Dalej)
+#L_D1_msg80=Sorry, Ethan, but my USS career is over. I have all the information I could get by means of corporate channels.
+#L_D1_ans80=(Dalej)
+#L_D1_msg90=I see... It's a real pity that you're leaving. Where will you go now?
+#L_D1_ans90=(Dalej)
+#L_D1_msg100=I'll ask your friends if I can join. Perhaps, flying with them will get me more information about my daughter.
+#L_D1_ans100=(Dalej)
+#L_D1_msg110=Well... We shouldn't say goodbye yet, I guess. I hope your search will be successful. And I also hope you'll join the corporation again in due time. Good luck, friends.
+#L_D1_ans110=Alice, what was he talking about? A search?
+#L_D1_msg120=For my daughter. She went missing in the early days of the war during a pirate raid on an evac transport.
+#L_D1_ans120=(Dalej)
+#L_D1_msg130=Where did it happen?
+#L_D1_ans130=(Dalej)
+#L_D1_msg140=Centaur Sector, XT-23.
+#L_D1_ans140=(Dalej)
+#L_D1_msg150=Quite far away...
+#L_D1_ans150=Have you been there?
+#L_D1_msg160=On the first occasion. But to no avail - no tracks, nothing. I tried using everything: agents, detectives, informers, USS intel network... No luck.
+#L_D1_ans160=(Dalej)
+#L_D1_msg170=Don't give up. I was MIA since the war started, but here I am again, safe and sound. So don't lose hope.
+#L_D1_ans170=(Dalej)
+#L_D1_msg180=Hope is all I got. I'd like to join your team. You're mobile, not bound by corporate red tape, you're traveling freely around systems and meet all kinds of people. With you, I have more chances to find my girl. In return, I can offer you my skills and corporate connections. I'm a decent pilot, know missile equipment and battle tactics.
+#L_D1_ans180=Alice, you're overestimating our capabilities.
+#L_D1_msg190=Believe me, you can do more than a corporation employee. Besides, Ethan promised to get on with the investigation, so I'll be able to search in several directions at once. My problems won't be a burden to you, I promise. I'll follow your every order.
+#L_D1_ans190=(Dalej)
+#L_D1_msg200=Partner, our answer is yes.
+#L_D1_ans200=(Dalej)
+#L_D1_msg210=The backseat says yes.
+#L_D1_ans210=Hey, I wasn't going to refuse. Alice, welcome to our traveling circus. Our funds are not vast and ships are not the best, but fun is abundant.
+#L_D1_msg220=Thank you. You won't be disappointed.
+#L_D1_ans220=(Dalej)
+#L_D1_msg230=Boss, now that we're past the formalities, what are we going to do now?
+#L_D1_ans230=Honestly? I don't know. Let's find a quiet spot and ponder on our next move.

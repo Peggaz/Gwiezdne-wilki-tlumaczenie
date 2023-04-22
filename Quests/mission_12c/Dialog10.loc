@@ -1,0 +1,13 @@
+;*****************************
+;Dialog10.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m12_LinerPilot
+#L_D10_msg00=We're good to go.
+#L_D10_ans00=Great. Now listen very close to our tactics: you jump into the portal only by my command. When you're on the other side, wait for us, then move to the next portal.
+#L_D10_msg10=What if there's an ambush?
+#L_D10_ans10=Tell them you give up, promise to pay, whatever. Don't worry, we won't leave you alone for long.
+#L_D10_msg20=Got it.
+#L_D10_ans20=Then let's head for the portal.

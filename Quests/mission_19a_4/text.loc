@@ -1,0 +1,18 @@
+;*****************************
+; mission_19a_4
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+
+;*****************************
+;Speeches
+;*****************************
+#L_Sedoy_01=Those guys didn't waste time.
+#L_Tramp_01=Kishmov warned us these systems were as good as lost for the MSF. I'm glad the lieutenant gave us a pass, otherwise we'd have a hard time.
+
+#L_Tramp_02=I thought we had a different plan.

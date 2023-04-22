@@ -1,0 +1,11 @@
+;*****************************
+;Dialog4.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D4_msg00=I wouldn't wander off trade routes.
+#L_D4_ans00=I thought we had killed the pirates.
+#L_D4_msg10=And cleared the way for other riffraff. Keep your eyes open.
+#L_D4_ans10=(Dalej)

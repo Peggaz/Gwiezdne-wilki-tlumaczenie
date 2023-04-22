@@ -1,0 +1,11 @@
+;*****************************
+;Dialog9.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Sedoy
+#L_D9_msg00=This time they've noticed us for sure, boss. We're in really deep trouble, those Greys won't just leave alone now.
+#L_D9_ans00=Why was he alone?
+#L_D9_msg10=Probably lost all his friends in all the fuss. This place is a mess, very easy to kiss a mine or get a missile from a cloaked patrol. So we should consider ourselves lucky I guess.
+#L_D9_ans10=You can't always rely on luck. We need to locate those guys before they get us. Time is against us. Damn, I hate when it happens.

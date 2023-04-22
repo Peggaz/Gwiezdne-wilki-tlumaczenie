@@ -1,0 +1,15 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#L_pstation=Stacja patrolu InoCo
+#L_STO=Stacja konserwacyjna
+#L_uzl=Skrzy¿owanie "Galanet-3"
+#L_lab1=Laboratorium "Hiperprzestrzeñ"
+#L_lab2=Laboratorium "Ray"
+#L_lab3=Laboratorium "Wszechœwiat"
+#L_lab4=Laboratorium "Nano"
+#L_port=Stacja "Lœni¹cy Portal"
+#L_adm=Stacja administracyjna naukowców

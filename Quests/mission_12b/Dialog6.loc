@@ -1,0 +1,15 @@
+;*****************************
+;Dialog6.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Sedoy
+#L_D6_msg00=So it seems our noisy friends got to work. I intercepted the conversation between the station and a patrol. Let me output it to the shared channel.
+#L_D6_ans00=(Dalej)
+#L_D6_msg10=Team Tau, what's the status?
+#L_D6_ans10=(Dalej)
+#L_D6_msg20=Nothing special, some pirates are arguing. Either drunk or just morons.
+#L_D6_ans20=(Dalej)
+#L_D6_msg30=I see. Cancelling the alert.
+#L_D6_ans30=Those bastards decided to trick us!

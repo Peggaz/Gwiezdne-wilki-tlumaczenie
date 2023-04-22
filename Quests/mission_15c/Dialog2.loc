@@ -1,0 +1,17 @@
+;*****************************
+;Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Alexandra
+#L_D2_msg00=So that's what the New Restoration Project is. Dammit!
+#L_D2_ans00=(Dalej)
+#L_D2_msg10=Pretty fine clunkers, judging by hardware. They sure can cause a lot of trouble.
+#L_D2_ans10=(Dalej)
+#L_D2_msg20=You bet. I suspect that three ships like that, backed up by an escort, can beat the hell out of our forces in any system. By Great Space, we have underestimated the enemy greatly.
+#L_D2_ans20=(Dalej)
+#L_D2_msg30=Then let's just wreck the ships while they are stuck to the dockyard.
+#L_D2_ans30=(Dalej)
+#L_D2_msg40=No, wait. If we win the admiral over to our side, the New Empire will get these cruisers as well. And we'll need them for sure! Let's go on with recon for now, we can return to the dockyard at any time.
+#L_D2_ans40=(Dalej)

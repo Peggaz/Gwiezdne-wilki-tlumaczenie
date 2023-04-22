@@ -1,0 +1,17 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Sedoy
+#L_D1_msg00=What's next, boss?
+#L_D1_ans00=We'll search for Ternie.
+#L_D1_msg10=Sure thing, but where exactly?
+#L_D1_ans10=(Dalej)
+#L_D1_msg20=As far as I know, after a while kidnappers usually inform why they have done it, what they need and how to get the kidnapped back.
+#L_D1_ans20=And how often do kidnappers keep their word?
+#L_D1_msg30=Seldom. That depends.
+#L_D1_ans30=So there. I doubt that Greys will release Ternie just like that. So we have to find her as soon as possible. Ourselves! While we were on the way here, I sent a message to Viper. Thought she could help. She replied quickly, but couldn't say much about our problem. Still, she recommended to contact another man, Admiral Trump from the MSF. He's in Al-Trabon now.
+#L_D1_msg40=That Trump, is he interested in Greys?
+#L_D1_ans40=No, but he's the one responsible for defense of the border systems. And Viper said he could know something. So our next stop is Al-Trabon.

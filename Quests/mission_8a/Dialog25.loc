@@ -1,0 +1,15 @@
+;*****************************
+;Dialog25.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m8a_alone
+#L_D25_msg00=That's it. The deed is done.
+#L_D25_ans00=(Dalej)
+#L_D25_msg10=What next? More pirates will come and the history will repeat. You know, a no man's system can be seized by anyone.
+#L_D25_ans10=(Dalej)
+#L_D25_msg20=No, this time it will be different. And it's all thanks to you.
+#L_D25_ans20=All right, we'll get ourselves medals or something. But right now we're in a hurry.
+#L_D25_msg30=Wait. I'd like to return the favor. I'll send you certain information that will surely come in handy for you. Thanks again for everything. Visit Pandora, if you ever pass by.
+#L_D25_ans30=I will, take care. But now we really need to leave. I'd like to ask a certain somebody a few questions.

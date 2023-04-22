@@ -1,0 +1,25 @@
+;*****************************
+; mission_16b
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_16b_01a=Meet with Aja.
+#L_Quest_16b_01b=Aja planned an attack on Min Imu, but she will only share it, if you meet her in person. Aja will await at the Dan Triada Station.
+#L_Quest_16b_02a=Head for Deosis.
+#L_Quest_16b_02b=Thanks to its location, Deosis is a perfect place to plan an attack on Imu's convoy. You must hurry there or he might escape.
+#L_Quest_16b_03a=Fly to Dalled.
+#L_Quest_16b_03b=Chances are that Min Imu's convoy will pass through the Dalled system. Go there and find a good spot for attack.
+#L_Quest_16b_04a=Head for Cadenoa.
+#L_Quest_16b_04b=Chances are that Min Imu's convoy will pass through the Cadenoa system. Go there and find a good spot for attack.
+#L_Quest_16b_05a=Wait for a message from Fry.
+#L_Quest_16b_05b=Stay in this system and wait for a message from Ethan Fry on Imu's Фрая о маршруте следования Мина Иму. Не теряйте бдительности. Возможно вы сможете найти караван раньше.
+
+;*****************************
+;Speeches
+;*****************************
+#L_sys_01=Min Imu reached the destination. Mission failed.

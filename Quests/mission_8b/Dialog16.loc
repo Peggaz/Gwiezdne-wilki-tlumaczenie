@@ -1,0 +1,15 @@
+;*****************************
+;Dialog16.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m7f_Dikkens
+#L_D16_msg00=Who the hell are you?
+#L_D16_ans00=I can ask you the same question.
+#L_D16_msg10=I'm Charles Dickens, a member of InoCo's Board of Directors. What the hell is going on here? Who are you and what are you doing here?
+#L_D16_ans10=(Dalej)
+#L_D16_msg20=Partner, it seems we were set up in the end.
+#L_D16_ans20=(Dalej)
+#L_D16_msg30=You're right. This is not about recon, this is about fighting.
+#L_D16_ans30=(Dalej)

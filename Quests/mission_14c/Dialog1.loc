@@ -1,0 +1,23 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m14a_Kair
+#L_D1_msg00=Well, well, well. I should've guessed you wouldn't fly to New Kyoto. But who would've thought you'd find my base... Such a pity.
+#L_D1_ans00=I don't know who're you and what problems you have with me, but-
+#L_D1_msg10=Problems? At first, you were but a mere unwanted witness. Then you turned into a real pain in the back. So the word "problems" is a bit too insufficient.
+#L_D1_ans10=A witness? Of what?
+#L_D1_msg20=How nice... You're dumber than I thought. Let's put it this way: Triada hired your meager startup to deliver a cargo that was very important for me. And if it only went right - and you stayed on that cursed planet - all information about the cargo would be buried in Beta Lethera 1.
+#L_D1_ans20=But Triada knew...
+#L_D1_msg30=Hah! Triada! It was InoCo that shouldn't have noticed you. They would comb every out-of-the-way system to find their junk! And that would mean much trouble for me. There's only one thing I'm sorry about: I should've killed you myself, instead of hiring those butterfingered palookas of Breakneck. Sheesh, one has to do everything by himself these days. Where's this world coming to?
+#L_D1_ans30=(Dalej)
+#L_D1_msg40=This is Lieutenant Alexandra Sukhova, NEST Special Operations. In the name of the New Empire and by personal order of Empress Astra you are under arrest for piracy, sabotage, terrorism and attacking law enforcers. And, given your confession I've recorded, attempted contract murder.
+#L_D1_ans40=(Dalej)
+#L_D1_msg50=Whose bickering is that? I have no grudges against you, girl, so you might as well scram. Later, if you get in my way, I'll probably scrag you. But right now I need only the trader and his gang.
+#L_D1_ans50=(Dalej)
+#L_D1_msg60=I repeat, stop your engines, disable your guns and prepare to be arrested. Or you'll have only yourself to blame!
+#L_D1_ans60=(Dalej)
+#L_D1_msg70=You are either too brave or too dumb. Did you think I would come here alone? Men, attack! Take them apart!
+#L_D1_ans70=(Dalej)

@@ -1,0 +1,27 @@
+;*****************************
+;Dialog6.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D6_msg00=Ternie!
+#L_D6_ans00=(Dalej)
+#L_D6_msg10=Boss, I've got nothing on my radar!
+#L_D6_ans10=(Dalej)
+#L_D6_msg20=Scanning... Scanning... No signs.
+#L_D6_ans20=By Great Space! Then how should we find her?
+#L_D6_msg30=Can anyone tell me what's going on here? What were those grey ships?
+#L_D6_ans30=(Dalej)
+#L_D6_msg40=I wish we knew!
+#L_D6_ans40=(Dalej)
+#L_D6_msg50=I saw how they picked up the pod. This means they need our friend alive. I've already contacted the guys by the portal to stop all ships. But considering their cloaking, they may have left the system already.
+#L_D6_ans50=Or hid somewhere near.
+#L_D6_msg60=If this is the case, we'll find them.
+#L_D6_ans60=(Dalej)
+#L_D6_msg70=These Greys surely mean business. I'm sorry for your girl. She's hot-tempered, but an excellent fighter. If I ever get to know something about the Greys or your friend, I'll contact you immediately. But for now good luck in your search.
+#L_D6_ans70=Aren't you willing to help?
+#L_D6_msg80=No, pal, you have your goals, I have mine, which are totally different. Good luck.
+#L_D6_ans80=(Dalej)
+#L_D6_msg90=I'll keep you informed as well. Let me escort you to the portal. Who knows, these Greys may still be lurking here. We have to survive to find her.
+#L_D6_ans90=(Dalej)

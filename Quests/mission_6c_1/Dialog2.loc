@@ -1,0 +1,11 @@
+;*****************************
+;Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;UFTTrader
+#L_D2_msg00=Officer, I have a few pirate ships on the radar that are going to leave through the portal. Perhaps, we should pay heed to the warning and call reinforcements?
+#L_D2_ans00=(Dalej)
+#L_D2_msg10=A few ships? Hah! Some ambush that is! Calm down, traders, we'll deal with it in a second.
+#L_D2_ans10=(Dalej)

@@ -1,0 +1,14 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#L_portal_1=Portal wewnêtrzny 
+#L_portal_2=Portal wewnêtrzny
+#L_nav_yacht=Jacht Illumino
+#L_nav_trade=Stacja "Tryton"
+#L_nav_lab=Stacja naukowa "Kopernik"
+#L_nav_station_1=Stacja "Prometeusz"
+#L_nav_station_2=Stacja "Tajfun"
+#L_nav_station_3=Stacja "Sokó³"

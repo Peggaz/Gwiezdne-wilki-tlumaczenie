@@ -1,0 +1,33 @@
+;*****************************
+;Dialog3.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;AdmiralVKS_Heder
+#L_D3_msg00=Fine, we're here. Sappers, you know what to do. Combat teams, cover sappers. They are not to be distracted.
+#L_D3_ans00=(Dalej)
+#L_D3_msg10=Admiral Hader? What's going on here, may I wonder?
+#L_D3_ans10=(Dalej)
+#L_D3_msg20=We're curtailing the New Restoration Project. Emperor's orders. All data and equipment have to be destroyed. Admiral, you can take your men along and return to the front line.
+#L_D3_ans20=(Dalej)
+#L_D3_msg30=What do you mean destroyed?! Can I take a look at His Majesty's order? With all the necessary electronic signatures, of course.
+#L_D3_ans30=(Dalej)
+#L_D3_msg40=No, you can't. Admiral, don't be an idiot. Such orders are given in person, without documentary witness.
+#L_D3_ans40=(Dalej)
+#L_D3_msg50=In that case, I must ask you to leave the system. The New Restoration Project will be under my protection until I get an order from the emperor or the Admiralty.
+#L_D3_ans50=(Dalej)
+#L_D3_msg60=You're going too far! As a flag admiral of His Majesty I have a right to remove you from leadership or, if you go on being a stubborn ass, to arrest you. Take your men along and get out of my way!
+#L_D3_ans60=(Dalej)
+#L_D3_msg70=I know what rights you have, but your actions are illegal and may be considered high treason.
+#L_D3_ans70=(Dalej)
+#L_D3_msg80=This is unheard-of effrontery! Admiral, I dismiss you from leading this project as well as MSF forces in this system!
+#L_D3_ans80=(Dalej)
+#L_D3_msg90=Admiral James Hader, according to the Fleet Regulations, I arrest you on a charge of high treason, mutiny and attempted destruction of valuable MSF property. The charges have been logged and will be submitted to the tribunal.
+#L_D3_ans90=(Dalej)
+#L_D3_msg100=What are you mumbling there, you dunce?! I am the only emperor's representative here, and you're just an impudent beggar on horseback! Azar was right to throw you out of the HQ and send to Empire's back of beyond! Listen to me, soldiers of the MSF. This is His Majesty's Flag Admiral James Hader speaking. Admiral Trump has been removed from leadership and outlawed! Attack him with all you have! Anyone who disregards this order will be accused of treason and eliminated!
+#L_D3_ans100=(Dalej)
+#L_D3_msg110=Don't overstrain your voice. My men will defend this system to the death. And you have just become an enemy. I wonder how much you were paid for treason. And who bought you out - the NESF? Or maybe the Greys?
+#L_D3_ans110=(Dalej)
+#L_D3_msg120=Yeah, go on barking, you don't have much time left. Attention, sappers, stick to the plan.
+#L_D3_ans120=(Dalej)

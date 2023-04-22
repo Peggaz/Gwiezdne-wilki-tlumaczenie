@@ -1,0 +1,13 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;InocoOfficer
+#L_D1_msg00=Gentlemen, the space of InoCo Corporation is off-limits.
+#L_D1_ans00=Transmitting the passcode.
+#L_D1_msg10=Validity confirmed, you may pass. People, don't you have too many guns for a team of repairmen?
+#L_D1_ans10=(Dalej)
+#L_D1_msg20=Not if you fly all the way from Ashelon.
+#L_D1_ans20=(Dalej)

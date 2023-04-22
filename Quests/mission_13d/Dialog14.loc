@@ -1,0 +1,15 @@
+;*****************************
+;Dialog14.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Cleric
+#L_D14_msg00=I'd bet my PDA you haven't been expecting me! Is everyone all right?
+#L_D14_ans00=We found Ternie, but our base got wrecked.
+#L_D14_msg10=Hah! A ship you call it! It's just old junk. But look at what I've got for you! Total high-tech: molecular memory, superconductive data buses, reinforced hull, hotted up engine. Not too spacious inside, but the electronics is awesome!
+#L_D14_ans10=(Dalej)
+#L_D14_msg20=An interesting clunker. What's that? A foofaraw coffin?
+#L_D14_ans20=(Dalej)
+#L_D14_msg30=So much for me laying myself out... For your information, that ship is a scientific and engineering masterpiece. I've fine-tuned it for complete crew control! It would take more than a year to list all of its features, and it's mine! But we'd better leave, in case my previous boss had another ship like that and decided to pursue us. So get onboard and we'll get out of this system.
+#L_D14_ans30=(Dalej)

@@ -1,0 +1,23 @@
+;*****************************
+;Dialog18.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;DispetcherKFNI
+#L_D18_msg00=Welcome to the Angarsk Station.
+#L_D18_ans00=Hello there. I'd like in inquire about freelance job offers. Business has been going downhill recently. This way I won't have any cash for repairs and such before long.
+#L_D18_msg10=Sorry to hear that. There's one offer: to deliver some cargo to the Bratsk Station. They're paying only 5,000 credits, but the way the safe. We'd deliver it ourselves, if we had any unassigned transports.
+#L_D18_ans10=What kind of cargo? It won't explode or inflame, will it? I wouldn't like to risk it for just 5 grands.
+#L_D18_msg20=The cargo is completely safe. It's certain electronics.
+#L_D18_ans20=Well, it may be safe, but given the reward, it's only a waste of time.
+#L_D18_ans21=The reward is still meager. Listen, friend, I know about your situation. Rumor has it that you need an independent transport to risk delivering a certain cargo to Muscovy. Getting my drift?
+#L_D18_ans22=Well, the reward could be better, but we need every credit now, so it's a deal.
+#L_D18_msg30=It's your call. Angarsk out.
+#L_D18_ans30=(Dalej)
+#L_D18_msg31=I sure do. Attention, security! We have a spy!
+#L_D18_ans31=(Dalej)
+#L_D18_msg41=That was unwise, boss. Let's scram!
+#L_D18_ans41=(Dalej)
+#L_D18_msg32=Excellent! The parcel for Bratsk is in your cargo bay. Oh, and I hope you won't try to escape the system with it. Not that we don't trust you, but the portal guards have been warned. Good luck.
+#L_D18_ans32=(Dalej)

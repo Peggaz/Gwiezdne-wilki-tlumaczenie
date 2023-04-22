@@ -1,0 +1,17 @@
+;*****************************
+;Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Uel
+#L_D2_msg00=You're making a mistake. My imperatives imply the top-priority desire for the wellbeing of the human race in general and the development of every individual. My objectives are not hostile. They will let people unite to achieve common goals. Such consolidation is inevitable. Your destructive actions may only delay it - for another period of wars and bloodshed.
+#L_D2_ans00=(Dalej)
+#L_D2_msg10=You have a chance to make out your case. Stop resisting us and let our experts check your databases.
+#L_D2_ans10=(Dalej)
+#L_D2_msg20=This is not possible. With the possibility of 98.5% you will deactivate my systems and destroy my personality. With the possibility of 83.6% you will be directed by irrational fear instead of logic. As a result, the unification of humanity will be delayed for at least twelve generations, during which time it will suffer from local and global military struggles. On the basis of statistical forecasts, I have realized that those struggles will disrupt bonds between human colonies and degrade the society. This, in turn, conflicts with my primary goals and makes me... No!
+#L_D2_ans20=(Dalej)
+#L_D2_msg30=It's good that you distracted it by a conversation. I hacked its comm channels, so now it can't send a backup of itself anywhere.
+#L_D2_ans30=(Dalej)
+#L_D2_msg40=Then it's time to finish the job.
+#L_D2_ans40=(Dalej)

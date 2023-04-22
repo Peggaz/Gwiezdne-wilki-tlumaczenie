@@ -1,0 +1,13 @@
+;*****************************
+;Dialog6.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Dispetcher
+#L_D6_msg00=Equipment! Finally! The best news for the last two months!
+#L_D6_ans00=You would've had more good news, if you disclosed your station whereabouts. I barely found you.
+#L_D6_msg10=Unfortunately, we have lots of enemies, so the location has to remain a secret. Here's your pay. Our whole mine is in your debt. Drop by if you need to trade uranium, we'll give you a discount. Also, if you need your ship's license plates cleaned, we have a few "experts".
+#L_D6_ans10=Oh, that might come in handy, thanks! Have you finished unloading the cargo? I'm in a hurry.
+#L_D6_msg20=Yes, you're free to go. Good luck!
+#L_D6_ans20=(Dalej)

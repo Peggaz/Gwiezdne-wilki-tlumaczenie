@@ -1,0 +1,21 @@
+;*****************************
+;Dialog4.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Alexandra
+#L_D4_msg00=Let me introduce myself. I'm Alexandra Sukhova. I was reported you wanted to voluntarily hand over some strategically vital cargo. A very smart move I'd say. According to our prices, the cargo costs 500,000 credits, and I'm willing to pay the sum. But what should I do about you? You're cooperating with our enemy.
+#L_D4_ans00=Not cooperating, but doing a one-time job. In exchange for information about a grey Gunslinger. Besides, Alexandra, I already asked you about this information, but your price was exorbitant. Don't take it amiss, but I'm trying to get information I need the way I can.
+#L_D4_msg10=Now I remember you. And that mission wasn't that difficult, you know. Well, here's my offer. You do me a one-time favor and get the data. What do you say?
+#L_D4_ans10=Like I have any choice. Of course, I agree...
+#L_D4_msg20=You do have a choice, I'm not going to force you. But your refusal would make our further cooperation impossible. The task is not that easy, but you will find it acceptable on the moral side, if you care. You'll receive all the details in a message, and the tactics is up to you. Now please excuse me, I'm very busy.
+#L_D4_ans20=(Dalej)
+#L_D4_msg30=Partner, we're changing political sides like gloves.
+#L_D4_ans30=Oh, spare me your poison. We'd just get killed here. Or, more likely, would get killed on the next Viper's mission.
+#L_D4_msg40=If my aunt had been a man, she'd have been my uncle. What do flower lovers want from us?
+#L_D4_ans40=Do you label everyone you meet?
+#L_D4_msg50=Not me, others do. The MSF are thick skulls, the NESF are flower lovers, USS are puffer toads. Only InoCo and Triada have no labels yet.
+#L_D4_ans50=Great...
+#L_D4_msg60=But it's convenient. So what do they want, partner? Or are you pulling my leg?
+#L_D4_ans60=(Dalej)

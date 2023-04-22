@@ -1,0 +1,23 @@
+;*****************************
+;Dialog3.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m9b_Fry
+#L_D3_msg00=I hope I'm not interrupting. Let me introduce myself, Ethan Fry, USS Chief Information Officer. I happened to find out about your plans and came here to lend a hand.
+#L_D3_ans00=Ethan, you?!
+#L_D3_msg10=Hey. I can't say I was surprised, when I saw you here. Your team has been frequenting hot spots of late.
+#L_D3_ans10=(Dalej)
+#L_D3_msg20=Do you know each other?
+#L_D3_ans20=We went to school together. Ethan, why did you decide to fight against your corporation?
+#L_D3_msg30=Not against the corporation, but against Kane. That's not the same, believe me. The transports I've brought along are mine layers. Unfortunately, all fighters are now patrolling the border sector. Rumor has it Berserks have been sighted there.
+#L_D3_ans30=(Dalej)
+#L_D3_msg40=Mines? That's nice. Boss, now we have something to plug the Sunji portal with.
+#L_D3_ans40=(Dalej)
+#L_D3_msg50=How did you find out about us?
+#L_D3_ans50=(Dalej)
+#L_D3_msg60=Let's say I have eyes and ears in this system, which in cases of emergency report to me on what's going on in Prien. I wish I had the same in three systems ruled by Kane, but alas... Anyway, your attack nicely fits into my plans and those of USS. That's why I consider it my duty to take part in the operation.
+#L_D3_ans60=(Dalej)
+#L_D3_msg70=I see. You can join the fleet. Well, friends, let's not waste time. Initiating a jump to Ergelan.
+#L_D3_ans70=(Dalej)

@@ -1,0 +1,41 @@
+;*****************************
+;Dialog3.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m12_CaptainVKSgraft
+#L_D3_msg00=My, we have some VIP guests here! Now, what would you like, corporators? An execution or a romantic jail tour followed by an execution?
+#L_D3_ans00=Calm down, officer, we're only traders.
+#L_D3_msg10=Oh yes, why didn't I think of that, looking at all your guns and escort? Don't move, I'm calling for backup.
+#L_D3_ans10=Officer, any examination will prove we're traders. And you might get scolded for letting Cleric go. He's wanted all over the Empire. Do you read makes at all?
+#L_D3_ans11=Officer, any examination will prove we're traders. If you're disturbed by our visit to the InoCo's space, remember the treaty between the Empire and the FTU giving traders free passage whatever the destination. Come on, officer. You wouldn't want to flush a document signed by the emperor himself down the drain, would you?
+#L_D3_ans12=Wait! Don't call any backups. Officer, we are traders, any examination will prove it. But being a businessman, I value my time. So here's my offer: you help us find and eliminate the criminal named Cleric, and I will make up for your efforts with 100,000 credits. I'm not going to make another offer.
+#L_D3_msg20=Whoa, is Cleric here? Boys, we have work to do.
+#L_D3_ans20=(Dalej)
+#L_D3_msg30=Oh dammit, boss. We gave them our guy on a plate!
+#L_D3_ans30=Easy now, Greyhair. Let the thick skulls do some of our work and find that bastard for us. Then we'll act on circumstances.|Jana, can you eavesdrop on the patrol frequency?
+#L_D3_msg40=I'll try... But I've never done it. Ternie had notes on various frequency ranges among her files...
+#L_D3_ans40=Good, do it. Greyhair, how do you think where law enforcers might take Cleric to, when they find him?
+#L_D3_msg50=To their base, most likely. Come on, boss, you're not going to attack the base, are you? We might as well shoot each other instead - won't be as painful.
+#L_D3_ans50=I'm not. But to hang around will come in handy.
+#L_D3_msg21=A smart alec, aren’t you? All right, trader, you may pass. But remember, I'm watching you.
+#L_D3_ans21=So, Greyhair, any ideas where to look for the guy?
+#L_D3_msg31=If similar things really attract each other, we should search all the local dumps.
+#L_D3_ans31=(Dalej)
+#L_D3_msg41=You mean the MSF base?
+#L_D3_ans41=(Dalej)
+#L_D3_msg51=Could be, but I'd check more secluded places first.
+#L_D3_ans51=(Dalej)
+#L_D3_msg22=Hmm... A businessman, huh? I can't help saying this offer is insulting. But only out of respect for the law... You're pursuing a criminal, right? Ok, it's a deal. Cleric, Cleric... That name rings a bell. Is he the same Cleric our security wants hanged upside down?
+#L_D3_ans22=Could be.
+#L_D3_msg32=Which means we'll render a service to the Empire. All right, traders, hang around here while we look for the guy.
+#L_D3_ans32=(Dalej)
+#L_D3_msg42=But, captain, what about the portal?
+#L_D3_ans42=(Dalej)
+#L_D3_msg52=Don't bother me, no one's going to steal it.
+#L_D3_ans52=(Dalej)
+#L_D3_msg62=Boss, aren't you spending too much cash on bribes?
+#L_D3_ans62=Greyhair, we don't have time to hunt him ourselves. This only makes things easier.
+#L_D3_msg72=I really doubt it, boss. I really do...
+#L_D3_ans72=(Dalej)

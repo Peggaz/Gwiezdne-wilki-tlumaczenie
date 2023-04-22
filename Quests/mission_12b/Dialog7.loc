@@ -1,0 +1,11 @@
+;*****************************
+;Dialog7.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;PirateTough
+#L_D7_msg00=The boss sent me. He says the mission is complete and asks for the promised reward.
+#L_D7_ans00=Sure, let me transfer the money.
+#L_D7_msg10=Great, thanks a lot. Come visit us again, we're eager to work.
+#L_D7_ans10=(Dalej)

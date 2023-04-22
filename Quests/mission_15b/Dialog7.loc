@@ -1,0 +1,31 @@
+;*****************************
+;Dialog7.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m8d_Alfred
+#L_D7_msg00=Hey, everyone. Did we miss anything?
+#L_D7_ans00=(Dalej)
+#L_D7_msg10=You?! I so haven't expected to see you here!
+#L_D7_ans10=(Dalej)
+#L_D7_msg20=Hah! Imagine my surprise, when I got to know that my friend was the leader of some mysterious grey brotherhood we had tried to avoid at all costs. Fortunately, Cleric explained everything to me. By the way, he was also the one who sent a distress signal. Alex, it's a bad habit to communicate with friends by means of go-betweens. You should really get rid of it. It has a bad effect on karma.
+#L_D7_ans20=(Dalej)
+#L_D7_msg30=I admit it was my fault. It's just that I remember you prefer to win struggles without fighting.
+#L_D7_ans30=(Dalej)
+#L_D7_msg40=But it won't harm to fight for a good cause, what do you think? Seriously, our men need a real accomplishment, not just another fuss. So you can count on our guns. But after that you will owe me a conversation. And don't even try to get off. Oh, and drinks are on you!
+#L_D7_ans40=(Dalej)
+#L_D7_msg50=Are you finished chatting? Time is of the essence! SAM may detect us any moment now!
+#L_D7_ans50=(Dalej)
+#L_D7_msg60=Haste is only good for catching comets, boy. We don't even have a sketch of a plan. I wouldn't risk rushing into Vulcan headlong.
+#L_D7_ans60=(Dalej)
+#L_D7_msg70=I share your doubts. Me and brothers are in for a good cause, but suicide is not acceptable and very upsetting.
+#L_D7_ans70=(Dalej)
+#L_D7_msg80=We could jump to Vulcan and deal with the portal guards for your forces.
+#L_D7_ans80=(Dalej)
+#L_D7_msg90=A nice plan! Jumping in.
+#L_D7_ans90=(Dalej)
+#L_D7_msg100=Stop, you stupid!
+#L_D7_ans100=(Dalej)
+#L_D7_msg110=Too late, the hyper tunnel is open.
+#L_D7_ans110=(Dalej)

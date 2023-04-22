@@ -1,0 +1,16 @@
+;*****************************
+;Dialog4.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D4_msg00=Partner, I've got a message from your friend.
+#L_D4_ans00=(Dalej)
+#L_D4_msg10=Listen, if you didn't need this job, you could just tell me. But running away like this, hoping you wouldn't be noticed... It's not serious. But I took your hint, thanks. I'll manage on my own. Bye.
+#L_D4_ans10=(Dalej)
+#L_D4_msg20=Seems like we flushed the contract down the drain. Sorry for saying this, boss.
+#L_D4_ans20=Well, it's not the first and won't be the last. Let's move on.
+#L_D4_msg30=Where to, partner?
+#L_D4_ans30=Triada has to know something about all this fuss. Let's go to Candela.
+#L_D4_ans31=I'm sure Triada is bound to have the information we need. We're going to Candela.

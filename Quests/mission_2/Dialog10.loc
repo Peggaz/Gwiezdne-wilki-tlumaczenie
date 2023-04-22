@@ -1,0 +1,13 @@
+;*****************************
+;Dialog10.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;PirateTough
+#L_D10_msg00=Dear sir, you know that using this portal is a paid service, don't you?
+#L_D10_ans00=Never heard of that.
+#L_D10_msg10=Sometimes news spread too slow, though it doesn't mean anything. The portal fee is 1,000 credits, our business is on the square. So you either pay... or pay. Just these two options.
+#L_D10_ans10=Wait, I've just been robbed by Donelly, I'm risking to be penalized, and if I still have my old ship after all that, I'll consider myself lucky.
+#L_D10_msg20=Oh, so you're another dim-witted client of Malky? We have a special offer for your kind. Hey, Crook, send him a credit so he knows how kind we are. Now hit it, trader, and don't forget to visit us when you have money.
+#L_D10_ans20=I wish I could forget you, bloodsuckers...

@@ -1,0 +1,9 @@
+;*****************************
+;Dialog10.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D10_msg00=Where to now, partner?
+#L_D10_ans00=We had no luck with the MSF, so let's try Triada. We need to get to Candela.

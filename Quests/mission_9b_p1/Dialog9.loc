@@ -1,0 +1,15 @@
+;*****************************
+;Dialog9.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;VksAce
+#L_D9_msg00=Whoa, that's a nice kettle of fish! What are you doing, gentlemen? Most importantly, do you have a proper license for this activity? Call for backup, Dan, we got us a team of troublemakers here.
+#L_D9_ans00=A license you say? Will my guns suffice? You're dealing with a higher-league players here, boys, so I do suggest you make yourself scarce while you're still alive.
+#L_D9_msg10=Did you hear it, Dan? What can our lowly league say to that?
+#L_D9_ans10=(Dalej)
+#L_D9_msg20=That backup is on the way, ETA a few seconds.
+#L_D9_ans20=(Dalej)
+#L_D9_msg30=Did you hear that, "boys"? Your league may be higher, but you're playing an away match and your bench is empty.
+#L_D9_ans30=(Dalej)

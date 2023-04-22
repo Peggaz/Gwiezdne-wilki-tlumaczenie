@@ -1,0 +1,19 @@
+;*****************************
+;Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;PirateTough
+#L_D2_msg00=Will you look at that. Money's falling into our hands!
+#L_D2_ans00=Shut your gob and get your boss on the line. I have a business proposal for him.
+#L_D2_msg10=Yes, what the hell?! Who's there? Who are you morons? I don't know you, beat it.
+#L_D2_ans10=We can scatter your gang in a second, so shut up and listen. I need somebody to kick up a fuss with a Triada patrol somewhere far from the central station. Nothing special, just a distraction. I'm willing to pay handsomely.
+#L_D2_msg20=Yeah, you'd better pay well! We're going to strain relations with Triada, which means no more work for us.
+#L_D2_ans20=Judging by the junk you fly on, you haven't had much work before anyway. Just tell me your price to save time.
+#L_D2_msg30=We have enough work, but right now we're on vacation! All right, you have a deal. A fuss will cost you 100,000. No haggling.
+#L_D2_ans30=How much?! Now I see why you're stuck in here - because of your overblown imagination. We'll manage without your help.
+#L_D2_msg40=It's your call. We won't risk for a smaller sum. Now get lost, we're having a rest here.
+#L_D2_ans40=(Dalej)
+#L_D2_msg50=So, boss, let's visit the station?
+#L_D2_ans50=Yeah, we'll do without helpers like those.

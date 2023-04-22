@@ -1,0 +1,15 @@
+;*****************************
+;Dialog13.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D13_msg00=A double pay! Just look at the money, partner!
+#L_D13_ans00=It seems the manager has lied to us.
+#L_D13_msg10=Of course he has. But we got 200 grands from the corporators!
+#L_D13_ans10=Doesn't it bother you that we're being used?
+#L_D13_msg20=Nope. Listen, what did you expect? That every stranger would open up to you? The main thing, partner, is that we've got our profit in the end.
+#L_D13_ans20=Don't you want to know the truth?
+#L_D13_msg30=I couldn't care less. This world is lousy enough, and I wouldn't want to lose the last illusions I have about it. Come on, don't be sad. We've made some cash and can now visit my friend in New Jerusalem 3. He might know something about your convoy.
+#L_D13_ans30=(Dalej)

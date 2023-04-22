@@ -1,0 +1,10 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;**************
+;Nav Points
+;**************
+#L_STO=Stacja konserwacyjna
+#L_Zavod1=Zak³ad "TechConMach"
+#L_zavod2=Zak³ad produkcyjny "NanoTech"
+#L_Zavod3=Zak³ad "AtomCon"

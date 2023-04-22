@@ -1,0 +1,71 @@
+;*****************************
+;Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Sedoy
+#L_D2_msg00=Boss, it's the Greys! They found us!
+#L_D2_ans00=(Dalej)
+#L_D2_msg10=Hey, calm down. We're not enemies.
+#L_D2_ans10=Alex? What the hell are you doing in a grey fighter? And who's that with you?
+#L_D2_msg20=This girl's name is Nataly.
+#L_D2_ans20=(Dalej)
+#L_D2_msg30=Oh yes, we've met before. In Gredos, right before a good man named Ray was killed.
+#L_D2_ans30=Now I remember... Many good people have died since that time. Ternie was one of them. She fell a victim to some bastards on grey fighters like this one!
+#L_D2_msg40=So your partner is dead?
+#L_D2_ans40=Yes. And don't pretend you didn't know! The killers had grey fighters!
+#L_D2_msg50=Where did it happen?
+#L_D2_ans50=In XT-24. Rings a bell?
+#L_D2_msg60=Cayer...
+#L_D2_ans60=What? Don't mumble, articulate.
+#L_D2_msg70=You're so wrong, buddy. You have no idea how wrong you are! How many years do you know me? Am I capable of a cold-blooded murder? Of treachery?
+#L_D2_ans70=People change over time. The fact is that you have the same fighter as Ternie's killers.
+#L_D2_msg80=Believe it or not, but that's just a coincidence. It would take much time to explain.
+#L_D2_ans80=Don't you worry, I have it now. Greyhair, do we have time?
+#L_D2_msg90=All the time in the world, boss! No one since the Big Bang has ever had as much time as we have now.
+#L_D2_ans90=You heard Greyhair. So let's hear your story this time. About what's going on, how are you connected to the Greys, how Reynolds is involved. And who killed Ternie, for heaven's sake?! Starting from the beginning, who are you? I thought I knew you well, but now I see that my information is kind of outdated.
+#L_D2_msg100=I'm the same Alex Koshevoy you had traveled around the Outer Worlds with before you decided to change a cockpit to an office on some ball of dust. But I'm not into trade anymore. I lead an organization that protects traders both legally and physically. The former is provided by the FTU, the latter is carried out by our combat fleet - grey fighters you've already encountered. Before you ask me, no, I have nothing to do whatsoever with Ternie's abduction or the incident with your convoy.
+#L_D2_ans100=Then what do you have to do with? Why haven't you told me about your little hobby of creating military fleets?
+#L_D2_msg110=Don't try to be sarcastic, you're not too good at it. As for our organization and fleet... For how long haven't you been in space? For about three years, am I right? It has changed a lot. Berserks and aliens had given the Outer Worlds a hard time, but the real troubles started along with the cursed civil war. Turned out there was too many weaponry around and enough people eager to use it. Power brokers had no resources to provide safety of traders. We pestered imperial bureaucrats, corporation directors. We told them the Outer Worlds would cease to exist, if we didn't establish reliable trade routes. Many systems were on the brink already, without necessary resources and equipment. Bureaucrats agreed, but held up hands, as if they were doing their best already. I guess only InoCo's CEO Oliver Reynolds and patrolmen promised to actually help us. But Reynolds was bound by the board of directors, while most patrolmen were poor as cargo bay rats. So we had to equip the fleet meant to protect traders and fight pirates all by ourselves.
+#L_D2_ans110=But why all the secrecy? You weren't doing anything wrong, were you?
+#L_D2_msg120=You see... The FTU only had money for a few up-to-date fighters. It would be unreal to collect the necessary funds by increasing union taxes, as most traders live by contracts and spend spare money on repairs and maintenance. So we had to infiltrate imperial governments and corporation managements to organize a small but steady leak of funds and equipment. After all, if governments don’t care about ordinary people, let them at least pay to those who does. Many a little makes a fighter.
+#L_D2_ans120=(Dalej)
+#L_D2_msg130=This sounds too easy. Like, "Hi, I work at the loading dock, where do you keep your funds?"
+#L_D2_ans130=(Dalej)
+#L_D2_msg140=We don't have many agents. We mainly recruited people already working at positions we needed. Reynolds helped us at InoCo. The New Empire gladly accepts any competent managers - they have a deficit of government employees, given the amount of work. As for the Old Empire, we mainly had to bribe the bureaucrats. Triada and USS had been hard nuts, but we won them over in the end, having promised peace to some and careers to others.
+#L_D2_ans140=Yeah, and for others you used blackmail, threatening to kill their friends or families. Am I right, huh?
+#L_D2_msg150=Harry Cayer was the one who killed Ternie.
+#L_D2_ans150=Oh yes, I remember you've mumbled something about him. He's one of you, isn't he?
+#L_D2_msg160=Cayer was special. He was the one of FTU founders and coordinated the Capricorn Sector. By the way, he also solved the problem with Triada and USS. But then... You see, we have completely forgotten about one thing. The level we operated on not only allowed access to other somebody else's funds, but also gave real power to those who controlled agents. Just one order and they would left their workplaces, destroyed all the data, compromised management chains and documents circulation. No empire or corporation would pick up after such a blow. Most likely, Cayer considered that a chance to establish his own empire or something. When we got to know that, it was already too late. As a result, we lost all agents in the Capricorn, Centaur and Sagittarius sectors. But worst of all was that Cayer befriended Min Imu, the current Triada leader, and Kane, USS top manager. It seems Emperor Azar joined their gang as well. Who knows what that alliance is capable of.
+#L_D2_ans160=Where's that Cayer now?
+#L_D2_msg170=Dead. We wanted to capture him, but he decided to resist. I can show you a recording of the fight, if you want. 
+#L_D2_ans170=Lump the blame onto a dead man - very convenient.
+#L_D2_msg180=Stop that! Listen, it's all about the cargo your company was to deliver. Neurochips. Devices meant to connect people to a unified network and, as you have probably guessed already, control them. The idea belongs to InoCo's new artificial intelligence or SAM - Advanced Artificial Personality - as they call it. This time InoCo really exceeded themselves and SAM turned out to be more powerful than any previous models, unfortunately as mad. It wants to build a society of the future, using us as building blocks. And, naturally, it's ready for certain sacrifices, if some don't agree. My hacker friend Cleric has got information that in the recent months SAM has been secretly - but none the less actively - building a whole Berserk fleet. And it's ready to attack at any moment.
+#L_D2_ans180=(Dalej)
+#L_D2_msg190=Why do you say 'no' right away? He may be right.
+#L_D2_ans190=(Dalej)
+#L_D2_msg200=Right wherein? That we deserve to have chips in our heads, full of some mad scientists' programs? That everyone who thinks different has to be eliminated? Or that it's ready to realize its plan by force? The machine didn't say that your convoy was wrecked because of neurochips, did it? It was done by Min Imu who badly wanted to get a mass mind control technology. And Imu knows about these things much more than we do! 
+#L_D2_ans200=I see you knew about the cargo as well. But you drew the wool over my eyes.
+#L_D2_msg210=I got to know about the cargo and its fate not long ago. As for SAM's plans and actual cargo contents, I got to know this just an hour ago, when Cleric broke into SAM's database. We had to quickly cancel a certain operation that many people had been working on for such a long time. But right now we don't have any other choice than to unite and beat the electronic brain out of that tincan. You have visited InoCo, you know what's going on there. And you can't help but understand that I'm right.
+#L_D2_ans210=(Dalej)
+#L_D2_msg220=Do what you want, but don't involve me. I think you're making a mistake, trying to destroy SAM.
+#L_D2_ans220=(Dalej)
+#L_D2_msg230=Unfortunately, Rubicon has been crossed.
+#L_D2_ans230=(Dalej)
+#L_D2_msg240=Well then... I can't stop or dissuade you. But I won't take part in it either, sorry.
+#L_D2_ans240=Where will you go now, Jana?
+#L_D2_msg250=I don't know... Probably settle down as a technician on a quiet planet. Will have family and kids, perhaps. And forget this nightmare. I'm not a fighter, you know. I hate violence. Good bye.
+#L_D2_ans250=(Dalej)
+#L_D2_msg260=It's a pity. She has just learned how to handle guns. Not to mention a gap in the team.
+#L_D2_ans260=(Dalej)
+#L_D2_msg270=Well, if you have a spot for Cleric and me, I'll be honored.
+#L_D2_ans270=Ah, what the hell, you may join. But, Alex, don't think I've decided to let it go. You will have to explain a lot. But not right now.
+#L_D2_msg280=Fine with me. But don't be angry at me. I swear I tried to help you, though I had no idea about what happened to Ternie. When we arrived to XT-24, we only found the debris of Cayer's station. But you're right, this is not the time to discuss it.
+#L_D2_ans280=(Dalej)
+#L_D2_msg290=Sign me in too. Don't worry, I learned to handle a fighter, when I was in the Amazons.
+#L_D2_ans290=(Dalej)
+#L_D2_msg300=Good. Let's dock with the station, grab what we need and be off. I'm afraid our Grey brotherhood will have to step out of shadows, because we'll need all the help we can get. Damn, I hate explanations. As my friend Watchmaker says, "Oh woe".
+#L_D2_ans300=What help are you talking about?
+#L_D2_msg310=I'm talking about the New Empire and other fine parties, which are gathering in Eridan. You will laugh, but if our agents have got it right, our future allies are now discussing ways to blow up the FTU headquarters.
+#L_D2_ans310=(Dalej)

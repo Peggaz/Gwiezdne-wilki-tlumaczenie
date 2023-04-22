@@ -1,0 +1,21 @@
+;*****************************
+;Dialog14.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D14_msg00=Berserks? But how?
+#L_D14_ans00=(Dalej)
+#L_D14_msg10=A few units were hibernating in an InoCo system. It was be logical to assume you would use their firepower. Have you found your friend?
+#L_D14_ans10=Still looking. She was to escape in a pod, but we haven't yet found her signal.
+#L_D14_msg20=I'll help, but we're running out of time. My portal sensors detected a large formation of Greys approaching this system.
+#L_D14_ans20=Let them approach, we'll chop them up!
+#L_D14_msg30=Statistics suggest just the opposite.
+#L_D14_ans30=(Dalej)
+#L_D14_msg40=I found the pod, I did! But-
+#L_D14_ans40=What now?
+#L_D14_msg50=Its biometric sensors are silent...
+#L_D14_ans50=(Dalej)
+#L_D14_msg60=I'll pick it up. InoCo has the best paramedic equipment in the known universe. You should get to my ship as well, your base is too damaged to fly on its own. Besides, my tow ray is not powerful enough to drag it along.
+#L_D14_ans60=(Dalej)

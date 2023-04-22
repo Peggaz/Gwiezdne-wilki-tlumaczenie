@@ -1,0 +1,20 @@
+;*****************************
+;Dialog30.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Dispetcher
+#L_D30_msg00=Glad to see you at the Placid Docks again. How can I help?
+#L_D30_ans00=Get Alex Koshevoy on the line please.
+#L_D30_msg10=He's away right now. Oh wait, he left a message for you. Transferring now.||"Hey, buddy. Sorry I disappeared without a warning, but circumstances demand my personal and immediate intervention. In the last few days a number of transports, belonging to different companies, went missing under the circumstances very similar to yours. I lost three ships, which I'm not even hoping to get back, but I don't want to think my pilots are dead. Time is of the essence now, so I'm leaving to travel along the route of my transports. I know you'd like to join the investigation, but, being your friend, I'm not going to put your life to unjustified risk. The ship you had when we last met, wouldn't survive a serious fight, but would attract pirates easily. I promise to keep your informed.|Unfortunately, all my contracts, license and accounts are suspended until the investigation is over. But I have some friends, so managed to get you a small, but relatively peaceful contract. The customer is the USS Corporation. You will need to meet their representatives in Corrino and follow them to the neutral system Debris 1, where you'll pick up the cargo. Then you deliver it to a USS station in Debris 4 and watch 75,000 credits trickle in. I don't know why those guys from USS hasn't done it themselves, so keep your eyes open. You have to expect anything, when a corporation does is hiding like that.|This is all for now. Again, I'm sorry it's gone this way.|Your friend Alex."
+#L_D30_ans10=(Dalej)
+#L_D30_msg20=So what now? I think you should heed your friend's advice and earn as much cash as possible quickly. Partner, these 75 grands seem like a gift!
+#L_D30_ans20=Dammit! Why haven't he waited for me?! Now that we have a mothership, we could have helped him.
+#L_D30_msg30=Not with the one we have. The equipment is low-end, guns are weak, shields are half-dead. Why, we can turn it into a decent ship, but I wouldn't risk getting into some systems right now. We would only burden your friend. Let's fleece corporators of that cash instead! It'll be both funnier and safer! We don't have much to do anyway.
+#L_D30_ans30=All right, we'll do it. First, we need to get to Corrino and meet those USS representatives. Let's go.
+#L_D30_ans31=Sorry, but those meager 75,000 credits are just a waste of time. Besides, those corporate missions are more trouble than revenue.
+#L_D30_msg41=Partner, you probably haven't noticed, but you don't even have those "meager 75,000 credits". Unless you have something better in mind.
+#L_D30_ans41=We'll go to Beta Lethera 1, where my convoy has gone missing, and find out what's happened.
+#L_D30_msg51=Yeah, right. For all my life I've dreamt of wandering aimlessly without a credit in my pocket. What have I done in my younger years to partner a militant altruist? Ah, to hell with you, let's go to Beta Lethera. I'll also visit my old friend in New Jerusalem 3.
+#L_D30_ans51=(Dalej)

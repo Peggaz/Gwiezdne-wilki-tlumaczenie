@@ -1,0 +1,45 @@
+;*****************************
+;Dialog15.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D15_msg00=Cleric, how did you get here? Our last meeting wasn't that hearty.
+#L_D15_ans00=(Dalej)
+#L_D15_msg10=Yes, you've set me up! Or tried to... All right, I admit I was a bit wrong myself. Anyway, Cleric bears no malice. But I was offended, mind you.
+#L_D15_ans10=(Dalej)
+#L_D15_msg20=It was your fault. You shouldn't have muddled our brains.
+#L_D15_ans20=(Dalej)
+#L_D15_msg30=All right, all right, let's forget who was guilty of what. Cleric is not going to avenge. All the more those people you had left me with  turned out to be quite all right.
+#L_D15_ans30=(Dalej)
+#L_D15_msg40=You haven't answered the question. Why did you follow us? Planning another ruse, eh?
+#L_D15_ans40=(Dalej)
+#L_D15_msg50=I just wanted to help! Believe it or not, but it's true. You see, it would be ridiculous to apply my talents to cutting scrap metal. But they found another job for me - setting up databases and removing unauthorized use protection - mainly from the latest imperial hardware. And then Berserks attacked X297...
+#L_D15_ans50=Why didn't you escaped in all the fuss?
+#L_D15_msg60=Where to?! It was like hell: missiles, lasers, screams, swarms of Berserks. Besides, I had no ship. People... were dying there... Dying for real. I heard it all on the radio... Instead of saving their lives and families, they dispatched a team to pick me up from the asteroid I had the workshop on.
+#L_D15_ans60=(Dalej)
+#L_D15_msg70=What happened to system inhabitants?!
+#L_D15_ans70=(Dalej)
+#L_D15_msg80=We repelled the attack. I was very scared at first... But then I hacked into Berserk comm channels and started DoS'ing them! If you could only see how we mowed them down! I was disabling their controls, and patrols were tearing them to pieces! We were like a hurricane, totally unstoppable!
+#L_D15_ans80=(Dalej)
+#L_D15_msg90=Yeah, yeah, we get it. You were the coolest of them all. How did you get this ship, by the way?
+#L_D15_ans90=(Dalej)
+#L_D15_msg100=Whatever you say, I'm a hero there. As for the ship, it's a trophy. The attack ceased as soon as I've disabled it. Then I just deleted the AI, inputted the coordinates and fired up the hyper engine.
+#L_D15_ans100=(Dalej)
+#L_D15_msg110=Does it have a hyper engine?
+#L_D15_ans110=(Dalej)
+#L_D15_msg120=It sure does, and a fully-fledged at that. Not one of those meager thingamajigs the Empire is using. Why, are you into this stuff?
+#L_D15_ans120=(Dalej)
+#L_D15_msg130=Just a bit. Before pirates got me, I had read some rumors in the Web about this technology. But those were only theories.
+#L_D15_ans130=(Dalej)
+#L_D15_msg140=Finally, you have a competent person in the team. Now I'll have someone to talk about interesting things. But I have to tell you, if I knew you'd be so ungrateful, I'd never came here. Kalem, what were you doing with the Greys?
+#L_D15_ans140=(Dalej)
+#L_D15_msg150=I ended up with pirates first. A planetary raid, an offer you can't refuse. And the next moment you find yourself inside a pirate clunker with a bunch of tools in your hands. They handed me over to Greys later.
+#L_D15_ans150=(Dalej)
+#L_D15_msg160=You should have escaped. No one would have locked up Cleric!
+#L_D15_ans160=(Dalej)
+#L_D15_msg170=Enough chitchat, let's get out of here. Can you crank up your hyper doodad again?
+#L_D15_ans170=(Dalej)
+#L_D15_msg180=Not here, too much nebula static. We'll have to get out of it the boring old way.
+#L_D15_ans180=(Dalej)

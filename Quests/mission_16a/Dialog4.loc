@@ -1,0 +1,41 @@
+;*****************************
+;Dialog4.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Viper
+#L_D4_msg00=Why that damn genetic reject! Team, this is not good. We can't reach Earth without a hyper catapult, but badly need to be there.
+#L_D4_ans00=Who is that Hader guy at all?
+#L_D4_msg10=Emperor's flag admiral. The man who advises to our suzerain on military tactics. And a traitor, as it has turned out. This is very, very bad - if the emperor is guarded by bastards like Hader, His Majesty is as good as dead.
+#L_D4_ans10=(Dalej)
+#L_D4_msg20=So what are we going to do? Walk all the way to Earth?
+#L_D4_ans20=(Dalej)
+#L_D4_msg30=No, I told you we couldn't get there without a hyper catapult. All portals to the Solar System were disabled as a security measure, and the standard exit point was relocated. Who could've known that the emperor was surrounded by unprincipled bastards who used the war as a cover for own claims on power. But don't you worry, we'll handle them.
+#L_D4_ans30=(Dalej)
+#L_D4_msg40=How? Haven't you just said we can't get to Earth the usual way? And the freaking hyper catapult is right here.
+#L_D4_ans40=(Dalej)
+#L_D4_msg50=Don't be ridiculous, it's not the only in the universe. There is another capable of sending us to the Solar System, but it's in Simeiz.
+#L_D4_ans50=(Dalej)
+#L_D4_msg60=Simeiz, huh... Are you going to rent it? Maybe buy it even?
+#L_D4_ans60=(Dalej)
+#L_D4_msg70=By Space, Bykov, I have a ship ID changer, no flower loving bastard will even look at us. Starting the hyper catapult up remotely is not a problem either. They all have the same software and control frequencies, so we'll just need to get close to it.
+#L_D4_ans70=(Dalej)
+#L_D4_msg80=Same? This is strange...
+#L_D4_ans80=(Dalej)
+#L_D4_msg90=Not at all. Hyper catapults were initially developed by order of the MSF. After the revolt, the NESF stole the technology and got it into shape. We didn't leave that unanswered and "borrowed" their test results. So from the technical point of view, all those devices are identical.
+#L_D4_ans90=It's still a long way to go.
+#L_D4_msg100=We'll use a shortcut. There's another catapult in Al-Trabon. Though it's not as powerful, so it can only throw us to Endoria. But it's near at hand to Simeiz already.
+#L_D4_ans100=(Dalej)
+#L_D4_msg110=Yeah, very convenient to kick up our heels. You are all forgetting something. That Hader guy has a way better ship that we do. What if there are more? We'll be dead in no time.
+#L_D4_ans110=(Dalej)
+#L_D4_msg120=Well, Hader's ship is a vessel to be respected. It would be great, if you, major, had one, too.
+#L_D4_ans120=(Dalej)
+#L_D4_msg130=There is a way... The New Restoration Project. But we'll have to visit XT-86, waste time and risk emperor's life.
+#L_D4_ans130=I agree, time's running out. Simeiz it is then. We'll try to manage.
+#L_D4_msg140=Right. Let's move out, team.
+#L_D4_ans140=(Dalej)
+#L_D4_msg150=Damn, I'm fed up with all this team stuff. We have names, you know.
+#L_D4_ans150=(Dalej)
+#L_D4_msg160=Sorry, dear, but I never call companions-in-arms by names - this way it's easier to cope with their loss. But I never hush up enemies' names either, so they can shudder every time they hear own call signs! Now quit blabbering, we have lots of work to do.
+#L_D4_ans160=(Dalej)

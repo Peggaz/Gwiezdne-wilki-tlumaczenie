@@ -1,0 +1,34 @@
+;*****************************
+; mission_17b
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_17b_01a=Wait for Aja.
+#L_Quest_17b_01b=Wait until Aja returns.
+#L_Quest_17b_02a=Dock to the Riyadh Commerce Station.
+#L_Quest_17b_02b=Dock to the Riyadh Commerce Station to replenish.
+#L_Quest_17b_03a=Approach the USS military station.
+#L_Quest_17b_03b=Approach the USS military station to activate the hyper catapult and jump to X220.
+#L_Quest_17b_04a=Meet with the border guards.
+#L_Quest_17b_04b=The border guards have been keeping Berserks at bay, but they will leave as soon as refugee transports get away far enough from X297. The border guards must be somewhere near the X203 portal.
+#L_Quest_17b_05a=Get into X203.
+#L_Quest_17b_05b=Berserks' main forces have gathered in X203. If you attack now, there will be a chance to stop that steel avalanche.
+
+;*****************************
+;Speeches
+;*****************************
+#L_Aia_01=According to Ethan, the border guards should be by the X203 portal. I don't think they had time to relocate while we were on the way.
+
+#L_Aia_02=Damn! I've got a message from Ethan. Berserks have attacked Al-Ariash. We are late... Too late...
+
+#L_Zurab_01=Hurry up to the Õ220 portal. We're keeping these beauties at bay!
+
+#L_Sedoy_01=Well, boss, now we are on our own against that bunch. We should hurry up, if we want to finish the job.
+
+#L_sys_01=You fled from combat. Mission failed.
+#L_sys_02=Let Aja go so she can negotiate with Ethan Fry.

@@ -1,0 +1,33 @@
+;*****************************
+;Dialog14.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Aia
+#L_D14_msg00=Why, hello, Alexandra. Who's that with you?
+#L_D14_ans00=(Dalej)
+#L_D14_msg10=Friends. Have you prepared everything for the refugees?
+#L_D14_ans10=(Dalej)
+#L_D14_msg20=I have it all: papers, homes on quiet planets, so don't you worry. What about my request?
+#L_D14_ans20=(Dalej)
+#L_D14_msg30=We managed to infiltrate a few agents into Min Imu's milieu. Then will start acting soon.
+#L_D14_ans30=(Dalej)
+#L_D14_msg40=But remember, Imu is mine!
+#L_D14_ans40=(Dalej)
+#L_D14_msg50=Are you still clinging to that idea?
+#L_D14_ans50=(Dalej)
+#L_D14_msg60=Why shouldn't I? Alexandra, if we disregard the moral side, Imu deserves a dozen of deaths. All most unpleasant and agonizing!
+#L_D14_ans60=(Dalej)
+#L_D14_msg70=Revenge isn't going to get your father back.
+#L_D14_ans70=(Dalej)
+#L_D14_msg80=I know. But it will cleanse his good name and let me continue what he has started. Listen, we've discussed this many times, so let's not waste time again. I'll lead the refugees to the station and settle them. As for you, I think you should leave. There are no Lee's stooges here right now, but his dad's goons might arrive.
+#L_D14_ans80=(Dalej)
+#L_D14_msg90=Speaking of Lee Imu. Your doing?
+#L_D14_ans90=(Dalej)
+#L_D14_msg100=What are you talking about? I'm totally not to blame. That poor bastard just flew his clunker into an asteroid, tanked up on whiskey. Not even a piece was left, imagine that. Oh, such a loss, such a loss. I cried all night, do you believe me?
+#L_D14_ans100=(Dalej)
+#L_D14_msg110=Not quite actually.
+#L_D14_ans110=(Dalej)
+#L_D14_msg120=And you're right. The bastard was longing to cross the great divide, but there was no one to help. Now excuse me, Alexandra, but let's talk another time, I'm too busy right now. Catch you later.
+#L_D14_ans120=(Dalej)

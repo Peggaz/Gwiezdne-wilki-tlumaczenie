@@ -1,0 +1,11 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D1_msg00=Where to now, partner?
+#L_D1_ans00=Beta Lethera. And no delays this time, or I will never find out what's happened to my convoy.
+#L_D1_msg10=Fine, let's go there. I'll also visit my old friend in New Jerusalem 3. I haven't seen him for ages. Besides, he can be of help.
+#L_D1_ans10=(Dalej)

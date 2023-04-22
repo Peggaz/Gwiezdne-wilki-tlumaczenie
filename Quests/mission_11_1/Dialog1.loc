@@ -1,0 +1,15 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D1_msg00=What the?..
+#L_D1_ans00=(Dalej)
+#L_D1_msg10=Seems like that power source I've mentioned.
+#L_D1_ans10=(Dalej)
+#L_D1_msg20=Where did they fire from?
+#L_D1_ans20=(Dalej)
+#L_D1_msg30=I can't say. But energy indicators have started growing again. We don't have much time before they fire another shot!
+#L_D1_ans30=(Dalej)

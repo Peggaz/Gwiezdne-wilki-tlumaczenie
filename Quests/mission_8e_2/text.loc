@@ -1,0 +1,25 @@
+;*****************************
+; mission_8e_2
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_7a_a=Reach the MSF headquarters.
+#L_Quest_7a_b=MSF Security has to know everything about what happened in Beta Lethera 1. You just have to reach New Jerusalem 2 and find someone who would be willing to share this information.
+#L_Quest_7c_a=Reach the Mercenary Market.
+#L_Quest_7c_b=The debris of a ship, lacking any imperial or corporate labels, most likely belongs to a mercenary team. The Mercenary Market in Cassily has the biggest database on free fighters, but they won't share it remotely.
+#L_Quest_7d_a=Meet with Alex.
+#L_Quest_7d_b=Alex needs help in escorting a convoy, and his client is willing to pay good money. Alex will be waiting in XT-54. There's some free time to spend, but not much.
+
+;*****************************
+;Speeches
+;*****************************
+#L_Hero_01=Sheesh, I thought we were done for.
+#L_Sedoy_01=Yeah, had to put some effort into that one. Where to now, boss?
+#L_Hero_02=No idea. But we can't go to Triada systems anymore. They'd kill us on sight.
+#L_Lastochka_01=It's a pity that Carl too far. We could fix the license plates.
+#L_Sedoy_02=I don't know about Carl, but I knew a guy here who was into these things. Though my information is obviously a bit outdated. But I've marked his station on the map just in case.

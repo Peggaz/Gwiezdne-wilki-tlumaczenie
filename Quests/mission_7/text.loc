@@ -1,0 +1,41 @@
+;*****************************
+; mission_7
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_6_02a=Leave the system.
+#L_Quest_6_02b=Outrun MSF ships and pass through the portal to New Jerusalem 3.
+#L_Quest_7a_a=Reach the MSF headquarters.
+#L_Quest_7a_b=MSF Security has to know everything about what happened in Beta Lethera 1. You just have to reach New Jerusalem 2 and find someone who would be willing to share this information.
+#L_Quest_7b_a=Reach Triada headquarters.
+#L_Quest_7b_b=Triada has to know everything about what happened in Beta Lethera 1. You just have to reach their main headquarters in Candela and find someone who would be willing to share this information.
+#L_Quest_7c_a=Reach the Mercenary Market.
+#L_Quest_7c_b=The debris of a ship, lacking any imperial or corporate labels, most likely belongs to a mercenary team. The Mercenary Market in Cassily has the biggest database on free fighters, but they won't share it remotely.
+#L_Quest_7d_a=Meet with Alex.
+#L_Quest_7d_b=Alex needs help in escorting a convoy, and his client is willing to pay good money. Alex will be waiting in XT-54. There's some free time to spend, but not much.
+#L_Quest_7g_a=Reach the XB-17 system.
+#L_Quest_7g_b=The fighter prototype stolen from the MSF is located in the XB-17 system.
+
+;*****************************
+;Speeches
+;*****************************
+#L_Lastochka_01=Boy we've barely made it! I thought it was the end of my trading career. What? Got what you deserved, huh?! Haha!
+#L_Hero_01=It's too early to celebrate. We'd better reach a station, in case they decide to pursue us. What's even better is to leave the system at all.
+#L_Sedoy_01=Speak of the devil... We should prepare for the worst.
+#L_vks_01=General alert, we have visitors.
+#L_disp_01=Sending out reinforcements, hold on your position.
+
+#L_Sedoy_02=The thick skulls have probably checked our license plates. Too bad. When I was scavenging the station remains, I found a flash card allowing to change an electronic ID. Unfortunately, it's one-time only. I can change the base ID, but I have to dock first.
+#L_Sedoy_03=The thick skulls have probably checked our license plates. Too bad. When I was scavenging the station remains, I found a flash card allowing to change an electronic ID. Unfortunately, it's one-time only. I can change the base ID.
+#L_Hero_02=Do it.
+
+#L_Sedoy_04=Hey, we're losing time! The next wave is going to be our last!
+#L_Sedoy_05=I'm telling you, I need to dock! I can't change it remotely!
+#L_Sedoy_06=They won't let us go just like that. I need to get to the base to change the ID!
+
+#L_Sedoy_07=Excellent. All done.

@@ -1,0 +1,129 @@
+;*****************************
+; mission_5_1
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_5_01a=Return to Alex's station.
+#L_Quest_5_01b=A former pirate base is a nice thing to have, all the more so it's probably not on the wanted list anymore. But equipping it will require lots of money, so you should return to Placid Docks in Aurora. Alex must have a few serious and well-paying contracts.
+#L_Quest_5_1_01a=Meet with USS representatives.
+#L_Quest_5_1_01b=USS representatives will await you at Taihon Station in Corrino. Since employees of this very corporation are badly punctual, you shouldn't be late.
+#L_Quest_5_1_02a=Wait for USS representatives.
+#L_Quest_5_1_02b=This isn't typical for USS, but corporation representatives are late. You'd better wait for them by Taihon Station.
+#L_Quest_5_1_03a=Follow the USS ships.
+#L_Quest_5_1_03b=Follow the USS ships to the Debris 1 portal.
+#L_Quest_5_1_04a=Jump into the portal.
+#L_Quest_5_1_04b=Jump into the Debris 1 portal.
+#L_Quest_5_1_05a=Follow the USS ships.
+#L_Quest_5_1_05b=Follow the USS ships to the station.
+#L_Quest_5_1_06a=Reach the station.
+#L_Quest_5_1_06b=Reach the station where the USS ships are waiting.
+#L_Quest_5_1_07a=Dock to the station.
+#L_Quest_5_1_07b=Dock to the station to pick up the cargo.
+#L_Quest_5_1_08a=Reach the portal.
+#L_Quest_5_1_08b=Reach the designated portal.
+#L_Quest_5_1_09a=Reach the station.
+#L_Quest_5_1_09b=Reach the designated station.
+#L_Quest_5_1_10a=Reach the portal.
+#L_Quest_5_1_10b=Reach the Debris 4 portal.
+#L_Quest_5_1_11a=Reach the skirmish site.
+#L_Quest_5_1_11b=Reach the place where false USS agents fought.
+#L_Quest_5_1_12a=Find a pirate station.
+#L_Quest_5_1_12b=There's a pirate station somewhere in this system. You have to find it, or forget about money.
+#L_Quest_5_1_13a=Pick up the cargo.
+#L_Quest_5_1_13b=You must pick up the cargo from the neutral station.
+#L_Quest_5_1_14a=Deliver the cargo.
+#L_Quest_5_1_14b=The customer - USS Corporation - is expecting its cargo in Debris 4.
+#L_Quest_5_1_15a=Reach the pirate station.
+#L_Quest_5_1_15b=Reach the pirate station where the false USS agents and the cargo are located.
+#L_Quest_6M_a=Reach Beta Lethera 1.
+#L_Quest_6M_b=The last signal from the convoy came from Beta Lethera 1. It was a mayday. The ships were most likely destroyed, cargo stolen. But there's still a chance that some of the pilots have survived. Besides, an examination of the wreck site can shed light on what's happened.
+#L_Quest_6_01a=Meet Ternie's friend.
+#L_Quest_6_01b=A friend of Ternie who lives in New Jerusalem 3 might have heard something about the missing convoy.
+
+;*****************************
+;Speeches
+;*****************************
+#L_Lastochka_01=Scanning patrol frequencies, seems quiet. I wouldn't wander off trade routes.
+
+#L_uss_01=Keep up! Let's stay away from trade routes. We don't want to encounter the MSF.
+#L_Hero_01=What about pirates?
+#L_uss_02=You better watch your own clunker and leave pirates to us.
+
+#L_uss_03=Ok, jump first, we'll cover. And don't try anything stupid!
+
+#L_merc_01=Daredevils welcome you. Perhaps, you're in need of protection or something else? We have a fine reputation, low rates and execute contracts quickly, effectively and professionally!
+#L_Hero_02=Thanks, but I don't think we need any help.
+#L_uss_04=Hey, why are you talking?! Didn't I make myself clear about keeping radio silence?
+#L_merc_02=Hey, calm down, pal, we were just offering our services.
+#L_uss_05=Not needed. Now get the hell out of the way! Trader, if you don't follow us, you'll be penalized. Got it?
+#L_Hero_03=Oh, I did.
+
+#L_vks_01=Attention, trade convoy, heave aback and prepare for examination.
+#L_uss_06=Damn it, thick skulls!
+#L_kfni_01=Nice to meet you! Still robbing traders, aren't you, vultures? I felt a stench and here you are.
+#L_vks_02=We're in the neutral space, so you should mind your own business elsewhere. These traders are to be examined.
+#L_kfni_02=You have a nice sense of humor. Attack!
+#L_uss_07=Let's scram! Quickly!
+
+#L_uss_08=We'd better split up here. This way we'll arouse no suspicion and be less vulnerable. Here are the coordinates of a station you need to reach. And don't delay!
+
+#L_uss_09=Are you coming? We're moving out!
+
+#L_uss_10=We'll jump in first and see if everything's all right. You follow. I hope you can do these simple steps without a flop.
+#L_merc_03=Boss, we're behind you, everything's all right.
+#L_Lastochka_02=So, should we move out?
+
+#L_uss_11=What's taking you so long? Time is running out! Let's head for the next waypoint. Here are the coordinates.
+
+#L_merc_04=That was fun, boss! What next?
+#L_Hero_04=Next we'll head for that USS station in Debris 4. I'd like to find out what's going on.
+#L_merc_05=As you say. We'll cover you.
+
+#L_merc_06=Boss, you jump first, we'll follow. And try to stay out of trouble.
+
+#L_uss_12=My, he's a real lamebrain. I think we should whack him, how do you think?
+#L_pir_01=You're right. We should do humanity's gene pool a favor.
+
+#L_Lastochka_03=What now?
+
+#L_Hero_05=Calling Daredevils! Your turn!
+#L_merc_07=Got it, boss!
+
+#L_Lastochka_04=Some fight that was! What next, partner?
+
+#L_Lastochka_05=There's an intrasystem portal, I suggest we use it. Otherwise it'll be a long flight.
+#L_Hero_06=Fine, let's go there.
+
+#L_merc_08=What now, boss?
+#L_Lastochka_06=Jeez, we barely made it. What next, partner?
+#L_Hero_07=Let's proceed to the Debris 4 portal. Now I have even more questions to ask USS.
+
+#L_uss_13=You seem to be the ones we're expecting. I hope the cargo is safe and sound.
+#L_Hero_08=The cargo is safe, but I got into trouble on the way here.
+#L_Hero_09=I don't have the cargo, I got into trouble on the way here.
+
+#L_uss_14=I suppose we are now good to go to the designated coordinates.
+#L_Hero_10=Yeah, it's all right now. Let's go.
+
+#L_uss_15=I knew our men were innocent! All teams, attack immediately!
+
+#L_Lastochka_07=So typical of corporators. First they ask you to get something for them, next you're doing all the dirty work. Where should we search?
+#L_Hero_11=No idea. But since there were pirates by the intrasystem portal, the station should be nearby. Pirates wouldn't drag us across the entire system, risking to encounter a patrol.
+#L_Hero_12=No idea. The station should be nearby. Pirates wouldn't drag us across the entire system, risking to encounter a patrol.
+#L_Lastochka_08=Partner, I see something. Yes, that's definitely a pirate station. Should we call in the cavalry?
+
+#L_uss_16=Great! It's been done. You will be paid when the cargo has been unloaded at our station. I'll assign an escort, so no one bothers you on the way. Good luck!
+#L_Hero_13=Thanks, same to you.
+#L_Hero_14=Wait! I nearly forgot. We haven't picked up the cargo!
+#L_uss_17=Oh, you're right! Hah, it would be fun. Well, you'll have to show the cargo at the station to get the reward. Our men will see to it that you pick up the osmium and reach Debris 4 safely.
+
+#L_uss_18=Great! It's been done, which reminds me. Risking your lives, you have protected USS property from pirates. You have obtained the coordinates of a pirates' den they have repeatedly used to attack corporation vessels. I asked the managers and they agreed to double your pay.
+#L_Hero_15=Thanks!
+#L_uss_19=Our corporation cares about its friends. You will be paid when the cargo has been unloaded at our station. I'll assign an escort, so no one bothers you on the way. Good luck!
+
+#L_uss_20=So that was a trap! Get your guns ready!

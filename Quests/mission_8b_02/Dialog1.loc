@@ -1,0 +1,15 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m7b_InocoAgent
+#L_D1_msg00=I beg your pardon, but it happens so that I'm aware of your problem. The party I represent here is willing to assist you completely in solving it.
+#L_D1_ans00=What party might that be?
+#L_D1_msg10=InoCo Corporation.
+#L_D1_ans10=(Dalej)
+#L_D1_msg20=We should check our scanners for more corporators lurking around.
+#L_D1_ans20=I can't understand how InoCo is involved in this.
+#L_D1_msg30=Unfortunately, I do not know any details. My task is to pass the offer of my higher-ups on to you. If you visit the InoCo Headquarters in Lidau, I'm sure you will be provided with detailed answers to many questions. Now please excuse me. I need to arrange you a free passage into corporation systems.
+#L_D1_ans30=(Dalej)

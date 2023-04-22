@@ -1,0 +1,15 @@
+;*****************************
+;Dialog6.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D6_msg00=Wait! Ternie, we're not get far with a transport on our tail.
+#L_D6_ans00=(Dalej)
+#L_D6_msg10=I have a feeling you're going to blurt out some nonsense.
+#L_D6_ans10=I'm serious. We're attracting too much attention. Patrols or pirates - somebody is bound to notice us and then we'll lose the transport. Or even our lives. This is what we do: I'll reprogram the autopilot and send the ship to a station, so they give it to some trader in need.
+#L_D6_msg20=And just like that I'm right, you did it. Partner, if you want to do good, I'm willing to accept any monetary support you can offer. Give the transport to me, I'll sell it and pocket the money. Your altruism will be satisfied, your neighbor will be happy and everyone will be glad. How does this sound?
+#L_D6_ans20=Sounds good, but not good enough. Ternie, we'll not be able to sell this ship until we're listed as pirates. It will either be confiscated or shot down. But if we do it my way, it'll be useful at least for someone. Now please excuse me, but I'm not going to discuss it anymore. After all, giving the transport to another trader is the best way to pay our last respects to Ray. Done, I'm sending the ship to the station.
+#L_D6_msg30=Now I'm definitely sure I've helped the wrong guy...
+#L_D6_ans30=(Dalej)

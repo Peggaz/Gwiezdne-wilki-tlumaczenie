@@ -1,0 +1,15 @@
+;*****************************
+; mission_3_04
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+
+;*****************************
+;Speeches
+;*****************************
+#L_pir_01=Whoa! Hello daddy, I'm your son. Got lost? Then I'll show you the way. Out.

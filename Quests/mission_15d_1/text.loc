@@ -1,0 +1,18 @@
+;*****************************
+; mission_15d_1
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+
+;*****************************
+;Speeches
+;*****************************
+#L_Cleric_01=That's it, end of the line. Please disembark. If you want to die in vain, these are your lives. Cleric isn't going to risk his neck and ship. He has a more important task: to find people who will understand the danger of SAM and organize a strike force. So get the hell out and don't delay me.
+#L_Alex_01=Well, good luck, boy. Let's get on board the cruiser.
+
+#L_sys_01=That was your biggest mistake. Whatever happens next, you won't be a part of it.

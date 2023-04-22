@@ -1,0 +1,21 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Dispetcher
+#L_D1_msg00=Welcome to the station. How can I help you?
+#L_D1_ans00=We need to talk to Sanchen.
+#L_D1_msg10=One moment please.
+#L_D1_ans10=(Dalej)
+#L_D1_msg20=Yes? Who's that? I'm not buying it, get lost.
+#L_D1_ans20=I didn't say I was selling anything. I've got a package for you from Alexandra.
+#L_D1_msg30=Oh! Sorry for the unfriendly reception, I'm so tired of salesmen. The universe is at war and they are still trying to sell all sorts of junk. Give me the package, I've been waiting for it.
+#L_D1_ans30=Not so fast. What's the passcode?
+#L_D1_msg40=Right! Sheesh, I totally forgot. Here you go.
+#L_D1_ans40=All right, I'll leave the package at the cargo terminal.
+#L_D1_msg50=Wait! Weren't you to say any secret passwords or replies? Some gestures, a flower in a buttonhole?
+#L_D1_ans50=(Dalej)
+#L_D1_msg60=You should stop watching all that holo-junk. If we tried doing something like this, we'd seem like a couple of asylum dwellers. Now please excuse me. I shall message Alexandra that I have the package. Good luck.
+#L_D1_ans60=(Dalej)

@@ -1,0 +1,22 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Alex
+#L_D1_msg00=This isn't Prien.
+#L_D1_ans00=(Dalej)
+#L_D1_msg10=It takes one more jump to get there. Listen, maybe you should reconsider? Come on, what words do I have to use to prove that SAM is very dangerous?! I wish you could read the database directly, I'd have shown you its reports on fleet construction, on allocating funds to military programmes, on squads of chipheads.
+#L_D1_ans10=Who?
+#L_D1_msg20=I call them chipheads. You know, people with neurochip samples - the faulty ones. They have all gone mad, brain activity exceeding all limits. SAM has had to hibernate them, because chipheads don't live long. They are in Vulcan right now, by the way. This is what awaits us all!
+#L_D1_ans20=I can only repeat: we're going to get Azar. But right after that we'll focus on SAM. We don't have enough forces to assault Vulcan at the moment.
+#L_D1_ans21=If Cleric is right and SAM has actually "upgraded" someone, it's another pair of shoes already. Alex, let's visit Vulcan and see what's going on there.
+#L_D1_msg30=Jeez... Not only you're lamers, you're also lamebrains. To hell with you, fight your emperor, if you need it so badly. I'll throw you to Prien and then you'll be on your own.
+#L_D1_ans30=(Dalej)
+#L_D1_msg31=Aw, to hell with you, let's go.
+#L_D1_ans31=(Dalej)
+#L_D1_msg41=Great! You'll see it's just as I've said! We'll all become heroes! Besides, I'll provide us with some help.
+#L_D1_ans41=(Dalej)
+#L_D1_msg51=You're all nuts. All right, boy, start up your clunker, don't waste time on fiddle-faddle.
+#L_D1_ans51=(Dalej)

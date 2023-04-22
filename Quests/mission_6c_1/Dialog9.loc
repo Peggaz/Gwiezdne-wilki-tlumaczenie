@@ -1,0 +1,13 @@
+;*****************************
+;Dialog9.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;USSOperative
+#L_D9_msg00=On behalf of our corporation allow me to thank you for effective cargo protection. I've heard about the ambush already. I hope you're all right.
+#L_D9_ans00=Could be worse.
+#L_D9_msg10=You did a flawless job! It's an honor for me to say that your brave actions have been highly appreciated by other members of the convoy. Which gives me a good reason to increase your pay.
+#L_D9_ans10=Increase it? Great!
+#L_D9_msg20=USS Corporation is in your debt. We'll be glad, if our cooperation continues. Now please excuse me, I have other business to attend to. Thanks again, over and out.
+#L_D9_ans30=(Dalej)

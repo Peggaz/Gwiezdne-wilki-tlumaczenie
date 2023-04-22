@@ -1,0 +1,11 @@
+;*****************************
+;Dialog34.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Sedoy
+#L_D34_msg00=Where to now, boss?
+#L_D34_ans00=We're invited to the InoCo headquarters, aren't we? It would be unwise to refuse, so let's go to Lidau.
+#L_D34_ans01=Right now I'm concerned with the debris of that grey fighter we've found. It would be reasonable to find something out at the Mercenary Market in Cassily.
+#L_D34_ans02=It would be nice to get some information from the MSF. Why have they attacked a Triada system at all? We're going to New Jerusalem 2.

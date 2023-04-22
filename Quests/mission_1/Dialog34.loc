@@ -1,0 +1,18 @@
+;*****************************
+;Dialog34.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m1_AttasheTriada
+#L_D34_msg00=Our corporation is in your debt. Please accept these 5,000 credits as a token of our gratitude. Triada appreciates friends. Rest assured, no pirate in this system will ever touch you.
+#L_D34_ans00=Glad to hear that. What I heard today was mostly threats.
+#L_D34_msg10=May I expect another good turn from you? The MSF shot our transport and its cargo - certain corporation documents - is adrift in space, but we have no other transport ship to pick it up. If you agree to do that for us and deliver the cargo here, we'll pay you handsomely. And, as I've said, you won't have to worry about pirates.
+#L_D34_ans10=Hmm, let me think...
+#L_D34_msg20=Let me remind you that we value friends, but also remember enemies. Your refusal may be considered a sign of unfriendliness. So what will your sensible friendly answer be?
+#L_D34_ans20=I see your point, but I still have to refuse.
+#L_D34_ans21=All right, I'll take this mission.
+#L_D34_msg30=Well, you shouldn't have. You'll see why soon enough. Over and out.
+#L_D34_ans30=(Dalej)
+#L_D34_msg31=I'm glad we've come to an understanding. Now hurry, every minute counts.
+#L_D34_ans31=(Dalej)

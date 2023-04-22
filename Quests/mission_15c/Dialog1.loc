@@ -1,0 +1,35 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Alexandra
+#L_D1_msg00=Great, it's clear. I have input the data, we're good to go at any time.
+#L_D1_ans00=(Dalej)
+#L_D1_msg10=Then what are we waiting for? Or does it also require reciting horrific spells while banging a dragon-teeth rattle against a shaman tambourine?
+#L_D1_ans10=(Dalej)
+#L_D1_msg20=Of course not. We just need to enter any portal. Its gravitational stream will boost spring's ability to fold space and we'll be thrown to the system we need. I just thought there was still a chance of fight, nevermind, this is a recon mission. So it would be nice to replenish our ammo. I was given certain funds, you can spend them.
+#L_D1_ans20=(Dalej)
+#L_D1_msg30=Still, we don't know if the admiral has allied with the Greys. I highly doubt he'd put "Grey Power" stickers onto his ship to show it.
+#L_D1_ans30=(Dalej)
+#L_D1_msg40=We have eyes, ears, some tools. We'll have to rely on those. That is, and nothing else. Unfortunately, our scouts failed to draw a precise map of XT-86, so all we have is approximate object coordinates. We also lack any exact data on system guards, so our eyes, ears, tools, and reason are our best bet.
+#L_D1_ans40=(Dalej)
+#L_D1_msg50=The reason tells us to stay away from places like that. That is not just a system, that's el saco con las serpientes. Besides, eyes, ears and tools may be deceived. It wouldn't be the first time.
+#L_D1_ans50=(Dalej)
+#L_D1_msg60=I didn't say it would be easy, mind you, but we have no other choice. Thick skulls are conducting the secret New Restoration Project in XT-86. They built at least one dockyard, some warehouses and pulled resources from neighboring systems. Admiral Trump is in charge of all that. We don't know their goals, but if those dockyards are producing grey fighters, we might as well stop guessing about admiral's secret activity.
+#L_D1_ans60=(Dalej)
+#L_D1_msg70=Repainting a ship isn't hard, you know.
+#L_D1_ans70=(Dalej)
+#L_D1_msg80=This goes beyond repainting. Grey fighters carry the best hardware from various manufacturers, while the MSF is only supplied by imperial vendors. That's why a grey ship looks like a total pastiche on any shot.
+#L_D1_ans80=(Dalej)
+#L_D1_msg90=A "shot"? You mean like an active sensor scan? What does it have to do with cloaked recon?
+#L_D1_ans90=Can anyone fill the profane in on this?
+#L_D1_msg100=Taking a shot means obtaining full data on ship's equipment, armament and power. During this procedure sensors emit a strong energy pulse revealing the scanner ship.
+#L_D1_ans100=(Dalej)
+#L_D1_msg110=Great! Why don't we just announce our arrival? Why, we'll have to fight anyway.
+#L_D1_ans110=(Dalej)
+#L_D1_msg120=If we move to another spot right after scanning, we'll be able to reduce the number of fights greatly. Listen, I didn't say this mission would be easy. We'd like Trump to be on the friends list, but if he's an ally of the Greys, we wouldn't be able to ignore it.
+#L_D1_ans120=(Dalej)
+#L_D1_msg130=And yet again you're making cat's paw of us. Oh, partner, I'm starting to regret I've met you.
+#L_D1_ans130=Again? How many times have you done it already? I thought you were enjoying the adventure to the fullest! Anyway, let's get down to business.

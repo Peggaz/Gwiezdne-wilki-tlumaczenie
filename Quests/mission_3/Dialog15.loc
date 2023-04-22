@@ -1,0 +1,16 @@
+;*****************************
+;Dialog15.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Heretic
+#L_D15_msg00=I said I could pay 12,500 credits, but I have another idea. What do you say about two Berserker lasers? These babies sure pack a punch. And they are rather hard to get.
+#L_D15_ans00=Lasers are good, but what I need now is money.
+#L_D15_ans01=I guess lasers will suit me better right now.
+#L_D15_msg10=Great. Let me thank you on behalf of the New Empire and the entire trade fleet. Oh, and you shouldn't come close to the station - without that cargo.
+#L_D15_ans10=Damn, I should've hired some mercs to deal with a pirate-related problem. What should I do now?
+#L_D15_msg20=Which pirates are you talking about?
+#L_D15_ans20=The Wild Dogs clan.
+#L_D15_msg30=Oh, those. They have an enemy - the Wild Cats clan. Visit the Cats and tell them about finding Dogs' soft spot, they'll buy it. Good luck and don't worry about the cargo. You did right.
+#L_D15_ans30=(Dalej)

@@ -1,0 +1,27 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Alexandra
+#L_D1_msg00=Damn, Greys are already here! Get your guns ready!
+#L_D1_ans00=(Dalej)
+#L_D1_msg10=Alexandra, calm down. Don't you see they are not shooting? For now...
+#L_D1_ans10=(Dalej)
+#L_D1_msg20=Partner, what are Greys doing here?
+#L_D1_ans20=(Dalej)
+#L_D1_msg30=Alexandra, let me introduce them. Perhaps, these are our new allies. What about the admiral by the way? Did you message him?
+#L_D1_ans30=(Dalej)
+#L_D1_msg40=Admiral... Let's say I won't be able to arrange a meeting with him.
+#L_D1_ans40=(Dalej)
+#L_D1_msg50=Damn, I hoped he would help. All right, approach the station. We need to discuss lots of problems. Phantom, did you finish dismantling the equipment?
+#L_D1_ans50=(Dalej)
+#L_D1_msg60=I need at least an hour.
+#L_D1_ans60=(Dalej)
+#L_D1_msg70=You don't have it. Evacuate people to Llanowar, leave the hardware.
+#L_D1_ans70=(Dalej)
+#L_D1_msg80=Oh yes? To beg your extortioners for them again later?
+#L_D1_ans80=(Dalej)
+#L_D1_msg90=Why are you so stingy? Whatever, pack up and leave, you know what's at stake.
+#L_D1_ans90=(Dalej)

@@ -1,0 +1,11 @@
+;*****************************
+;Dialog3.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D3_msg00=Partner, why are they firing at unarmed transports instead of us?
+#L_D3_ans00=Let's think about this later.
+#L_D3_msg10=I have to admit it's strange.
+#L_D3_ans10=Let's hit it, we're losing time.

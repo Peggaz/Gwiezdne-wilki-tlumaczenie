@@ -1,0 +1,15 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#L_Patrol_Stop=Statek 12, nie nale¿y zbli¿aæ siê do bazy Obcych. Proszê Opuœciæ obszar.
+#L_tri=Zniszczona stacja wojskowa Triady
+#L_trade=Zrujnowana stacja Triady
+#L_b_fact=Stocznia Berserków
+#L_b_fact=Stocznia Berserków
+#L_b_fact=Stocznia Berserków
+#L_stock=Magazyn nr. 1
+#L_hyper=Hiperprzestrzenny zak³ucacz
+#L_taget_buoy=Cel szkoleniowy

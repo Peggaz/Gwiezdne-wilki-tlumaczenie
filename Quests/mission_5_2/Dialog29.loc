@@ -1,0 +1,15 @@
+;*****************************
+;Dialog29.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;VksOfficer
+#L_D29_msg00=Hey, old friends. Need to visit another place?
+#L_D29_ans00=I have to settle up an affair in Pegasus.
+#L_D29_msg10=Any affairs to settle in the Precursor homeland, perhaps? Are you nuts? That's a no man's border system, a den of all kinds of riffraff. Besides, you'll have to get through a New Empire system, with all the patrols and other cakes and ale. Nah, we're out of this.
+#L_D29_ans10=I thought you were a special force, cool hardened veterans afraid of nothing. But it seems "veterans" are afraid of meager pirates and militia!
+#L_D29_msg20=We fear nothing! But the risk must be worth it. Let's say, 10,000 credits.
+#L_D29_ans20=10 grands?! I can hire an army for this much!
+#L_D29_msg30=It's your call, we won't work for a "thank you". MSF patrol out.
+#L_D29_ans30=(Dalej)

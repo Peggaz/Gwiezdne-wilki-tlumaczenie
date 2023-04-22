@@ -1,0 +1,17 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Natali
+#L_D1_msg00=Alex, is that you? Why did you send for us? What's the deal? Why did we have to cancel the whole operation?
+#L_D1_ans00=Is this our vanguard? Not a lot of people.
+#L_D1_msg10=Everyone who could make it here. And this girl's name is Nataly.
+#L_D1_ans10=(Dalej)
+#L_D1_msg20=Oh yes, we've met before. In Gredos, right before a good man named Ray was killed.
+#L_D1_ans20=Yeah, I remember... Many good people have died since that day.
+#L_D1_msg30=And we have been trying to put an end to the slaughter. But Alex, I don't understand. The fleet gathered in Prien, everyone but you. Then you messaged us to slow down the operation. Luckily, I was in New Kyoto - the station had managed to get us there. Is this related to the escape of Azar and his ministers?
+#L_D1_ans30=(Dalej)
+#L_D1_msg40=Oh really. So the emperor has officially decided to relocate, thinking that no one will find out about his hideout? Well, it's to the better. Nataly, I'll send you a recording of one interesting conversation. Listen to it. In the meantime, we-
+#L_D1_ans40=(Dalej)

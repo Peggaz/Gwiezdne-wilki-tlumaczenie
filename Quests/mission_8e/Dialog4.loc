@@ -1,0 +1,12 @@
+;*****************************
+;Dialog4.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m7f_Dikkens
+#L_D4_msg00=We'll sort this out! Move on.
+#L_D4_ans00=(Dalej)
+#L_D4_msg10=Partner, where to now?
+#L_D4_ans10=Let's develop the attack and head for XT-45.
+#L_D4_ans11=Let's take care about the rearguard. To the Dosis portal.

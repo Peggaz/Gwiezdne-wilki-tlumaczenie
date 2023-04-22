@@ -1,0 +1,16 @@
+;*****************************
+;Dialog7.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D7_msg00=Partner, we have bigger problems! The transports do not respond, heading for the mining station. Oh sh... The pirates started moving. Their vanguard is approaching.
+#L_D7_ans00=(Dalej)
+#L_D7_msg10=We'll take care of it, destroy the transports!
+#L_D7_ans10=But we-
+#L_D7_msg20=By Space, I believe you're not traitors! Hurry up, I beg you. Those transports will wreak havoc. I can't contact my teams at the station or leave my post here. You are the only hope. Get back immediately as soon as the transports are finished. We won't hold out for long without your help.
+#L_D7_ans20=All right, we'll take care of the transports!
+#L_D7_ans21=Captain, that hunt will only split our forces and you won't survive the pirates' attack. Alexandra's mission will be failed, which means all I've done for the NESF will go down the drain! We'll stay here and defend while you contact your men to intercept the transports. It'll be more effective this way.
+#L_D7_msg31=Ok, I'll try to contact them. You're right, defending the station is vital. Without it, we might as well pack up and leave the system - only to be apprehended by thick skulls, waiting that side of the portal.
+#L_D7_ans31=(Dalej)

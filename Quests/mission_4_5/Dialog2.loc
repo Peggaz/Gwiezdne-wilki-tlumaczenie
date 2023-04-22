@@ -1,0 +1,22 @@
+;*****************************
+;Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D2_msg00=Be careful, the scanner has detected asteroid fields and ship debris.
+#L_D2_ans00=How did the latter get here?
+#L_D2_msg10=I wish I knew. Luckily, I've never been to this out-of-the-way hole before. Wait, I'm picking up a strange signal ahead of us.
+#L_D2_ans10=A fighter?
+#L_D2_msg20=No, it's not moving. It can't be a fighter according to the readings. Oh, there's another... And another... And another few. This looks like a net of fixed weapon emplacements.
+#L_D2_ans20=Can we pass through it?
+#L_D2_msg30=Not with a passcode we can't. But we can try to dart by at full speed.
+#L_D2_ans30=Other variants?
+#L_D2_msg40=We can also get back, get detected by a patrol and lure it here. Disable all our equipment and hide among the rocks, so they won't see us on scanners. While they will be fighting the security net, we'll have a chance to escape unnoticed.
+#L_D2_ans40=Let's break through the security net. I don't know what lies ahead, but I also don't want to find out that patrol fighters are surprisingly fast.
+#L_D2_ans41=If perimeter defenses are this serious, I don't want to find out what's inside. Let's lure a patrol here and trick them into thinking we've entered the security zone.
+#L_D2_msg50=Let's go then, but stay away from the guns, they pack a punch. I've located an optimal break through spot.
+#L_D2_ans50=(Dalej)
+#L_D2_msg51=Partner, just don't lose it. Scram as soon as they notice us. No gunfights, ok? Here are the nearest patrol coordinates.
+#L_D2_ans51=(Dalej)

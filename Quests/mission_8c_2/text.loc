@@ -1,0 +1,20 @@
+;*****************************
+; mission_8c_1
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_7a_a=Reach the MSF headquarters.
+#L_Quest_7a_b=MSF Security has to know everything about what happened in Beta Lethera 1. You just have to reach New Jerusalem 2 and find someone who would be willing to share this information.
+#L_Quest_7b_a=Reach Triada headquarters.
+#L_Quest_7b_b=Triada has to know everything about what happened in Beta Lethera 1. You just have to reach their main headquarters in Candela and find someone who would be willing to share this information.
+#L_Quest_7d_a=Meet with Alex.
+#L_Quest_7d_b=Alex needs help in escorting a convoy, and his client is willing to pay good money. Alex will be waiting in XT-54. There's some free time to spend, but not much.
+
+;*****************************
+;Speeches
+;*****************************

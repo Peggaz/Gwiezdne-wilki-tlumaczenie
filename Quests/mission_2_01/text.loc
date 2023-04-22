@@ -1,0 +1,15 @@
+;*****************************
+; mission_2_01
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+
+;*****************************
+;Speeches
+;*****************************
+#L_Rey_01=Such a pity I was wrong about you. You're just another rat. So long. You only have yourself to blame.

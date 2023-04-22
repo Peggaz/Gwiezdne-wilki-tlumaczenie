@@ -1,0 +1,11 @@
+;*****************************
+;Dialog12.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Sedoy
+#L_D12_msg00=Bad news, boss. I'm afraid our base won't fly anymore.
+#L_D12_ans00=I can see it myself! Curses! Right when we need it most!
+#L_D12_msg10=We don't have cover anymore. It's bad, very bad. What should we do now?
+#L_D12_ans10=Like we have any choice! Let's go get Ternie out.

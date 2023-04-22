@@ -1,0 +1,20 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;VksAce
+#L_D1_msg00=Attention, civilian ships. A special pass is required to access this system, If you don't have it, leave Cronos immediately.
+#L_D1_ans00=No problemo. We're off to Charon and are not going to linger here.
+#L_D1_msg10=Charon is completely off-limits. Don't you read the news?
+#L_D1_ans10=Officer, I've got to attend a very important meeting in Charon.
+#L_D1_msg20=Why should I bother? Now leave the system.
+#L_D1_ans20=Officer, this is about FTU contracts with the Empire. If my mission fails, so will your career, I promise.
+#L_D1_msg30=Yeah, yeah, yeah. I heard that already. Jump into the portal or I'll speed you up with a missile.
+#L_D1_ans30=Please let me talk to your higher-ups. Let them decide if I should pass or leave.
+#L_D1_ans31=Listen, hick, don't you get who you're talking to?!
+#L_D1_msg40=Fine, go ahead. But I wouldn't waste time, the answer would be the same.
+#L_D1_ans40=(Dalej)
+#L_D1_msg41=That's it... Let's tickle that crown prince, boys.
+#L_D1_ans41=(Dalej)

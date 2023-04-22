@@ -1,0 +1,19 @@
+;*****************************
+;Dialog6.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;VksAce
+#L_D6_msg00=Central, this is dockyard guard team. Enemy contact! Send backup!
+#L_D6_ans00=(Dalej)
+#L_D6_msg10=Got you. General alert, transmitting target coordinates!
+#L_D6_ans10=(Dalej)
+#L_D6_msg20=Moscow has confirmed the general alert. Moving out to position. Central, fire up additional scanners, we must not lose the target.
+#L_D6_ans20=(Dalej)
+#L_D6_msg30=Activating scanners.
+#L_D6_ans30=(Dalej)
+#L_D6_msg40=Why did we have to do all that, if we couldn't avoid a fight?
+#L_D6_ans40=(Dalej)
+#L_D6_msg50=We need to lure the admiral as far from this system's objects as possible and try to contact him. This is our only chance to talk.
+#L_D6_ans50=(Dalej)

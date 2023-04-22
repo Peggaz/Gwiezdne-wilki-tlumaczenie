@@ -1,0 +1,14 @@
+;*****************************
+;Dialog3.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m7f_Dikkens
+#L_D3_msg00=Fine. The calculations have been right and we're right where we need to be. Right now there are several relatively weak Triada groups in XT-52, but there's a large garrison stationed in Dosis that will surely join in if alerted. We can try and disable the Dosis portal to cut the off. But this will take time and Triada will bring up additional forces to XT-45 from the adjacent systems. We'll engage the teams in XT-52, and you either develop the attack or disable the Dosis portal. It's up to you and the tactical situation.
+#L_D3_ans00=I thought you'd only need my formal presence and biometrics. But waging a war on Triada... No way. We're going back.
+#L_D3_ans01=Let's get to XT-52 first and see how it goes.
+#L_D3_msg10=You should've refused before. Now you're putting the entire operation to risk. I can't allow that.
+#L_D3_ans10=(Dalej)
+#L_D3_msg11=I agree. Attention, everyone! Head for the XT-52 portal. You have mines in the cargo bay, if you decide to disable the Dosis portal.
+#L_D3_ans11=(Dalej)

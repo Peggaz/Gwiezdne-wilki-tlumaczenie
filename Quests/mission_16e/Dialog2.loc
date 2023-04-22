@@ -1,0 +1,19 @@
+;*****************************
+;Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Uel
+#L_D2_msg00=I confirm that containers you have delivered have stolen microchips inside.
+#L_D2_ans00=Like you doubted that.
+#L_D2_msg10=There was a slight possibility that the chips had been relocated.
+#L_D2_ans10=And you're saying this only now, dammit?
+#L_D2_msg20=I repeat: the possibility of this course of events was insignificant. It had no sense to imbue you with doubts.
+#L_D2_ans20=You know, SAM, I'm only going to say this one time, so try to remember it. I attacked my friends only because I believed in your plan. I believe that we can both put an end to this bloodshed and avoid it in the future. I believe that you have everything calculated, sorted and classified. But if there are any raw spots in your plan, you must tell me about them before they turn into serious problems. Don't try to hide anything or I'll smash you to smithereens and neither Berserks or anything else will stop me!
+#L_D2_msg30=I explain your aggressive behavior by psychological discomfort you are experiencing in the light of the recent events. As for hiding information, you will have full access to all databases after you have been connected to my network.
+#L_D2_ans30=Hey, I haven't agreed to any "connections"! I won't let you plug pieces of metal into my brain!
+#L_D2_msg40=I'd try it I guess. We'll have to do that anyway... I mean, to build a new world.
+#L_D2_ans40=(Dalej)
+#L_D2_msg50=I am afraid I must insist on implanting neurochips into your nervous system. Do not worry, this procedure is completely painless and safe. The neurochip can be removed in the future, when implanting has become voluntary. But not now when you have an important and dangerous mission ahead of you. Without implants your chances will only be 3.82% and I cannot take the risk.
+#L_D2_ans50=(Dalej)

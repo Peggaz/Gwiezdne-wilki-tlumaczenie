@@ -1,0 +1,51 @@
+;*****************************
+; mission_19a
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_19a_01a=Approach the station.
+#L_Quest_19a_01b=Approach the Central Terminal and wait for Admiral Trump to return.
+#L_Quest_19a_02a=Stop Hader.
+#L_Quest_19a_02b=Protect the station and dockyard from Hader's attack. Trump must survive!
+#L_Quest_19a_03a=Wait for Trump.
+#L_Quest_19a_03b=Wait for Admiral Trump to return.
+#L_Quest_19a_04a=Approach the station.
+#L_Quest_19a_04b=Approach the Central Terminal.
+
+;*****************************
+;Speeches
+;*****************************
+#L_disp_01=Admiral, we're picking up another hostile signal!
+#L_Tramp_01=Hader's vultures?
+#L_disp_02=No, the computer recognized them as NESF property. But it blinked for a second and vanished! Probably turned on cloaking or something.
+#L_Tramp_02=Curiouser and curiouser...
+
+#L_Heder_01=It is done. Proceed to the second stage of the operation.
+#L_Heder_02=Great! Proceed to the second stage of the operation.
+#L_Heder_03=Damn, it's not what we need, but it will do. Proceed to the second stage of the operation.
+#L_Heder_04=Curses! Worthless dolts, you couldn't perform a simple task! Just you wait, Trump, we'll meet again, I swear.
+
+#L_Heder_05=I'm under attack! Retreat!
+#L_vks_01=But admiral, what about our mission?
+#L_Heder_06=To hell with it! Proceed to the second stage of the operation.
+
+#L_Tramp_03=Great job! Approach the station, I'll bring your new mothership there.
+
+#L_Tramp_04=Damn! It's quite a pity that we didn't save the cruiser dockyard. Even one of those birds would come in handy right now.
+#L_Hero_01=So what now?
+#L_Tramp_05=Let's count on ships we have. Approach the station, I'll initiate the evac procedure.
+
+#L_Tramp_06=Damn, they destroyed the hyper catapult station. I'll have to fly all the way. Get back to the portal, I'll bring your new mothership there.
+
+#L_Heder_07=There you go, traitor! The emperor wishes you a great time in hell!
+
+#L_Sedoy_01=That's it, boss. Game over.
+
+#L_sys_01=Let Admiral Trump go so he can bring you a new mothership.
+
+#L_sys_02=That was your biggest mistake. Whatever happens next, you won't be a part of it.

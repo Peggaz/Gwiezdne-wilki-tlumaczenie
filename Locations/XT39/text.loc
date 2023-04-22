@@ -1,0 +1,14 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#L_nav_00=Portal do XT-45
+#L_nav_00a=Portal Obcych
+#L_nav_03=Zbiorowisko Obcych
+#L_nav_05=Si³y uderzeniowe MSF
+#L_nav_06=Pancernik i si³y wsparcia
+#L_nav_07=Miejsce wyeliminowania korporacyjnych
+#L_nav_08=Pancernik wsparcia
+#L_Tri=Stacja "Shoto" Triady

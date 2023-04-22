@@ -1,0 +1,13 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D1_msg00=I take it we've lost the contract.
+#L_D1_ans00=Ah, don't be sorry. It promised more troubles than benefits anyway. We shouldn't have taken it in the first place.
+#L_D1_msg10=Oh really? What should we have done then?
+#L_D1_ans10=I should initially have focused on what I've started traveling for - on getting to know what's happened to my convoy. So now we're going to Beta Lethera 1 and that's beyond question.
+#L_D1_msg20=Sure, sure. But we'll still visit my friend in New Jerusalem 3. All the more it's along the way.
+#L_D1_ans20=(Dalej)

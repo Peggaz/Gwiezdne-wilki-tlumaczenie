@@ -1,0 +1,13 @@
+;*****************************
+;Dialog4.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D4_msg00=I thought the Precursor portal would look more... exotic.
+#L_D4_ans00=(Dalej)
+#L_D4_msg10=I don't get it. It's definitely the source of emission! But maybe it's being retransmitted from an adjacent system.
+#L_D4_ans10=(Dalej)
+#L_D4_msg20=Then it's high time to hit it. We've got a really large cluster of tins incoming.
+#L_D4_ans20=(Dalej)

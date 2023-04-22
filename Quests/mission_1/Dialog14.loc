@@ -1,0 +1,17 @@
+;*****************************
+;Dialog14.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D14_msg00=There has been an unforeseen circumstance. Corporators couldn't give me a convoy. All their military ships had been assigned to some fat cat that left the station.
+#L_D14_ans00=(Dalej)
+#L_D14_msg10=What fat cat? What's his destination? How many ships are in the convoy? Answer quickly!
+#L_D14_ans10=Give me a break, I don't know! I saw ten fighters or so, and something big, undocking. Corporators didn't care to explain everything to me.
+#L_D14_msg20=Dammit! Attention, everyone! Start broadband system scan immediately. Look for a large cluster of vessels.
+#L_D14_ans20=(Dalej)
+#L_D14_msg30=Major, patrol team Gamma has detected a weak signal closing in on the Debris portal.
+#L_D14_ans30=(Dalej)
+#L_D14_msg40=Curses! We can't afford to be late! You there, trader, collect the cargo and deliver it to the MSF HQ! Got it? Or I'll have your neck!
+#L_D14_ans40=(Dalej)

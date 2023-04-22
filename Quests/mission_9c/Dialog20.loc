@@ -1,0 +1,23 @@
+;*****************************
+;Dialog20.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Alexandra
+#L_D20_msg00=Finally, you're here. I've heard the news. Sorry for getting you involved in this mess.
+#L_D20_ans00=Well, you couldn't have known.
+#L_D20_msg10=I see you haven't managed to deliver the cargo safe and sound. It sure is a pity. Now I'll have to makes excuses to InoCo. Since they put that new AI - SAM or something - in charge of nearly everything, conversing with InoCo has turned into sheer torture.
+#L_D20_ans10=We can explain, the MSF offered fierce resistance.
+#L_D20_msg20=I'm afraid that is not possible. For some reason, InoCo closed Vulcan for all ships with no exception. Even for the NESF. Considering that they are our strategic partner, we have to respect their demands for sovereignty. Don't worry about the cargo, our men will escort it to the Vulcan portal and hand over to InoCo representatives. So consider your job done. Which reminds me that I owe you 625,000 credits for your help in liberating the system and cargo delivery.
+#L_D20_ans20=Not much, but better than nothing.
+#L_D20_msg30=It sure is. By the way, I got a message from Dionysus. The captain of their security is very grateful to you for helping him out and to me for dispatching such smart soldiers.
+#L_D20_ans30=Oh, you dispatched a team into there? That's strange we haven't seen anyone.
+#L_D20_msg40=Don't be stupid, partner. She means us.
+#L_D20_ans40=But we're no soldiers, we're traders!
+#L_D20_msg50=Ah, boss's humor. Missing the mark as usual.
+#L_D20_ans50=(Dalej)
+#L_D20_msg60=It's unimportant who you think you are. It's important that you've helped to save a multitude of lives. Now let's talk about our agreement, the Greys.
+#L_D20_ans60=Have you found out anything?
+#L_D20_msg70=Not much, but enough to startle all New Empire Security. It seems that the MSF and corporations are not the worst enemies we're going to engage. I described the investigation results in a message. Read it in your spare time. Now please excuse me, but I need to make sure the InoCo's cargo makes it to the destination. See you soon. Good luck.
+#L_D20_ans70=(Dalej)

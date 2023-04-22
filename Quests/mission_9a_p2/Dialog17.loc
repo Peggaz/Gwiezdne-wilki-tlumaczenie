@@ -1,0 +1,22 @@
+;*****************************
+;Dialog17.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m9a_Gorbatenko
+#L_D17_msg00=Hey, pencil pushers, you're good. We've assaulted the station and are dealing with the saboteurs we've been looking for. My men reported about seizing a hangar with nearly two dozen almost completed fighters. Those birds would sure cause trouble, if given a bit more time.
+#L_D17_ans00=I told you we could be useful.
+#L_D17_msg10=And you were! I wish more pencil pushers were like you. You helped us hold this system, so I'm in your debt and would like you to accept a small token of gratitude, this Wyvern Mk 2 fighter. They tried to smuggle it to Angarsk from Danstag. Oh, damn, an incoming call... I beg your pardon, but I can't talk to you anymore. Good luck, visit us some day. You're welcome here.
+#L_D17_ans10=(Dalej)
+#L_D17_msg20=Some reward it is! Partner, just look at its specs!
+#L_D17_ans20=We'll have time to do that. I'm glad we've helped the locals, but time's running out.
+#L_D17_msg30=I suggest we visit Solncevka and find Aylon's friend first.
+#L_D17_ans30=(Dalej)
+#L_D17_msg40=Nah, it's a long way round. Besides, that system is not a pleasant one.
+#L_D17_ans40=(Dalej)
+#L_D17_msg50=The system? But we just need one man, and I doubt he's a scoundrel. Aylon despises their type.
+#L_D17_ans50=All right, Ternie, I give up. Let's find that Aylon's friend and see what we can do.
+#L_D17_ans51=First, let's deal with the mission, then see about Aylon's friend.
+#L_D17_msg61=Then we're going to New Donbass. Just one piece of advice, boss. People there are real hotheads, so mind what you're saying.
+#L_D17_ans61=I know, don't worry. Let's go.

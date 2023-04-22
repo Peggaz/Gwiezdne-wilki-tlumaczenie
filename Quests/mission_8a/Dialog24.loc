@@ -1,0 +1,15 @@
+;*****************************
+;Dialog24.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m8a_President
+#L_D24_msg00=My, isn't this a real uprising! Then here's my presidential promise. Who turns back now and returns to his station will live. All the rest will be killed, together with children, and their women will be pleasing my boys. So?! Get back to your holes, chop-chop!
+#L_D24_ans00=(Dalej)
+#L_D24_msg10=Just shut up, I'm tired of you. You shouldn't have poked your nose into this system in the first place. Or at least you should've got out after the first robbery. But you decided to become a local petty monarch.
+#L_D24_ans10=(Dalej)
+#L_D24_msg20=And I did quite well. I've been fleecing you like sheep and I will be doing it for as long as I want. There's only one thing I'm regret, I should've knocked your block off back then, so I wouldn't have to listen to your yap now.
+#L_D24_ans20=(Dalej)
+#L_D24_msg30=Well, this was your chance to confess... Let's start.
+#L_D24_ans30=(Dalej)

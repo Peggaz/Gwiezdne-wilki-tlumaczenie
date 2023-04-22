@@ -1,0 +1,31 @@
+;*****************************
+;Dialog16.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Cleric
+#L_D16_msg00=Were those Precursor ships?!
+#L_D16_ans00=(Dalej)
+#L_D16_msg10=You've hit it, as Greyhair would probably say.
+#L_D16_ans10=Ternie, how did they get here?
+#L_D16_msg20=Partner, do you remember that system with a huge planetary ship that we have found while hunting for artifacts?
+#L_D16_ans20=(Dalej)
+#L_D16_msg30=You were beyond the Alien portal at the far border? Sweet ENIAC! Why does always someone else get such adventures? Why not poor Cleric?!
+#L_D16_ans30=(Dalej)
+#L_D16_msg40=Believe me, boy, there were no adventures, just troubles.
+#L_D16_ans40=(Dalej)
+#L_D16_msg50=Whatever! You've touched the previously unseen technologies. I've been dreaming of visiting that place for my entire life.
+#L_D16_ans50=(Dalej)
+#L_D16_msg60=Dreams have one damned quality - they come true sometimes. But that we can discuss later. So, partner, I conked out for a moment and... You see, it wasn't a planet or a ship. It was one great machine. It was like I found myself inside it, I felt it. As if it had accepted me and made me a part of itself. I'm still feeling this link now, but boy, do I have a headache! I have no idea what that is, how that has happened and what it will come to. But so far I've found out I can summon Alien ships. Or rather those unmanned drones.
+#L_D16_ans60=(Dalej)
+#L_D16_msg70=She has let this system have it already. Everyone's in a flap.
+#L_D16_ans70=(Dalej)
+#L_D16_msg80=If I hadn't seen this with my own eyes, I'd think you both were insane.
+#L_D16_ans80=(Dalej)
+#L_D16_msg90=Oh no... A direct link to an Alien machine... Access to its databases, architecture... Why isn't this happening to me, dammit! Just don't tell me you can summon those drones at any moment!
+#L_D16_ans90=(Dalej)
+#L_D16_msg100=So far I've done it twice. And each time I felt like a sucked orange.
+#L_D16_ans100=Just don't drive yourself too hard, all right? We'll manage without these reinforcements. Your health is more important.
+#L_D16_msg110=Come on, summon them once more. Just for me, I'm begging you! But first I have to get some equipment to record the whole thing! I even know where to get it... But right now we have to scram.
+#L_D16_ans110=(Dalej)

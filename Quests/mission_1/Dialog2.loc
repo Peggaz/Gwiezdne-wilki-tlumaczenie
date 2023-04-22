@@ -1,0 +1,18 @@
+;*****************************
+;Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m1_TriadaAgent
+#L_D2_msg00=Hey, you there! Turn your old tub and follow us!
+#L_D2_ans00=I'm afraid we're going different ways.
+#L_D2_msg10=Didn't you get me? I told you to follow. Don't worry, you'll be safe, if you do what we say. Might even get a reward.
+#L_D2_ans10=And I repeat, we're going different ways. I've called for the MSF, so you better get lost while you're still in one piece.
+#L_D2_ans11=I could use the extra money... But that's not the way to offer a job. What do you want from me?
+#L_D2_msg21=Then pardon my rough tone, but I'm in urgent need of a transport. Ours has fallen apart not far from here and its cargo is now adrift unprotected.
+#L_D2_ans21=Fallen apart?
+#L_D2_msg31=Not without outside help, naturally. I'm glad it managed to get all the way here from the skirmish site, at all. Chances are no one has found the cargo yet.
+#L_D2_ans31=What's the cargo?
+#L_D2_msg41=Nothing too valuable, just some papers from corporation archives. But we need to get moving. Transmitting destination coordinates now.
+#L_D2_ans41=(Dalej)

@@ -1,0 +1,19 @@
+;*****************************
+;Dialog5.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;VksAce
+#L_D5_msg00=Attention, civilian ships, the system is under martial law. A special pass is required to move around freely.
+#L_D5_ans00=I'm a free trader and I go where I please. Got it?
+#L_D5_ans02=Officer, I quite get it and would be grateful to you, er, finanically, if you help us cross this system and jump to Al-Zed.
+#L_D5_msg10=Quite so. General alert, intruders!
+#L_D5_ans10=(Dalej)
+#L_D5_msg12=Why do you even care about those rebels?
+#L_D5_ans12=Just business, officer. You've scanned by cargo bay and can see what I'm carrying. They are willing to pay for it, and I'm willing to share.
+#L_D5_msg22=Share?.. Well, we could use some cash right now... All right, I'll take you to the Al-Zed portal for 50,000 credits.
+#L_D5_ans22=How much?! Have you all cracked here? This price is not reasonable. Do I make myself clear?
+#L_D5_ans23=I can see you are not to be trifled with. All right, I agree.
+#L_D5_msg33=Stay right behind me and keep you mouths shut. I'll talk to the portal guards myself.
+#L_D5_ans33=Sure thing, officer.

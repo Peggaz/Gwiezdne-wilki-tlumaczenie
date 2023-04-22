@@ -1,0 +1,15 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D1_msg00=All right, we're here. I know the frequency to contact the man we need.
+#L_D1_ans00=(Dalej)
+#L_D1_msg10=Should we mess with the military channels, boss? It makes them nervous.
+#L_D1_ans10=We have to risk it, otherwise it'll take us an eternity to find him. Besides, I don't think they'll start shooting without getting to know how we've got their frequencies first.
+#L_D1_msg20=As you say, boss. Who's the contact, by the way?
+#L_D1_ans20=I think we should start with that professor. Ok, all set, sending the signal now.
+#L_D1_msg30=So, can we just lay back and wait?
+#L_D1_ans30=(Dalej)

@@ -1,0 +1,9 @@
+;*****************************
+;Dialog11.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D11_msg00=Where to now, partner?
+#L_D11_ans00=I think we should check what InoCo wanted from us. We're going to Lidau.

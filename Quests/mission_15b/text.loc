@@ -1,0 +1,26 @@
+;*****************************
+; mission_15b
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_14b_01a=Meet with Savay Tanaka.
+#L_Quest_14b_01b=Savay Tanaka, Aja's companion-in-arms, will be expecting you in XT-05.
+#L_Quest_15b_01a=Reach the rendezvous point.
+#L_Quest_15b_01b=Reach the rendezvous point to meet with Alex and his team.
+
+;*****************************
+;Speeches
+;*****************************
+#L_Tanaka_01=I hope you've found our warehouse useful. Initiating jump to Uhle.
+
+#L_Lastochka_01=Hmm, our team gets smaller and ship gets worse... I can't say our business is flourishing!
+#L_Hero_01=Do you remember the last time we actually did business? Nevermind, we'll deal with this later. Right now we must meet with Alex at the coordinates he has given.
+
+#L_Alex_01=All right, now we have discuss our plans. What the...
+
+#L_sys_01=That was your biggest mistake. Whatever happens next, you won't be a part of it.

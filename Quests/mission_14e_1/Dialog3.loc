@@ -1,0 +1,15 @@
+;*****************************
+;Dialog3.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D3_msg00=Right on! I can even see an appropriate ship. But how the hell should I gain control over it? Hmm, comm channel... Open a comm channel...
+#L_D3_ans00=(Dalej)
+#L_D3_msg10=This is InoCo transport navigation system speaking. Welcome. Please transmit your authorization codes.
+#L_D3_ans10=I wonder if InoCo's passcode will do. Here you are, clunker, and don't tell me you don't like it!
+#L_D3_msg20=Top-level codes accepted. Allow access for other corporation directors?
+#L_D3_ans20=No!
+#L_D3_msg30=Instruction accepted. Disabling remote administration. Vessel systems are awaiting your instructions. InoCo Corporation wishes you a nice flight.
+#L_D3_ans30=Fine, we've got the ship. All we need now is to leave this place.

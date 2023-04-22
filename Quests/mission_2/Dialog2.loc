@@ -1,0 +1,22 @@
+;*****************************
+;Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D2_msg00=Anyone there? I need to talk to dispatcher Nataly about a delivery.
+#L_D2_ans00=(Dalej)
+#L_D2_msg10=This must be from my friend Alice. Thank you. How much do I owe you?
+#L_D2_ans10=Nothing. It's a shame to charge for such trifles.
+#L_D2_ans12=Alice told me it would be 100 credits.
+#L_D2_msg20=It's very nice of you, but I think I'll be able to reward you nevertheless. Alice messaged me you were looking for work.
+#L_D2_ans20=She was right.
+#L_D2_msg30=Great. There's that Ray stuck by the Falcon Station. He badly needs someone to deliver some cargo. Ray is a man of reputation. His job is one-time, but the money is decent.
+#L_D2_ans30=Nataly, you helped me a great deal!
+#L_D2_msg40=Glad to hear this. Thanks for the delivery and good luck.
+#L_D2_ans40=(Dalej)
+#L_D2_msg22=Strange, she messaged me about 50.
+#L_D2_ans22=Fifty? Oh, yeah, right, my mistake. Of course, it's 50!
+#L_D2_msg32=Exactly. Here you go. Good luck.
+#L_D2_ans32=Hey, wait, I wanted to ask about work... She hang up on me. What a hellcat. Well, I have to keep looking.

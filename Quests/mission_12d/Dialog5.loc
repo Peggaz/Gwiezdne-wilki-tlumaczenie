@@ -1,0 +1,17 @@
+;*****************************
+;Dialog5.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D5_msg00=Fine, now we can talk. Let me connect the pod to our comm channel.
+#L_D5_ans00=(Dalej)
+#L_D5_msg10=You will regret this! All of you!
+#L_D5_ans10=Mind you don't regret it first. So, you owe me some information.
+#L_D5_msg20=Hah! Not likely! I won't tell you a thing after you've destroyed my ship and my server, to which I uploaded InoCo's database. And don't bother torturing me! I copied that data to my PDA and encrypted it. To pull it out, you will need the protection cracked. And my brain doesn't work well under pressure.
+#L_D5_ans20=There will be no pressure. We'll just drop you off in some back of beyond not even visited by mapper probes. And wait for your life-support energy to run out. I guess this will give you enough time to hack your own PDA and become filled with urge to tell us everything.
+#L_D5_msg30=That's extortion!
+#L_D5_ans30=What, have you recognized your favorite trick? So, what do you say? Should I check the maps for a good spot? Meanwhile, Greyhair will make your pod's batteries recharge faster.
+#L_D5_msg40=Wait. Ok, here's a deal. Only out of my generosity, as I don't believe your threats. I can forgive you for wasting all the data. After all, I can hack that InoCo server again, and besides it's fun. But I'll need a ship, and you will buy me one. Not some jalopy, but a decent fighter. Or I'll tell you nothing. Will die, but tell you nothing!
+#L_D5_ans40=All right, but remember: try anything stupid and I'll get the information out of you in a very painful way. I hope you get it.

@@ -1,0 +1,30 @@
+;*****************************
+;Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;InocoDispetcher
+#L_D2_msg00=Welcome to the InoCo Headquarters. You are expected. Switching now.
+#L_D2_ans00=(Dalej)
+#L_D2_msg10=Greetings. You are here by my invitation, so don't be surprised. Let me cut to the chase right away. My name is Charles Dickens, I'm a member of InoCo's board of directors. And I have some very important business to discuss. It should be interesting to you too though.
+#L_D2_ans10=Glad to meet you, but what was that? I mean the portal.
+#L_D2_msg20=Oh that. Just a small experiment to advance the current transportation system. Nothing interesting, so let's get down to business. I need you to render me a service that, as I've mentioned, will be mutually beneficial.
+#L_D2_ans20=You know, everyone wants a service from us these days. Always mutually beneficial.
+#L_D2_msg30=Oh, irony, I see. But you shouldn't be this way in regard to my offer. In brief, you want to know what happened to your convoy, and I'm willing to get the cargo back.
+#L_D2_ans30=That's fun. I think that cargo is of interest to everyone I've met. I wonder what that is.
+#L_D2_msg40=You will get to know it in due time. For now I can tell you that InoCo is its rightful owner.
+#L_D2_ans40=Sorry, Mister Dickens, I don't know what information you have, but I'm already tired of repeating that I don't have the cargo. It was destroyed along with my transports.
+#L_D2_msg50=You're not quite right. The transports were destroyed, but the cargo survived. Safe and sound, it's hidden in... You'll get all the details, when you agree to my offer.
+#L_D2_ans50=(Dalej)
+#L_D2_msg60=It sounds too shady. You have enough men to clear ten systems during a coffee break.
+#L_D2_ans60=(Dalej)
+#L_D2_msg70=True, we have enough men for combat. But the cargo is protected by biometric locks. As you can see, you are the one who can open them.
+#L_D2_ans70=Yes, I know. It was specified in the contract. There's another thing I wonder about: how did you know I'd be in a Triada system?
+#L_D2_msg80=Just simple logic coupled with reports of my agents regarding your travels. I want this to be perfectly clarified. Our corporation needs this cargo badly, which means we also need you. The only reason we haven't contacted you before is that we had no idea where the cargo was hidden. As soon as we found this out, I sent agents to contact you. I promise you will get to know all the details in due time. Given we'll come to an agreement, of course. 
+#L_D2_ans80=I can't say I like to agree blindly, but you have a deal!
+#L_D2_ans81=Thanks, but I don't like to deal on such conditions. I need more information about the mission and cargo.
+#L_D2_msg90=Great! I need to settle some other affairs, then I'll let you know where to go. For now feel free to visit our stores, you're on the list. Over and out.
+#L_D2_ans90=(Dalej)
+#L_D2_msg91=You got as much information as is needed to make a decision without damaging the interests of the corporation. Well then, don't let me detain you any longer. You will be escorted out of the system.
+#L_D2_ans91=(Dalej)

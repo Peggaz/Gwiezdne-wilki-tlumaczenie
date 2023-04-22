@@ -1,0 +1,9 @@
+;*****************************
+;Dialog15.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D15_msg00=Where to now, partner?
+#L_D15_ans00=My friend asked me for help with escorting a convoy. Let's visit him in XT-54 and make some cash.

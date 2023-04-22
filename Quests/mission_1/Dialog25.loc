@@ -1,0 +1,17 @@
+;*****************************
+;Dialog25.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Dispetcher
+#L_D25_msg00=Finally! What took you so long? Preparing to unload.
+#L_D25_ans00=Hey!
+#L_D25_msg10=What now?
+#L_D25_ans10=What the hell is going on?! I haven't asked to unload!
+#L_D25_msg20=Huh? Aren't you from the Kruger system with a cargo of dried milk?
+#L_D25_ans20=What milk?! Are you out of your mind?
+#L_D25_msg30=Whoa, sorry, my mistake. Let me set it right. One moment... Oh, rats!
+#L_D25_ans30=What now? Where's my cargo?
+#L_D25_msg40=It was accidentally routed to an adjacent terminal. And I see no records of what block it has been unloaded to. But don't you worry, it'll be found. You know what, I'm quite busy right now. File a complaint to our station manager and he'll settle this issue as soon as possible. Oh, and thanks for your cooperation.
+#L_D25_ans40=(Dalej)

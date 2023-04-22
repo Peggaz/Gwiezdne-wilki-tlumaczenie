@@ -1,0 +1,11 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#L_nav_01=Portal do Hefajstos
+#L_nav_04=Cel podró¿y
+#L_nav_02=Stacja "Astrolabs"
+#L_nav_03=Bar "Etna"
+#L_Name_ModuleStation_Universal=Centrum techniczne "InoTech"

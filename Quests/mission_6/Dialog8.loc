@@ -1,0 +1,15 @@
+;*****************************
+;Dialog8.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D8_msg00=Where the hell did those come from?!
+#L_D8_ans00=(Dalej)
+#L_D8_msg10=Ask if there a place they don't visit.
+#L_D8_ans10=(Dalej)
+#L_D8_msg20=Partner, we're in big trouble! A few large MSF units are on the way here. Very, very large units!
+#L_D8_ans20=Dammit! We're leaving immediately!
+#L_D8_msg30=They're trying to cut us off the New Jerusalem 3 portal!
+#L_D8_ans30=We'll make it. Greyhair, stay abreast!

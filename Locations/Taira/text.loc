@@ -1,0 +1,12 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#L_trade_station=G³ówna stacja handlowa w Tira
+#L_terminal1=Terminal towarowy w Tira
+#L_terminal2=Terminal tranzytowy w Tira
+#L_gost=Kompleks hotelowy "Trzy Drogi"
+#L_patrol=Stacja Patrolu "Niezawodna"
+#L_living=Siedlisko Sypialniane "Tirian"

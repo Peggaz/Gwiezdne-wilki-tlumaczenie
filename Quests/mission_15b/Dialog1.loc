@@ -1,0 +1,19 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka2
+#L_D1_msg00=Triada without black markets and pirates? Well, I don't know! You can't imagine how much effort I needed not to burst out laughing! Partner, you owe me one!
+#L_D1_ans00=That we have rescued you from the clutches of Greys, doesn't that count anymore?
+#L_D1_msg10=Rescued, hah! You just arrived too early! Kalem and me were going to smash their clunkers and station into smithereens!
+#L_D1_ans10=(Dalej)
+#L_D1_msg20=I highly doubt that.
+#L_D1_ans20=Nevermind, Kalem. Ternie likes to exaggerate. You'll get used to it.
+#L_D1_msg30=I'm so undervalued and not appreciated... See now, Kalem, what I have to endure among these unbridled chauvinists?
+#L_D1_ans30=(Dalej)
+#L_D1_msg40=Joking aside, I can say that Aja was right about the problem - the new kind of pirates. She was also right about the solution - removing the organizational element and quickly. But I'm afraid the girl might get involved in another suicidal adventure.
+#L_D1_ans40=(Dalej)
+#L_D1_msg50=What has she got to lose? I doubt that Imu's father will forgive Aja for killing his son. By the way, boss, we need to replenish. Our missile room is bare as a bone.
+#L_D1_ans50=(Dalej)

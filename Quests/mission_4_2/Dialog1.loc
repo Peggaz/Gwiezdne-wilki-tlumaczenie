@@ -1,0 +1,35 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D1_msg00=Phew, we're almost done. All that's left is to clear the ship of its former owners completely and quickly. They are now in the docking bay. I blocked the pressure door, but it can't hold them for long. The camera shows they are messing about a bulkhead to get access to wiring...
+#L_D1_ans00=Wait, Ternie, do you mean I'll have to pass their friendly gang to get inside? I don't have any firearms on me, curses are my only protection.
+#L_D1_msg10=Exactly. So there's only one way: I'll open the airlocks and vent the cargo bay. They didn't have time to grab spacesuits.
+#L_D1_ans10=But then...
+#L_D1_msg20=Those who doesn't have a spacesuit will die. This is bad, but there are no other ways. They are skilled technicians, it will take them a few minutes to unblock the door and get to the cockpit...
+#L_D1_ans20=(Dalej)
+#L_D1_msg30=Hey, wait, don't open the airlock. We can negotiate.
+#L_D1_ans30=(Dalej)
+#L_D1_msg40=Damn, they've connected to our comm channel. Accessing hydraulics is only a matter of minutes.
+#L_D1_ans40=(Dalej)
+#L_D1_msg50=Just listen, will you! Spare our lives and we'll give you the coordinates of Breakneck's stash. You've never seen that much money in one place!
+#L_D1_ans50=Another pirate promise? I can hardly believe it. You usually sell loot and launder money in a convenient bank where they don't ask too many questions. Come up with a better idea.
+#L_D1_msg60=Wait, boy, let's hear him out. So what was there about the coordinates?
+#L_D1_ans60=(Dalej)
+#L_D1_msg70=Breakneck didn't sell everything. He stockpiled a lot for the future - cash, guns. He frequented a place, coordinates of which we deleted from logs every time. But we know them, I swear!
+#L_D1_ans70=And you want-
+#L_D1_msg80=Spare our lives and let us get away. You have a transport, give it to us and we'll give you the stash information - system name, coordinates - everything needed to find it.
+#L_D1_ans80=Hmm, isn't giving you a ship too much?
+#L_D1_msg90=There's so much loot in the stash that you'll be able to equip ten more ships. We saw how many containers our boss took there. Since our pirating days are over, we don't need it anymore. We're just technicians, mind you! All we want is to find a peaceful system and settle there quietly.
+#L_D1_ans90=(Dalej)
+#L_D1_msg100=Listen, boy, they are really just technicians. They sure are bastards since they've agreed to join Breakneck, but harmless at that. Perhaps, we should let them go?
+#L_D1_ans100=(Dalej)
+#L_D1_msg110=We have more to offer! One day Breakneck ordered us to upgrade mothership's engines and scanner. We are the only ones who know how to enable them. Let us go and you will get a ship only a few can surpass!
+#L_D1_ans110=I don't even know... Aw, what the hell! Give me your coordinates, take the transport and scram.
+#L_D1_msg120=Oh thank you! Thank you so much for sparing our lives!
+#L_D1_ans120=(Dalej)
+#L_D1_msg130=Hey, where do you think you're going, dolts?! Stand by the bulkhead and wait for my partner to get onboard. And don't even move! He's in a spacesuit, you're not, and my finger might jerk and hit the airlock button. Get my meaning? Hey, don't look at me this way. If everything goes off without a hitch, I'll give you spacesuits as soon as my friend locks the pressure door. I'm not your boss Breakneck after all.
+#L_D1_ans130=(Dalej)

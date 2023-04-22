@@ -1,0 +1,15 @@
+;*****************************
+;Dialog4.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m12_Rebel
+#L_D4_msg00=Heh, we have visitors! Well, kill your engines, end of flight.
+#L_D4_ans00=Hey, wait a second. What's the problem?
+#L_D4_msg10=You are the problem. We don't lay down red carpets for imperial sleuths.
+#L_D4_ans10=(Dalej)
+#L_D4_msg20=Come on, friend, we're traders. Believe me!
+#L_D4_ans20=We're loaded with supplies and medicines. We got to know you had a deficit of both, and I needed a contract to make some money.
+#L_D4_msg30=Yeah, yeah, you'll have a chance to finish your story. Now follow me and don't try anything stupid.
+#L_D4_ans30=(Dalej)

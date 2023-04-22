@@ -1,0 +1,12 @@
+;*****************************
+;Dialog4.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D4_msg00=Listen, partner. I'm a thrifty girl and don't like to throw cash out into vacuum. But this contract, there's something wrong with it. Should we get back to the portal and hire those mercenaries? We'll spend a bit on them idlers, but they'll cover us if anything happens.
+#L_D4_ans00=I couldn't agree more. Turn back.
+#L_D4_ans01=If the customer finds out we've hired someone, we might not get paid at all. So we shouldn't.
+#L_D4_msg10=As you say... I suggest, you decide.
+#L_D4_ans10=(Dalej)

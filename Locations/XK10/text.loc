@@ -1,0 +1,18 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#L_Nav_01=Portal do Cadi
+#L_Nav_02=Opuszczony zak≥ad
+#L_Nav_03=Agent klienta
+#L_Nav_04=Transporter Imperialny
+#L_Nav_05=Chmura py≥u
+#L_Nav_06=Moøliwa lokacja bazy
+#L_Nav_61=Baza szkoleniowa USS
+#L_Nav_07=èrÛd≥o sygna≥u
+#L_Nav_08=Miejsce spotkania
+#L_trade=Stacja Handlowa "Ajax"
+#L_patrol=Stacja patrolowa InoCo
+#L_fact=Zak≥ad InoCo

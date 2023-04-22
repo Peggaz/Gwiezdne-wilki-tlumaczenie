@@ -1,0 +1,19 @@
+;*****************************
+;Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m14a_Unknown
+#L_D2_msg00=Harry Cayer, in the name of the Council I order you to disable your weapons and follow us. Don't try to resist.
+#L_D2_ans00=(Dalej)
+#L_D2_msg10=Go to hell! I'm not your enemy! They are! Attack them!
+#L_D2_ans10=(Dalej)
+#L_D2_msg20=Enough of this buffoonery, Cayer. You've been tricking the Council for too long for anyone to believe you now.
+#L_D2_ans20=(Dalej)
+#L_D2_msg30=The Council will have their explanations later! For now, dammit, just don't get in the way!
+#L_D2_ans30=(Dalej)
+#L_D2_msg40=For the last time I repeat, Cayer, disable your weapons and tell your men to surrender. Then you'll be spared.
+#L_D2_ans40=(Dalej)
+#L_D2_msg50=And you'll die for sure! You there! Attack!
+#L_D2_ans50=(Dalej)

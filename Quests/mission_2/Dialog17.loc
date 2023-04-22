@@ -1,0 +1,13 @@
+;*****************************
+;Dialog17.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D17_msg00=Calling Copernicus Station. I've delivered your cargo, who's going to pick it up?
+#L_D17_ans00=(Dalej)
+#L_D17_msg10=Finally! What took you so long? Every minute of downtime of scientific equipment, parts of which you've delivered, slows down the entire station's work!
+#L_D17_ans10=Huh? Would it be better if I didn't deliver the hardware at all? Your system is crawling with pirates, I had to take a detour.
+#L_D17_msg20=What prevented your from hiring mercenaries? There are many worthy teams here, ready to work for a moderate fee. Anyway, now we'll have to fall back upon the penalty paragraph. Your reward is 8,000 credits. It's a pity Ray couldn't come here. He's truly punctual. Over and out.
+#L_D17_ans20=Greedy bastards. Anyway, we have to return the ship.

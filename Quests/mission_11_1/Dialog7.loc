@@ -1,0 +1,21 @@
+;*****************************
+;Dialog7.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D7_msg00=Phantom, does it mean that Aliens are Precursors' offspring?
+#L_D7_ans00=(Dalej)
+#L_D7_msg10=According to all preliminary information.
+#L_D7_ans10=That's strange. Their technologies are worse than Precursors'.
+#L_D7_msg20=There are many reasons for social degradation: catastrophes, wars, stagnation that happens when society loses a global goal and each individual starts pursuing own goals. Our history has examples of this as well.
+#L_D7_ans20=(Dalej)
+#L_D7_msg30=Why do they protect these artifacts?
+#L_D7_ans30=(Dalej)
+#L_D7_msg40=Because they're bastards!
+#L_D7_ans40=(Dalej)
+#L_D7_msg50=I can't answer this question. To honor their legacy, perhaps. Or because they're trying to rediscover their lost scientific achievements. Who knows? But, my dear, I share your assessment of their behavior. It's such a loss for our science. Irreplaceable.
+#L_D7_ans50=(Dalej)
+#L_D7_msg60=Come on, take it easy. Be glad that we're alive. Science and money will come.
+#L_D7_ans60=True enough. But still it's a pity...

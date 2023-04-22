@@ -1,0 +1,21 @@
+;*****************************
+;Dialog7.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;PirateTough
+#L_D7_msg00=Whoa, the ball comes to the player!
+#L_D7_ans00=Some ball I am with an empty cargo bay and pockets. But I do have a mutually beneficial offer to make.
+#L_D7_msg10=Hmm, I'm intrigued... I won't shoot you for now, so talk!
+#L_D7_ans10=I can help you get rid of the Wild Dogs.
+#L_D7_msg20=By cursing them with hardcore sniffles? We've tried to wipe them out, but their alarms are too good. Besides, they're always spread in small teams.
+#L_D7_ans20=I can solve both problems - gather the entire clan and render their recon harmless. You will just have to set up an ambush.
+#L_D7_msg30=Damn, I'd rather whack you, but let the boss decide. Switching you to him.
+#L_D7_ans30=(Dalej)
+#L_D7_msg40=You sure are brave. To fly here alone and make an offer like this... Why do you want the Dogs dead?
+#L_D7_ans40=Revenge.
+#L_D7_msg50=Revenge is good, but not free. Our help will cost you 5,000 credits. 3,000 now, 2,000 - on mission completion.
+#L_D7_ans50=I don't have that much. But you can have all trophies and my transport.
+#L_D7_msg60=Transport, you say? All right, I'll trust you this time. But do anything stupid and you will beg me to end your life.
+#L_D7_ans60=Deal. I'll contact you and send the rendezvous spot coordinates.

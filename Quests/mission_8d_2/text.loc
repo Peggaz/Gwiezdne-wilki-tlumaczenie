@@ -1,0 +1,25 @@
+;*****************************
+; mission_8d_2
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_8d_1_04a=Deliver the cargo to Debris 3.
+#L_Quest_8d_1_04b=You must deliver the cargo to Triada's mining station in Debris 3.
+
+;*****************************
+;Speeches
+;*****************************
+#L_tri_01=That was stupid.
+
+#L_tri_02=Fine, it's unloading. Gentlemen, I'm so sorry that you had to spectate that unpleasant scandal. My higher-ups authorized me to triple your pay.
+#L_Hero_01=Great. Now we have to hurry. Good luck.
+
+#L_Lastochka_01=That's strange. We've been paid well, but I'm still kind of sick at heart.
+#L_Hero_02=The right choice is not always a pleasant one.
+#L_Lastochka_02=Was it right at all?
+#L_Hero_03=Let's get to Charon and then ponder on philosophical problems.

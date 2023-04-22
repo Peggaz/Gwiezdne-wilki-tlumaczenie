@@ -1,0 +1,26 @@
+;*****************************
+;Dialog11.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;InocoEnforcer
+#L_D11_msg00=Attention, ships, stop your engines.
+#L_D11_ans00=Is there a problem?
+#L_D11_msg10=What are you doing in this part of the system?
+#L_D11_ans10=Looking for work. Who's asking?
+#L_D11_msg20=No offers on the local labor market. I insist that you leave XT-54 immediately.
+#L_D11_ans20=Hey, guys, what's the problem? Just who are you?
+#L_D11_msg30=I repeat: leave the system now or face the consequences.
+#L_D11_ans30=I see. You must be the problem Triada has mentioned. I knew those sly bastards would try to set us up. Listen, we have information that will interest your higher-ups.
+#L_D11_ans31=I get it, I get it. Please don't be angry, we're leaving already. There's no work here anyway. Let's head for the portal then?
+#L_D11_msg40=Triada? Settle on the course we'll provide. And don't try anything stupid, you're in our sights.
+#L_D11_ans40=Just what are you doing here, guys? InoCo systems are far away.
+#L_D11_msg41=Yeah, sure. Thanks for being nice. Hah!
+#L_D11_ans41=(Dalej)
+#L_D11_msg51=As you say, boss! Laying a course to the portal. We're about to get rich, I'm telling you! Course laid, permission to settle on?
+#L_D11_ans51=(Dalej)
+#L_D11_msg50=Says who?
+#L_D11_ans50=My fortune-teller.
+#L_D11_msg60=Forget her and shut up. Our brass will fill you in on the details, when we get there.
+#L_D11_ans60=(Dalej)

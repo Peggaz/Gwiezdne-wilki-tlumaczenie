@@ -1,0 +1,15 @@
+;*****************************
+;Dialog5.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Aia
+#L_D5_msg00=That was just the first wave.
+#L_D5_ans00=(Dalej)
+#L_D5_msg10=I wouldn't want to see the second.
+#L_D5_ans10=(Dalej)
+#L_D5_msg20=No one would. Ethan asked you to visit the Riyadh Commerce Station. They've nearly finished evacuation, but the last transports will be carrying technicians and scientists that have dismantled hardware. Those people must reach Dalled alive. So let's move. Zurab, will you manage it here?
+#L_D5_ans20=(Dalej)
+#L_D5_msg30=We'll hold out for some time. I also have a message from Ethan. He said we shouldn't risk our lives too much and withdraw, if things get too hot. So go to the station and take care of those transports. We might meet again.
+#L_D5_ans30=(Dalej)

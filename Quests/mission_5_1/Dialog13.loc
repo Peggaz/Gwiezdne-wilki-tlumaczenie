@@ -1,0 +1,11 @@
+;*****************************
+;Dialog13.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;USSOfficer
+#L_D13_msg00=May I wonder what's happened to our convoy? And who are those gentlemen?
+#L_D13_ans00=Your convoy was the source of trouble. First, your people were seriously past the deadline. Then they left us unprotected. Finally, it turned out they had been working along with pirates.
+#L_D13_msg10=All our employees are carefully selected and thoroughly trained. Cooperation with pirates is out of the question. Thus, I have to ask you once again: what's happened to our convoy?
+#L_D13_ans10=We had to shoot it down. As for "out of the question", here's a recording of a conversation with your employees. I'm sure you'll find it very informative.

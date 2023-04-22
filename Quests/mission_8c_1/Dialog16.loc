@@ -1,0 +1,9 @@
+;*****************************
+;Dialog16.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D16_msg00=What's our plan?
+#L_D16_ans00=I haven't got the slightest idea. Давайте пока уберемся отсюда.

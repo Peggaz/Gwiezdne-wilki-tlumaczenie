@@ -1,0 +1,23 @@
+;*****************************
+;Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Aia
+#L_D2_msg00=I knew for sure we'd meet again.
+#L_D2_ans00=This might be the reason you've rigged our ship for, huh?
+#L_D2_msg10=It's a usual safety measure. I didn't want to you use my ship to kick up a fuss in places where I was respected. But now I'll deactivate the self-destruct circuitry.
+#L_D2_ans10=Very nice of you. By the way, while we were on the way to Savay, we had a very interesting encounter. Here's the recording, I'd like to know what you think.
+#L_D2_msg20=All right. Oh, and this is Blade, my friend and an excellent soldier. He will fill you in on the operation.
+#L_D2_ans20=(Dalej)
+#L_D2_msg30=Hey there. The plan is as follows: our target will be moving from Al-Ariash to Candela with a large armed escort - elite troops of Triada and USS. We won't stand a chance against them, even if Savay sends backup in time. But we won't have to either. Our friend Ethan Fry said that in Dalled USS escort will leave, so Imu will be protected by Triada goons only.
+#L_D2_ans30=(Dalej)
+#L_D2_msg40=There are at least two routes to Candela. Which one will Imu choose?
+#L_D2_ans40=(Dalej)
+#L_D2_msg50=We don't know and will have to guess. Though Ethan promised to inform us on convoy's movement. Anyway, Imu must not reach Candela. That system belongs to his clan and we'll be overcome in no time.
+#L_D2_ans50=I still don't get it. Did you watch the recording, Aja?
+#L_D2_msg60=Yes, I looked through it. I have to say, you have nice friends - secret societies, agent networks, hackers, intelligent machines. But I'm really grateful for his revelations on Triada. It seems they don't want our corporation to survive under any circumstances. Like fun!
+#L_D2_ans60=Things that he said about Triada's finances, is that true?
+#L_D2_msg70=Oh yes. But your friend doesn't know that Imu has so much funds on his secret accounts that they'll make up for all the damage he's ever inflicted. It doesn't matter how he has accrued all that. The most important thing is that we have money, we just need to shake them out of Imu. So, shall we move out? Let's teach Imu a lesson! Destination Deosis.
+#L_D2_ans70=(Dalej)

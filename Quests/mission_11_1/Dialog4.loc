@@ -1,0 +1,17 @@
+;*****************************
+;Dialog4.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Phantom
+#L_D4_msg00=Whoa, a portal vessel!
+#L_D4_ans00=Why should we care?
+#L_D4_msg10=This may be our way out of here. Oh, dammit!
+#L_D4_ans10=What now?!
+#L_D4_msg20=It's protected by an energy shield. We can't jump through.
+#L_D4_ans20=Then shut it down like you've done before!
+#L_D4_msg30=I'm afraid device circuitry has burned out.
+#L_D4_ans30=Then let's force our way through! Get the guns ready!
+#L_D4_msg40=Wait a second, let's try another approach.
+#L_D4_ans40=(Dalej)

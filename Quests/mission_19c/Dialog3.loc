@@ -1,0 +1,13 @@
+;*****************************
+;Dialog3.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Corsair
+#L_D3_msg00=Um, sorry, I didn't mean to interrrupt your story involving conspiracy, scary computers and other horrors. You have to admit, InoCo makes great gadgets. I couldn't even hope that hypercomm allows to eavesdrop within a radius of several systems!
+#L_D3_ans00=(Dalej)
+#L_D3_msg10=Is that all, or should we expect more guests?
+#L_D3_ans10=(Dalej)
+#L_D3_msg20=Oh, you definitely should. You have many, many admirers these days. Not everyone will arrive, of course, but some will surely come here to listen to how you've come to power by robbing both empires and corporations. Take Admiral Trump for example. He should arrive just about... now.
+#L_D3_ans20=(Dalej)

@@ -1,0 +1,11 @@
+;*****************************
+;Dialog24.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;PirateOutpost
+#L_D24_msg00=Thanks for the gifts, huckster.
+#L_D24_ans00=What gifts? Hey, where's my cargo?
+#L_D24_msg10=Be grateful to Triada you still have your old tub. Now scram before we run out of patience.
+#L_D24_ans10=(Dalej)

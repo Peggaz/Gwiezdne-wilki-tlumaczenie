@@ -1,0 +1,13 @@
+;*****************************
+;Dialog4.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Tramp
+#L_D4_msg00=Major, is that you? What took you so long?
+#L_D4_ans00=(Dalej)
+#L_D4_msg10=I beg your pardon, but I had a... misunderstanding on the way here. But it's been settled and we're ready to take on the mission. I'll send you my report a bit later.
+#L_D4_ans10=(Dalej)
+#L_D4_msg20=I see. You might as well calm down, as we're going to have lots of free time. The mission has been cancelled.
+#L_D4_ans20=(Dalej)

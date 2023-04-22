@@ -1,0 +1,15 @@
+;*****************************
+;Dialog15.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;USSOperative
+#L_D15_msg00=On behalf of our corporation allow me to thank you for effective cargo protection. I've heard about the ambush already. I hope you're all right.
+#L_D15_ans00=Could be worse. An ambush was just one of the incidents. Your own agent tried to steal the cargo.
+#L_D15_msg10=Is that so? Very interesting. Do you have him?
+#L_D15_ans10=Yes. I wonder why a batch of standard station equipment made him take such a risk?
+#L_D15_msg20=Excellent. Our security service needs to ask him a few questions. As for the cargo, there's a war going on, and some devices have become quite expensive. Especially those needed by enemies. So should you be surprised that thirst for money makes one forget about loyalty?
+#L_D15_ans20=But your agent said that-
+#L_D15_msg30=It was all a lie to put you off your guard, I'm sure. We are grateful for the delivery. And, considering your decisive actions in convoy defense, I'm glad to offer you 2,500,000 credits. I hope you realize this is also hush money to make sure you will tell no one. Absolutely no one. Now please excuse me, I have other business to attend to. Thanks again, over and out.
+#L_D15_ans30=(Dalej)

@@ -1,0 +1,17 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#L_Nav_01=Portal do Nowego Jeruzalem
+#L_Nav_02=Portal do Cadi
+#L_Nav_04=Stacja Patrolu "2"
+#L_Nav_10=Informator
+#L_Nav_11=Fabryka broni
+#L_Nav_12=Fergusson
+#L_Base=Baza wojskowa MSF
+#L_universal_station=Stacja Handlowa "Na Krawêdzi"
+#L_Nav_05=Zak³ad "CosmoDrive"
+#L_Nav_03=Stacja Patrolu
+#L_Nav_06=Stacja centralna

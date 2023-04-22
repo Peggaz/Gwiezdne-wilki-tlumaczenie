@@ -1,0 +1,19 @@
+;*****************************
+;Dialog15.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Alex
+#L_D15_msg00=Got him court-martialed, admiral, didn't you?
+#L_D15_ans00=(Dalej)
+#L_D15_msg10=I didn't expect USS to have access to hyper jump. We had no intel on a catapult in that system.
+#L_D15_ans10=(Dalej)
+#L_D15_msg20=Then why the hell did you head for that cursed station?
+#L_D15_ans20=(Dalej)
+#L_D15_msg30=We had to replace the crew at the admiral's flagship.
+#L_D15_ans30=(Dalej)
+#L_D15_msg40=The emperor tricked us like little kids. What now, boss?
+#L_D15_ans40=Berserks are approaching, we have to scram.
+#L_D15_msg50=Get back to the portal, we'll cover you. It's the least I can do now, I'm sorry.
+#L_D15_ans50=(Dalej)

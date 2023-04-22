@@ -1,0 +1,67 @@
+;*****************************
+; mission_8b
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_7a_a=Reach the MSF headquarters.
+#L_Quest_7a_b=MSF Security has to know everything about what happened in Beta Lethera 1. You just have to reach New Jerusalem 2 and find someone who would be willing to share this information.
+#L_Quest_7c_a=Reach the Mercenary Market.
+#L_Quest_7c_b=The debris of a ship, lacking any imperial or corporate labels, most likely belongs to a mercenary team. The Mercenary Market in Cassily has the biggest database on free fighters, but they won't share it remotely.
+#L_Quest_7d_a=Meet with Alex.
+#L_Quest_7d_b=Alex needs help in escorting a convoy, and his client is willing to pay good money. Alex will be waiting in XT-54. There's some free time to spend, but not much.
+#L_Quest_8b_02a=Reach XT-54.
+#L_Quest_8b_02b=Reach XT-54 and place the satellites at the designated coordinates.
+#L_Quest_8b_03a=Leave the system.
+#L_Quest_8b_03b=You terminated the agreement with Triada. Leave the system.
+#L_Quest_8b_04a=Meet with Roghem.
+#L_Quest_8b_04b=Mission accomplished. Roghem will await you at a trade station in Candela.
+#L_Quest_8b_05a=Photograph the object.
+#L_Quest_8b_05b=Roghem asked you to photograph some object that has just been detected by satellites.
+
+;*****************************
+;Speeches
+;*****************************
+#L_Sedoy_01=What now, boss?
+#L_Hero_01=Let's leave the Triada's space for now. I don't like it here.
+
+#L_Hero_02=Here we are. Let's get the job done and get out. I don't like these spy games, we may easily be whacked for sniffing out.
+
+#L_Hero_03=First ready, let's move.
+
+#L_inoco_01=Phew, thanks. We wouldn't make it without your help.
+#L_Hero_04=Don't mention it. Triada wanted to set us up, so I just paid back.
+#L_inoco_02=We need to hurry before other Triada punks arrive.
+#L_Sedoy_02=Great Space, what's this?!
+#L_inoco_03=A hyperspace portal. You'll see for yourselves soon enough. Don't waste time and get into that sphere to jump.
+#L_Lastochka_01=Jump where?!
+#L_inoco_04=As I said, you would see for yourselves soon enough. Move.
+
+#L_Lastochka_02=Partner, they won't buy it next time.
+#L_Hero_05=We'll see about that. Let's move to the next spot.
+
+#L_Lastochka_03=Partner, we have a problem!
+#L_Hero_06=Speak of the devil... Attack!
+#L_Hero_07=We're done here, let's move to the next one. Keep an eye on the scanner, Ternie.
+#L_Lastochka_04=You do the same. Besides, those satellites send data to your ship only.
+#L_Hero_08=It's so hard to be smart and irreplaceable. Let's move.
+
+#L_Hero_09=Done here, one more to go. Let's move.
+
+#L_Hero_10=There we are. Now I have an urge to leave this place immediately. What do you say?
+#L_Sedoy_03=I couldn't agree more.
+#L_Hero_11=Then let's head for the portal.
+
+#L_pirates_01=So he's still alive! Roghem was right, the huckster wouldn't have the guts to whack the old toad. But we're going to fix it!
+
+#L_Dikkens_01=We need to leave this system before more visitors arrive. Follow me.
+#L_Dikkens_02=A hyperspace portal built by hell knows who and hell knows when. But it's still working. Now don't delay and enter that sphere to jump.
+#L_Dikkens_03=You'll see for yourselves. Move.
+
+#L_pirates_02=Quite a fight! We have an order to escort you to the portal. So stick to the route and don't even think of wandering off.
+
+#L_triada_01=We shall escort you to the station.

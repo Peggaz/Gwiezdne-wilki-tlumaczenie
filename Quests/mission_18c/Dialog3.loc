@@ -1,0 +1,33 @@
+;*****************************
+;Dialog3.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Corsair
+#L_D3_msg00=Everyone ready? Here's the plan: I jump to New Kyoto first, then you wait for the catapult to recharge and-
+#L_D3_ans00=(Dalej)
+#L_D3_msg10=No, patron, we should go first. The Star Wolf has a few additional capabilities. Besides, the leader of my team is an FTU member - oh no, he's completely trustworthy! - so we might be able to approach the station unnoticed. Even if they detect us, we'll try to talk our way out of it, while you will be pulling in.
+#L_D3_ans10=(Dalej)
+#L_D3_msg20=This sounds logical.
+#L_D3_ans20=(Dalej)
+#L_D3_msg30=Forget about logic, I-
+#L_D3_ans30=(Dalej)
+#L_D3_msg40=Please, patron, don't argue. It's the best way.
+#L_D3_ans40=(Dalej)
+#L_D3_msg50=Corsair, the lieutenant is right. If the Greys are alerted, they'll kill us one by one, with the catapult throwing our ships in queue.
+#L_D3_ans50=(Dalej)
+#L_D3_msg60=I know, I know... All right, Alexandra, you go first. But don't push your luck before we arrive. This is an order, got it?
+#L_D3_ans60=(Dalej)
+#L_D3_msg70=Yes, patron.
+#L_D3_ans70=(Dalej)
+#L_D3_msg80=Countdown started.
+#L_D3_ans80=(Dalej)
+#L_D3_msg90=Partner, you wanted to know how that thingamajig looked. So here you go. Big, round, with two-
+#L_D3_ans90=(Dalej)
+#L_D3_msg100=That sounds erotic.
+#L_D3_ans100=(Dalej)
+#L_D3_msg110=Perhaps it does. But you still can't assemble the word "LUCK" from the letters "S", "H", "I" and "T".
+#L_D3_ans110=(Dalej)
+#L_D3_msg120=Of all people your team should be the last one to complain. It's just stupid to be afraid of Greys after what you've been through!
+#L_D3_ans120=(Dalej)

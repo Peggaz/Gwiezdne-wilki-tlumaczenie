@@ -1,0 +1,23 @@
+;*****************************
+;Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Corsair
+#L_D2_msg00=I think we made it. Is everyone here? Where are your men, Alex?
+#L_D2_ans00=(Dalej)
+#L_D2_msg10=Charging hyper springs, they've been moving here from Prien, portal after portal. They'll be here soon, just wait a bit.
+#L_D2_ans10=(Dalej)
+#L_D2_msg20=We can't wait. Approaching to us from the Heos portal is a large InoCo force. They are moving in a wide semicircle.
+#L_D2_ans20=(Dalej)
+#L_D2_msg30=To press us to the Zebos portal. Bastards.
+#L_D2_ans30=(Dalej)
+#L_D2_msg40=Are you trying to say someone thought they would just surrender?
+#L_D2_ans40=(Dalej)
+#L_D2_msg50=I appreciate you irony, girl, but it's out of place right now.
+#L_D2_ans50=(Dalej)
+#L_D2_msg60=Boss, we need to head for the Zebos portal and jump in before the tincan has time to gather forces. Otherwise they will smash us like a hammer and an anvil.
+#L_D2_ans60=(Dalej)
+#L_D2_msg70=I agree. This is reasonable.
+#L_D2_ans70=(Dalej)

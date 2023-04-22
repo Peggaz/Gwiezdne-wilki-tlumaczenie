@@ -1,0 +1,20 @@
+;*****************************
+;Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m8d_Shinji
+#L_D2_msg00=Are you the ones to deliver equipment to Miner's Paradise? Your ships look like those of the transporters.
+#L_D2_ans00=What if we are?
+#L_D2_msg10=A change of plans, gentlemen. You must deliver the cargo to a Triada station in Debris 3. I'm here to escort you.
+#L_D2_ans10=I would only let the customer change the terms of contract.
+#L_D2_msg20=Of course. But Triada is customer's legal successor now. Here are the documents proving that Miner's Paradise has passed into the ownership of the corporation for breaking the terms of loan contract.
+#L_D2_ans20=I'm not much into transfers of property.
+#L_D2_msg30=The documents are legally perfect, believe me. For this reason I'm asking you to deliver the equipment to the corporation station. I understand that changing the destination also changes your plans, so I'm willing to double the pay to make up for it.
+#L_D2_ans30=Sorry, but the contract clearly says the destination and the customer. Let's do this: I'll deliver the equipment to Miner's Paradise and then you can do whatever you want.
+#L_D2_ans31=All right, we'll come along. I don't need another litigation.
+#L_D2_msg40=Please reconsider. You are deliberately infringing the rights of the legal owner. Since I've shown you the documents proving that mine equipment has been arrested, your actions can be considered an act of piracy. Also, I must deliver the cargo at any cost, so I've brought an escort along.
+#L_D2_ans40=(Dalej)
+#L_D2_msg41=Right choice. Proceed to the designated coordinates, we shall escort you.
+#L_D2_ans41=(Dalej)

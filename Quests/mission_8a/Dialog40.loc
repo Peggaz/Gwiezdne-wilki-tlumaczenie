@@ -1,0 +1,15 @@
+;*****************************
+;Dialog40.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;VksAce
+#L_D40_msg00=Great! Now you pretend you're breaking through and we'll shoot at you!
+#L_D40_ans00=Hey, just don't get too carried away! I suppose we can fire back?
+#L_D40_msg10=No, you'll damage our ships. The brass will have our heads, if the fighters are to be repaired. So we're the only ones to shoot.
+#L_D40_ans10=(Dalej)
+#L_D40_msg20=Curiouser and curiouser.
+#L_D40_ans20=(Dalej)
+#L_D40_msg30=All right, let's get started.
+#L_D40_ans30=(Dalej)

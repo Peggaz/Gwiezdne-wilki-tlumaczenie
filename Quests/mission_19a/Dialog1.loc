@@ -1,0 +1,15 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Tramp
+#L_D1_msg00=Here we are. I haven't yet thanked you for the help. I want you to know your decision was right, and I'm sincerely grateful. But I'm sorry it turned out like this.
+#L_D1_ans00=(Dalej)
+#L_D1_msg10=I'm not. Viper was a psycho, and I'm even glad we saved the outer space from her presence.
+#L_D1_ans10=(Dalej)
+#L_D1_msg20=You mustn't say that. Major Viper was a great and honest officer, loyal to her cause to the last breath. But her life was a hard one. Well, I guess this is not the time to mourn her. We have a more important thing to do: make sure she didn't die in vain and prevent civilian massacre. Head for the station, I'll have them let you into the stores. Take any hardware and ammo, I have a feeling you'll need it. I also hope you shall escort me to the peace conference.
+#L_D1_ans20=You can count on us.
+#L_D1_msg30=Fine. Meanwhile, I'll try to get you a new mothership and look through the information on Greys that the lieutenant has sent us. Meet you at the station.
+#L_D1_ans30=(Dalej)

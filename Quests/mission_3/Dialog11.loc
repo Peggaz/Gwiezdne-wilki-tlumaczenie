@@ -1,0 +1,17 @@
+;*****************************
+;Dialog11.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D11_msg00=So, are we happy?
+#L_D11_ans00=Yeah, I hired some mercenaries. Let's meet in a couple of hours.
+#L_D11_msg10=Great! Now for the second stage. I shall stick a beacon to your ship, return to the base and persuade the pirates to chase you. Considering their total brain volume is about one teaspoonful, you'll be hunted by the best, by which I mean the dumbest. Maybe Breakneck himself will lead the hunt. Anyway, the base will be much emptier, so I'll be able to capture the wheelhouse and disable security systems. Then I'll wait for you. All clear?
+#L_D11_ans10=Couldn't be clearer.
+#L_D11_msg20=Great. Proceed to the base as soon as you finish killing the pirates. They won't abandon it completely and I won't be able to hold out alone.
+#L_D11_ans20=I see. Ternie, tell me why do you really need all this? You mentioned starting the life anew, but there must be more to it.
+#L_D11_msg30=You got it right, boy. What I really want is to save my hide from that gang. They might cut my throat any of these days.
+#L_D11_ans30=Is there a reason?
+#L_D11_msg40=Yeah, I displayed no team spirit. Let's talk about this, when our problem has been solved. Good luck. And don't worry, we'll make it!
+#L_D11_ans40=(Dalej)

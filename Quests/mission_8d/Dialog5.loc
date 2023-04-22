@@ -1,0 +1,21 @@
+;*****************************
+;Dialog5.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m8d_Templar
+#L_D5_msg00=This is not a place for unfaithful. Get lost.
+#L_D5_ans00=(Dalej)
+#L_D5_msg10=Hey, buddy, calm down. We're not here to visit you.
+#L_D5_ans10=(Dalej)
+#L_D5_msg20=Jeez, of course you aren't... I mean, by Holy Heavens! What brings you to this sanctuary? Speak truth or incur Order's displeasure!
+#L_D5_ans20=I'm looking for my fried Alex Koshevoy. Have you heard of him?
+#L_D5_msg30=Alex Koshevoy is an honorable guest of the Patriarch. They are at the Cathedral Station now. Wait, I'll give you an escort. Friends of Alex are Order's friends.
+#L_D5_ans30=Thanks, but no escort is necessary. I have to visit the Cherub Station first.
+#L_D5_msg40=What do you have to with that riffraff?
+#L_D5_ans40=Sorry, but that's none of your business.
+#L_D5_msg50=This sounds suspicious... Go then. But remember that the Eye is watching you!
+#L_D5_ans50=(Dalej)
+#L_D5_msg60=An eye or an oculus - I don't get it anyway.
+#L_D5_ans60=(Dalej)

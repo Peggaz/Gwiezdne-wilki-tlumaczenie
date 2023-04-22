@@ -1,0 +1,15 @@
+;*****************************
+;Dialog17.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m8a_Marko
+#L_D17_msg00=I hate you, bastards! This isn't over yet! You won't get this station. Hah, no one gets it! Aaargh!
+#L_D17_ans00=(Dalej)
+#L_D17_msg10=Hey, don't shoot. Marco's dead, the station is under control.
+#L_D17_ans10=Who are we?
+#L_D17_msg20=Marco's reluctant guests. If handcuffs and jail cells are a part of hospitality. When you attacked, almost all the guards left to defend the station and we managed to break free. Now we're in your debt.
+#L_D17_ans20=I'm looking for a certain container. It should be labelled as medicines and rations.
+#L_D17_msg30=Just a sec, I'll tell them to check the docks... Yes, there is one! It must be yours, actually it's the only thing left in the cargo bay. Everything else has already been taken to warehouses.
+#L_D17_ans30=Excellent. Then load it onboard. And good luck.

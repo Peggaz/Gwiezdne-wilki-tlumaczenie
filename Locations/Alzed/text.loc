@@ -1,0 +1,9 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#L_trade=Stacja Handlowa "Amman"
+#L_fact=Wytwórnia "Allepo"
+#L_cargo=Magazyny "Jordan"

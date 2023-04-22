@@ -1,0 +1,9 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#L_Trade=Stacja Handlowa "Ogigia"
+#L_Name_PStation=Stacja Patrolu "Nemo"
+#L_base=Baza MSF "Calypso"

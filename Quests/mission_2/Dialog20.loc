@@ -1,0 +1,21 @@
+;*****************************
+;Dialog20.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D20_msg00=Free trader calling station. I'm offering transportation services. Moderate fees.
+#L_D20_ans00=(Dalej)
+#L_D20_msg10=Station to trader. I'm afraid your skills don't meet our requirements. Over and out.
+#L_D20_ans10=Damn, another flop.
+#L_D20_msg20=Hey there, it's free trader Ray. Tell me, were you really trying to charge twice the price double for a sixpence contract?
+#L_D20_ans20=Not really. I was just thinking about something lese and blurted it out. They got me wrong!
+#L_D20_msg30=I see, it happens. I think I have some work for you.
+#L_D20_ans30=Great! I agree!
+#L_D20_msg40=You see, they offered me an urgent contract, but I had that accident just a few days ago. I didn't fix some boxes in the cargo bay and one fell right on my neck. A doc had me corseted and said I was to spend a month in zero gravity not to overstrain the back. I'd shrugged his prescription off, but I can merely move my hands and legs, not to mention fly a ship. Can you help me out? Take my ship to the Copernicus Station, it's not far. I'll pay you 10,000 now and another 10 G's when you return the ship.
+#L_D20_ans40=Sure thing, Ray!
+#L_D20_msg50=Great! Here are the ship access codes and station coordinates. Meanwhile, I shall drift in your clunker. But be careful, rumor has it there's a gang of crazy brutes lurking around. A few traders have already gone missing. Just stick to the route and try to get to the scientific station as soon as possible. Time is of the essence, if you're late, they'll remember about penalties.
+#L_D20_ans50=Don't worry, this is not my first day in open space. Aren't you afraid to let a stranger take your ship just like that?
+#L_D20_msg60=There is certain risk, but is anything safe these days? Besides, one shouldn't try to leave the system on my old tub. As soon as he would enter the portal, the onboard computer would signal me and I, in turn, would initiate a self-destruct sequence. You're asking out of curiosity, aren't you?
+#L_D20_ans60=Solely out of curiosity, I assure you.

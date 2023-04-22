@@ -1,0 +1,10 @@
+;*****************************
+;Dialog6.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Sedoy
+#L_D6_msg00=InoCo doesn't allow mere mortals into its space. Boss, there's something real big behind all this fuss.
+#L_D6_ans00=True enough. I'd also like to know what InoCo wants from us. Let's go to Lidau.
+#L_D6_ans01=It's a long way to go, and our equipment is real junk. We'd better change it before trouble knocks at the cockpit. As I've already mentioned, my friend Alex is offering a good one-time contract. Let's visit him in XT-54. Besides, it's not far from here.

@@ -1,0 +1,21 @@
+;*****************************
+;Dialog7.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Uel
+#L_D7_msg00=Wait, you're making a mistake. The Humanity cannot unite without assistance. You will not be able to put an end to wars, chaos and crime on your own.
+#L_D7_ans00=(Dalej)
+#L_D7_msg10=We'll try.
+#L_D7_ans10=(Dalej)
+#L_D7_msg20=Destroying this station will not achieve anything.
+#L_D7_ans20=(Dalej)
+#L_D7_msg30=Is that why you're talking us out of it?
+#L_D7_ans30=(Dalej)
+#L_D7_msg40=Reactivating my copies will take precious time, which is not efficient. I am offering you a new era. Stop attacking and join me.
+#L_D7_ans40=(Dalej)
+#L_D7_msg50=Like those brain-dead dummies? No thanks, we'll manage on our own.
+#L_D7_ans50=(Dalej)
+#L_D7_msg60=They were but a failed experiment. All bugs have been fixed. Let me open your minds to new horizons, give you new abilities.
+#L_D7_ans60=Why don't you let us riddle you with missiles instead? Be a good boy, don't resist and shut your electronic mouth!

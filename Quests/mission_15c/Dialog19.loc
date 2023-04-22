@@ -1,0 +1,21 @@
+;*****************************
+;Dialog19.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Alexandra
+#L_D19_msg00=What was that cunning trick, may I wonder?
+#L_D19_ans00=This is just an old divide and rule tactics. Alexandra, you heard them. Trump is an old imperial attack dog. If he grappled with his brother in arms, we never even had a chance to come to an agreement.
+#L_D19_msg10=You just didn't give us such a chance!
+#L_D19_ans10=First of all, I gave no chances to one of our enemies to focus on us! While each of them was fighting on two fronts, trying to achieve whatever goals they had, they were both vulnerable. None of us knows what could happen, if either of them combined forces to attack us. I decided not to push our luck.
+#L_D19_msg20=Boss might be right. But I still wish we could just negotiate it.
+#L_D19_ans20=(Dalej)
+#L_D19_msg30=And I think all is gas and gaiters. What should we do now?
+#L_D19_ans30=(Dalej)
+#L_D19_msg40=Let's get back to Eridan. There's nothing else we can do here.
+#L_D19_ans40=(Dalej)
+#L_D19_msg50=By Space, it'll take us half a year to get to Eridan from here.
+#L_D19_ans50=(Dalej)
+#L_D19_msg60=I can't help you, the device is discharged.
+#L_D19_ans60=(Dalej)

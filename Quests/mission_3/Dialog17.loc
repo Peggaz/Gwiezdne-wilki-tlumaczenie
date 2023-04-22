@@ -1,0 +1,24 @@
+;*****************************
+;Dialog17.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Heretic
+#L_D17_msg00=Are you the trader to deliver the cargo to Achilles?
+#L_D17_ans00=What have you done to my engines?
+#L_D17_msg10=Your engines are fine, I've just disabled them temporarily. Let me ask you once again: are you the trader-
+#L_D17_ans10=Listen, I don't have to report to you. Now be so kind as to enable the engines.
+#L_D17_msg20=Don't bother answering. A scan indicates you're the man I've been looking for. Do you know you're carrying heavy weapon parts?
+#L_D17_ans20=This can be a cargo of glass fly swatters for all I care! I repeat: get my engines back to working condition!
+#L_D17_msg30=Damn, just ponder over my words for a second! Your customers are a local bandit clan willing to start making heavy weaponry. To sell to pirates! Who do you think they'll attack first? Traders!
+#L_D17_ans30=This is all very interesting, but then again I need to move. Besides, my mother taught me not to trust strangers.
+#L_D17_msg40=Damn! I hoped you'd listen to logical arguments. You may call me Heretic. I'm here to see to it that pirates do not get any powerful weaponry. Listen, my budget is limited, but I'm ready to pay you 12,500 credits for your cargo.
+#L_D17_ans40=This is a half of what I've been promised. Besides, what if you're just another pirate trying to con me out of this valuable cargo?
+#L_D17_msg50=If I was a pirate, I would've gutted you long ago. Or do you think engines are all I can disable? As for the price, your right decision will save thousands of lives and bring law and order to systems crawling with pirates and other riffraff.
+#L_D17_ans50=Well, I suspected the Laszlo clan of being bandits. All right, I'll hand over the cargo to you. How are you going to pick it up?
+#L_D17_ans51=Sounds reasonable, but not reasonable enough to set my friend up. He's staked his life on this cargo. I'm very sorry, Mister Heretic, but this is no deal.
+#L_D17_msg60=I have a transport nearby, I'll mark its coordinates on the map.
+#L_D17_ans60=Great, let's go.
+#L_D17_msg61=This is stupid. But violence is not my style. I don't wish you good luck.
+#L_D17_ans61=(Dalej)

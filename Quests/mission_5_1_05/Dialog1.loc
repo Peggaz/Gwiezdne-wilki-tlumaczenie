@@ -1,0 +1,11 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D1_msg00=Partner, we have a problem! Radiation and temperature sensors are going beyond the limit in the mothership cargo bay!
+#L_D1_ans00=Cargo?
+#L_D1_msg10=It's going to explode!
+#L_D1_ans10=(Dalej)

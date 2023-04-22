@@ -1,0 +1,11 @@
+;*****************************
+;Dialog5.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D5_msg00=Today is not my day. I got mixed with an idiot. By Space, what irony... I wish those pirates cut my throat.
+#L_D5_ans00=Aw, come on, it was fun! Hmm, I wonder what does this button do?
+#L_D5_msg10=No, don't touch it!
+#L_D5_ans10=(Dalej)

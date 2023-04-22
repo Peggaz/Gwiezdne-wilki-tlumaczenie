@@ -1,0 +1,25 @@
+;*****************************
+;Dialog6.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Alex
+#L_D6_msg00=Fine, we'll start loading. Feel free to visit a local store. But we don't have much trade going on here.
+#L_D6_ans00=I see. Ternie, Greyhair, your thoughts on what we should do next?
+#L_D6_msg10=I would prefer to start before the convoy and recon the way. Or clear it, if needed.
+#L_D6_ans10=There are just three of us, if you haven't noticed. I doubt we'll do much against a serious enemy.
+#L_D6_msg20=Partner, Greyhair is right. We need to leave first, we're not getting more people anyway. If anything goes wrong, we'll have time to escape and warn the convoy. It would be harder to retreat with transports in the rearguard.
+#L_D6_ans20=All right. I'll contact Alex and tell him our plan.
+#L_D6_msg30=Hey, on those ships, it's the station calling. Are you mercenaries by any chance?
+#L_D6_ans30=Sorry, pal, we're busy and not accepting new contracts.
+#L_D6_msg40=Forget the contracts. I'd like to offer you a first-class deal - an advanced scanner. It's unique, you're not going to find one anywhere else. Reinforced power circuitry, additional signal filters, expanded processor cache. A real masterpiece. You can have it for mere 200,000 credits.
+#L_D6_ans40=Is that what you call "mere"? I'll be having nightmares for the next year, if I buy it! Thanks, but we'll find something cheaper.
+#L_D6_msg50=You won't find anything like that anywhere. It's a pre-war technology, only one unit exists. It's a prototype. No other scanner will offer you the same range and precision.
+#L_D6_ans50=So hang it on the wall or something. Paying such money for a piece of metal is just immoral.
+#L_D6_msg60=Hey, buddy, don't refuse just like that. Damn, I need money badly. All right, I'll cut 50 grands off, but that's final.
+#L_D6_ans60=If you knocked 50,000 credits off so easily, you might as well knock off another fifty. No, I can buy myself a new fighter for this money.
+#L_D6_msg70=Man, it's cutting me own throat! All right, have it your way, 120,000 credits. This won't even cover parts cost price!
+#L_D6_ans70=Jeez, buddy, you still don't get it. Your price is insane! I'd buy it for 20 grands, but not for 120!
+#L_D6_msg80=It's a pity. I thought you were businessmen, but turns out you're just penniless riffraff. What a waste of time.
+#L_D6_ans80=The space is full of morons that think everyone else is an idiot. 120 grands, hah! That clown really delayed us. Let's move out immediately. Loading the route coordinates.

@@ -1,0 +1,13 @@
+;*****************************
+;Dialog8.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Alex
+#L_D8_msg00=We made it! Proceed to Plan Snail!
+#L_D8_ans00=Rats! Alex, do you realize how bad you've set us up?!
+#L_D8_msg10=I couldn't open up to you earlier, the stakes were too high. Besides, you took an active part in NESF business.
+#L_D8_ans10=You could've hinted at least.
+#L_D8_msg20=I tried. Do you remember my messages? You should've replied. Now sorry, I don't have time to chat. Oh, here comes our backup.
+#L_D8_ans20=(Dalej)

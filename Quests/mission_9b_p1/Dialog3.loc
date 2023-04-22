@@ -1,0 +1,29 @@
+;*****************************
+;Dialog3.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Alisa
+#L_D3_msg00=Ethan, is that you?
+#L_D3_ans00=(Dalej)
+#L_D3_msg10=Yes, and I brought friends along. What did you find out?
+#L_D3_ans10=(Dalej)
+#L_D3_msg20=You were right. Kane plays his own game, aiming to become the chairman.
+#L_D3_ans20=(Dalej)
+#L_D3_msg30=What about the stakeholder committee?
+#L_D3_ans30=(Dalej)
+#L_D3_msg40=Come on, most of them are his puppets. Kane sure knows how to give a penny and demand a pound back. I wouldn't count on the committee.
+#L_D3_ans40=(Dalej)
+#L_D3_msg50=Satellite?
+#L_D3_ans50=(Dalej)
+#L_D3_msg60=Everything denotes at him. Kane's gained a foothold in Ergelan and needs no spies in Prien.
+#L_D3_ans60=Hey, slow down a bit! Who's that Kane you're talking about?
+#L_D3_msg70=Kane is the senior manager for regional offices. He controls all USS branches outside the Centaur Sector, but he isn't one of directors. And this, in turn, prevents him from becoming the Chairman. So now he's actively paving the way to directorship.
+#L_D3_ans70=Why should we care?
+#L_D3_msg80=Kane is a dangerous enemy that will do anything to eliminate his rivals. Unfortunately, he's no fool, so he might as well set a trap for us.
+#L_D3_ans80=(Dalej)
+#L_D3_msg90=It was no accident that the satellite malfunctioned at exactly this moment. Perhaps, Kane doesn't want anyone to know what's going on in Ergelan. Before that he has managed to find and expel all information department agents loyal to Ethan.
+#L_D3_ans90=(Dalej)
+#L_D3_msg100=So right now we're as good as deaf and blind and can only depend on ourselves. Kane doesn't know that Alice and me are with you here. We tricked him into thinking we had gone to Cadenoa.
+#L_D3_ans100=Finally, some good news. All right, let's fly to your electronic thingamajig and see what's left of it.

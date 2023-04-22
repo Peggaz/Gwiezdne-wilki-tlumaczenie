@@ -1,0 +1,15 @@
+;*****************************
+;Dialog14.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;VksAce
+#L_D14_msg00=I can't believe my eyes! A pirate attack! A real pirate attack! General alert!
+#L_D14_ans00=(Dalej)
+#L_D14_msg10=Uh-oh...
+#L_D14_ans10=(Dalej)
+#L_D14_msg20=Attack, brave centurions! Let's protect the civilization from the bringers of chaos! For the empire! The Armageddon has come!
+#L_D14_ans20=(Dalej)
+#L_D14_msg30=Partner, let's scram! Not only they are superior in number, but they are all mad as a hatter!
+#L_D14_ans30=(Dalej)

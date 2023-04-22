@@ -1,0 +1,16 @@
+;*****************************
+; mission_9e_01
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+
+;*****************************
+;Speeches
+;*****************************
+#L_Lastochka_01=Partner, what now? Any ideas?
+#L_Hero_01=No, but I have a message from Alex. He's inviting us to his station in Aurora. Let's go there.

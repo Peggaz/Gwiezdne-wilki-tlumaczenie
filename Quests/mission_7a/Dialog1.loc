@@ -1,0 +1,37 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;DispetcherVKS
+#L_D1_msg00=Approach control, MSF HQ, Centaur sector. Plese state the purpose of your visit.
+#L_D1_ans00=I would like to contact the Civilian Complaint Review Board.
+#L_D1_msg10=Please stay on the line.
+#L_D1_ans10=(Dalej)
+#L_D1_msg20=Complaint Department, I'm listening.
+#L_D1_ans20=I'd like to complain about MSF actions in regard to civilian transports.
+#L_D1_msg30=Is this related to patrol, military or police units?
+#L_D1_ans30=Hmm... Military I believe.
+#L_D1_msg40=Switching you to the Military Operations Department.
+#L_D1_ans40=(Dalej)
+#L_D1_msg50=Yeah? What do you need?
+#L_D1_ans50=I'd like to complain-
+#L_D1_msg60=Did you fill in Form 612?
+#L_D1_ans60=Err, no. Listen-
+#L_D1_msg70=Switching you to the Legal Department.
+#L_D1_ans70=(Dalej)
+#L_D1_msg80=Legal Department, how can I help you?
+#L_D1_ans80=I need a Form 612!
+#L_D1_msg90=Directive A or B?
+#L_D1_ans90=What's the difference?
+#L_D1_msg100=You should familiarize yourself with procedures of submission of applications, petitions and reclamations, before you distract anyone from important matters. That should save us all much time. Let me switch you to the press service, they will explain you everything.
+#L_D1_ans100=(Dalej)
+#L_D1_msg110=Press service, how can I help you?
+#L_D1_ans110=I'd like to complain-
+#L_D1_msg120=Then you will need an abbreviate. Which department should I address the request to?
+#L_D1_ans120=(Dalej)
+#L_D1_msg130=Aren't you the greatest negotiator ever! Yeah, put muscle on them! A few more brain-crushing requests and the emperor himself will crawl here on all fours, begging to spare his life.
+#L_D1_ans130=Quiet you. No, no, that wasn't adressed to you. I need information about MSF military operations in Beta Lethera 1. Which department handles that?
+#L_D1_msg140=Beta Lethera, huh... One second please... Ah yes, here it is. I'll switch you to the department that handles cases just like this one. Please stay put, this might take some time.
+#L_D1_ans140=Sure, thanks a lot. See? We're progressing.

@@ -1,0 +1,14 @@
+;*****************************
+;Dialog17.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;VksOfficer
+#L_D17_msg00=Transport pilot, stop immediately. What's your cargo and destination?
+#L_D17_ans00=Oh, nothing of value, officer. Just some stationery and other office junk. I'm to deliver all that to the Taihon station.
+#L_D17_ans01=Dammit, I need no trouble with the MSF! I surrender! I have documents that Triada is trying to hide from authorities. I was forced to trick the imperial guards! It's not my fault, I swear!
+#L_D17_msg10=Well, the scan proves you right. You may pass.
+#L_D17_ans10=(Dalej)
+#L_D17_msg11=Documents? That's very interesting. Follow us, we'll escort you to the headquarters.
+#L_D17_ans11=(Dalej)

@@ -1,0 +1,18 @@
+;*****************************
+; mission_5_02
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_5_01a=Return to Alex's station.
+#L_Quest_5_01b=A former pirate base is a nice thing to have, all the more so it's probably not on the wanted list anymore. But equipping it will require lots of money, so you should return to Placid Docks in Aurora. Alex must have a few serious and well-paying contracts.
+
+
+;*****************************
+;Speeches
+;*****************************
+#L_Lastochka_01=Partner, let's scram!

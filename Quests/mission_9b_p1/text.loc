@@ -1,0 +1,81 @@
+;*****************************
+; mission_9b_p1
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_9b_01a=Meet with Ethan Fry.
+#L_Quest_9b_01b=Your old friend, now a USS employee, Ethan Fry will await you at a USS military base in Al-Ariash.
+#L_Quest_9b_02a=Meet with Alice Grant.
+#L_Quest_9b_02b=Alice Grant, Ethan's operative, has more information on the coming task. She will await you at the agreed coordinates in Hanoi.
+#L_Quest_9b_03a=Reach the satellite.
+#L_Quest_9b_03b=Reach the spy satellite in Prien.
+#L_Quest_9b_04a=Provide defenses.
+#L_Quest_9b_04b=It will take repair bots some time to fix the satellite. Don't let anyone destroy either bots or the satellite.
+#L_Quest_9b_05a=Defend the base.
+#L_Quest_9b_05b=Alice has to download the data by means of a directional laser ray, and the base must stay put in the process. Which also means it'll become a nice target for the enemy.
+#L_Quest_9b_06a=Escort Alice and Ethan.
+#L_Quest_9b_06b=Escort Alice and Ethan back to Al-Ariash.
+
+;*****************************
+;Speeches
+;*****************************
+#L_Hero_01=Ethan, who could be intriguing against you?
+#L_Itan_01=A corporation insider.
+#L_Hero_02=I knew that the myth about the tight-knit corporate family stank.
+#L_Itan_02=You just have no idea to what extent. They're squabbling on all fronts. You were wise to leave for private business instead of delving into the corporate world. Now that the stakes are especially high, it's a fight for survival. Down to physical elimination of rivals.
+#L_Sedoy_01=Trust no one, eh?
+#L_Itan_03=You're wrong. If there are no friends to cover your back, you're as good as dead. By the way, we're going to meet with a friend like that. Alice is a fine person and expert. She's also a decent fighter. But she had her share of suffering. Her daughter has gone missing during a pirate raid, and Alice still hopes to find her. So please mind what you're saying.
+
+#L_Itan_04=What? Did you sell out as well?! You're dead, scum.
+#L_Itan_05=What? Did Kane buy you off as well?! You're dead, scum.
+
+#L_Hero_03=I fixed our license plates to hide our USS connections. We shouldn't worry about patrols now.
+
+#L_Hero_04=This is the place. Let me mark satellite coordinates on the map.
+#L_Lastochka_01=I still don't get it why we're going there. If that Kane of yours has found the satellite, we're wasting our time. He has long downloaded all the information.
+#L_Itan_06=Impossible. Only Alice and me know the access codes. Even if the satellite has been destroyed, its database is located deep inside the asteroid and we can get it. But let's not waste time and move out. By the way, you should keep radio silence.
+
+#L_Alise_01=Activating repair bots.
+#L_Alise_02=Preliminary damage assessment completed. We should give the bots a few minutes.
+#L_Hero_05=Affirmative. We'll do our best.
+
+#L_sys_01=Let Alice dock with the base.
+
+#L_Alise_03=I'm onboard, calibrating the equipment. Speaking of support, just stay close to the base. I can control guns while adjusting the emitter.
+#L_Alise_04=Calibrating the equipment. Speaking of support, just stay close to the base. I can control guns while adjusting the emitter.
+
+#L_Alise_05=Hey, I told to you not to move the base! Now I have to re-calibrate everything.
+#L_Alise_06=Have you gone mad out there?! The base must stay put!
+#L_Alise_07=What the?! Ethan, where did you find them? They can't get a simple thing!
+#L_Alise_08=I get it. Somebody's hands are itching...
+#L_Alise_09=Is it some kind of teenager self-affirmation?
+#L_Alise_10=Yeah, do it again.
+#L_Alise_11=Do it again, why don't you?
+#L_Alise_12=And once more.
+#L_Alise_13=And again...
+
+#L_Alise_14=Fine, the equipment is calibrated. Starting the download. Keep your eyes open.
+#L_Hero_06=Is Kane going to return?
+#L_Itan_07=Not just him. In this mode the satellite can be detected by any scanner, so we can expect any visitors.
+
+#L_vks_01=That was a mistake...
+
+#L_Sedoy_02=I like adrenalin, but not in such quantities.
+
+#L_Itan_08=Now we have a problem. I'm detecting USS vessels moving from the Ergelan portal.
+#L_Hero_07=My scanner is clear.
+#L_Itan_09=I have customized equipment. Dammit, their tracer chips are hacked. I can't determine what vessels they have as well as their armaments and exact number.
+#L_Alise_15=I almost finished.
+#L_Hero_08=Attention, everyone, we have aggressive visitors!
+#L_Sedoy_03=I couldn't be readier.
+
+#L_Hero_09=Whoa! Some manners they have! No remarks about good and evil, no final words. Coming right at the face without a second thought.
+#L_Itan_10=Oh don't worry, I have a feeling that Kane is going to say his words yet. Alice, what's the status?
+#L_Alise_16=Nearly finished. Three per cent left. Two... One... Done! The data has been downloaded, we're good to leave.
+#L_Hero_10=What about the satellite?
+#L_Itan_11=I'll initiate a self-destruct sequence. I wish we could save such valuable equipment, but it's still better than to let our enemy have it. We're going back to Al-Ariash.

@@ -1,0 +1,17 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Viper
+#L_D1_msg00=What the hell happened here?!
+#L_D1_ans00=Did Hader know about the project?
+#L_D1_msg10=Of course he did. He was one of its founders.
+#L_D1_ans10=Then I believe this is the "first stage" of the operation. Remember he mentioned the second stage in New Jerusalem 2?
+#L_D1_msg20=I do... Now that bastard has even more to pay. He won't just die, he will do it in pain and suffering.
+#L_D1_ans20=(Dalej)
+#L_D1_msg30=Perhaps, there's still a ship somewhere?
+#L_D1_ans30=(Dalej)
+#L_D1_msg40=I highly doubt that. I'd leave nothing behind, no tracks.
+#L_D1_ans40=(Dalej)

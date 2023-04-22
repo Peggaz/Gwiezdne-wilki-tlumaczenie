@@ -1,0 +1,47 @@
+;*****************************
+; mission_3
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_3_Reta=Get back to Alex's station.
+#L_Quest_3_Retb=Right now I should return to the Placid Docks Station in Aurora, avoiding unnecessary adventures.
+#L_Quest_3_01a=Deliver Alex's cargo.
+#L_Quest_3_01b=The mission is quite simple: to deliver a cargo for the Laszlo clan to the Achilles station in the Achilles system. But the journey may not be the safest, so you should keep your eyes open all the way.
+#L_Quest_3_02a=Find mercenaries.
+#L_Quest_3_02b=Eliminating the Wild Dogs clan and capturing the pirate base requires serious fire support. Mercenaries are the best bet.
+#L_Quest_3_03a=Reach Heretic's transport.
+#L_Quest_3_03b=Heretic won't pay until the cargo is on board his ship, so you make sure you don't lose sight of him.
+#L_Quest_3_04a=Talk to the mercenaries.
+#L_Quest_3_04b=You still need fire support. Try talking to the mercenaries, whose mothership is adrift by the station.
+#L_Quest_3_05a=Talk to the pirates.
+#L_Quest_3_05b=You still need fire support. Try talking to the Wild Cats pirates, the enemies of the Wild Dogs.
+#L_Quest_3_06a=Meet with Ternie.
+#L_Quest_3_06b=Now that you have some backup, it's time to meet with Ternie.
+
+;*****************************
+;Speeches
+;*****************************
+#L_Pir_01=What the?.. Ternie, why you...
+
+#L_Hero_01=Hey, what the?..
+#L_Hero_02=I'll hardly forget this... Anyway, I have cargo to deliver.
+
+#L_Pir_02=It's him! That bastard who has stolen Pablo's ship! Whack him!
+
+#L_Pir_03=How dare you challenge the Machetes?!
+#L_Hero_03=Well, then station it is. I didn't like the idea of reselling the cargo to strangers anyway. At least I had some fun.
+
+#L_Heretik_01=You could help, you know.
+#L_Hero_04=Sorry, pal, that wasn't my fight. Besides, I don't know why they don't like you so much.
+#L_Heretik_02=Ah, forget it. Let's head for my transport.
+
+#L_merc_01=Why aren't you keeping to the terms of the contract, mister? You're upsetting people...
+
+#L_merc_02=So you like jokes, huh, you clown? So let's joke then.
+#L_Heretik_03=That was the worst and the last choice in your life! 
+#L_Pir_04=Whoa, you're so inventive! But don't worry, we'll cure you of that!

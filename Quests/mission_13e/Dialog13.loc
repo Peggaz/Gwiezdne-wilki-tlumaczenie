@@ -1,0 +1,23 @@
+;*****************************
+;Dialog13.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D13_msg00=What do you have, SAM?!
+#L_D13_ans00=(Dalej)
+#L_D13_msg10=Escape pod detected. Tow ray activated.
+#L_D13_ans10=(Dalej)
+#L_D13_msg20=Is that Ternie?!
+#L_D13_ans20=(Dalej)
+#L_D13_msg30=One moment please, unsealing the pod.
+#L_D13_ans30=(Dalej)
+#L_D13_msg40=Ooh... My head...
+#L_D13_ans40=That's not Ternie! SAM launch another scan! Thorough!
+#L_D13_msg50=Affirmative. Scanners initialized.
+#L_D13_ans50=(Dalej)
+#L_D13_msg60=Boss, I've just picked up a signal from the station. I have no idea where it's going to, but we might have a lot of guests very soon.
+#L_D13_ans60=I don't care! We're not going anywhere until we find Ternie!
+#L_D13_msg70=Boss, she probably didn't have time to escape...
+#L_D13_ans70=Or probably did. SAM, report when you find the pod. Get ready for defense, everyone. We're not leaving without Ternie!

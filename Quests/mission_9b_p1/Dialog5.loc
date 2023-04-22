@@ -1,0 +1,31 @@
+;*****************************
+;Dialog5.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m9b_Kane
+#L_D5_msg00=What the hell are you doing here, you bastards? This satellite is USS property, so make yourselves scarce!
+#L_D5_ans00=(Dalej)
+#L_D5_msg10=Oh really? Then why don't you tell us which department it belongs to?
+#L_D5_ans10=(Dalej)
+#L_D5_msg20=Ethan? By ginger! And my boys are waiting for you elswhere. But just as well I'll be able to eliminate you personally, without depending on third parties.
+#L_D5_ans20=(Dalej)
+#L_D5_msg30=Do I really disturb you that much?
+#L_D5_ans30=(Dalej)
+#L_D5_msg40=You? No, you don't. But your department that just wouldn't mind its own business, it disturbs me greatly.
+#L_D5_ans40=(Dalej)
+#L_D5_msg50=How nice. And you think that you'll cripple the department by killing me? I sure overestimated you, Kane.
+#L_D5_ans50=(Dalej)
+#L_D5_msg60=As I overestimated you, Ethan. I don't need to cripple your department or do other foolish things. I just need to slow it down and gain a couple of months. And see to it that the satellite doesn't report on what's buzzing in this sector.
+#L_D5_ans60=(Dalej)
+#L_D5_msg70=So what's going to happen in a couple of months then?
+#L_D5_ans70=(Dalej)
+#L_D5_msg80=Oh, you expect me to unveil my sinister designs, don't you? Come on, Ethan, it's not a movie. You know what, I'll offer you a deal. You hand over the codes to the USS satellite network and I let you and your friends go wherever you want.
+#L_D5_ans80=(Dalej)
+#L_D5_msg90=Yeah, very funny, considering the forces you have.
+#L_D5_ans90=(Dalej)
+#L_D5_msg100=I knew you wouldn't agree, but had to make the offer out of politeness. I'm sorry, Ethan, but I have to strike you off the corporation payroll. Get them, boys. And don't forget about the satellite.
+#L_D5_ans100=(Dalej)
+#L_D5_msg110=Defend the satellite! Don't let them destroy the repair bots!
+#L_D5_ans110=(Dalej)

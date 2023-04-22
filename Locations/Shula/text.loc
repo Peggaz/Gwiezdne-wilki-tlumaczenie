@@ -1,0 +1,15 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#L_nav_01=Portal do Kruger
+#L_nav_02=Portal do Tira
+#L_nav_04=Mg³awica
+#L_nav_06=Miejsce spotkania
+#L_nav_07=Kapsu³a ratunkowa
+#L_nav_03=By³y Akademik InoCo w Shula
+#L_STO=Stacja konserwacyjna
+#L_Base=Baza MSF
+#L_trade=Stacja Handlowa "Triumf Brenana"

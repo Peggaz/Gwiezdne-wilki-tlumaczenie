@@ -1,0 +1,14 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#L_fact01=Stocznia 1
+#L_fact02=Stocznia 2
+#L_fact03=Stocznia 3
+#L_fact04=Stocznia 4
+#L_fact05=Stocznia 5
+#L_fact06=Stocznia 6
+#L_war=Baza wojskowa USS
+#L_cargo=Magazyny

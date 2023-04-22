@@ -1,0 +1,61 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Alisa
+#L_D1_msg00=Aja? Am I glad to see you, my dear!
+#L_D1_ans00=(Dalej)
+#L_D1_msg10=A pity I can't say the same.
+#L_D1_ans10=(Dalej)
+#L_D1_msg20=Pardon me, I probably missed something. What's the problem with you? Did I hurt you?
+#L_D1_ans20=(Dalej)
+#L_D1_msg30=You will go a long way, Alice. Just some more holy innocence and your friends from USS will hand the corporation to you on a plate.
+#L_D1_ans30=(Dalej)
+#L_D1_msg40=Dammit, can you talk like a normal person?! What did I do wrong?
+#L_D1_ans40=(Dalej)
+#L_D1_msg50=Nothing. You did completely nothing for me or my father. But you could make an effort and help, when he needed it. What, are you going to pretend you haven't got a message from father, in which he was asking to get to Debris 1 to intercept Star Wolves with the InoCo archives? Perhaps, you suddenly forgot the alphabet and couldn't read "Alice, please assign someone from your corporation to guard me. I'm afraid I can't trust Triada higher-ups right now?" As you can see, I know these lines by heart! Come on, Alice, put up another act of blissful incomprehension.
+#L_D1_ans50=(Dalej)
+#L_D1_msg60=I see now... I'm not going to put up any acts. Yes, I got a message from Kim, but I could read it only three months later.
+#L_D1_ans60=(Dalej)
+#L_D1_msg70=What, had too much work? Why, it's business, I get it.
+#L_D1_ans70=(Dalej)
+#L_D1_msg80=Stop spitting poison at me. The day before Kim died, pirates attacked the ship my daughter was on. I forgot everything else and went in search of Marika! I hadn't slept for days, collecting tiny bits of information, any hints about my girl's fate. Sorry that I had no time to check my corporate mailbox!
+#L_D1_ans80=(Dalej)
+#L_D1_msg90=I had no idea...
+#L_D1_ans90=(Dalej)
+#L_D1_msg100=Like I had no idea about Kim. I found his message only when I returned to the office...
+#L_D1_ans100=(Dalej)
+#L_D1_msg110=Did you find Marika?
+#L_D1_ans110=(Dalej)
+#L_D1_msg120=No... Aja, I'm sorry for your loss, but at least you know what happened to your father. I'd give anything to know if my girl is alive or dead... Anything!
+#L_D1_ans120=(Dalej)
+#L_D1_msg130=I'm truly sorry, Alice. You know I loved Marika.
+#L_D1_ans130=(Dalej)
+#L_D1_msg140=I do...
+#L_D1_ans140=(Dalej)
+#L_D1_msg150=I need to think about this. I... Damn, I believe you, but I'm still angry. When I saw you, I wanted to tear you to shreds, to see you burn, to hear you screaming!
+#L_D1_ans150=(Dalej)
+#L_D1_msg160=I understand. But, unfortunately, we can't wait. My friends need your help right now. This is actually the reason we're here.
+#L_D1_ans160=(Dalej)
+#L_D1_msg170=Help with what?
+#L_D1_ans170=My partner got kidnapped. I have no idea by whom or why. We have no clues, just this: kidnappers had fighters of grey color.
+#L_D1_msg180=Where did it happen?
+#L_D1_ans180=In X297.
+#L_D1_msg190=Well, they sure went far from their den.
+#L_D1_ans190=You know the location of their base?!
+#L_D1_msg200=Of course I do, I'm leading the special security department after all. And though "special" means "interfering" for certain high-ranking bastards, I'm still the first to get the most interesting news. And those Greys are truly interesting.
+#L_D1_ans200=Where are they?!
+#L_D1_msg210=Not so fast. This information has a price - a service you're going to render me. And you'll do it right now, if time is of the essence. I want to kill Lee Imu.
+#L_D1_ans210=(Dalej)
+#L_D1_msg220=The son of Min Imu, the Chairman of the Triumvirate? You're insane!
+#L_D1_ans220=(Dalej)
+#L_D1_msg230=Believe me, Alice, my reasons are well thought out. The Imu Clan turned Triada into a crime syndicate, crushed the achievements of my father who had dreamt of saving the corporation from the shameful reputation of pirate riffraff. There was only one thing my father couldn't do - eliminate the Imus. But he realized this would have to be done. Unfortunately, he had no time... Under Imu's control, Triada turned into a criminal organization that didn't just use pirates to do one-time contracts, but controlled and set them against badly protected worlds. If you care about the moral side, don't worry, Imu is mine. All you have to do is clear the way to XT-45, where Lee and a gang of his thugs reside now.
+#L_D1_ans230=(Dalej)
+#L_D1_msg240=You will hardly shatter Imu's power in Triada by killing his son.
+#L_D1_ans240=(Dalej)
+#L_D1_msg250=Oh, Lee Imu is just the first step. One day I will missile Min's ship into tiny bits. But first he has to suffer... So what do you say? For now time is on your side.
+#L_D1_ans250=If this is the only way to get the information about Ternie, I agree.
+#L_D1_msg260=A wise choice. Note that you will have to distract station guards. I don't care how you will do that, I need the result. Feel free to unleash a small war or use pirates. There is a suitable gang in XT-45, by the way. I will meet you at the station and join in as soon as the guards have left. Good luck.
+#L_D1_ans260=(Dalej)

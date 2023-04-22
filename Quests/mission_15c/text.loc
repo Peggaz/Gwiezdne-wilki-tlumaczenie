@@ -1,0 +1,62 @@
+;*****************************
+; mission_15c
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_15c_01a=Jump into any portal.
+#L_Quest_15c_01b=To heighten the hyper spring effect, you have to jump into any portal.
+#L_Quest_15c_02a=Destroy dockyards and warehouses.
+#L_Quest_15c_02b=You have been detected, and all system defenders have been alerted. All you can do now is destroy dockyards and warehouses.
+#L_Quest_15c_03a=Wait for Trump.
+#L_Quest_15c_03b=Wait for Trump to join you.
+#L_Quest_15c_04a=Check up NESF intelligence data.
+#L_Quest_15c_04b=Taking advantage of being unnoticed, recon the system to check up the NESF intelligence data.
+#L_Quest_15c_05a=Get to Trump rendezvous point.
+#L_Quest_15c_05b=Get to the rendezvous point and wait for a chance to contact Admiral Trump.
+#L_Quest_15c_06a=Destroy MSF ships.
+#L_Quest_15c_06b=Make the most of the situation and help Hader and Trump eliminate each other. Then the system will be yours to take.
+#L_Quest_15c_07a=Head for the habitat.
+#L_Quest_15c_07b=Approach the habitat to use the hyper catapult.
+
+;*****************************
+;Speeches
+;*****************************
+#L_Alexandra_01=I've enabled cloaking. We should get all fighters without cloaking devices into the hangar.
+#L_Sedoy_01=Hey, but that will leave us uncovered!
+#L_Kalem_01=What use is cover, if we're shown on every scanner?
+
+#L_vks_01=Central, we're on the spot. Nothing here, could be another ghost.
+#L_disp_01=Got you. Return to your patrol route.
+
+#L_Alexandra_02=Scanning.
+
+#L_Heder_01=It is done. Proceed to the second stage of the operation.
+#L_Heder_02=Great! Proceed to the second stage of the operation.
+#L_Heder_03=Damn, it's not what we need, but it will do. Proceed to the second stage of the operation.
+#L_Heder_04=Curses! Worthless dolts, you couldn't perform a simple task! Just you wait, Trump, we'll meet again, I swear.
+#L_Heder_05=Curses! Worthless dolts, you couldn't perform a simple task!
+
+#L_Heder_06=I'm under attack! Retreat!
+#L_vks_02=But admiral, what about our mission?
+#L_Heder_07=To hell with it! Proceed to the second stage of the operation.
+
+#L_Tramp_01=I decided to change my ride. I hope no one objects.
+
+#L_Tramp_02=Defected to the enemy, Hader, huh?
+#L_Heder_08=This is a provocation! Kill them all!
+
+#L_Heder_09=There you go, traitor! The emperor wishes you a great time in hell!
+
+#L_Alexandra_03=Let's get back to Eridan. There's nothing else we can do here.
+#L_Alexandra_04=Let's get back to Eridan. I'll try to summon a strike team to capture those ships.
+#L_Alexandra_05=We should get back to Eridan. Let's head for the station. I think after this massacre they won't object much to firing up the hyper catapult and sending us to whatever place we need. Naturally, I'll see to it that they input the right coordinates.
+#L_Lastochka_01=By Space, it'll take us half a year to get to Eridan from here.
+#L_Alexandra_06=I can't help you, the device is discharged.
+#L_Alexandra_07=Let's head for the station. I think after this massacre they won't object much to firing up the hyper catapult and sending us to whatever place we need. Naturally, I'll see to it that they input the right coordinates.
+
+#L_sys_01=That was your biggest mistake. Whatever happens next, you won't be a part of it.

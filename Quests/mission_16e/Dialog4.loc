@@ -1,0 +1,19 @@
+;*****************************
+;Dialog4.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Uel
+#L_D4_msg00=I hope you have tested your new abilities, and we can focus on the main goal. The initial plan of humanity evolution implied gradual and non-violent realization of the human network doctrine. However, the secret actitivy of the FTU made me reconsider deadlines and methods. Also, the destruction of the FTU headquarters had a negative - though predictable - effect: all parties of our conflict are considering me a threat and trying to join forces by pulling them to Eridan.
+#L_D4_ans00=Do they have much forces to join?
+#L_D4_msg10=Not enough to attack us right now, but they are still pulling in more teams to form a powerful strike fleet. For this reason time is of the essence.
+#L_D4_ans10=(Dalej)
+#L_D4_msg20=In this case, we must attack now, while we have the initiative. This is the only logical solution.
+#L_D4_ans20=(Dalej)
+#L_D4_msg30=On if they decide to ignore our arguments. I sent all the data on the humanity evoluion plan to Eridan, but has received no response yet. This, as well as the gathering of enemy forces, make me think my offer has been rejected. However, there is still a chance of negotiating and we must use it.
+#L_D4_ans30=What should we do?
+#L_D4_msg40=My ship can jump straight to the borders of Eridan. From there we shall be able to conduct recon and contact our potential enemy. In case we cannot avoid armed conflict, you shall have a few copies of me. They have limited algorithms, but can form an effective strike team. Remember, if our enemies refuse to cooperate, you shall have to destroy them completely. The conflicting parties will lose their leaders, disunite and give us the time we need. Now dock with the station to replenish ammo and select my copies.
+#L_D4_ans40=The prospects are nonoptimal.
+#L_D4_msg50=The alternative is our complete destruction. We must win. For the entire humanity.
+#L_D4_ans50=(Dalej)

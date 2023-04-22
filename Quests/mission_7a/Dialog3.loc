@@ -1,0 +1,36 @@
+;*****************************
+;Dialog3.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Viper
+#L_D3_msg00=What's going on here?
+#L_D3_ans00=(Dalej)
+#L_D3_msg10=He asked about Beta Lethera 1.
+#L_D3_ans10=(Dalej)
+#L_D3_msg20=Is that so? Very interesting.
+#L_D3_ans20=Listen, I just wanted to know what happened to my convoy. I'm a loyal citizen of the Empire, I have no issues with the law. The transit was quite legal, but the MSF destroyed my convoy nevertheless. And I demand to explain why it was attacked!
+#L_D3_msg30=So you demand-
+#L_D3_ans30=Yes! I demand.
+#L_D3_msg40=Then tell me, commanding and loyal citizen, what the hell were you doing in a closed system and why did you decide to break through deeper despite the warnings of the MSF patrol? Get to the point! Quickly!
+#L_D3_ans40=I don't know what you're-
+#L_D3_msg50=Don't muddle my brain. Or you thought I wouldn't be able to track you to this place? My dear, if you haven't yet realized, your deeds have already earned three firing squads for each of you - for espionage alone. And I, according to the martial law, can make it happen right now. To get the information I need, I'll be shooting you in order - until someone confesses. I just need to decide who goes first.
+#L_D3_ans50=Wait! You don't need to shoot anyone, we're not spies! I just wanted to know about my convoy. Listen, we can come to an agreement. I don't have much money, but-
+#L_D3_msg60=I see. It's getting worse each minute, because I'm talking to an idiot. Still, that doesn't make you completely useless... Now listen very close, gentleman of fortune. You'll pass it on to your gang later. You will get the information about your convoy - right after you've completed a small mission for me. The mission is not hard and suits a man like you perfectly. But if you turn out to be a spy, that would be even more interesting.
+#L_D3_ans60=Can you tell me what-
+#L_D3_msg70=No.
+#L_D3_ans70=Just-
+#L_D3_msg80=No.
+#L_D3_ans80=But I need-
+#L_D3_msg90=All you need is to arrive to the designated place at the specified time. The only alternative to voluntary cooperation is tribunal and execution by a firing squad. Now answer me, what's your decision? Time is of the essence and I can't afford to wait the whole day for a "yes".
+#L_D3_ans90=We... err... we agree.
+#L_D3_ans91=What tribunal are you talking about, major? I'm a civilian, my case is a matter of a civil court. There's law even during wartime, and right now it's on my side. 
+#L_D3_msg100=I thought you'd say that. Right now you can go where you please. But when I contact you, get to the designated coordinates immediately, striving to do your patriotic duty and justify the confidence. Major Viper out.
+#L_D3_ans100=(Dalej)
+#L_D3_msg110=Now we're done for. My previous team got killed during a "patriotic" mission like this.
+#L_D3_ans110=Like we had any choice. Right now we should think how to make a few credits while we wait for orders from that Viper. And ponder on avoiding this mission.
+#L_D3_msg101=Laws you say... Court, huh... Wait, there's more in your dossier. That's interesting...
+#L_D3_ans101=(Dalej)
+#L_D3_msg111=Can you believe it, we've already met. You had another ship that time. And you worked for traitors of the Empire back then! Hey, nice to meet you! Remember, I promised to skin you alive? Attention, all units, fire at will. Leave the man alive, I need to ask him a few questions.
+#L_D3_ans111=(Dalej)

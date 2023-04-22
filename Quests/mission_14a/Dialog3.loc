@@ -1,0 +1,37 @@
+;*****************************
+;Dialog3.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D3_msg00=Major, do you know anything about those Greys?
+#L_D3_ans00=(Dalej)
+#L_D3_msg10=Another bunch of amateur conspirators who decided to make the most of the situation. They are trying to rob anyone they can reach, be it the Empire, corporations or even renegades. There have been too many of scoundrels like this recently. These ones are either more impudent or dumber than the rest.
+#L_D3_ans10=(Dalej)
+#L_D3_msg20=No fool would be able to gather a serious fleet, unnoticed by several security forces. So I'd be more careful with my estimates, if I were you.
+#L_D3_ans20=(Dalej)
+#L_D3_msg30=I'm careful enough. A serious fleet? Bykov, don't make me laugh. Their entire fleet is smaller than a regular MSF task force.
+#L_D3_ans30=(Dalej)
+#L_D3_msg40=But they sure have decent ships.
+#L_D3_ans40=(Dalej)
+#L_D3_msg50=True enough. Those bastards stole the best there was. But was it really a theft? I have information that the Greys are connected with InoCo, USS, Triad, and the obnoxious NESF. According to the latest reports, all their higher-ups and directors somehow contacted the Greys.
+#L_D3_ans50=What for?
+#L_D3_msg60=I don't know yet. Yet! But as soon as we complete the mission I need you for, I'll get down to it in real earnest. All the more so we've found their agent network.
+#L_D3_ans60=(Dalej)
+#L_D3_msg70=Finding it is not enough, you have to find their nerve center.
+#L_D3_ans70=(Dalej)
+#L_D3_msg80=Bykov, you should really cast away the nonsense you ascribe to the MSF. The nerve center has already been found and is being watched. But right now we have a different task, and I don't want you to be distracted with what is unimportant. Did I make myself clear?
+#L_D3_ans80=You promised to find out about my employees, the pilots of the transport convoy destroyed in Beta Lethera. What's happened to them?
+#L_D3_msg90=The convoy debris has been examined. There we no intact bodies, as all cockpits were smashed asunder by direct missile hits. There were no escape pods either, but we found the remains of tissue and blood on some bulkheads. Your pilots are dead, I'm sorry.
+#L_D3_ans90=(Dalej)
+#L_D3_msg100=Hah! Are you?
+#L_D3_ans100=(Dalej)
+#L_D3_msg110=That I'm a soldier doesn't mean I can't be sorry or sympathize. You're my team and I'm not indifferent to your losses.
+#L_D3_ans110=But who did that? And why?
+#L_D3_msg120=The cargo was the reason they were attacked. We're trying to find out what it was exactly. The convoy was attacked by the personal strike team of Triumvir Min Imu. I don't know what happened next, but I'll tell you, when I do.
+#L_D3_ans120=(Dalej)
+#L_D3_msg130=About clear as mud so far...
+#L_D3_ans130=(Dalej)
+#L_D3_msg140=I told you everything I saw fit to tell. Now keep radio silence! All we need is enemy detecting our chatter right before the operation.
+#L_D3_ans140=(Dalej)

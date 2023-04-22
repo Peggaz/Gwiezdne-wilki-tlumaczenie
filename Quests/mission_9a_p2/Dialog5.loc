@@ -1,0 +1,10 @@
+;*****************************
+;Dialog5.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D5_msg00=Partner, I think I'm detecting something. Sending the telemetry data.
+#L_D5_ans00=No, that's not the one. Let's wait.
+#L_D5_ans01=That's the one. Let's get back to Muscovy and wait for it that side of the portal.

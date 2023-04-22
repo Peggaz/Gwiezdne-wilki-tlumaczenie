@@ -1,0 +1,16 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Sedoy
+#L_D1_msg00=So, boss, do we have a plan?
+#L_D1_ans00=The transport we're looking for can be loaded at any of three stations: the central Angarsk NESF Military Base, Baikal Trade Station or Bratsk Patrol Station. All of them have NESF garrisons. Damn, I wish we had a scanner to see the whole system.
+#L_D1_msg10=We can each get to a key spot and check arriving and departing transports. This way we might find our courier.
+#L_D1_ans10=(Dalej)
+#L_D1_msg20=We'll have to split up and I think that's too dangerous. Let's find another way.
+#L_D1_ans20=I see no other ways. Let's each get to a station and wait for transports.
+#L_D1_ans21=Greyhair is right. We mustn't split up. Let's try to find something out at the central station.
+#L_D1_msg30=I wonder how we're going to confirm it's the one.
+#L_D1_ans30=I have no idea. Let's act by intuition.

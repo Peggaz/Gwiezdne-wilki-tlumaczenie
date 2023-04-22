@@ -1,0 +1,15 @@
+;*****************************
+;Dialog4.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D4_msg00=Partner, are you idiot?! To give away a fine ship just like that!
+#L_D4_ans00=Huh? Haven't you just called it a "clunker"?
+#L_D4_msg10=Even a clunker costs money!
+#L_D4_ans10=So I sold it. Now we also have an ally in the New Empire. And a high-ranking one, mind you.
+#L_D4_msg20=Oh! Sorry, partner, I have just realized it. We'll wait until that old crackpot gets to his academy and squeeze him for a sum enough to buy ten clunkers like that! Your mind is sure keen, I respect that!
+#L_D4_ans20=Ternie, no one's going to squeeze anyone. I was talking about delivery contracts. By Space, who I got mixed up with! I'll either get killed or go to jail for your deeds or words.
+#L_D4_msg30=I just suggested...
+#L_D4_ans30=Time out! Enough! Let's just focus on visiting that ID fixer of yours for now. But you should do something with your world outlook, or we might get in trouble.

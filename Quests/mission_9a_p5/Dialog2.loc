@@ -1,0 +1,25 @@
+;*****************************
+;Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m9a_Voronov
+#L_D2_msg00=Oh, it's you. I'm glad I have a chance to thank you. On my behalf and on behalf of all system inhabitants.
+#L_D2_ans00=Oh, don't mention it...
+#L_D2_msg10=Dmitry?! Dmitry, is that you?
+#L_D2_ans10=(Dalej)
+#L_D2_msg20=Validol, glad to see you! They said you had just vanished.
+#L_D2_ans20=(Dalej)
+#L_D2_msg30=I retired. I wonder why you're still a thick skull.
+#L_D2_ans30=(Dalej)
+#L_D2_msg40=Validol, we've already discussed it. I swore an oath.
+#L_D2_ans40=(Dalej)
+#L_D2_msg50=I remember that. And you should remember how I told you about swearing to people, not some enthroned bastard. You didn't listen to me that day and I guess you won't now. So tell me, why all the gratitude?
+#L_D2_ans50=(Dalej)
+#L_D2_msg60=Your friends saved this system from a massacre. Risking their lives, they found out where flower lovers were hiding a saboteur team. So we whacked them.
+#L_D2_ans60=Come on, that wasn't much of a risk.
+#L_D2_msg70=Oh, it sure was! You accomplished a great, great feat today.
+#L_D2_ans70=Glad to be of help, but we're actually in hurry. Vladimir, you can stay with your friend, if you want. We'll manage.
+#L_D2_msg80=Oh no, I'm going with you. And call me Validol. Sorry, Dmitry, we need to go. We might meet again! Take care.
+#L_D2_ans80=(Dalej)

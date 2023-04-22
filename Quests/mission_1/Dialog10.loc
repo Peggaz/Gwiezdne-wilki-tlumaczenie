@@ -1,0 +1,13 @@
+;*****************************
+;Dialog10.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Viper
+#L_D10_msg00=Oh, you've finally deigned to arrive. You civilians would miss your own funerals, if you had your way. Ah, take it easy. I'm just joking. Now let's get down to business. We have actually found Corporate documents, but it's still too early to evac them. We need more information, preferably from a living source. Got my drift?
+#L_D10_ans00=Yeah, yeah. What's my part in all this?
+#L_D10_msg10=Ah, so you got freaking nothing. I'll chew it over, so even a rock can get it: your mission is to reach the trade station where the Triada's attache resides. His sorry ass is covered by diplomatic immunity, so we can't touch him. But! You will tell him about the cargo drifting here and promise to get it, if he provides you with an escort.
+#L_D10_ans10=But after I've handed their pilots over - and I'm sure they know about it already - I don't think that-
+#L_D10_msg20=You're not to think, you are to follow orders! So shut up and get down to this. Take the escort back here, contact no one, collect the cargo. Then we'll whack the Triadas and return to the MSF HQ. I think it's crystal clear now. If you're afraid of those weak corporators trying to get revenge, I won't mention you in the report, as if you've never been to Corrino. But I will remember who you are and what you've done. Got it? So if you do anything stupid, I'll find you. You better follow the plan. Now get going.
+#L_D10_ans20=(Dalej)

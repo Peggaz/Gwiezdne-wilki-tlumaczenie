@@ -1,0 +1,68 @@
+;*****************************
+; mission_16a
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_16a_01a=Approach the station.
+#L_Quest_16a_01b=Approach the MSF HQ to replenish ammo and wait for Viper.
+#L_Quest_16a_02a=Approach the Ashelon portal.
+#L_Quest_16a_02b=Head for the Ashelon portal to start up the hyper catapult.
+#L_Quest_16a_03a=Stop Hader.
+#L_Quest_16a_03b=Protect the MSF HQ from Hader's attack. Viper must survive.
+#L_Quest_16a_04a=Eliminate the traitor.
+#L_Quest_16a_04b=Run down and eliminate the traitor who has stolen the database passes.
+#L_Quest_16a_05a=Jump into any portal.
+#L_Quest_16a_05b=Jump into any portal to start up the hyper catapult.
+
+;*****************************
+;Speeches
+;*****************************
+#L_Viper_01=All right, team, we're here. Now visit the station and replenish ammo, I'll have them open the warehouse for you. In the meantime, I'll settle up some affairs. Just don't wander about the system like tourists, we don't have for that.
+
+#L_Lastochka_01=She's in her usual vein all right...
+#L_Sedoy_01=To hell with her. Boss, we have a unique chance to hit the MSF store! It's a dream coming true!
+
+#L_disp_01=Welcome to the MSF Headquarters in the Centaur Sector. There's a private message from the major to be delivered to you on arrival.
+
+#L_Viper_02=Shoot down those transports, I'm a little busy here!
+
+#L_Viper_03=Damn, damn, damn! Hader, you will pay for this!
+#L_Heder_01=Some other time, major. Attention, everyone, the job is done. Retreat.
+
+#L_Heder_02=I'm under attack! Retreat!
+#L_vks_01=But admiral, what about our mission?
+#L_Heder_03=To hell with it! Retreat I say!
+
+#L_Heder_04=Curses! Worthless dolts, you couldn't perform a simple task! Proceed to Plan Zulu!
+#L_Kalem_01=These will be hard to handle.
+
+#L_disp_02=Major, we have a problem! Your deputy escaped from the station after having broken into your office!
+#L_Viper_04=Damn, he stole the database passes! Attention, team, that bastard must not get away with those storage drives. Eliminate him!
+
+#L_Lastochka_02=There's our guy. Running somewhere?
+#L_Viper_05=Great work! Fry that scoundrel, I don't need him alive!
+
+#L_Heder_05=Retreat! Retreat immediately! Don't be so happy, major. You won a battle, but you lost your war.
+
+#L_Heder_06=There you go, bastard! The emperor wishes you a great time in hell!
+
+#L_Heder_07=Excellent! Attention, everyone, the job is done. Retreat.
+#L_Sedoy_02=That's it, boss. Game over.
+
+#L_Viper_06=I hope His Majesty is still all right. Hmm... That's nice. I've never seen Earth before.
+
+#L_Viper_07=Well, well, well. So you, bastard, decided to stab me in the back!
+#L_Lastochka_03=Partner, how dumb was that!
+#L_Sedoy_03=Extremely dumb. To do something like this, when Viper's storyline is almost over!
+#L_Kalem_02=True enough. It would be stupid to believe someone provided passages to alternative storylines here.
+
+#L_sys_01=You fled from combat. Mission failed.
+#L_sys_02=Viper needs to settle up some affairs. Let her go.
+#L_sys_03=I'm fed up with you! Major Viper, MSF Security.
+#L_sys_04=Main character died.
+#L_sys_05=Game over.

@@ -1,0 +1,11 @@
+;*****************************
+;Dialog19.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;USSOfficer
+#L_D19_msg00=This is really strange. But I have to check every detail out. Send me the coordinates of the skirmish. Perhaps, we'll find the black boxes. I'm afraid you will have to tag along.
+#L_D19_ans00=Do I really have to? What about the cargo?
+#L_D19_msg10=The cargo will remain at the station where you've left it for some more time. I have to say your presence at the crime scene is compulsory, as you're one of the conflicting parties. So this is out of the question.
+#L_D19_ans10=All right. Here are the coordinates.

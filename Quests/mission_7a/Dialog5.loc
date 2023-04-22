@@ -1,0 +1,18 @@
+;*****************************
+;Dialog5.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Viper
+#L_D5_msg00=Well, you've rendered a service to the Empire, and I'm willing to forget our little incident. Do you need certain information? I'm ready to give it to you - after you've completed a small mission. No threats, no pressure, just voluntary cooperation.
+#L_D5_ans00=If there are no threats and pressure, I'm in. But that's a one-time agreement.
+#L_D5_ans01=And again I'll refuse. I'm willing to buy information, to help, but I'm not participating in any dubious affairs.
+#L_D5_msg10=This is fine by me. Now you should leave this system. We'll contact you in due time.
+#L_D5_ans10=(Dalej)
+#L_D5_msg20=So you allowed yourself to be run by her...
+#L_D5_ans20=Yes I did. Ternie, dashing aimlessly around the space is not my style. Besides, that Viper obviously has a plan, and I want to know how it might benefit us and what are the traps. It's recon, get it?
+#L_D5_msg30=Yeah, right. Just don't overdo it, scout. All right, let's get out of this cursed system. We'll discuss the details later.
+#L_D5_ans30=(Dalej)
+#L_D5_msg11=That's a pity. I started to think you weren't that hopeless. Considering I'm somewhat indebted to you, I allow you to leave the system. But you don't have much time, so make haste.
+#L_D5_ans11=(Dalej)

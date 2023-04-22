@@ -1,0 +1,27 @@
+;*****************************
+;Dialog7.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m2_Recruit
+#L_D7_msg00=Hey, trader, need an escort within this system? This place is crawling with pirates, and we don't charge much, just 1,000 credits. We'll escort you to the destination and back here. All fair and square.
+#L_D7_ans00=I can use a few guards. Transferring money.
+#L_D7_ans01=No thanks, considering the sum, it'll be easier for me to pay pirates off.
+#L_D7_msg10=Great! Tell us where to go, boss.
+#L_D7_ans10=We have two objectives. The first is the quadrant 819-236, I have a meeting there. The second is Copernicus Scientific Station.
+#L_D7_msg20=Boss, we have a rule: one contract - one destination.
+#L_D7_ans20=All right, then let's go to the quadrant 819-236.
+#L_D7_msg30=Boss, this is none of my business, but why do you have to visit that quadrant? There's nothing valuable, no station, but lots of pirates.
+#L_D7_ans30=I'm afraid I can't answer your question. I've already gone beyond the contract rules, having hired you.
+#L_D7_ans31=I was asked to deliver a package. The man looked trustworthy, some blue blood from the Donelly family.
+#L_D7_msg40=As you wish. But, boss, it will be better, if our team will escort you cloaked.
+#L_D7_ans40=(Dalej)
+#L_D7_msg41=Donelly? Malcolm Donelly? Hah! Boss, I'll save you both credits and nerves. Let's get back to the station.
+#L_D7_ans41=Huh? Why would we do that?
+#L_D7_msg51=Malcolm Donelly was born in an aristocratic family, though busted, but honest people only call him "Vulture". He lures pilots into a trap, asking to deliver some cargo, then his gang of pirates rob them blindly or even worse.
+#L_D7_ans51=The bastard! I think we should take him down a peg or two.
+#L_D7_msg61=It's turkey, boss. First, you won't find him at those coordinates, just his stooges. Second, Donelly has some connections with the MSF, so their patrols leave him alone.
+#L_D7_ans61=Then we should really turn back.
+#L_D7_msg71=What worries me is that Vulture usually arrives to serious turmoil to cover the tracks of his dirty business. I have a feeling things will become hot here soon.
+#L_D7_ans71=(Dalej)

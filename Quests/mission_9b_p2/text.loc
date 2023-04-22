@@ -1,0 +1,21 @@
+;*****************************
+; mission_9b_p2
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_9b_06a=Escort Alice and Ethan.
+#L_Quest_9b_06b=Escort Alice and Ethan back to Al-Ariash.
+
+;*****************************
+;Speeches
+;*****************************
+#L_Itan_01=Damn, we have another problem. I'm detecting a USS fighter team ahead.
+#L_Hero_01=Kane again?
+#L_Itan_02=Most likely. No, wait! Cancel the alarm, those are my allies.
+
+#L_sysmsg_01=Don't stall Ethan, he's being awaited.

@@ -1,0 +1,34 @@
+;*****************************
+; mission_18d_1
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_18d_01a=Get to Zebos.
+#L_Quest_18d_01b=You must get to Zebos as soon as possible, before SAM has time to pull in all forces to the portal.
+
+;*****************************
+;Speeches
+;*****************************
+#L_Lastochka_01=Partner, what the hell?!
+#L_Natali_01=That was very stupid!
+#L_Sedoy_01=Have you decided to cross the front line, boss? No way.
+
+#L_Ranolds_01=This is Oliver Reynolds, the Chairman of the Board of Directors. All InoCo ships, stop the attack. I repeat, stop attacking! You are following an illegitimate order.
+
+#L_Corsair_01=The answer is obvious.
+#L_Ranolds_02=Corsair, Alex, are you there? Jump into the portal, I'll try to cover you!
+#L_Cleric_01=Yeah, let's retreat. There are only machines on the other side. I shall do my best and the universe will see the meaning of the True Hack!
+
+#L_grey_01=Alex, are you there?
+#L_Alex_01=You're on time. Don't shoot Reynolds' ships, I'll give you new signatures.
+#L_grey_02=Affirmative.
+
+#L_sys_01=Main character died.
+#L_sys_02=Game over.
+
+#L_sys_03=That was your biggest mistake. Whatever happens next, you won't be a part of it.

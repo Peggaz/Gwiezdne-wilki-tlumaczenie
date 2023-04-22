@@ -1,0 +1,9 @@
+;*****************************
+;Dialog6.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Uel
+#L_D6_msg00=You're making a mistake. My imperatives imply the top-priority desire for the wellbeing of the human race in general and the development of every individual. My objectives are not hostile. They will let people unite to achieve common goals. Such consolidation is inevitable. Your destructive actions may only delay it - for another period of wars and bloodshed.
+#L_D6_ans00=I think I've heard this before.

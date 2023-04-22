@@ -1,0 +1,22 @@
+;*****************************
+;Dialog10.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;VksAce
+#L_D10_msg00=Whoa, that's a nice kettle of fish! What are you doing, gentlemen? Most importantly, do you have a proper license for this activity? Call for backup, Dan, we got us a team of troublemakers here.
+#L_D10_ans00=A license you say? Will my guns suffice? You're dealing with a higher-league players here, boys, so I do suggest you make yourself scarce while you're still alive.
+#L_D10_ans01=Hey, wait, no need to call for anyone. We can have a deal. I believe 50 grands are enough to buy a license. Am I right?
+#L_D10_msg10=Did you hear it, Dan? What can our lowly league say to that?
+#L_D10_ans10=(Dalej)
+#L_D10_msg20=That backup is on the way, ETA a few seconds.
+#L_D10_ans20=(Dalej)
+#L_D10_msg30=Did you hear that, "boys"? Your league may be higher, but you're playing an away match and your bench is empty.
+#L_D10_ans30=(Dalej)
+#L_D10_msg11=As a matter of fact, a license is more expensive. But since it's low season, half a loaf is better than no bread. You have a deal. Give me the money and go on with what you were doing. What was it, by the way?
+#L_D10_ans11=Frankly speaking, I was taking apart an old military navigation facility I had found. It's out of order anyway.
+#L_D10_msg21=Of all the gall! To confess to an honest officer, which I am, that you're stealing imperial equipment...
+#L_D10_ans21=So what, I have a license now, don't I? Might as well tell you the truth.
+#L_D10_msg31=True enough. Well, good luck, guys, we have to be off. Doing our duty, you know, searching for troublemakers.
+#L_D10_ans31=(Dalej)

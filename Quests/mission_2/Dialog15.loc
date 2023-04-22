@@ -1,0 +1,11 @@
+;*****************************
+;Dialog15.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;PirateTough
+#L_D15_msg00=Oh, a customer! Dear sir, you know that using this portal is a paid service, don't you?
+#L_D15_ans00=Never heard of that.
+#L_D15_msg10=Sometimes news spread too slow, though it doesn't mean anything. The portal fee is 2,000 credits, our business is on the square. So you either pay... or pay. Just these two options.
+#L_D15_ans10=(Dalej)

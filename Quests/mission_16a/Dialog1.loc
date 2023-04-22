@@ -1,0 +1,29 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;VksISAce
+#L_D1_msg00=Excuse me, are you major's team?
+#L_D1_ans00=I guess you can say that. We arrived with Viper.
+#L_D1_msg10=Pardon my curiosity, but what's going on here?
+#L_D1_ans10=(Dalej)
+#L_D1_msg20=What do you mean, soldier?
+#L_D1_ans20=(Dalej)
+#L_D1_msg30=It's just... Rumor has it the NESF launched a full-scale attack and captured Corrino and Tira. They also say a large fleet of unknown origin was seen in Prien. Moreover, we are unable to contact the central HQ. A courier from Earth was here a while ago - only to download some data and be off again. Don't get me wrong, we shall fight for the Empire, but we'd like to know what to expect.
+#L_D1_ans30=(Dalej)
+#L_D1_msg40=Why don't you ask your amiable boss?
+#L_D1_ans40=(Dalej)
+#L_D1_msg50=Are you serious? Major has completely lost it since she arrived, barking at everyone in the line of sight. And when Viper is angry, you better behave.
+#L_D1_ans50=Sorry, pal, but we don't know anything too. I've heard much of it for the first time.
+#L_D1_msg60=It's a pity... Sorry for delaying you.
+#L_D1_ans60=(Dalej)
+#L_D1_msg70=Everyone's ready to soil his pants here. How wonderful!
+#L_D1_ans70=(Dalej)
+#L_D1_msg80=Oh, the admiral was right about Azar and his stooges. No kidnapping can crop the top of the empire and keep even security forces on an intel starvation diet.
+#L_D1_ans80=(Dalej)
+#L_D1_msg90=Does it mean that the emperor has actually decided to pack up?
+#L_D1_ans90=(Dalej)
+#L_D1_msg100=It doesn't for the time being. But, friends, I think we should stock up to the brim. Who knows when things will get really hot here.
+#L_D1_ans100=(Dalej)

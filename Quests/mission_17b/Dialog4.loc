@@ -1,0 +1,29 @@
+;*****************************
+;Dialog4.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m10_Hunter
+#L_D4_msg00=Hey, old buddies! Found your friend? Hey, Aja.
+#L_D4_ans00=(Dalej)
+#L_D4_msg10=More like I have found them.
+#L_D4_ans10=As you can see, Zurab, we have. How is it going?
+#L_D4_msg20=Not good. We repelled a couple of Berserk attacks, but that was only recon in force. They've been silent ever since, probably getting ready for one big dirty trick. What are you doing here?
+#L_D4_ans20=(Dalej)
+#L_D4_msg30=We're hunters. Dumb, but brave kamikaze hunters.
+#L_D4_ans30=(Dalej)
+#L_D4_msg40=That's original. What are you hunting?
+#L_D4_ans40=(Dalej)
+#L_D4_msg50=Berserks and SAM. We decided to strike first and wipe those bastards out before they attack inhabited systems.
+#L_D4_ans50=(Dalej)
+#L_D4_msg60=SAM?
+#L_D4_ans60=(Dalej)
+#L_D4_msg70=Another artificial intelligence from InoCo. Did you think Berserks bred all by themselves?
+#L_D4_ans70=(Dalej)
+#L_D4_msg80=So that's how it is. This isn't going to be easy. So where is that SAM hiding?
+#L_D4_ans80=(Dalej)
+#L_D4_msg90=In X220, most likely. But we need to get there first.
+#L_D4_ans90=(Dalej)
+#L_D4_msg100=So you've chosen a large target, huh... All right, we'll help you. Nevermind that there are few of us, we're all hardened veterans and we'll give those tincans hell. The most important thing is to move fast and don't let yourselves be distracted. Berserks are crawling beyond that portal. We'll engage and bind them, and you rush to X220 at top speed. Whack SAM and we'll deal with the rest of the junkyard. Are you ready? Then jump into the portal. This is going to be one hell of a fight!
+#L_D4_ans100=(Dalej)

@@ -1,0 +1,21 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Uel2
+#L_D1_msg00=Let me thank you on behalf of the corporation.
+#L_D1_ans00=(Dalej)
+#L_D1_msg10=Sure. What about our request?
+#L_D1_ans10=(Dalej)
+#L_D1_msg20=I processed your information. Ships with the specified signatures jumped through the portal to XT-24 and never returned.
+#L_D1_ans20=But that is a dead-end system... So the Greys must have their base in there. Thank you, SAM.
+#L_D1_msg30=The pleasure is all mine. Unfortunately, I have no information about objects inside the system, except for that old MSF base. I would like to be of more help to you, but not all the servers have been restarted after the attack. Please take my copy along, its combat software will come in handy. Besides, it will let me contact you. Now excuse me, gentlemen, restoring infrastructure demands all my resources.
+#L_D1_ans30=(Dalej)
+#L_D1_msg40=Well, boss. Let's have fun then?
+#L_D1_ans40=(Dalej)
+#L_D1_msg50=What's so funny in shooting people?
+#L_D1_ans50=(Dalej)
+#L_D1_msg60=That they shoot back!
+#L_D1_ans60=Let's hope they are bad gunners. We're going to XT-24.

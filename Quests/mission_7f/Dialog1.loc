@@ -1,0 +1,13 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;InocoOfficer
+#L_D1_msg00=We were expecting you. Please proceed to the designated station.
+#L_D1_ans00=Hey, where are we? How did we get here?
+#L_D1_msg10=You're in Lidau. Please proceed to the station, where all your questions will be answered.
+#L_D1_ans10=(Dalej)
+#L_D1_msg20=I still don't get it, but at least I'm glad those corporators are in their usual vein. Come on, partner, let's visit the station. Those guys aren't very patient, and I'm not in the mood for a fight.
+#L_D1_ans20=(Dalej)

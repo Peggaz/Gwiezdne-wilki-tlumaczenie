@@ -1,0 +1,15 @@
+;*****************************
+;Dialog7.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D7_msg00=SAM, what about tactical recommendations?
+#L_D7_ans00=(Dalej)
+#L_D7_msg10=The elimination of jammer buoys will allow out fleet to jump directly to Eridan. Reinforcements can also arrive via usual portals or anomalies. But those need to be cleared of guards before you can call for backup. I will be able to send a request, if we get close enough to any portal or destroy the jammers located at the dockyards.
+#L_D7_ans10=(Dalej)
+#L_D7_msg20=Which tactics is better?
+#L_D7_ans20=(Dalej)
+#L_D7_msg30=This is up to you. I do not have enough data to make an unambiguous decision.
+#L_D7_ans30=I see. We'll improvise.

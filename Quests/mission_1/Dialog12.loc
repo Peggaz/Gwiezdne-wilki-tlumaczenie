@@ -1,0 +1,11 @@
+;*****************************
+;Dialog12.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;VksOfficer
+#L_D12_msg00=Glad to see you, citizen. Our command rewards you with 1,500 credits.
+#L_D12_ans00=Nice doing business with you.
+#L_D12_msg10=While there are citizens like you, the Empire is unconquerable! Our ships will escort you to your destination.
+#L_D12_ans10=Oh, that's even better. A convoy might come in handy.

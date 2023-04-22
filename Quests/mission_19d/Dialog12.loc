@@ -1,0 +1,15 @@
+;*****************************
+;Dialog12.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Alex
+#L_D12_msg00=Admiral, cease fire, we have nothing to fight over anymore.
+#L_D12_ans00=(Dalej)
+#L_D12_msg10=You lynched the man and thus became criminals yourself. But I suggest that you surrender and be judged.
+#L_D12_ans10=(Dalej)
+#L_D12_msg20=Should we handcuff ourselves as well? I'll see you damned first, bucko!
+#L_D12_ans20=(Dalej)
+#L_D12_msg30=Then we're out of options for a compromise.
+#L_D12_ans30=(Dalej)

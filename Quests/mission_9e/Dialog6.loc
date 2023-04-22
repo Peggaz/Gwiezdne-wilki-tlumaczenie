@@ -1,0 +1,21 @@
+;*****************************
+;Dialog6.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D6_msg00=So, partner, tell me I was great at wringing cash from that tincan.
+#L_D6_ans00=I take off my hat to you.
+#L_D6_msg10=You don't have one. Not even a neck guard. Anyway, let's visit InoCo stores. Jana you tag along.
+#L_D6_ans10=I thought letting people into the team was to be decided collectively.
+#L_D6_msg20=So do that. And I've already promoted Jana to a team member. Guys, you're great and whatnot, I sure value your friendship. But I'm fed up with bull session. I just want to yak with another girl, and Jana has no choice anyway. You're not going back to the corporation, are you?
+#L_D6_ans20=(Dalej)
+#L_D6_msg30=To be blasted along with another station? No thanks! I'm with you, if you don't mind.
+#L_D6_ans30=(Dalej)
+#L_D6_msg40=Who minds? They mind? They sure don't, so don't worry. Let me send you a secure channel frequency, so we can chat, not having to deal with praised men's logic.
+#L_D6_ans40=(Dalej)
+#L_D6_msg50=Have you heard that, boss?
+#L_D6_ans50=I sure have and I'm shocked. Well, Greyhair, it seems we have no choice but to accept the inevitable. I hope Jana isn't a twaddler like Ternie.
+#L_D6_msg60=Hey, I heard that!
+#L_D6_ans60=Yeah, yeah, I'm shutting up. Jana, welcome to the team.

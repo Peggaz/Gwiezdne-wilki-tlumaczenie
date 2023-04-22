@@ -1,0 +1,21 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m7f_Dikkens
+#L_D1_msg00=So, I guess it's high time to settle our problems, isn't it?
+#L_D1_ans00=What do you mean? We helped you.
+#L_D1_msg10=You sure did. But I wonder what you were doing in XT-54. And I'd also like to know your names. This is awkward, you see: you know who I am, but I don't know who you are.
+#L_D1_ans10=Speaking of our identities, here's my FTU registry card. As for XT-54, we conducted a mission for Triada there. But it turned out to be different from what we had been promised.
+#L_D1_msg20=Well, Triada does like to make cat's paw of people. I wonder what they promised you.
+#L_D1_ans20=Information. Early in the war, my convoy vanished in one of their systems. I decided to exchange my services for information about it.
+#L_D1_msg30=Wait... Right! You're the man I've tried my best to find! And it turns out you were working for Triada. By Space, what exceptional irony! Hahaha, aren't those corporators good. I haven't seen such an elegant combination for a long time. I really have to give those bastards credit. They sure can cheat! Hahaha!
+#L_D1_ans30=Hey, time out. What are you talking about? Why were you looking for me? What irony is there, for heaven's sake?!
+#L_D1_msg40=Ooh, my dear, I beg your pardon, but I won't tell you not to spoil this fine joke. You will find out in due time. Perhaps. You will be remembering it as a joke of the century. Now please excuse me I have orders to issue. As for you, you should leave InoCo's space for now. I shall let you visit our store once, so you don't feel that hurt. And yes, I remember my promise to double the bounty for my head. How much did Triada promise you?
+#L_D1_ans40=100,000 credits.
+#L_D1_msg50=Skinflints. But it's their style all right. Fine then, here are 200,000 credits. Good luck.
+#L_D1_ans50=Wait, what was that thing we used to get here?
+#L_D1_msg60=A part of a hyperspace network built by hell knows who and hell knows when. It's kind of erratic and may send you to the devil himself or even disintegrate you. But sometimes its ability to cover long distances makes up for all the risk. Now excuse me, I have to go. Good luck. My, those Triada guys have a great sense of humor!
+#L_D1_ans60=(Dalej)

@@ -1,0 +1,10 @@
+;*****************************
+;Dialog14.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D14_msg00=Where to now, partner?
+#L_D14_ans00=InoCo wants something from us. We should find out what exactly. Let's go to Lidau.
+#L_D14_ans01=My friend asked me for help with escorting a convoy. Let's visit him in XT-54 and make some cash.

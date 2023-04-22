@@ -1,0 +1,21 @@
+;*****************************
+;Dialog6.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Alex
+#L_D6_msg00=Buddy! Am I glad to see you.
+#L_D6_ans00=Alex, we need to talk. In particular, about your attitude to friends, whom you don't trust much apparently.
+#L_D6_msg10=I've already explained myself. Still want to talk? Fine, but not now. Cleric - that hacker I told you about - has managed to confirm that SAM is actually in Vulcan now. He's at a server station, we can't miss it. Unfortunately, we have no intel on guards. Cleric also found out that SAM had seized control of the corporation, removed the board of directors of leadership and tried to arrest Reynolds. Fortunately, Oliver managed to escape. He's now heading for Llanowar at full speed to talk to Astra. So it seems the machine has made its move.
+#L_D6_ans10=(Dalej)
+#L_D6_msg20=I'm too old for adventures like this. Too old and grey-haired...
+#L_D6_ans20=(Dalej)
+#L_D6_msg30=Don't you worry, you'll become white-haired all right. SAM has already managed to install chips into a few pilots. They have gone totally crazy, but it'll last for only a month or two - that's how long they are going to live considering the mental strain.
+#L_D6_ans30=(Dalej)
+#L_D6_msg40=We might live even less that that. Do you think there's enough of us to save humanity?
+#L_D6_ans40=(Dalej)
+#L_D6_msg50=I gathered everyone I could, so we'll have to manage. Hm... I thought you had a mothership.
+#L_D6_ans50=We left it behind as a reminder of a broken alliance.
+#L_D6_msg60=I see. Then I believe you'll want to replace the transport with a cruiser. Cleric, as a team member, will come in handy too I guess. Just don't let him loose or it'll turn his head and he will start bragging.
+#L_D6_ans60=(Dalej)

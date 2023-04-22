@@ -1,0 +1,19 @@
+;*****************************
+;Dialog3.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Blade
+#L_D3_msg00=Ethan has sent a signal. Imu has left a station in Al-Ariash.
+#L_D3_ans00=(Dalej)
+#L_D3_msg10=Then we need to hurry up and find a good spot for attacking.
+#L_D3_ans10=Dalled would be the best place. Yes, I heard about their strong defenses, but it will even be better that way. If Imu is sure of his safety, he will follow a bee-line and we won't have to wander about searching for him.
+#L_D3_ans11=If we head for Dalled, we'll get our butts kicked. If we head for Cadenoa, we'll lose Imu, given he decides to pass through this system. Let's stay in Deosis and wait for more news from Fry. If he says Imu is headed for Fiasar, we'll be able to intercept him by the Cadenoa entrance. If Imu doesn't turn anywhere, he'll go straight into our trap.
+#L_D3_ans12=Let's try to intercept him on the way to Cadenoa. It's the straightest route to Candela. I doubt that Imu will dodge a lot, given he's escorted by Triada and USS.
+#L_D3_msg20=You have a point. Then Dalled it is. I'll message Savay.
+#L_D3_ans20=(Dalej)
+#L_D3_msg21=This sounds logical. I'll message Savay.
+#L_D3_ans21=(Dalej)
+#L_D3_msg22=You don't know Imu. I won't be surprised, if he visits restrooms, using all terrain features as cover for his sorry butt.
+#L_D3_ans22=(Dalej)

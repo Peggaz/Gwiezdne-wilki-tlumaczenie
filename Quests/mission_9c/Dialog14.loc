@@ -1,0 +1,17 @@
+;*****************************
+;Dialog14.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;VksAce
+#L_D14_msg00=Intruders detected! Call for backup! Damn, there's so many of them!
+#L_D14_ans00=(Dalej)
+#L_D14_msg10=Calm down, soldier. We're just passing by quietly, minding our own business. Don't kick up a fuss and there will be no casualties.
+#L_D14_ans10=(Dalej)
+#L_D14_msg20=What? Are you trying to bribe us?! Why, let's make it 50 grands and nobody has seen anything.
+#L_D14_ans20=Have you taken a special depravity course at the military academy? I'd save more on missiles I'll spend on you!
+#L_D14_msg30=Attention, everyone! General alert, general alert!
+#L_D14_ans30=(Dalej)
+#L_D14_msg40=Dispatching backup.
+#L_D14_ans40=(Dalej)

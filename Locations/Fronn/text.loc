@@ -1,0 +1,11 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#M_spam=Baza spamera
+#L_spam=Stacja Triady "Fronn"
+#L_fact=Zak³ad "Dongfeng"
+#L_cargo=Fabryka broni
+#L_trans=Stacja tranzytowa "Majan"

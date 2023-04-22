@@ -1,0 +1,9 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#L_universal_station=Stacja Handlowa "Saul"
+#L_pir1=Stacja Piratów "Jolly Roger"
+#L_pir2=Stacja Piratów "Czerwonobrody"

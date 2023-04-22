@@ -1,0 +1,13 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#M_trade_station=Stacja Handlowa
+#L_war=Stacja wojskowa InoCo
+#L_trade=Gaeon Stacja handlowa w Gaeon
+#L_lab1=Laboratorium cybernetyczne
+#L_lab2=Laboratorium kwantowe
+#L_fact=Zak³ad "FAB-YT239"
+#L_live=Siedlisko Koloseum

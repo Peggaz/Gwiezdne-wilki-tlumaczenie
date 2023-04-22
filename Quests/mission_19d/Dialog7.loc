@@ -1,0 +1,17 @@
+;*****************************
+;Dialog7.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;USSDispetcher
+#L_D7_msg00=This is patrol, do you need backup?
+#L_D7_ans00=(Dalej)
+#L_D7_msg10=Negative. There's just a bunch of psychos, we'll kill them in no time.
+#L_D7_ans10=(Dalej)
+#L_D7_msg20=I don't like it. Somebody has found out that His Imperial Majesty is hiding in this system.
+#L_D7_ans20=(Dalej)
+#L_D7_msg30=Stop shaking, they might be after me or Kane. Or maybe they are psychos.
+#L_D7_ans30=(Dalej)
+#L_D7_msg40=Patrol, make sure no one gets away. We'll disable the portal for now.
+#L_D7_ans40=(Dalej)

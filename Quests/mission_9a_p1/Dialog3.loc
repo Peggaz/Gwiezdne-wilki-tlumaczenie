@@ -1,0 +1,58 @@
+;*****************************
+;Dialog3.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;DispetcherVKS
+#L_D3_msg00=Good day. This is a military station. We don't trade or give away contracts. So...
+#L_D3_ans00=Please let us speak to the governor-general.
+#L_D3_msg10=Why not the emperor himself?
+#L_D3_ans10=I'm serious. Here are the ID codes.
+#L_D3_msg20=So you're from the MSF HQ. Why didn't you tell me at once?
+#L_D3_ans20=(Dalej)
+#L_D3_msg30=Mikhaylo Gorbatenko, General-Governor of Muscovy, speaking.
+#L_D3_ans30=It seems you're in deep trouble here.
+#L_D3_msg40=Oh really? And I was sitting here, reading reports on skirmishes with the NESF, on enemy forces in Angarsk and still couldn't realize what that could mean. So you say I have problems, huh? Now that you've opened my eyes, thanks to your aha factor, I'm really starting to notice there's something wrong going on here. Why, thank you! You've saved us all!
+#L_D3_ans40=You're joking, right?
+#L_D3_msg50=You've started it first. If you like shedding the light of truth so much, you might as well tell me why they've sent me a few staff blabbermouths instead of several cruisers with support that I've already grown tired requesting. Or, perhaps, you're another bunch of inspectors?
+#L_D3_ans50=Governor, I just wanted to do my best to help you.
+#L_D3_ans52=Judging by your readiness to be defeated, inspectors might actually come in handy.
+#L_D3_msg60=We could use some help. Pardon me for the cool welcome, but I'm pretty fed up with HQ bureaucrats who believe that the threat of the NESF attacking from Angarsk is not grounded well enough. You see, the enemy doesn't have enough forces to attack headlong and win. But still they are preparing to attack. Which means there's a saboteur team somewhere around here. The $64 Question is where exactly and how ready they are.
+#L_D3_ans60=We'll be glad to help, if there are any clues. But I have no idea where to start.
+#L_D3_ans61=Governor, you got me wrong. I was talking about feasible help, not about doing the job of your security.
+#L_D3_msg70=There are no clues, but some thoughts. If the enemy is trying to assemble a strike team in Muscovy, they have to be provided with ships and weapons. All our fighters are strictly on the books, our stores do not trade with just anyone. This means the saboteurs are supplied from outside the system. You just need to locate the supply vessels, which are bound to be transports.
+#L_D3_ans70=Don't you check all incoming ships?
+#L_D3_msg80=We do, but no scanner will detect a disassembled fighter or a gun. And it's not that hard for a few good technicians with the right tools to assemble them back together. So there. Now go to Angarsk and try to find supply transports and their destination. I'll send you everything I have on Angarsk stations. I wish you luck, I do. And try no to waste time. I have a bad feeling we have only minutes left and we're losing. So I should actually consider myself very lucky that you're here.
+#L_D3_ans80=(Dalej)
+#L_D3_msg90=Wait! Luck alone won't be enough. Boss, do you remember we got on the wrong side of the NESF?
+#L_D3_ans90=(Dalej)
+#L_D3_msg71=Oh, so I was right. To you, pencil pushers, even making some coffee seems like a great feat of arms. Just what I expected. Now do me a favor, get lost, we're at work here.
+#L_D3_ans71=This is just fine! He let the crisis happen and now he's blaming us.
+#L_D3_msg81=He's not blaming us, boss. In fact, he... is quite right.
+#L_D3_ans81=Let locals deal with their local problems.
+#L_D3_msg91=I couldn't agree more, but what about our destination? I suggest we visit Solncevka and find Aylon's friend first.
+#L_D3_ans91=(Dalej)
+#L_D3_msg101=Nah, it's a long way round. Besides, that system is not a pleasant one.
+#L_D3_ans101=(Dalej)
+#L_D3_msg111=The system? But we just need one man, and I doubt he's a scoundrel. Aylon despises their type.
+#L_D3_ans111=All right, Ternie, I give up. Let's find that Aylon's friend and see what we can do.
+#L_D3_ans112=Let's sort the mission out first, then see about Aylon's friend.
+#L_D3_msg122=Then we're going to New Donbass. Just one piece of advice, boss. People there are real hotheads, so mind what you're saying.
+#L_D3_ans122=I know, don't worry. Let's go.
+#L_D3_msg62=What are you talking about?
+#L_D3_ans62=We met that officer. Let me send you the chat log.
+#L_D3_msg72=Hmm... Voronov. All right, I'll deal with it. Anything else?
+#L_D3_ans72=I thought we could help in some way.
+#L_D3_msg82=I can't leave the disloyalty of one of my officers unattended, so I'll have to arrest Voronov. Unfortunately, he's one of our best, so thank you very much for helping the enemy breach our defenses.
+#L_D3_ans82=But I didn't think-
+#L_D3_msg92=I'm sure of it. I wonder if you, pencil pushers, are able to think at all or just follow your regulations blindly. Don't bother answering, I don't have time for that anyway. Over and out.
+#L_D3_ans92=(Dalej)
+#L_D3_msg102=So it's settled then. Now, partner, we have our own business, so let's see to it.
+#L_D3_ans102=Let locals deal with their local problems.
+#L_D3_msg100=Oh, you HQ people... Why haven't you told me about this before? Anyway, this can be corrected. Just let my technicians access your onboard computer and they'll fix your license plates.
+#L_D3_ans100=Sure... It completely slipped from my mind somehow.
+#L_D3_msg110=Heed my advice and block up the hole quickly. Otherwise you'll get new holes in your heads in Angarsk. Anyway, my lads have fixed your ID, so now you're regular traders looking for work. I hope there's nothing else preventing your from accomplishing the mission. Over and out.
+#L_D3_ans110=(Dalej)
+#L_D3_msg120=What's the plan, boss?
+#L_D3_ans120=Let's visit Angarsk first and see what we can do.

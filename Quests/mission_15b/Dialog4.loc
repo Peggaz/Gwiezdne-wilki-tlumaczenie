@@ -1,0 +1,30 @@
+;*****************************
+;Dialog4.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Tanaka
+#L_D4_msg00=Great, you're here. Aja told me to prepare some equipment for you. It's at the warehouse, dock in.
+#L_D4_ans00=Wait a minute, I have a few questions. First, Aja hasn't told us what we'll have to do.
+#L_D4_msg10=Shoot mostly. Min Imu has been visiting USS stations in Al-Ariash and will be returning to Kitaro shortly. Our friends promised he won't be guarded too heavily in mid-journey, which means we'll be able to strike.
+#L_D4_ans10=Won't be guarded by whom?
+#L_D4_msg20=USS, Triada, does it really matter? It just means that we'll have fewer enemies to fight. I'll gather a small strike force and join in, when you engage Imu.
+#L_D4_ans20=What then? After Imu's dead I mean.
+#L_D4_msg30=Then we'll have to mop-up clans loyal to Imu a bit. Why, do you have any objections on the moral side? You shouldn't, they have long bemired themselves by numerous crimes using pirates as dummies at that. The punishment is deserved.
+#L_D4_ans30=I wasn't talking about this. Let's say I have information that Triada is not flourishing now to say the least and will hardly ever be.
+#L_D4_msg40=I don't know who told you thing, but it's generally true. We're trying to save Triada at any cost. Perhaps, when Imu is dead, we'll have to resort to a warehouse sale or something... But I hope we'll come up with a more convenient way to mend our finances.
+#L_D4_ans40=(Dalej)
+#L_D4_msg50=More convenient, huh? Your warehouses are full of guns. They will get to the black market, and thus straight to pirates.
+#L_D4_ans50=(Dalej)
+#L_D4_msg60=Not at all. The New Empire might become our customer. Guns are needed in neutral systems these days. I haven't seen a man who wouldn't need a gun to defend himself in my life.
+#L_D4_ans60=Has this ship been rigged for self-defense as well?
+#L_D4_msg70=It's Aja's not mine, I don't know what's built into it. Why don't you ask her? Just why are you asking me all these questions? Are you refusing to help Aja save the universe from that scoundrel Min Imu?
+#L_D4_ans70=We'll help Aja. But I wanted to clear up some questions.
+#L_D4_ans71=Yes, we are refusing. Sorry, but we're not going to take part in this operation.
+#L_D4_msg80=Then I'm glad I've answered them. Dock to the station, then I'll catapult you to Uhle. And one more thing. I've heard of your team before, this will be a great honor for me to fight alongside you.
+#L_D4_ans80=(Dalej)
+#L_D4_msg81=It's a pity, but perhaps it's for the best. Min Imu is Triada's internal affair and Aja shouldn't have asked strangers for help in the first place. So where are you heading now? Not that I'd like to help, but I'm not finding much pleasure in talking to you after you've refused. A hyper jump will be a perfect solution to this awkward situation. And you will have to leave Aja's mothership here. In exchange I can give you this transport.
+#L_D4_ans81=I don't like riding a bomb anyway, so a transport is fine. As for the destination, let it be Hephaestus.
+#L_D4_msg91=All right. Disembark the ship and I'll start up the catapult.
+#L_D4_ans91=(Dalej)

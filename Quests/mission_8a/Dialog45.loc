@@ -1,0 +1,15 @@
+;*****************************
+;Dialog45.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Viper
+#L_D45_msg00=Teams Alpha and Gamma, defensive position. Team Delta, recon. As for you, what the hell is going on here?
+#L_D45_ans00=You're so smart, aren't you. Nothing special, just something exploded. Oh, it was that bomb you had given us.
+#L_D45_msg10=This is ridiculous! It was set to explode at much later time. Who messed with the detonator?
+#L_D45_ans10=The bomb was locked in a container. How could we reach it?
+#L_D45_msg20=Major, a large enemy force is approaching.
+#L_D45_ans20=(Dalej)
+#L_D45_msg30=Curses. Emergency evac! Fighters cover the retreat.
+#L_D45_ans30=(Dalej)

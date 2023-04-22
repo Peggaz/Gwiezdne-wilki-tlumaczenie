@@ -1,0 +1,15 @@
+;*****************************
+;Dialog6.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka2
+#L_D6_msg00=Now we're in trouble, partner.
+#L_D6_ans00=(Dalej)
+#L_D6_msg10=We'll die some day anyway.
+#L_D6_ans10=(Dalej)
+#L_D6_msg20=But I'd like that day to come much, much later.
+#L_D6_ans20=(Dalej)
+#L_D6_msg30=I'd also like to live for a while longer, so let's heed to Corsair's offer to clean out a local store.
+#L_D6_ans30=(Dalej)

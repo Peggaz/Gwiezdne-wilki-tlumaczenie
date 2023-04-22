@@ -1,0 +1,112 @@
+;*****************************
+; mission_11_1
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_11_1_01a=Inspect the points.
+#L_Quest_11_1_01b=Check emission sources found by Phantom.
+#L_Quest_11_1_02a=Return to the portal.
+#L_Quest_11_1_02b=Things are getting hotter in this system. We'd better return to the portal.
+#L_Quest_11_1_03a=Protect Phantom.
+#L_Quest_11_1_03b=Protect Phantom. He is the only one who knows how to use the hyperspace node scanner and how to get out of this system.
+#L_Quest_11_1_04a=Jump through the portal.
+#L_Quest_11_1_04b=You need to jump through the portal to leave the system.
+#L_Quest_11_1_05a=Return to X220.
+#L_Quest_11_1_05b=Aliens are showing patience, but you'd better return to the border systems.
+#L_Quest_11_1_06a=Escort Phantom.
+#L_Quest_11_1_06b=Take Phantom to inhabited systems.
+#L_Quest_11_1_07a=Leave for Al-Ariash.
+#L_Quest_11_1_07b=Zurab promises to ransack the entire systems in search of the grey ships, but they doesn't seem to be planning to stay here. We'd better leave far borders and find an ally who can help you track Ternie's kidnappers down.
+
+#L_Quest_11_1_06b=Take Phantom to familiar inhabited systems.
+
+;*****************************
+;Speeches
+;*****************************
+#L_Lastochka_01=My god...
+#L_Phantom_01=Congratulations, ladies and gentlemen, we've found a Precursor artefact.
+#L_Hero_01=Putting this on board will be problematic.
+#L_Phantom_02=I couldn't even imagine we would stumble upon something like this.
+#L_Lastochka_02=But what's this? Seems like a huge vessel.
+#L_Phantom_03=I believe we'll get to know it in time. For now let's focus on, umm, less global goals. The preliminary scan indicated three emission sources. I suggest that we split: I'll visit the strongest, you examine the remaining two. Contact me immediately, if you find anything interesting. Put smaller things on board right away.
+#L_Hero_02=All right.
+
+#L_Hero_03=Let's collect everything we can. Auctioneer will sort them out.
+#L_Hero_04=Great, we're done here. Let's head for the second point.
+
+#L_Sedoy_01=Hey, where did these come from?
+#L_Lastochka_03=I have no idea, but it seems we're not their first contact. Partner, let's scram out of harm's way. We have so many artifacts - enough for our grandchildren to be rich.
+#L_Hero_05=I'm afraid we can't. I've got weird radar readings.
+#L_Sedoy_02=Curses! Aliens!
+
+#L_Phantom_04=...hear me? Aliens attacked us.
+#L_Phantom_05=...hear me? Aliens attacked me.
+#L_Hero_06=We can hear you. And we're also under attack.
+#L_Phantom_06=I see where you are. Stay there, I'll try to break through to you.
+
+#L_Hero_07=How did you manage to survive?
+#L_Phantom_07=I've loaded a few MIRVs on board before the flight. But friends, I'm afraid we shouldn't stay here for long. Let's return to the portal.
+
+#L_Lastochka_04=Partner, we have visitors!
+#L_Hero_08=Head for the portal, Phantom, we'll cover you.
+
+#L_Lastochka_05=Phew, we've repelled the attack.
+#L_Hero_09=We'll have time to rest on the other side of the portal.
+#L_Phantom_08=I've noticed an anomaly here. It's a powerful source of energy that grows every second. I don't know what that is, but I'm sure we shouldn't bother checking.
+#L_Sedoy_03=Step on it, boss!
+
+#L_Sedoy_04=Boss, we're losing time!
+
+#L_Phantom_09=I didn't expect a field study to be that rich with events!
+
+#L_Sedoy_05=We shouldn't stay here. Where was that signal you mentioned?
+#L_Phantom_10=I've marked it on the map.
+#L_Hero_10=Let's check it. It won't do us any harm.
+
+#L_Sedoy_06=So, where's the freaking portal?
+#L_Phantom_11=I said these were the probable coordinates. Just a second, I'll conduct another scan.
+
+#L_Sedoy_07=That's all we need. Get torpedoes ready. If we don't wreck the frigate quickly, we're doomed!
+#L_Phantom_12=I'll try using an old device of mine and disable frigate's shields.
+#L_Phantom_13=I did it! Don't lose your chance!
+
+#L_Phantom_14=We can jump now.
+
+#L_Lastochka_06=Bastards! They shot the transport down!
+#L_Sedoy_08=We've got 2 more. Easier to protect.
+#L_Lastochka_07=But fewer artifacts to save! Hey, partner, be quicker with the guns!
+
+#L_Lastochka_08=We've lost 2 ships! Partner, have you forgotten your gunnery skills?!
+#L_Hero_11=Don't sleep at the rudder yourself.
+#L_Phantom_15=Take it easy, youngsters. Information is our goal, it's priceless.
+#L_Lastochka_09=We don't get paid for science.
+
+#L_Lastochka_10=That's it... Our journey to this poky hole was in vain.
+#L_Hero_12=Enough. I've heard enough moaning about financial losses. We still have the mothership, its cargo bay is large enough. Besides, our hides are more valuable than all transports together.
+#L_Lastochka_11=But-
+#L_Hero_13=Enough I said! Let's focus on the current tasks.
+
+#L_Sedoy_09=I wouldn't bluff these guys, boss.
+#L_Hero_14=And I won't. Let's scram.
+
+#L_alien_01=You have what's not yours. Give our legacy back.
+#L_Lastochka_12=How I hate you, bastards...
+
+#L_alien_02=The gates will close. Leave.
+#L_Lastochka_13=A fortune! They cost me a freaking fortune!
+#L_Sedoy_10=Be glad you're still alive.
+#L_Hero_15=Greyhair's right. Let's get out of here before someone else arrives to snatch us.
+
+#L_grey_01=It's them.
+#L_hunter_01=Need help?
+#L_Hero_16=You bet!
+
+#L_sys_01=This game is obviously not for you. Try playing Doom, Quake or Lineage. You might like them better.
+#L_sys_02=Land one of your team members at the base to unload the artifacts.
+#L_sys_03=The portal is open.
+#L_sys_04=Phantom is dead, you failed to protect him. That was a fatal mistake.

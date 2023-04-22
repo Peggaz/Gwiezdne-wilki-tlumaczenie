@@ -1,0 +1,15 @@
+;*****************************
+; mission_8d_03
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+
+;*****************************
+;Speeches
+;*****************************
+#L_merc_01=You shouldn't have robbed honest people, you bastards.

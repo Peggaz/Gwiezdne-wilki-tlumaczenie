@@ -1,0 +1,25 @@
+;*****************************
+;Dialog8.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Viper
+#L_D8_msg00=That's it, team. Stop chasing him, it's useless.
+#L_D8_ans00=(Dalej)
+#L_D8_msg10=I wonder what happens now.
+#L_D8_ans10=(Dalej)
+#L_D8_msg20=I don't know... I just don't know... I was such a fool! I strongly believed in the ideals of the empire, I was ready to sacrifice everything at any moment. For whom?! For a psychopath eager to drown the universe in blood to cover his helplessness?!
+#L_D8_ans20=(Dalej)
+#L_D8_msg30=We all make mistakes...
+#L_D8_ans30=(Dalej)
+#L_D8_msg40=Thanks for supporting me, but you shouldn't. I want to be left alone. Friends, I think here we shall part.
+#L_D8_ans40=Where will you go, major?
+#L_D8_msg50=Don't major me anymore. My name is Viper, Tasha Viper. That bastard wiped the floor with "major". As for where I shall go, I still have no idea. But I have a goal. Oh yes, a perfect goal! I shall track down everyone implicated in this conspiracy and take their lives. In a very painful way, I can promise you that! Good bye and good luck. You're a great team. The best there is!
+#L_D8_ans50=(Dalej)
+#L_D8_msg60=She returned to her usual vein very quickly.
+#L_D8_ans60=(Dalej)
+#L_D8_msg70=That vein is all she got now. I'm really sorry for her.
+#L_D8_ans70=(Dalej)
+#L_D8_msg80=What should we do, boss?
+#L_D8_ans80=Frankly speaking, I don't know. Let's visit Earth. I have never been there, and I think they will need people who know how to deal with pirates.

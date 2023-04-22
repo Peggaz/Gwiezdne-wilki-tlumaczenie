@@ -1,0 +1,15 @@
+;*****************************
+;Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D2_msg00=I'm not going to leave Greys alone anyway!
+#L_D2_ans00=(Dalej)
+#L_D2_msg10=You will meet them soon enough, I promise. Their organization threatens the wellbeing of entire humanity.
+#L_D2_ans10=(Dalej)
+#L_D2_msg20=Do they deserve the honor?
+#L_D2_ans20=(Dalej)
+#L_D2_msg30=The Greys are very dangerous. I will finish processing the data and will await you at the central server station in Zebos. Your team has been granted access to all InoCo stations. Patrols have been informed. In Zebos you will be able to upgrade your equipment and replenish ammo. Free of charge, of course. Try not to leave the corporation space and don't be late.
+#L_D2_ans30=(Dalej)

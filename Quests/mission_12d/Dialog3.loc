@@ -1,0 +1,13 @@
+;*****************************
+;Dialog3.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Cleric
+#L_D3_msg00=What are you doing?! You destroyed my ship and my server! With all the data! Why you... I shall... I shall tell you nothing now, got it?!
+#L_D3_ans00=You should've watched your tongue. Now cool down in that escape pod, we'll talk later. I suggest we find ourselves a quiet place and ponder on the situation.
+#L_D3_msg10=Boss, he was surely bothersome, but wasn't it too much?
+#L_D3_ans10=Greyhair, leaving him on a ship would mean giving him more chances to trick us. Do you remember that "perhaps" of his? This way he'll quieter. Besides, I'm fed up with his bragging already.
+#L_D3_msg20=You might be right, friend. But the boy has a bad temper. He might become even more embittered.
+#L_D3_ans20=We'll sort this out later. I don't want him to play some dirty trick and set us up when we least expect it.

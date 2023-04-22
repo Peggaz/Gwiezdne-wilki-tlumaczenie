@@ -1,0 +1,46 @@
+;*****************************
+; mission_8d
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_8d_02a=Talk to the chief of staff.
+#L_Quest_8d_02b=You must talk to the chief of staff of the MSF and persuade him into letting you into Charon.
+#L_Quest_8d_03a=Deliver the package.
+#L_Quest_8d_03b=You must deliver the package to smugglers at the Cherub Station in Charon as quickly as possible. It would be unwise to visit other stations before the package is delivered.
+#L_Quest_8d_04a=Meet with Alex.
+#L_Quest_8d_04b=Alex is staying at the Knight Templar Cathedral.
+#L_Quest_8d_05a=Deliver the pod.
+#L_Quest_8d_05b=Deliver the pod with the sleeping Cleric inside to the Placid Docks Station in Aurora.
+
+;*****************************
+;Speeches
+;*****************************
+#L_Sedoy_01=Boss, there's only one way now: to fight our way into Charon!
+
+#L_vks_01=Attention, ships, you're trespassing. Stop your engines now!
+#L_patrol_01=Easy, officer, we're in the middle of a military operation. Here's the order.
+#L_vks_02=You may pass. Good hunting, guys!
+
+#L_patrol_02=All right, here we shall part. Remember about the package. It'll blow up, if you don't deliver it as soon as possible.
+
+#L_Lastochka_01=Partner, I've got an idea. Let's wait for those cherubim to dock out and tickle them with our guns.
+#L_Hero_01=Don't we have anything better to do?
+
+#L_templar_01=The trickery! The crafty designs of the unfaithful!
+
+#L_Alex_01=I have a feeling the MSF is going to launch an assault very soon. We must leave.
+
+#L_patrol_03=Stop your engines and heave aback! Now! I'll open fire without a warning!
+#L_Sedoy_02=Here it goes.
+
+#L_templar_02=Empires will fall, chaos will fill people's hearts! Blood will be shed instead of tears, suffering will become food and drink! In that year of terrible ordeals the Knight of Light will come and show the way for the suffering. Woe betide all who oppose them!
+#L_patrol_04=Templars! Templars! We're all dead! Dead!
+#L_vks_03=Teams Alpha and Gamma, defend the station. Beta and Delta, block the Debris portal. Call in backup from Calypso. Oh, and find and shoot that panicking bastard!
+#L_Alex_02=Let's hit it, friend, while they are busy.
+
+#L_Alex_03=We're nearly done. Let just take Cleric to my place in Aurora and then we can rest.

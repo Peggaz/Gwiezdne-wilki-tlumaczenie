@@ -1,0 +1,11 @@
+;*****************************
+;Dialog20.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;USSOfficer
+#L_D20_msg00=This is really strange. But I have to check every detail out. Let's visit the pirate base. I'm afraid you will have to tag along.
+#L_D20_ans00=Do I really have to? We've been beaten up a bit.
+#L_D20_msg10=I have to say your presence at the crime scene is compulsory, as you're one of the conflicting parties. So this is out of the question. Besides, you will take the cargo, if your story checks out.
+#L_D20_ans10=All right, all right, we're coming with you.

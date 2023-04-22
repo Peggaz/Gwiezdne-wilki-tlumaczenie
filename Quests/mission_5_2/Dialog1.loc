@@ -1,0 +1,24 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Dispetcher
+#L_D1_msg00=Glad to see you at Placid Docks again. How can I help you?
+#L_D1_ans00=Please get me Alex Koshevoy on the line.
+#L_D1_msg10=He's away right now. Oh wait, he left a message for you. Transferring now.||"Hey, buddy. Sorry I disappeared without a warning, but circumstances demand my personal and immediate intervention. In the last few days a number of transports, belonging to different companies, went missing under the circumstances very similar to yours. I lost three ships, which I'm not even hoping to get back, but I don't want to think my pilots are dead. Time is of the essence now, so I'm leaving to travel along the route of my transports. I know you'd like to join the investigation, but, being your friend, I'm not going to put your life to unjustified risk. The ship you had when we last met, wouldn't survive a serious fight, but would attract pirates easily. I promise to keep your informed.|Unfortunately, all my contracts, license and accounts are suspended until the investigation is over. I'm leaving you 5,000 credits, a drop in the ocean, but that's nearly all I have right now. Try to invest them wisely and get a profit. I feel that soon every trader will need a perfectly protected ship capable of putting up a serious fight. But don't get involved in any political or corporate struggles. This is not our war.|This is all for now. Again, I'm sorry it's gone this way.|Your friend Alex."
+#L_D1_ans10=(Dalej)
+#L_D1_msg20=So what now? I think you should heed your friend's advice and earn as much cash as possible quickly. Do you remember we still have the coordinates of that pirate stash with a freaking pile of money inside?
+#L_D1_ans20=Dammit! Why haven't he waited for me?! Now that we have a mothership, we could have helped him.
+#L_D1_msg30=Not with the one we have. The equipment is low-end, guns weak, shields half-dead. Why, we can turn it into a decent ship, but I wouldn't risk getting into some systems right now. We would only burden your friend. But we can loot the stash easily!
+#L_D1_ans30=You can't stop thinking about that stash...
+#L_D1_msg40=It would be stupid to refuse money that's waiting to be picked up. Transportation won't earn us this much in a hundred years. Besides, I'd like to get compensated for nerves I've wasted being with the Breakneck's gang. It would even be fair. And damn profitable!
+#L_D1_ans40=All right, all right, I agree. Where's that mythical stash of yours? I'd like to look at your face, when we find nothing as I've predicted.
+#L_D1_ans41=Ternie, for the hundredth time I repeat, your stash is a myth. Unwanted trouble is what we may really find there instead of cash. My answer is no. This stash is not worth the risk.
+#L_D1_msg50=We need to get to the Pegasus system - through Argon and Achilles. But, you know, things might get rough there, so additional escort will come in handy. Think we should hire some mercs?
+#L_D1_ans50=(Dalej)
+#L_D1_msg51=It's stupid! To lose such an opportunity! Why, if you have a better offer...
+#L_D1_ans51=I do. We'll go to Beta Lethera 1, where my convoy has gone missing, and find out what's happened.
+#L_D1_msg61=What we need now is money that you seemingly like to waste! Ah, what the hell. Let's go to Beta Lethera. I'll also visit an old friend of mine in New Jerusalem 3.
+#L_D1_ans61=(Dalej)

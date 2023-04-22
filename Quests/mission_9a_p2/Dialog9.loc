@@ -1,0 +1,10 @@
+;*****************************
+;Dialog9.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D9_msg00=There's a transport. Is it the one?
+#L_D9_ans00=No, that's not the one. Let's wait.
+#L_D9_ans01=That's the one. Let's get back to Muscovy and wait for it that side of the portal.

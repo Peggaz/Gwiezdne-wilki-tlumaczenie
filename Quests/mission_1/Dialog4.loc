@@ -1,0 +1,28 @@
+;*****************************
+;Dialog4.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Viper
+#L_D4_msg00=Excellent. Now we'll grab Triada by the throat. Lieutenant, escort this transport to the station. I'll contact the prosecutor.
+#L_D4_ans00=(Dalej)
+#L_D4_msg10=Major, we have a little problem. The transport's cargo bay is empty.
+#L_D4_ans10=(Dalej)
+#L_D4_msg20=What do you mean empty? Hey, transport! What have you corporate bastards done to the cargo?! Answer quickly and clearly before I lose my temper!
+#L_D4_ans20=I had nothing in my crago bay, but they mentioned some documents adrift nearby. Here, they gave me the coordinates!
+#L_D4_ans21=They didn't tell me that. Just threatened to shoot me, if I resist. And I must say I don't like the mess you have in this system! A loyal trader that pays taxes you live by cannot travel safely anymore!
+#L_D4_msg30=It's good you've decided to talk. This will be taken into account at the trial.
+#L_D4_ans30=Hey, what trial?! I'm a mere trader and those guys held me at gunpoint. It's none of my doing. And I must say I don't like the mess you have in this system! A loyal trader that pays taxes you live by cannot travel safely anymore!
+#L_D4_msg40=Shut up. Lieutenant, what do we know about this transport?
+#L_D4_ans40=(Dalej)
+#L_D4_msg50=It's registered in the Free Traders Union. The portal patrol has confirmed it had arrived alone and empty.
+#L_D4_ans50=(Dalej)
+#L_D4_msg60=Good. Now look closer, loyal one. We'll load you with escape pods that have corporate survivors inside. You will deliver them to the local MSF HQ. When you arrive, report to the officer on duty that you have a cargo from Major Viper. One turn in the wrong direction and I'll skin you alive. And I mean it. Now get going.
+#L_D4_ans60=(Dalej)
+#L_D4_msg31=Shut up. Lieutenant, what do we know about this transport?
+#L_D4_ans31=(Dalej)
+#L_D4_msg41=It's registered in the Free Traders Union. The portal patrol has confirmed it has arrived alone and empty.
+#L_D4_ans41=(Dalej)
+#L_D4_msg51=Good. Now listen close, loyal one. We'll load you with escape pods that have survived corporators inside. You will deliver those to the local MSF HQ. When you arrive, report to the officer on duty that you have a cargo from Major Viper. One turn in the wrong direction and I'll skin you alive. And I mean it. Now get going.
+#L_D4_ans51=(Dalej)

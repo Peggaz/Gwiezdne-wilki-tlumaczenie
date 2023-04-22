@@ -1,0 +1,39 @@
+;*****************************
+;Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Aia
+#L_D2_msg00=Min, you bastard, it's time to pay for the death of Kim Shumov! Attack, team! Let's fight for the glory of Triada!
+#L_D2_ans00=(Dalej)
+#L_D2_msg10=Aja? Aja, wait! Don't shoot, my father is not here!
+#L_D2_ans10=(Dalej)
+#L_D2_msg20=Dammit! Cease fire! What do you mean he's not here?
+#L_D2_ans20=(Dalej)
+#L_D2_msg30=Father left the station a few moments before the convoy departed. He said he needed to settle some issues and that he would catch up with us on a fighter. 
+#L_D2_ans30=(Dalej)
+#L_D2_msg40=Damn! The cunning bastard tricked me again!
+#L_D2_ans40=(Dalej)
+#L_D2_msg50=So what now?
+#L_D2_ans50=(Dalej)
+#L_D2_msg60=I need to think. Hey, Tan, where did your rotten parent fly to?
+#L_D2_ans60=(Dalej)
+#L_D2_msg70=He didn't say.
+#L_D2_ans70=(Dalej)
+#L_D2_msg80=I don't believe her. She's lying like all Imu do. Well, Tan, it's high time for you to follow your brother. But I promise, your dad is going to join you in hell very soon.
+#L_D2_ans80=Stop that! Aja, that wasn't the deal. Eliminating Min Imu is one thing, but murdering his daughter is completely different. What's her fault?
+#L_D2_msg90=I keep forgetting you're not a corporate. Tan Imu is the Chief Financial Officer. She handles all their money laundering, sets and pays mission rewards to pirates.
+#L_D2_ans90=(Dalej)
+#L_D2_msg100=I admit I was in charge of the corporation finances. What else had I to do? You know I'm the adopted daughter of Min and Lee's stepsister. Min used to say that if the family didn't control each aspect of corporation life, it didn't control the corporation entirely. And since I was good with numbers, Min made me his personal accountant. Aja, you probably won't believe me, but I was glad as hell, when my stepbrother was killed. He was a scoundrel and I hope he died in pain. And I swear, if you kill my stepfather, I won't shed a tear!
+#L_D2_ans100=(Dalej)
+#L_D2_msg110=You will promise anything to save your skin. None of the Imus can ever be trusted.
+#L_D2_ans110=(Dalej)
+#L_D2_msg120=All right, then what do you say about this deal? I'll give you all financial data on the corporation, all account passwords. In return, you will leave me and my mother alone. We'll just vanish. How about that?
+#L_D2_ans120=(Dalej)
+#L_D2_msg130=That won't change anything. I won't rest while there's even one Imu alive.
+#L_D2_ans130=Excuses, bribery, lies... Aja, you were right about these Imus, they are all tarred with the same brush. Team, attack!
+#L_D2_msg140=Partner, they've sent a system-wide alert signal.
+#L_D2_ans140=(Dalej)
+#L_D2_msg150=Then let's hit it! Blade, get Savay on the line.
+#L_D2_ans150=(Dalej)

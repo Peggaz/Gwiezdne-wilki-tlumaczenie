@@ -1,0 +1,25 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;KfniAce
+#L_D1_msg00=General alert! General alert!
+#L_D1_ans00=(Dalej)
+#L_D1_msg10=Calm down, we're friends. Uploading ID codes.
+#L_D1_ans10=(Dalej)
+#L_D1_msg20=Codes verified. Cancel the alarm. Lieutenant, I have Corsair's order to escort you to the Eridan portal.
+#L_D1_ans20=(Dalej)
+#L_D1_msg30=Captain, we have just arrived from the Capricorn Sector and, frankly speaking, I can't understand what's going on. Do you know why the high command need to occupy Tira? My security clearance allows requesting information on current orders.
+#L_D1_ans30=(Dalej)
+#L_D1_msg40=Your clearance is all right. But to be honest I don't understand it myself. We were ordered to occupy Shula, Tira and Corrino and persuade thick skulls not to resist. Easier said than done! Many of those are stubborn, eager to fight to the death. But the reasons... The order clearly says to consolidate in the occupied systems and wait for some "grey fleet". Moreover, when that fleet has been encountered, we are to open fire on sight, without contacting or offering to surrender first.
+#L_D1_ans40=(Dalej)
+#L_D1_msg50=I see...
+#L_D1_ans50=(Dalej)
+#L_D1_msg60=I see, too! Partner, we're being dragged into some devilry we might not survive!
+#L_D1_ans60=(Dalej)
+#L_D1_msg70=So what. We've rescued you from one devilry, we'll manage this one as well.
+#L_D1_ans70=I wish I knew what this was about.
+#L_D1_msg80=Please be patient. All we need to do is reach Eridan. Then you will get to know everything, I promise.
+#L_D1_ans80=(Dalej)

@@ -1,0 +1,14 @@
+;*****************************
+;Dialog15.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D15_msg00=There are pirate patrols in all systems. I don't like it. I think we should change the route to avoid pirates the trader has mentioned.
+#L_D15_ans00=(Dalej)
+#L_D15_msg10=Don't be in a hurry, boss. Pirates let the trader get away and, thus, revealed their plans. They could move the ambush to another place. I suggest we go on a recon first.
+#L_D15_ans10=Recon will only delay us, but the convoy route has to be changed radically to avoid the ambush. I'm contacting Alex to set a new course.
+#L_D15_ans11=I agree. We'll have time to change the route, the convoy isn't going fast. For now ket's see what's going on.
+#L_D15_msg20=He replied. I've updated the checkpoints. What shall we do now?
+#L_D15_ans20=Move at the front, clear the way - all the same.

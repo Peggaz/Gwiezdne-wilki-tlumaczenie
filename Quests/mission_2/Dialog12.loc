@@ -1,0 +1,13 @@
+;*****************************
+;Dialog12.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D12_msg00=Free trader calling Illumino.
+#L_D12_ans00=(Dalej)
+#L_D12_msg10=Hey, we've been looking forward to meeting you.
+#L_D12_ans10=I'm here on imperial business, my client is very influential. Touch me, and you'll be in trouble!
+#L_D12_msg20=Oh yeah, Malky is sure influential. Especially when it comes to lamebrains. Listen, trader, we're in a hurry. We think your hide costs 5 G's, so either cough them up or pray.
+#L_D12_ans20=(Dalej)

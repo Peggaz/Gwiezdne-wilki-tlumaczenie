@@ -1,0 +1,21 @@
+;*****************************
+;Dialog5.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Aia
+#L_D5_msg00=Kalem, you there?
+#L_D5_ans00=(Dalej)
+#L_D5_msg10=I am.
+#L_D5_ans10=(Dalej)
+#L_D5_msg20=You know, I'm very glad you've found Alice's daughter. But now we're one team member short and I'd like to give you a dressing-down.
+#L_D5_ans20=(Dalej)
+#L_D5_msg30=Sure thing. But give me a beer first. Listen, how could I know it would happen so? I just noticed a small detail.
+#L_D5_ans30=(Dalej)
+#L_D5_msg40=If you don't mind, I'd like to join the vacant spot in your team. I saw you fighting. Flying with you would be... interesting.
+#L_D5_ans40=(Dalej)
+#L_D5_msg50=Troublesome, most likely.
+#L_D5_ans50=I have nothing against Aja's friends. All the more so they've never failed me. Unlike those I've considered friends of mine.
+#L_D5_msg60=Then it's settled. Let's head for Al-Ariash, we've wasted much time already. Alice found her Marika, who could've thought... I hope they'll be all right.
+#L_D5_ans60=(Dalej)

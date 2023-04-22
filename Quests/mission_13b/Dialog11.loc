@@ -1,0 +1,21 @@
+;*****************************
+;Dialog11.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka2
+#L_D11_msg00=It's you! By Great Space, am I glad to see you! We've nearly lost all hope.
+#L_D11_ans00=Are you all right? Who's this with you?
+#L_D11_msg10=Quite fine already. Partner, this is Kalem. He's a technician that pirates have captured. It was he who disabled the guns on this transport and helped me get out.
+#L_D11_ans10=(Dalej)
+#L_D11_msg20=What did they fire at us? I've never seen a gun of that power before.
+#L_D11_ans20=(Dalej)
+#L_D11_msg30=Major caliber guns. Developed for the MSF and customized by me.
+#L_D11_ans30=(Dalej)
+#L_D11_msg40=Partner, what about our base?
+#L_D11_ans40=We don't have one anymore. It's drifting not far from here with systems disabled. Though... Kalem, can you take a look at our mothership? Let me send you the latest telemetry data.
+#L_D11_msg50=Sure thing. Hmm... Just a second... Well, I can do something, but I will need lots of spare parts and a whole lot of time. It has all the electronics burned out. I also wouldn't risk running the reactor, judging by the numbers.
+#L_D11_ans50=Damn! It seems we'll have to fly your transport.
+#L_D11_msg60=Come on, boss, this tub is still better than an escape pod. I suggest, we should use the ship which we have to leave this hospitable system.
+#L_D11_ans60=(Dalej)

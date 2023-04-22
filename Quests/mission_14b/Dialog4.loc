@@ -1,0 +1,13 @@
+;*****************************
+;Dialog4.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Aia
+#L_D4_msg00=That's it, jump to XT-11. I have to leave. Don't delay, Savay's waiting.
+#L_D4_ans00=(Dalej)
+#L_D4_msg10=Aja, are you sure you will do without help right now?
+#L_D4_ans10=(Dalej)
+#L_D4_msg20=I totally am. All the more so if we hang around together, Imu might suspect something's wrong and my revenge plan will go down the drain. And this might be the only chance to take him down. So just go to Savay.
+#L_D4_ans20=(Dalej)

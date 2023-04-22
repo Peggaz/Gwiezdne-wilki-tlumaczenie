@@ -1,0 +1,25 @@
+;*****************************
+;Dialog12.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Alex
+#L_D12_msg00=That's it. We did all we had to do.
+#L_D12_ans00=(Dalej)
+#L_D12_msg10=Hah! We still have a freaking amount of work before us. As ill luck would have it, all bureaucratic babble and paperwork. I'd prefer to be firing guns instead!
+#L_D12_ans10=(Dalej)
+#L_D12_msg20=I don't agree. I prefer to solve problems peacefully.
+#L_D12_ans20=(Dalej)
+#L_D12_msg30=Oh, come on. I'm not against peace, too. By the way, admiral, I got a message from the Palace that your interim committee declared an armistice on the MSF side and offered the empress to start peace talks. I wonder who can spread the news among the brave soldiers?
+#L_D12_ans30=(Dalej)
+#L_D12_msg40=What, can't we drink to the victory? If it isn't a fully-fledged tyranny!
+#L_D12_ans40=(Dalej)
+#L_D12_msg50=What did you expect? The Empire is dead. Long live the Empire. I mean, get onboard my ship, everyone. It would be rude not to raise a glass or two to the victory. All the more I have some good stuff!
+#L_D12_ans50=(Dalej)
+#L_D12_msg60=If you have what I think you have, then it would be better, if SAM killed us on the spot.
+#L_D12_ans60=(Dalej)
+#L_D12_msg70=Aren't you forgetting anything? SAM could have backup servers and identities. I wouldn't be surprised, if it also has backup Berserks hidden somewhere.
+#L_D12_ans70=(Dalej)
+#L_D12_msg80=We'll find them, if we need to. We should cross bridges when we come to them. And right now we've come to a party!
+#L_D12_ans80=(Dalej)

@@ -1,0 +1,13 @@
+;*****************************
+;Dialog3.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;DispetcherVKS
+#L_D3_msg00=Patrol team Gamma, I'm seeing a strange surge on the scanner. Check it up, here are the coordinates.
+#L_D3_ans00=(Dalej)
+#L_D3_msg10=Got you, moving out.
+#L_D3_ans10=(Dalej)
+#L_D3_msg20=And now we need to get the hell out without kicking up much fuss.
+#L_D3_ans20=(Dalej)

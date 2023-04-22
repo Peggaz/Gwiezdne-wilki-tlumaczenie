@@ -1,0 +1,9 @@
+;*****************************
+;Dialog20.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D20_msg00=Where to now, partner?
+#L_D20_ans00=InoCo wants something from us. We should find out what exactly. Let's go to Lidau.

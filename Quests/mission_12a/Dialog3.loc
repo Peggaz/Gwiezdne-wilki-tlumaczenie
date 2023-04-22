@@ -1,0 +1,17 @@
+;*****************************
+;Dialog3.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;PatrolOfficer
+#L_D3_msg00=Attention, civilian vessels, you are trying to get into a closed system.
+#L_D3_ans00=You need an order from Admiral Trump.
+#L_D3_msg10=Hah! I set the rules here! Here's the deal: pay us a standard fee of 20,000 per transport and you can go wherever you want.
+#L_D3_ans10=(Dalej)
+#L_D3_msg20=Let's put an end to this business, guys.
+#L_D3_ans20=(Dalej)
+#L_D3_msg30=Oops! Let's scram!
+#L_D3_ans30=(Dalej)
+#L_D3_msg40=Where do you think you're going?! Stop the traitors!
+#L_D3_ans40=(Dalej)

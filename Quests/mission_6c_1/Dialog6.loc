@@ -1,0 +1,13 @@
+;*****************************
+;Dialog6.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;VksOfficer
+#L_D6_msg00=Corporators? Thanks for the help, I haven't expected it.
+#L_D6_ans00=(Dalej)
+#L_D6_msg10=Glad to be of help.
+#L_D6_ans10=(Dalej)
+#L_D6_msg20=Ok, it's over, which is good. Let's move on.
+#L_D6_ans20=All right, we'll make it on our own now. It was an honor to fight alongside you. Transports, settle on the course.

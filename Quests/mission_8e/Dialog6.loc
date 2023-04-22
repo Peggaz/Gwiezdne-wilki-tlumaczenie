@@ -1,0 +1,25 @@
+;*****************************
+;Dialog6.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Sedoy
+#L_D6_msg00=Whoa! Competitors?
+#L_D6_ans00=(Dalej)
+#L_D6_msg10=That's our backup.
+#L_D6_ans10=You said nothing about it.
+#L_D6_msg20=That wasn't necessary.
+#L_D6_ans20=(Dalej)
+#L_D6_msg30=Is it him?
+#L_D6_ans30=(Dalej)
+#L_D6_msg40=Like I've promised.
+#L_D6_ans40=(Dalej)
+#L_D6_msg50=Load the containers, we'll cover. Have him transfer his biometrics and let's leave. Soon this place will be overcrowded.
+#L_D6_ans50=I'm not transferring anything until you explain what's going on.
+#L_D6_msg60=There's no time.
+#L_D6_ans60=Oh there is, considering that your mysterious backup can easily kill me and my friends as soon as they have the record. So who are they?
+#L_D6_msg70=Dickens, if you're not capable of completing the mission, we'll be the ones to do it. But Cayer will get a report on your failure. The second one.
+#L_D6_ans70=(Dalej)
+#L_D6_msg80=Listen, I promise you'll not be killed. But right now it's now the best time to argue. Please do as they say. It's for your own good. Otherwise...
+#L_D6_ans80=(Dalej)

@@ -1,0 +1,18 @@
+;*****************************
+;Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;VksAce
+#L_D2_msg00=Attention, civilian ships, the system is under martial law. A special pass is required to move around freely.
+#L_D2_ans00=I'm a free trader and I go where I please. Got it?
+#L_D2_ans01=That's strange. I thought the emperor issued a decree, allowing free passage to vessels with humanitarian cargo. Or am I wrong?
+#L_D2_msg10=Quite so. General alert, intruders!
+#L_D2_ans10=(Dalej)
+#L_D2_msg11=What's your route?
+#L_D2_ans11=Corrino to XT-41.
+#L_D2_msg21=Why haven't you chosen another?
+#L_D2_ans21=Sheesh... It would be longer and, besides, we'd have to deal with Triada. Why, we can turn around, but I'll surely report that the cargo required by the Empire is delayed because of you.
+#L_D2_msg31=All right, dammit, you may pass. But I'll inform all the posts, and if you fly anywhere but the XT-81 portal, blame yourself.
+#L_D2_ans31=We already have a destination. Good luck, officer.

@@ -1,0 +1,17 @@
+;*****************************
+;Dialog14.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Sedoy
+#L_D14_msg00=Well, boss, should we go straight to XT-24 now? Does anyone know what system that is and what should we expect?
+#L_D14_ans00=(Dalej)
+#L_D14_msg10=Trouble. Or, if my suspicions are at least 20 per cent true, big trouble.
+#L_D14_ans10=Want to share your suspicions with us?
+#L_D14_msg20=I do, but not now. For the time being, remember this: the enemy we'll have to fight is very organized and well-armed. There was an MSF military base in XT-24 once. It was abandoned before the war. They dismantled the equipment, but making it habitable again wouldn't be a problem.
+#L_D14_ans20=Any guards?
+#L_D14_msg30=I'd bet for a few teams of the newest fighters and a few teams of missile carriers. There may be other suprises as well. The only good news is that the dense gas-and-dust cloud makes the system really hard to navigate, while static discharges jam long-range communication almost completely.
+#L_D14_ans30=(Dalej)
+#L_D14_msg40=We'll need help. And guns, lots of guns... And missiles. Hell, we'll need a freaking load of weaponry.
+#L_D14_ans40=Then we'll buy everything we need. But I swear I'll crush those grey bastards into fine dust, if they lift a finger against Ternie!

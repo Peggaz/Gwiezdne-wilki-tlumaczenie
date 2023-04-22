@@ -1,0 +1,41 @@
+;*****************************
+;Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;AdmiralVKS_Heder
+#L_D2_msg00=Fine, we're here. Sappers, you know what to do. Combat teams, cover sappers. They are not to be distracted.
+#L_D2_ans00=(Dalej)
+#L_D2_msg10=Admiral Hader? Can I help you?
+#L_D2_ans10=(Dalej)
+#L_D2_msg20=You can. I have an order to confiscate all databases from the HQ and destroy the station.
+#L_D2_ans20=(Dalej)
+#L_D2_msg30=What do you mean destroy? What about staff? What about valuable equipment?!
+#L_D2_ans30=(Dalej)
+#L_D2_msg40=Staff... Hmm, send them somewhere. The empire won't be needing their services anytime soon. As for the equipment - the enemy must not get it.
+#L_D2_ans40=(Dalej)
+#L_D2_msg50=Must not get it? Have you decided to surrender the system to the enemy?
+#L_D2_ans50=(Dalej)
+#L_D2_msg60=I don't have time for this, major. Evac the staff and let me do my job.
+#L_D2_ans60=(Dalej)
+#L_D2_msg70=By which you mean destroying the Security HQ in this sector, destroying valuable equipment and stealing the databases. Is this all?
+#L_D2_ans70=(Dalej)
+#L_D2_msg80=Watch your tongue, major, you're talking to a superior officer! I can consider your actions insubordination!
+#L_D2_ans80=(Dalej)
+#L_D2_msg90=Right now I'm talking to a fleet representative wearing admiral's uniform, whose actions can be classified as high treason. As for your orders, whether you're an admiral or the Commander in Chief himself, you don't command the security service and can't order me at all.
+#L_D2_ans90=(Dalej)
+#L_D2_msg100=This is an outrage! Get out of my sight, major, before I lose it! You have so many flops on your record that no court will ever justify you. That failure in Dionysus, the wrong assessment of enemy forces in Angarsk, for example! Like that wasn't enough, you decided to encrypt the imperial databases, so I'd have to come here for the second time!
+#L_D2_ans100=(Dalej)
+#L_D2_msg110=Admiral, I won't hamper in what you're trying to do on one condition: if you show me  the order of the emperor or my immediate commander. Naturally, with all the confirmations codes and digital signatures. Or I shall arrest you and your men until all the circumstances of your mission are clarified, especially the mastermind.
+#L_D2_ans110=(Dalej)
+#L_D2_msg120=Dumb hidebound fanatic! How dare you answer back?! To me, His Majesty's flag admiral! I throw you to the lions - you and your benefactor Trump. Attention, everyone! This is His Majesty's Flag Admiral James Hader speaking. Major Viper has been removed from leadership and outlawed! Attack her with all you have! Anyone who disregards this order will be accused of treason and eliminated!
+#L_D2_ans120=(Dalej)
+#L_D2_msg130=Attention, everyone. This is your immediate superior officer Major Viper speaking. The admiral is accused of high treason and is to be arrested! Defend the station at any cost!
+#L_D2_ans130=(Dalej)
+#L_D2_msg140=You will be sorry about that, beggar on horseback!
+#L_D2_ans140=(Dalej)
+#L_D2_msg150=The only thing I'll be sorry about is that you can't die more than once!
+#L_D2_ans150=(Dalej)
+#L_D2_msg160=Yeah, go on barking, you don't have much time left. Attention, sappers, stick to the plan.
+#L_D2_ans160=(Dalej)

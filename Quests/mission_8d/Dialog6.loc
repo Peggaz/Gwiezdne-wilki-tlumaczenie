@@ -1,0 +1,15 @@
+;*****************************
+;Dialog6.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m8d_Templar
+#L_D6_msg00=This is not a place for unfaithful. Get lost.
+#L_D6_ans00=(Dalej)
+#L_D6_msg10=Hey, buddy, calm down. We're not here to visit you.
+#L_D6_ans10=(Dalej)
+#L_D6_msg20=Jeez, of course you aren't... I mean, by Holy Heavens! What brings you to this sanctuary? Speak truth or incur Order's displeasure!
+#L_D6_ans20=I'm looking for my friend Alex Koshevoy. Have you heard of him?
+#L_D6_msg30=Alex Koshevoy is an honorable guest of the Patriarch. They are at the Cathedral Station now. Wait, I'll give you an escort. Friends of Alex are Order's friends.
+#L_D6_ans30=(Dalej)

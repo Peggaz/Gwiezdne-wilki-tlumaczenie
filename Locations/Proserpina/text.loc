@@ -1,0 +1,15 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#L_nav_01=Miejsce katastrofy
+#L_nav_03=Prawdopodobna lokalizacja Korsarza
+#L_nav_04=Zniszczona stacja: Patrolu
+#L_nav_05=Portal do Elinor
+#L_nav_06=Portal do Nowego Kioto
+#L_nav_02=Stacja patrolu Nowego Imperium
+#L_broken=Zniszczona stacja: Patrolu
+#L_trade=Górnicza stacja handlowa 
+#L_mine=Stacja wydobywcza

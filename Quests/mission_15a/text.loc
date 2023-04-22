@@ -1,0 +1,38 @@
+;*****************************
+; mission_15a
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_14a_01a=Meet with Trump.
+#L_Quest_14a_01b=Meet with Admiral Trump by the Light Trade Station.
+#L_Quest_15a_01a=Eliminate Trump.
+#L_Quest_15a_01b=Eliminate Admiral Trump and his escort.
+#L_Quest_15a_02a=Eliminate Viper.
+#L_Quest_15a_02b=Eliminate Major Viper and her Cruiser Lion.
+#L_Quest_15a_03a=Jump into any portal.
+#L_Quest_15a_03b=Jump into any portal to boost the hyper spring.
+
+;*****************************
+;Speeches
+;*****************************
+#L_Kishimov_01=Admiral, this is urgent... What the hell?!
+#L_Tramp_01=Captain, your urgent matters will wait, take care of Viper!
+#L_Kishimov_02=Affirmative.
+
+#L_Lastochka_01=Damn, the base is out of control!
+#L_Viper_01=Soiling your pants, boys and girls? Did you think I would leave my ship to you?
+#L_Viper_02=Attention, everyone. Detain Admiral Trump. And reduce these dolts to dust!
+#L_Tramp_02=Quick, to my ship! We'll try to fight back together. In the meantime, I'll call for backip.
+
+#L_Viper_03=Surrender, admiral! You don't have to die!
+#L_Tramp_03=Let's try to retreat to any portal, so I can start up the hyper catapult and take us away.
+
+#L_Tramp_04=This is a long story.
+#L_Kishimov_03=I can see you've been quite busy, have you?
+
+#L_sys_01=That was your biggest mistake. Whatever happens next, you won't be a part of it.

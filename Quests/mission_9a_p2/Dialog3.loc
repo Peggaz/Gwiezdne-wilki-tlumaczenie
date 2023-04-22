@@ -1,0 +1,17 @@
+;*****************************
+;Dialog3.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D3_msg00=Partner, there's a transport escorted by a NESF team. Do you think it's the one?
+#L_D3_ans00=Most likely. We'll find out soon.
+#L_D3_msg10=Welcome to the Bratsk Station. We've been expecting you, dock with Bay 3 for unloading.
+#L_D3_ans10=Hey, friend, why is that transport escorted like that? Have you caught a smuggler, huh?
+#L_D3_msg20=I think that's none of your business, pal. So just dock with Bay 3, all right? Before guys over there lose it.
+#L_D3_ans20=Hey, I just asked. Now tell me, are you offering any freelance jobs? Is there anything worthy or just small orders like this one?
+#L_D3_msg30=We are not. Man, it's a military station, not a trade center.
+#L_D3_ans30=That's strange. I delivered the cargo here, and there's also that transport...
+#L_D3_msg40=Listen, friend, just mind your own business. The cargo has been unloaded, you're free to go.
+#L_D3_ans40=(Dalej)

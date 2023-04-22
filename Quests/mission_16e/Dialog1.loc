@@ -1,0 +1,11 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Uel
+#L_D1_msg00=I was sure you would make it. Statistical analysis proved it.
+#L_D1_ans00=To hell with your stats! We head to shoot at our friends! Can you get that?
+#L_D1_msg10=I am sorry that people you have been attached to decided to ignore facts. My copy sent me a recording of your conversation and the fight that followed. I am sorry. But right now you need to ponder on the situation on your own and consider all factors. For this reason I shall temporarily disable the comm channel. In the meantime, dock in to the station. I just want you to know that your choice was irreproachable.
+#L_D1_ans10=Yeah, right...

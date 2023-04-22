@@ -1,0 +1,10 @@
+;*****************************
+;Dialog12.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D12_msg00=I'm detecting a transport.
+#L_D12_ans00=No, that's not the one. Let's wait.
+#L_D12_ans01=That's the one. Let's get back to Muscovy and wait for it that side of the portal.

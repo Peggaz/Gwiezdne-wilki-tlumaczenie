@@ -1,0 +1,47 @@
+;*****************************
+;Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m8d_NachShtab
+#L_D2_msg00=This is chief of staff, operations room speaking. Why the hell are you bothering me? Didn't the patrol made it clear who can fly where?!
+#L_D2_ans00=Mister captain, sir-
+#L_D2_msg10=Don't sir me, son. You're not my subordinate.
+#L_D2_ans10=Sorry. What I'm trying to say is there's an FTU emissary locked up in Charon. No need to explain how high-ranking he is. Let me just say that he can sign contracts on behalf of the FTU with the Imperial Court itself. He's impossible to contact now, so that vast amount of matters that depend on his decision are suspended. Your not letting me visit him may greatly displease the FTU and threaten deliveries vital for the Empire.
+#L_D2_msg20=Son, let's save each other's time. Tell me how many times I have to say no and I'll have my aide print it on a sheet of paper. Then you can invent my answer yourself based on the result you already have. As for the blockade and the rest - why do you think I bother? My job is to execute orders. And no ship, be it the emperor himself, is going to jump into the Charon portal until my brass says so. Which he hasn't, yet. Any questions?
+#L_D2_ans20=No. I can see it's a dead-end.
+#L_D2_ans21=Perhaps, we could come to an... informal agreement, so to say. Do you get my meaning?
+#L_D2_msg30=Right choice, son! Frankly speaking, I'm glad you haven't made any blatant mistakes. Now excuse me, I'd like to chat more, but you have to go. Over and out.
+#L_D2_ans30=(Dalej)
+#L_D2_msg40=It's good you didn't try to bribe him. He wouldn't accept it anyway.
+#L_D2_ans40=(Dalej)
+#L_D2_msg50=Yeah, not the type.
+#L_D2_ans50=Do I look like a total moron to you? I can see who I'm dealing with. Anyway, what are we going to do?
+#L_D2_msg60=Well, they haven't muscled us out of the system yet. I suggest we get close to the portal and try to sneak into Charon.
+#L_D2_ans60=(Dalej)
+#L_D2_msg31=Wait a second, son. Are you trying to bribe me?
+#L_D2_ans31=No, just to thank you. To make up for your hard and ungrateful job.
+#L_D2_msg41=I couldn't agree more - talking to idiots is most ungrateful. All right. 10 G's.
+#L_D2_ans41=What?! That's ridiculous.
+#L_D2_ans42=Sounds like a fair deal. Here you go.
+#L_D2_msg51=Ridiculous is how you're trying to bribe me. Youth is your only excuse - you're stupid enough to think money can buy it all. If you were older, you'd be standing before a firing squad already for attempted bribery of an officer in duty. So consider yourself lucky. Now excuse me, I'd like to chat more, but you have to go. Over and out.
+#L_D2_ans51=(Dalej)
+#L_D2_msg61=No comments. Partner, you could at least look who you were trying to bribe. You could get into such a trouble.
+#L_D2_ans61=We're all wise after the event. But what should we do now?
+#L_D2_msg52=Oh, really? Why, thanks a lot, buddy! I haven't expected an appraisal this high from a mere civilian.
+#L_D2_ans52=So we can leave?
+#L_D2_msg62=Of course! Anywhere you want! Except for Charon, naturally. And don't hang around here as well.
+#L_D2_ans62=What?! We had a deal!
+#L_D2_msg72=A deal? Son, I thought you decided to sponsor a party for us, brave MSF soldiers, - solely out of deep respect. Or... Wait a second, were you trying to bribe me? If you were, I'd have to put you in front of a firing squad.
+#L_D2_ans72=It was... for a party. Not the other thing.
+#L_D2_msg82=Great! I thought so! Now excuse me, I'd like to chat more, but you have to go. Over and out.
+#L_D2_ans82=The bastard!
+#L_D2_msg92=Come on, boss, he's all right. With a sense of humor too.
+#L_D2_ans92=(Dalej)
+#L_D2_msg102=Sorry, partner, but it was you who let yourself be duped and acted like a total moron. Just how did you come up with an idea to bribe this very captain? It was obvious he wouldn't accept.
+#L_D2_ans102=(Dalej)
+#L_D2_msg112=Yeah, not that type.
+#L_D2_ans112=Type, sheesh... Couldn't you warn me or something?
+#L_D2_msg122=Sorry, but I couldn't spoil that show. Besides, you wouldn't have listened. So consider it a payment for a valuable lesson.
+#L_D2_ans122=Yeah, talk about schools... What should we do now?

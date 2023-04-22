@@ -1,0 +1,11 @@
+;*****************************
+;Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D2_msg00=Fine. Where to now, partner?
+#L_D2_ans00=To the MSF HQ in New Jerusalem 2. Our license plates are clean, so they should have nothing against us. I'd very much like to know about all that fuss in Beta Lethera.
+#L_D2_ans01=To Triada's main HQ in Candela. Let's see what they have to say about special units, which had arrived before the attack.
+#L_D2_ans02=The investigation will wait. I got a message from my friend Alex. He asked me for help with escorting a convoy from XT-54. We have time, so let's make some cash and get our ships ready for trouble.

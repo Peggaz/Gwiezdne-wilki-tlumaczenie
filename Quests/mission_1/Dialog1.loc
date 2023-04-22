@@ -1,0 +1,25 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;VksOfficer
+#L_D1_msg00=Attention, transport. Turn off your engines and prepare for examination.
+#L_D1_ans00=Hey, officer, my cargo bay is bare as a bone. Save your time and effort.
+#L_D1_msg10=Just why does every meager flyer care about my time so much? For your information, it's much easier for me to pull the trigger than to explain my examination orders. Ammo reports are the only thing that stop me from doing that. So, still eager to make my life easier?
+#L_D1_ans10=Oh, of course not! Check the cargo bay, be my guest.
+#L_D1_msg20=Good. Since you've been so kind to let me examine your cargo bay, be sure to study a document I'm going to transmit as well.||"Excerpt from the Imperial Martial Law Manifesto|Paragraph 2.4. While in Imperial space, citizens are bound to follow Imperial law and assist law enforcers by reporting any illegal or suspicious activities.
+#L_D1_ans20=(Dalej)
+#L_D1_msg30=Paragraph 2.5. Refusal to assist imperial law enforcers is equal to sabotage and propaganda and is to be punished according to the Imperial Martial Law Manifesto.
+#L_D1_ans30=(Dalej)
+#L_D1_msg40=Paragraph 2.6. Hiding information from imperial law enforcers is equal to espionage, conspiracy and subversion and is to be punished according to the Imperial Martial Law Manifesto.
+#L_D1_ans40=(Dalej)
+#L_D1_msg50=Paragraph 2.7. Refusal to follow direct orders issued by imperial law enforcers is equal to sabotage and terrorism and is to be punished according to the Imperial Martial Law Manifesto.
+#L_D1_ans50=(Dalej)
+#L_D1_msg60=Paragraph 2.8. Refusal to follow the paragraphs of this document is equal to all of the aforementioned criminal activities and is to be punished according to the Imperial Martial Law Manifesto."
+#L_D1_ans60=(Dalej)
+#L_D1_msg70=I hope I've made myself clear. Or should I add a missile to my arguments?
+#L_D1_ans70=I'd rather you didn't. I got it.
+#L_D1_msg80=I'm truly glad to hear that. No forbidden cargo has been found during the examination. You may pass. And here's some extra advice: if you see anything suspicious, call in the MSF. We're your best bet. Over and out.
+#L_D1_ans80=(Dalej)

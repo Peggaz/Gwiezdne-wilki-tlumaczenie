@@ -1,0 +1,17 @@
+;*****************************
+;Dialog3.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m7e_KfniAce
+#L_D3_msg00=Attention, civilian ships. Stop the broadcast immediately!
+#L_D3_ans00=(Dalej)
+#L_D3_msg10=Whoa, aren't they fast...
+#L_D3_ans10=Hey, I just wanted to talk to-
+#L_D3_msg20=I repeat, stop the broadcast now or we're opening fire! How did you get the secret frequency? Answer quickly and clearly!
+#L_D3_ans20=Listen, I just wanted to talk to Corsair.
+#L_D3_msg30=How do you know about Corsair? You're a trader, according to the database, so what are you doing here? Why are you using the military frequency? Answer or I'll open fire!
+#L_D3_ans30=Dammit, officer, stop putting muscle on me! I just want a few words with Corsair, and he must know about our arrival. If I need to answer questions, he will be the one I'll talk to!
+#L_D3_msg40=Stay put until further orders.
+#L_D3_ans40=(Dalej)

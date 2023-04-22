@@ -1,0 +1,58 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Aia
+#L_D1_msg00=Min, you bastard, it's time to pay for the death of Kim Shumov! Attack, team! Let's fight for the glory of Triada!
+#L_D1_ans00=(Dalej)
+#L_D1_msg10=Aja? Aja, wait! Don't shoot, my father is not here!
+#L_D1_ans10=(Dalej)
+#L_D1_msg20=Dammit! Cease fire! What do you mean he's not here?
+#L_D1_ans20=(Dalej)
+#L_D1_msg30=Father left the station a few moments before the convoy departed. He said he needed to settle some issues and that he would catch up with us on a fighter.
+#L_D1_ans30=(Dalej)
+#L_D1_msg40=Damn! The cunning bastard tricked me again!
+#L_D1_ans40=(Dalej)
+#L_D1_msg50=So what now?
+#L_D1_ans50=(Dalej)
+#L_D1_msg60=I need to think. Hey, Tan, where did your rotten parent fly to?
+#L_D1_ans60=(Dalej)
+#L_D1_msg70=He didn't say.
+#L_D1_ans70=(Dalej)
+#L_D1_msg80=I don't believe her. She's lying like all Imu do. Well, Tan, it's high time for you to follow your brother. But I promise, your dad is going to join you in hell very soon.
+#L_D1_ans80=Stop that! Aja, that wasn't the deal. Eliminating Min Imu is one thing, but murdering his daughter is completely different. What's her fault?
+#L_D1_msg90=I keep forgetting you're not a corporate. Tan Imu is the Chief Financial Officer. She handles all their money laundering, sets and pays mission rewards to pirates.
+#L_D1_ans90=(Dalej)
+#L_D1_msg100=I admit I was in charge of the corporation finances. What else had I to do? You know I'm the adopted daughter of Min and Lee's stepsister. Min used to say that if the family didn't control each aspect of corporation life, it didn't control the corporation entirely. And since I was good with numbers, Min made me his personal accountant. Aja, you probably won't believe me, but I was glad as hell, when my stepbrother was killed. He was a scoundrel and I hope he died in pain. And I swear, if you kill my stepfather, I won't shed a tear!
+#L_D1_ans100=(Dalej)
+#L_D1_msg110=You will promise anything to save your skin. None of the Imus can ever be trusted.
+#L_D1_ans110=(Dalej)
+#L_D1_msg120=All right, then what do you say about this deal? I'll give you all financial data on the corporation, all account passwords. In return, you will leave me and my mother alone. We'll just vanish. How about that?
+#L_D1_ans120=(Dalej)
+#L_D1_msg130=That won't change anything. I won't rest while there's even one Imu alive.
+#L_D1_ans130=Excuses, bribery, lies... Aja, you were right about these Imus, they are all tarred with the same brush. Team, attack!
+#L_D1_ans131=No, Aja, this changes everything. Think for yourself, your dear Min Imu will be left alone, with no family, no support. You will get access to his accounts, meaning your revenge will be stronger then just death. You will deprive him of power and money. What would you prefer? Just to die, or be thrown to the dump of life and suffer because of knowing who did this to you?
+#L_D1_msg140=Partner, they've sent a systemwide alert signal.
+#L_D1_ans140=(Dalej)
+#L_D1_msg150=Then let's hit it! Blade, get Savay on the line.
+#L_D1_ans150=(Dalej)
+#L_D1_msg161=Can you check it, Alice?
+#L_D1_ans161=(Dalej)
+#L_D1_msg171=Sure thing, just a sec... Seems all right to me.
+#L_D1_ans171=(Dalej)
+#L_D1_msg181=Ok then, transfer all the money to the account I'll tell you. Well, Min, I wish you pleasant discoveries. Where will you go to now, Tan?
+#L_D1_ans181=(Dalej)
+#L_D1_msg191=I grew tired of working for the corporation long ago, but my father and brother wouldn't let me go. I have... a friend. He's tired of all that too. I hope we'll settle down on some peaceful planet, where no one will know anything about us, and live happily as farmers. We'll have kids.
+#L_D1_ans191=(Dalej)
+#L_D1_msg201=By the Great Dragon! I'm risking a sugar crash. I wouldn't believe I'd hear all this bucolic nonsense from an Imu. All right, Tan, get lost. Live happily, etc., etc. We have other things to do.
+#L_D1_ans201=(Dalej)
+#L_D1_msg211=Thank you! Thank you, Aja! I'm forever in your debt!
+#L_D1_ans211=(Dalej)
+#L_D1_msg221=Just don't try anything stupid or I'll squash you like a bug.
+#L_D1_ans221=(Dalej)
+#L_D1_msg141=When you say it like this, I'm really starting to doubt if death is enough for Min. Who could've thought there would be Machiavelli hiding under a trader's guise. All right, Tan, you're free to fly. But those accounts and passwords better be right or I'll get very upset. And you don't want this.
+#L_D1_ans141=(Dalej)
+#L_D1_msg151=Thanks, Aja. Downloading now.
+#L_D1_ans151=(Dalej)

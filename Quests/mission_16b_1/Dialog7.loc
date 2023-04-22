@@ -1,0 +1,17 @@
+;*****************************
+;Dialog7.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Alisa
+#L_D7_msg00=You did the right thing, girl. Your father would be proud of you.
+#L_D7_ans00=(Dalej)
+#L_D7_msg10=I doubt that. I haven't yet done anything to make my father proud.
+#L_D7_ans10=(Dalej)
+#L_D7_msg20=Aja, you should stop being so hard on yourself.
+#L_D7_ans20=(Dalej)
+#L_D7_msg30=No, I shouldn't. We have to surpass our forefathers to make them proud.
+#L_D7_ans30=Then think about Alex's suggestion. By the way, I've got another message from him. Turns out it's far more serious than it has seemed. Wait, I'll send it to the shared mailbox.
+#L_D7_msg40=Ok, I'll have a look. But first we'll visit Ethan in Al-Ariash. I'd like to ask him a few questions. Get ready to jump.
+#L_D7_ans40=(Dalej)

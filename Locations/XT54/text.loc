@@ -1,0 +1,10 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#L_nav_01=Konwój Aleksa
+#L_points=Lokalizacja instalacji satelitarnej
+#L_Name_ModuleStation=Stacja Handlowa "Atol"
+#L_mining=Stacja wydobywcza "XR-15"

@@ -1,0 +1,45 @@
+;*****************************
+;Dialog16.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Uel
+#L_D16_msg00=I transferred Ternie's pod to the station. Paramedics will soon give their resume.
+#L_D16_ans00=(Dalej)
+#L_D16_msg10=That was quite fast. How did we do this?
+#L_D16_ans10=(Dalej)
+#L_D16_msg20=It's a new method of long-distance travel. My ship has a hyperspace engine.
+#L_D16_ans20=(Dalej)
+#L_D16_msg30=Before pirates got me, I had read some rumors in the Web about this technology. But those were only theories.
+#L_D16_ans30=(Dalej)
+#L_D16_msg40=Hyperspace engine theories have existed for a long time. I managed to organize corporation's science department to create the first sample of an independent jump engine.
+#L_D16_ans40=This is good, but what about Ternie?
+#L_D16_msg50=Paramedics have given no answer yet. I understand your anxiety and empathize.
+#L_D16_ans50=(Dalej)
+#L_D16_msg60=Empathize? You, a piece of metal?
+#L_D16_ans60=(Dalej)
+#L_D16_msg70=I understand your skepticism, Greyhair. But a hacker's attack removed protection from databases that contained information about previous SAM models. There are much information about people, their emotions and behavior. So I can evaluate Ternie's role in your community as well as the meaning of losing her temporarily and its effect on your combat abilities and morale. Thus, I empathize.
+#L_D16_ans70=(Dalej)
+#L_D16_msg80=An emotional tincan... Where's this world coming to?
+#L_D16_ans80=(Dalej)
+#L_D16_msg90=And I understand what SAM's talking about! Indeed, our feelings can be expressed mathematically and I-
+#L_D16_ans90=Let's talk about this later, all right? I'm in no mood to discuss it right now. Kalem, how did you meet Ternie and just how did you end up with those scoundrels?
+#L_D16_msg100=How do you think technicians get to pirates? A planetary raid, an offer you can't refuse. And the next moment you find yourself inside a pirate clunker with a bunch of tools in your hands. They handed me over to Greys later and there I met Ternie. She was locked up, blood full of soporifics. And I had to watch her life support system.
+#L_D16_ans100=Soporifics?! Why?
+#L_D16_msg110=Well, you wouldn't call her a friendly jailbird. She kicked one in the stomach, bit another, spit at the third. Then, when she was already locked up and gagged, she somehow managed to summon a few Precursor ships and beat the hell out of that place.
+#L_D16_ans110=(Dalej)
+#L_D16_msg120=Precursors?! How did they get there?
+#L_D16_ans120=(Dalej)
+#L_D16_msg130=I have no idea, she hasn't had time to tell me. But Greys really panicked and decided to keep her drowsy, just in case. And I was to watch her life support system that was feeding her the soporifics.
+#L_D16_ans130=(Dalej)
+#L_D16_msg140=And you didn't help her escape?
+#L_D16_ans140=(Dalej)
+#L_D16_msg150=I tried. I reduced the amount of soporifics to the minimum, hacked access codes to that transport we had used. I even persuaded Ternie, which was the hardest of all, to pretend to be sleeping all the time! We wanted to escape and were just waiting for the right moment.
+#L_D16_ans150=If we only knew how close you were to escaping... If we only knew...
+#L_D16_msg160="Close" is not the same as "escaped". We could have waited for that moment forever. Besides, they would most likely have gotten us at the portal anyway. So your arrival was very timely. You didn't make it any worse anyway.
+#L_D16_ans160=(Dalej)
+#L_D16_msg170=Pardon me for interrupting. I have news from the paramedics.
+#L_D16_ans170=So? Is she all right?!
+#L_D16_msg180=I'm very sorry. Paramedics pronounced your friend dead.
+#L_D16_ans180=(Dalej)

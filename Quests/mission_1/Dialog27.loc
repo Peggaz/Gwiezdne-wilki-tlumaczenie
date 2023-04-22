@@ -1,0 +1,14 @@
+;*****************************
+;Dialog27.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;VksOfficer
+#L_D27_msg00=Excellent, citizen. Your cargo has been accepted according to the inventory. Thank you for cooperation. Helping the forces of law and order has earned you a reward of 1,250 credits.
+#L_D27_ans00=Glad to be of help, but your men should be more polite to civilians.
+#L_D27_msg10=Oh, please forgive them. We're at war, you know. Everyone's very tense. But don't let the grunts' deliberate rudeness deceive you. Unlike separatists, the Empire values civilians above all! And I, as a public relations officer, would like to stress that without the help of good people like you our dashing soldiers would have a hard time on the front. Now excuse me, I have matters to attend to. Our vessels will escort you to your destination.
+#L_D27_ans10=Thanks, a convoy will come in handy.
+#L_D27_ans11=Thanks, but I also have affairs to settle first.
+#L_D27_msg21=Well, then I wish you luck, citizen. You're always welcome at this imperial station!
+#L_D27_ans21=(Dalej)

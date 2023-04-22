@@ -1,0 +1,16 @@
+;*****************************
+;Dialog12.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;VksAce
+#L_D12_msg00=Is that it? Did you deliver you damned cargo? What took you so long?! My shift ends very soon! Let's scram, I'm calling in the rookies that have been here.
+#L_D12_ans00=Just a second, there's something left to do. I need to get a few transports out of the system.
+#L_D12_msg10=What transports are you talking about?! Are you mad? I'm risking my head here for your meager 50,000 credits!
+#L_D12_ans10=Those are my friends who would like to get away from local struggles.
+#L_D12_msg20=Transports you say... All right, I'll take you to the XT-81 portal. But that is going to cost you 100,000 credits.
+#L_D12_ans20=How much?! Jeez, you need to fix your imagination. I can't pay that much.
+#L_D12_ans21=Some rates you have. All right, I agree. Transferring the money.
+#L_D12_msg31=Ok then, let's not waste time. Contact your friends and I'll tell my morons to get back to the post.|But keep right behind me. Don't wander off anywhere, or there's no deal. Got it?
+#L_D12_ans31=You bet.

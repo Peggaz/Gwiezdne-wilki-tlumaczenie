@@ -1,0 +1,11 @@
+;*****************************
+;Dialog23.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Viper
+#L_D23_msg00=Hey, what do you think you're doing? What were your orders?!
+#L_D23_ans00=I thought that maybe flashing the cargo at the station would make Triada more cooperative.
+#L_D23_msg10=Somebody, do humanity a service. Kill that idiot.
+#L_D23_ans10=(Dalej)

@@ -1,0 +1,47 @@
+;*****************************
+;Dialog6.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D6_msg00=SAM, we need a detailed analysis of detected threats and tactical recommendations.
+#L_D6_ans00=(Dalej)
+#L_D6_msg10=Affirmative. Processing. We have a call from the central station. Switching to the share channel.
+#L_D6_ans10=(Dalej)
+#L_D6_msg20=Whoa, we have visitors! Alexandra, my dear, lay the table and roll out the long rug.
+#L_D6_ans20=(Dalej)
+#L_D6_msg30=Attention, all teams. Combat alert. Fire by command!
+#L_D6_ans30=(Dalej)
+#L_D6_msg40=I have sent you all the data. Now we need answers.
+#L_D6_ans40=(Dalej)
+#L_D6_msg50=What? Won't you even have some tea? People have been waiting, this is impolite.
+#L_D6_ans50=You are wasting precious time.
+#L_D6_msg60=I'm talking to a tincan. You're not worth a spit. How mad should one be to have a chip installed into the skull! I guess yours have been empty since the beginning.
+#L_D6_ans60=(Dalej)
+#L_D6_msg70=Corsair, bickering won't achieve much now.
+#L_D6_ans70=(Dalej)
+#L_D6_msg80=The admiral is right. We need a reasonable solution, not a squabble.
+#L_D6_ans80=(Dalej)
+#L_D6_msg90=Let's just crush them and be off!
+#L_D6_ans90=(Dalej)
+#L_D6_msg100=Judging by your comments, you have not accepted my plan.
+#L_D6_ans100=(Dalej)
+#L_D6_msg110=SAM, please hear me out. Your plan is good, but it's Utopian. Like any theory invented by scientists dwelling too deep in the world of pure science. Reality can't be forced into frames of formulas, tables and matrices. All the more so if we're talking about human society. Your mind is based on pure logic and fact analysis. Tell me what's the possibility that your analytical circuits - like those of your predecessors - have critical bugs?
+#L_D6_ans110=(Dalej)
+#L_D6_msg120=The possibility of this is below 30 per cent. This value might be corrected down to zero if humans live in close cooperation with my databases. Please consider the key postulate of my offer again: the new society does not imply the domination of either machines or humans. It leaves space for personal development, but offers new ways of communication, exchanging thoughts and ideas, of pursuing common goals. You will never accomplish this without the help of machines and pure logic.
+#L_D6_ans120=(Dalej)
+#L_D6_msg130=If pure logic was the only thing I used, I'd have to put ninety per cent of the personnel in front of a firing squad.
+#L_D6_ans130=(Dalej)
+#L_D6_msg140=SAM, you are truly a unique and marvellous personality. But with all your advantages we don't have a right to risk by allowing you to plug the entire humanity into a network. Our offer is as follows: you voluntarily agree for temporary isolation and provide access to your source code to our experts. No one will change it without your approval, I promise. Besides, you will always be in the active state. If your software turns out to be safe for humans, we shall discuss the idea of a symbiotic society of humans and machines after a thorough and comprehensive data analysis.
+#L_D6_ans140=(Dalej)
+#L_D6_msg150=I value your offer, but you know what it will result in. I am sorry.
+#L_D6_ans150=(Dalej)
+#L_D6_msg160=In this case you leave us no choice.
+#L_D6_ans160=(Dalej)
+#L_D6_msg170=Finally, we got to what I offered! Triada, attack! Let's teach the tincans a lesson on higher aerobatics.
+#L_D6_ans170=(Dalej)
+#L_D6_msg180=All team, fire for effect!
+#L_D6_ans180=(Dalej)
+#L_D6_msg190=Kishimov, to position.
+#L_D6_ans190=(Dalej)

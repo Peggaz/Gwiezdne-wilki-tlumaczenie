@@ -1,0 +1,33 @@
+;*****************************
+; mission_14e
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_14e_01a=Reach Zebos.
+#L_Quest_14e_01b=Meet with SAM at the central server station in Zebos.
+#L_Quest_14e_02a=Leave the InoCo's space.
+#L_Quest_14e_02b=Leave the InoCo's space as soon as possible.
+
+;*****************************
+;Speeches
+;*****************************
+#L_Hero_01=Farewell, Ternie. May the fire that burned in your soul blend with the fire of this star.
+#L_Sedoy_01=Farewell, Ternie. You were a great fighter.
+#L_Yana_01=Farewell, Ternie. You've become my best friend, though we met only a while ago.
+
+#L_Sedoy_02=Oh well...
+#L_Yana_02=I thought that Oliver Reynolds always supported progress. But he... he's just a rowdy!
+#L_Hero_02=Render into corporators the things that are corporate. We have our own goal.
+
+#L_Ranolds_01=I don't know who you are, people, but thanks a lot! We're breaking through to the Precursor portal. If I were you, I'd leave the InoCo's space too.
+#L_Sedoy_03=How are we supposed to break through? Our base has been wrecked, and we're low on ammo!
+#L_Ranolds_02=I'll give you a transport for the time being. You will find some missile and other stuff in the cargo bay. No time to talk now!
+
+#L_Bates_01=Let me thank you on behalf of InoCo Corporation. Who could have thought that a former corporation top manager would stoop to such meanness, barbarity, savagery and diehard attitudes! I thought he was a refined man. Oh well...
+#L_Hero_03=Glad to be of help, but we're expected in Zebos.
+#L_Bates_02=Sure, sure, you may leave!

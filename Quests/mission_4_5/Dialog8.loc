@@ -1,0 +1,26 @@
+;*****************************
+;Dialog8.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Matt
+#L_D8_msg00=Pirates again! Get your guns ready, we're not giving away the cargo without a fight!
+#L_D8_ans00=Hey, hey, calm down. We're not pirates and we don't need your cargo.
+#L_D8_msg10=Yeah, right. Wandering about on a pirate ship is just a hobby. Just to juice it up.
+#L_D8_ans10=You're almost right. It's my trophy. Believe it or not, but I don't give a damn about you. So let's calm down and follow our own ways, ok?
+#L_D8_msg20=Cancel the alert! Sorry for unfriendly reception, but pirates have really been thrashing us for the last three systems. We're afraid of our own shadows now.
+#L_D8_ans20=Nevermind, I'm not offended.
+#L_D8_msg30=Name's Matt. Listen, I have an offer. We're headed for a mine in Elio, but almost all our guards have been killed. Your firepower would surely come in handy. Though I can only pay you 5,000 credits.
+#L_D8_ans30=Deal. All the more so it's on our way.
+#L_D8_ans31=Sorry, I'd like to, but I can't, we're in such a hurry. Besides, as guards we'll only cause you more trouble.
+#L_D8_msg40=Thanks! The Handers don't forget their friends.
+#L_D8_ans40=(Dalej)
+#L_D8_msg50=Wait, did you say Handers? Are you a relative of Carl Hander?
+#L_D8_ans50=(Dalej)
+#L_D8_msg60=He's my father. We run a family business in Elio.
+#L_D8_ans60=(Dalej)
+#L_D8_msg70=My, it's a small world. It's exactly your dad we're going to visit. He's my old friend. Anyway, we can chat later, give me the mine coordinates.
+#L_D8_ans70=(Dalej)
+#L_D8_msg41=Damn, it's a pity. Well, good luck.
+#L_D8_ans41=(Dalej)

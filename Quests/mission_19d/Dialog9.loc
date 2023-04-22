@@ -1,0 +1,19 @@
+;*****************************
+;Dialog9.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m9b_Kane
+#L_D9_msg00=They broke through! If you, bastards, gave me your soldiers, we'd have crushed them by the portal!
+#L_D9_ans00=(Dalej)
+#L_D9_msg10=Who could have known that your own soldiers were that lame? And calling Mister Imu a bastard is bad manners.
+#L_D9_ans10=(Dalej)
+#L_D9_msg20=Why you! Nevermind, we'll talk later. Right now protecting the station is our top priority. I hope I shouldn't remind you what it means for all of us?
+#L_D9_ans20=(Dalej)
+#L_D9_msg30=You shouldn't. We're moving out to the station.
+#L_D9_ans30=(Dalej)
+#L_D9_msg40=I don't have enough men! We won't make it to the dockyards without help! Azar, go through the dockyards!
+#L_D9_ans40=(Dalej)
+#L_D9_msg50=Min, go to hell! You bragged about your soldiers' bravery. Let them show it in action!
+#L_D9_ans50=(Dalej)

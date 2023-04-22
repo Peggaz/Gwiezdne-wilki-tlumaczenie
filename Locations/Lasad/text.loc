@@ -1,0 +1,12 @@
+LOCALE_FILE
+FILETYPE MODDING 
+
+;*****************************
+;NavPoints
+;*****************************
+#M_pstation=Stacja Patrolu
+#M_modulestation=Stacja Handlowa
+#L_trade=Stacja Handlowa "Lasad"
+#L_acad=Akademia militarna InoCo "MAICo"
+#L_uzl=Skrzy¿owanie "Galanet-6"
+#L_fact=Zak³ad "NanoCo-241"

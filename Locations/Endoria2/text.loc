@@ -1,0 +1,9 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#L_universal_station=Stacja Handlowa "Wyjadacz"
+#L_base=Baza wojskowa MSF
+#L_terminal=Terminal postojowy

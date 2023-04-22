@@ -1,0 +1,41 @@
+;*****************************
+;Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Aia
+#L_D2_msg00=Well, boys and girls, I have bad news. Very bad news. Ethan had a reason to panic: a throng of Berserk is gathering in the border sector - obviously not for a mecha-parade. Border guards and Ethan think that Berserks will attack and soon. That's why this place is bustling with activity - USS is trying to evac everyone.
+#L_D2_ans00=(Dalej)
+#L_D2_msg10=Too bad... I think it's high time to contact Alex and ask him for help.
+#L_D2_ans10=(Dalej)
+#L_D2_msg20=No.
+#L_D2_ans20=Huh? Why not all of a sudden?
+#L_D2_msg30=First, he won't have time to take a serious backup force here from Eridan. Second, I don't think he will lift a finger to help Triada at all. He might even hinder us. Third, if Berserks see all that fuss around Al-Ariash, they may attack earlier than planned. Then we're all dead. No, we must strike first and impose our own rules on that SAM dummy.
+#L_D2_ans30=(Dalej)
+#L_D2_msg40=This is madness...
+#L_D2_ans40=(Dalej)
+#L_D2_msg50=This is reason. The border guards sent some intel to Ethan. Turns out they've managed to setup usual navigational buoys to collect data on any movement in remote systems. So, the Berserks are now located in X203 and X220. In X203 they have main forces - a strike fleet, most likely. In X220 there are a few very large ships and some guards. Ethan can send us straight to X220 by means of that hyper catapult they've recently built at the Riyadh Station. When there, we shall locate the large ships and deal them a mortal blow!
+#L_D2_ans50=(Dalej)
+#L_D2_msg60=Yeah, right. At that moment, Berserks' strike fleet will pour out of X203 and outflank us. Besides, why can't SAM hyper jump away on our arrival? As I can see, everyone has a hyper catapult these days. Except us.
+#L_D2_ans60=(Dalej)
+#L_D2_msg70=It can't hyper jump because the Gates are generating interference.
+#L_D2_ans70=(Dalej)
+#L_D2_msg80=Wait, but hasn't that hole been closed since our last visit? By means of explosions and such.
+#L_D2_ans80=(Dalej)
+#L_D2_msg90=SAM has managed to fix the Gates and is trying to seize control of Precursors' Great Machine. I don't know how it can be possible, but I can feel its attacks.
+#L_D2_ans90=(Dalej)
+#L_D2_msg100=But then again, taking such risks is like walking out to space naked.
+#L_D2_ans100=(Dalej)
+#L_D2_msg110=If we could only reduce the number of Berserks in X203, they wouldn't be able to outflank us.
+#L_D2_ans110=(Dalej)
+#L_D2_msg120=The only way to do that is to break into X203, guns at the ready, and open fire. But then we'll be out of missiles by the time we get to SAM.
+#L_D2_ans120=(Dalej)
+#L_D2_msg130=What did Ethan say about backup?
+#L_D2_ans130=(Dalej)
+#L_D2_msg140=He can't provide it - every man counts. Besides, most soldiers have been sent to Dalled to reinforce the garrison. We'll have to manage ourselves. But if we win... Oh, in that case we'll become a legend! No one will dare challenge Triada after such a feat of arms. Our team would be like a legendary dragon that no force could stop.
+#L_D2_ans140=(Dalej)
+#L_D2_msg150=In our case the legend will be something like, "And no force could restore their sorry butts scattered across outer space". It's up to you to decide, boss, but this is surely the maddest adventure of all.
+#L_D2_ans150=Aja is right, we have no choice. Berserks will attack anyway, so let's try to maul them at least. We might gain another hour to let more people evacuate.
+#L_D2_msg160=Great. I have more good news. I've persuaded Ethan to open a USS warehouse with the most interesting weapon samples for us. All the more so, he's giving them away free of charge. So let's head for the Riyadh Commerce Station and see what to do next.
+#L_D2_ans160=(Dalej)

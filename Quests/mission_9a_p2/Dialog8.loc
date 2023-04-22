@@ -1,0 +1,10 @@
+;*****************************
+;Dialog8.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D8_msg00=There's a transport.
+#L_D8_ans00=No, that's not the one. Let's wait.
+#L_D8_ans01=That's the one. Let's get back to Muscovy and wait for it that side of the portal.

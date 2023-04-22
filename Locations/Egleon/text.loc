@@ -1,0 +1,15 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#M_pstation_04=Stacja Patrolu
+#M_tradestation_02=Stacja Handlowa
+#M_Mining_station=Stacja wydobywcza
+#L_tradestation_02=Terminal towarowy W Egleon
+#L_pstation_04=Stacja patrolu InoCo
+#L_shtab=Lokalna kwatera g³ówna InoCo
+#L_war=Baza wojskowa "Cytadela Korporacyjna" InoCo
+#L_uzl=Skrzy¿owanie "Galanet-2"
+ 

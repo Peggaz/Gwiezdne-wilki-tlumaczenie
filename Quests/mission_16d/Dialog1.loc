@@ -1,0 +1,13 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Sedoy
+#L_D1_msg00=As soon as this scuffle is over, I'm going to kick somebody's butt.
+#L_D1_ans00=(Dalej)
+#L_D1_msg10=Aw, come on, what did I do? We had but zero intel on local forces. What could we lose? Only time.
+#L_D1_ans10=What's on top of our to-do list?
+#L_D1_msg20=Liberate the portal. Otherwise the Reverend and his hoodlums won't even come here. Nataly may still attack, but I don't want to risk their lives in vain.
+#L_D1_ans20=(Dalej)

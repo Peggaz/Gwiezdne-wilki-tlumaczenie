@@ -1,0 +1,17 @@
+;*****************************
+;Dialog8.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;InocoOfficer
+#L_D8_msg00=Attention, ships, stop your engines and heave aback! You're under arrest.
+#L_D8_ans00=(Dalej)
+#L_D8_msg10=We're a team of repairmen. Here's the passcode.
+#L_D8_ans10=(Dalej)
+#L_D8_msg20=Confirmed. You're free to go. What's the matter?
+#L_D8_ans20=(Dalej)
+#L_D8_msg30=Somebody tried to infiltrate the server station. We scared the hacker away. He's somewhere here, in this system, on a cargo ship.
+#L_D8_ans30=(Dalej)
+#L_D8_msg40=I see, thanks for keeping me informed. I'll message the central to comb this place.
+#L_D8_ans40=Good hunting.

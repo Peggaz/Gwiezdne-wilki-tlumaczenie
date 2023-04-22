@@ -1,0 +1,83 @@
+;*****************************
+;Dialog4.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m9c_LaVerti
+#L_D4_msg00=Oh, dammit, dammit, dammit! It's Kruger himself!
+#L_D4_ans00=(Dalej)
+#L_D4_msg10=Huh? Who the hell is Kruger?!
+#L_D4_ans10=(Dalej)
+#L_D4_msg20=A proper bastard.
+#L_D4_ans20=(Dalej)
+#L_D4_msg30=He's a pirate! The most terrible pirate of all we've ever met! He's a beast, a real beast!
+#L_D4_ans30=(Dalej)
+#L_D4_msg40=Oh, come on. "Terrible", "beast..." He sure is a bastard, if I ever saw one. Wouldn't miss a chance to bleed a defenseless man. But deep inside, he's just a cowardly amoeba. Besides, he's a lame tactician.
+#L_D4_ans40=(Dalej)
+#L_D4_msg50=Given the gang he has, Greyhair, he needn't be a good tactician. According to the scanner, the portal area is crawling with pirates.
+#L_D4_ans50=If we hit them with all we have...
+#L_D4_msg60=No way! My men won't leave their posts by the stations. They're protecting our wives and children. Who else can do that? You? Don't make me laugh.
+#L_D4_ans60=(Dalej)
+#L_D4_msg70=Let's give them the radium! Then we'll be spared.
+#L_D4_ans70=(Dalej)
+#L_D4_msg80=For real? Knowing that pirate riffraff, I can say that we'll be attacked as soon as we hand the cargo over. This situation requires cunning.
+#L_D4_ans80=(Dalej)
+#L_D4_msg90=Fire ships...
+#L_D4_ans90=What?
+#L_D4_msg100=A good old trick. To send ships loaded with explosives at the attackers. When they get near... KABOOM! And our enemies are instantly fewer. Muy effectivamente!
+#L_D4_ans100=(Dalej)
+#L_D4_msg110=Yeah, pilots too. Who would agree to fly a bomb?! We must defend! At least, the station will cover one of our flanks.
+#L_D4_ans110=(Dalej)
+#L_D4_msg120=Senorita, we won't manage it... And pilots will bale out before explosions, so we can pick up their escape pods later. En la integridad y la integridad.
+#L_D4_ans120=(Dalej)
+#L_D4_msg130=Give them the radium and we'll all survive!
+#L_D4_ans130=(Dalej)
+#L_D4_msg140=That's out of the question. By the way, how did the pirates find out about that large cargo of radium? I guess one of you, gentlemen, is acting together with Kruger and his gang.
+#L_D4_ans140=(Dalej)
+#L_D4_msg150=Our escort... You joined us by chance, no one here knows you.
+#L_D4_ans150=(Dalej)
+#L_D4_msg160=Are you crazy?!
+#L_D4_ans160=(Dalej)
+#L_D4_msg170=You've come from nowhere, you know about Kruger, you know how pirates act. It all ties up.
+#L_D4_ans170=(Dalej)
+#L_D4_msg180=Well, it does sound logical.
+#L_D4_ans180=(Dalej)
+#L_D4_msg190=Caramba, captain! Where's logic in that?! Just guesses! A logic like this put me in la carcel for six months!
+#L_D4_ans190=(Dalej)
+#L_D4_msg200=Captain, it seems you have a whole gang! And they cover each other up!
+#L_D4_ans200=(Dalej)
+#L_D4_msg210=Shut up, La'Vertius. I'll answer for Che, but your escort... Let's do it this way: you prove you have nothing to do with Kruger by performing that fire ship trick Che has offered. Blow pirates up and I swear we'll get you out under any fire. If you don't... I guess I shouldn't mention what our men will do to you, if you're captured. I'll accept no refusal.
+#L_D4_ans210=And still I refuse. That mission is suicidal and I'm not risking the lives of my people. I got my order from Alexandra Sukhova of the NESF. Do you believe her at least? Here's a copy of the message, see for yourself. And let me stress: no fire ship tricks.
+#L_D4_ans211=Dammit! If those bloody fire ships are the only way to avoid fighting you, then I agree! Where the hell are they?!
+#L_D4_ans212=Prove it? Fine! But don't think we'll be flying bombs! We'll deal with the pirates on our own!
+#L_D4_msg220=We're dead! He's going to order to attack us. We need to act quickly, if we want to live! If captain doesn't kill us, pirates will!
+#L_D4_ans220=La'Vertius, you got us into this mess. What's with the crazy nonsense about our connection to pirates?!
+#L_D4_msg230=I only said what was obvious! I was a bundle of nerves too. It should have been a regular cargo pickup ride!
+#L_D4_ans230=So what do you suggest?
+#L_D4_msg240=I'll contact the pirates and tell them we're handing the radium over. I'll ask them to spare the locals. Kruger only needs the radium, he wouldn't want to risk his ships and men, fighting unnecessary battles! He always avoids unnecessary problems. And you persuade the captain to give us the cargo. It's our only chance to survive.
+#L_D4_ans240=There's no need for anyone to die. Captain, tell your men to hand the radium over. It's for the good of everyone.
+#L_D4_msg250=Not for you there isn't!
+#L_D4_ans250=(Dalej)
+#L_D4_msg221=You're flying them now. Your fighters will be our fire ships.
+#L_D4_ans221=Hey! That wasn't the deal.
+#L_D4_msg231=Who said anything about a deal? You were given a chance to show whose side you were on. And I only advised you to use it.
+#L_D4_ans231=Aw, damn you... All right! Load our fighters with explosives! Who's going to pick us up later?
+#L_D4_msg241=I am. With your permission, amigos.
+#L_D4_ans241=(Dalej)
+#L_D4_msg251=What, with your old tub?
+#L_D4_ans251=(Dalej)
+#L_D4_msg261=It would be wise, if I use your base.
+#L_D4_ans261=(Dalej)
+#L_D4_msg271=Oh yeah? What else-
+#L_D4_ans271=Ternie, let him take the base. If we're killed, we wouldn't need it anyway. Here are our control codes.
+#L_D4_msg222=Partner, you've definitely cracked!
+#L_D4_ans222=(Dalej)
+#L_D4_msg232=Boss, if we survive this one, we'll become legendary. Mark my words.
+#L_D4_ans232=(Dalej)
+#L_D4_msg242=Amigos, wait. I'm going with you.
+#L_D4_ans242=(Dalej)
+#L_D4_msg252=Che, are you sure? That's a one-way ticket.
+#L_D4_ans252=(Dalej)
+#L_D4_msg262=And a tremendous ride!
+#L_D4_ans262=(Dalej)

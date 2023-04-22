@@ -1,0 +1,19 @@
+;*****************************
+;Dialog23.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Alexandra
+#L_D23_msg00=We failed the mission, dammit!
+#L_D23_ans00=Or completed it alternatively by destroying the very project.
+#L_D23_msg10=But Corsair wanted to negotiate with Trump. We should've interfered.
+#L_D23_ans10=This is just an old divide and rule tactics. Alexandra, you heard them. Trump is an old imperial attack dog. If he grappled with his brother in arms, we never even had a chance to come to an agreement.
+#L_D23_msg20=And I think all is gas and gaiters. What should we do now?
+#L_D23_ans20=(Dalej)
+#L_D23_msg30=Let's get back to Eridan. There's nothing else we can do here.
+#L_D23_ans30=(Dalej)
+#L_D23_msg40=By Space, it'll take us half a year to get to Eridan from here.
+#L_D23_ans40=(Dalej)
+#L_D23_msg50=I can't help you, the device is discharged.
+#L_D23_ans50=(Dalej)

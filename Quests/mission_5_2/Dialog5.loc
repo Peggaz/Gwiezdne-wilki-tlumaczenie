@@ -1,0 +1,43 @@
+;*****************************
+;Dialog5.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Squint
+#L_D5_msg00=Look who's here. Lost your way?
+#L_D5_ans00=(Dalej)
+#L_D5_msg10=Come on, Squinty, it's me.
+#L_D5_ans10=(Dalej)
+#L_D5_msg20=Ternie?! Mon cher, where's Breakneck?
+#L_D5_ans20=(Dalej)
+#L_D5_msg30=In trouble. He wanted to rob that transport, but run into a couple of MSF teams. The Empire has Breakneck now and nearly all the others are dead.
+#L_D5_ans30=(Dalej)
+#L_D5_msg40=Well, Breakneck sure liked to bite what he couldn't chew. Who's that partner of yours?
+#L_D5_ans40=(Dalej)
+#L_D5_msg50=Breakneck managed to persuade an imperial guard to let him go. This "partner" of mine is watching that I pay for the deal and not run off with the money. If something happens to him, there will be no deal. In that case Breakneck promised to squeal on everyone he knows. As you can see, Squinty, there will be no hiding from the imperial sleuths then.
+#L_D5_ans50=(Dalej)
+#L_D5_msg60=What a bastard! He used to call me brother... Well, he was drunk, but it still hurts, such a cruel treachery. All right, Ternie, you know the drill. Ready to hear the access codes.
+#L_D5_ans60=(Dalej)
+#L_D5_msg70=Oh, codes... Sure, just a second.
+#L_D5_ans70=(Dalej)
+#L_D5_msg80=Fine, you're cleared. Well, let's visit Quarter.
+#L_D5_ans80=(Dalej)
+#L_D5_msg90=Quarter?
+#L_D5_ans90=(Dalej)
+#L_D5_msg100=Why, didn't Breakneck tell you?
+#L_D5_ans100=(Dalej)
+#L_D5_msg110=Not as such. He just wanted me to pick up the cash and stuff from the stash.
+#L_D5_ans110=(Dalej)
+#L_D5_msg120=I only have to escort you and then you can discuss the details with Quarter. Let's go.
+#L_D5_ans120=Who's this Quarter guy?
+#L_D5_msg130=An accountant who launders money for pirates. He runs treasuries of several large clans and assigns contracts.
+#L_D5_ans130=Why is he named Quarter?
+#L_D5_msg140=It's just a nickname, Quarter gets a quarter of the total income from every deal. I bet he'd sell his own mother for that share. But if you have to talk to him, be sure to call him Bursar.
+#L_D5_ans140=Why should I talk to him?
+#L_D5_msg150=How should I know? The situation has changed. Turns out there's a whole pirate treasury besides the Breakneck's stash. We're lucky I've found the codes when searching through Breakneck's room. On the other hands, a treasury is even better. We'll be able to transfer all the funds to our account. It's a freaking load of money.
+#L_D5_ans150=Hey, catch the bear before you sell his skin.
+#L_D5_msg160=Catch what?
+#L_D5_ans160=A bear. You know, a predator, lives on Earth.
+#L_D5_msg170=Never heard of those. And the proverb is about kvizzles. This is more historically correct!
+#L_D5_ans170=(Dalej)

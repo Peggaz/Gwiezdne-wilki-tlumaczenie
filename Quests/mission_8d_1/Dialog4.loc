@@ -1,0 +1,44 @@
+;*****************************
+;Dialog4.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m8d_Yanos
+#L_D4_msg00=Just as I thought. So, Shinji, you couldn't wait till payback deadline and decided to speed up the course of events by stealing?
+#L_D4_ans00=(Dalej)
+#L_D4_msg10=I'm even glad we met now, Janosz. What stealing are you talking about? We're taking back our equipment.
+#L_D4_ans10=(Dalej)
+#L_D4_msg20=We paid our money for it.
+#L_D4_ans20=(Dalej)
+#L_D4_msg30=No, you paid the money we'd given you for it. Triada isn't against granting credits, but you're doing everything possible not to repay it.
+#L_D4_ans30=(Dalej)
+#L_D4_msg40=This is barefaced lies, and you know it well. With the equipment you're trying to steal, we can launch a full-scale mining operation. But you don't need it, do you? You want the mines for yourselves, right, Shinji?
+#L_D4_ans40=(Dalej)
+#L_D4_msg50=Say what you want. My task is to make sure corporation investments are safe. And return them, if anything happens, either in the form of money or debtor's property.
+#L_D4_ans50=(Dalej)
+#L_D4_msg60=We can repay the debt.
+#L_D4_ans60=(Dalej)
+#L_D4_msg70=Oh really? After you've lost everything at a casino? Just whose idiotic brain came up with an idea of repaying a debt by means of dice?
+#L_D4_ans70=(Dalej)
+#L_D4_msg80=Jason...
+#L_D4_ans80=(Dalej)
+#L_D4_msg90=Oh, Jason. Now I see. Now I'm completely sure confiscating this equipment is the right thing to do. You would lose it anyway - you have crab meat instead of brains. Jason is a dinAlt, a loser who just boasts of being the best gambler ever. Ask Pyrrans how much he swindled out of them in the end.
+#L_D4_ans90=Hey, time out! What the hell is going on here?
+#L_D4_msg100=Listen, friend, this equipment is ours. Triada is trying to steal it.
+#L_D4_ans100=(Dalej)
+#L_D4_msg110=Like hell it is. You missed the first installment and, according to the documents, I have full authority to confiscate the equipment. Want to dispute it? Fine, sue it out.
+#L_D4_ans110=(Dalej)
+#L_D4_msg120=You know that we can't afford a litigation.
+#L_D4_ans120=(Dalej)
+#L_D4_msg130=Not my problem. You shouldn't have trusted a crook.
+#L_D4_ans130=(Dalej)
+#L_D4_msg140=Shinji, Triada is not going to get this equipment, I swear! It belongs to us and no one will misappropriate it! We shall kill you all right here, if needed, but we'll have this equipment!
+#L_D4_ans140=Jeez, I'm so tired of both of you. I'm delivering the cargo to Miner's Paradise, as the contract says. Then you can quarrel over it by means of litigations, lawyers or the devil himself.
+#L_D4_ans141=According to the documents, Triada owns the equipment now. So I'm heading to Debris 3 and then it's not my problem anymore.
+#L_D4_msg150=Thanks, friend! You've just saved lots of miners' families!
+#L_D4_ans150=(Dalej)
+#L_D4_msg160=You've made a mistake you will pay for.
+#L_D4_ans160=(Dalej)
+#L_D4_msg151=It's a pity you turned out to be a bastard just like those corporators. We have no choice now. Let's retake what's ours, boys!
+#L_D4_ans151=(Dalej)

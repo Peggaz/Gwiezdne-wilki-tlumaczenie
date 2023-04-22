@@ -1,0 +1,9 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#L_trade=Stacja Handlowa "Peryferie"
+#L_ter=Terminal towarowy "Charków"
+#L_patrol=Stacja Patrolu "Kijów"

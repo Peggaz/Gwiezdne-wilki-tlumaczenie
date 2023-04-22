@@ -1,0 +1,21 @@
+;*****************************
+;Dialog4.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D4_msg00=We need Agent Roghem.
+#L_D4_ans00=(Dalej)
+#L_D4_msg10=Greetings. I was reported you might visit us. Right now I have no suitable missions for you, sorry.
+#L_D4_ans10=So it seems our effective cooperation is not going to happen.
+#L_D4_msg20=No, it's not what I mean. I just want you to be alert, some missions are bound to become available soon. For now I am to give you 100,000 credits to re-equip.
+#L_D4_ans20=Great! I'll be glad to help!
+#L_D4_msg30=That's all for now. Wait for a message from me. Candela Station out.
+#L_D4_ans30=(Dalej)
+#L_D4_msg40="Great", "glad to help..." Going from rags to riches, aren't you?
+#L_D4_ans40=Is there something you don't like?
+#L_D4_msg50=There is. I don't like that you took money from those cunning goons. Partner, you might as well consider us all on a hook that we're not getting off so easily.
+#L_D4_ans50=(Dalej)
+#L_D4_msg60=I'm going to agree with Ternie completely, boss. We shouldn't have taken the money. The sum's ridiculous, but it lets Triada consider us purchased hide and hair.
+#L_D4_ans60=I don't care about Triada. If anything happens, I'll just give their money back. For now let's look around and see what is what.

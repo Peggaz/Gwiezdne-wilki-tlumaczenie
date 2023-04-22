@@ -1,0 +1,20 @@
+;*****************************
+;Dialog16.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;VksAce
+#L_D16_msg00=There you are. We have a message for you.
+#L_D16_ans00=(Dalej)
+#L_D16_msg10=I'm glad I was right about you. You're good-for-nothing blabbermouth pencil pushers. Report whatever you want to your higher-ups, but don't let me see you again. Over and out.
+#L_D16_ans10=Well, that's awkward. Anyway, we have a clear mission and time is of the essence.
+#L_D16_msg20=I suggest we visit Solncevka and find Aylon's friend first.
+#L_D16_ans20=(Dalej)
+#L_D16_msg30=Nah, it's a long way round. Besides, that system is not a pleasant one.
+#L_D16_ans30=(Dalej)
+#L_D16_msg40=The system? But we just need one man, and I doubt he's a scoundrel. Aylon despises their type.
+#L_D16_ans40=All right, Ternie, I give up. Let's find that Aylon's friend and see what we can do.
+#L_D16_ans41=First, let's deal with the mission, then see about Aylon's friend.
+#L_D16_msg51=Then we're going to New Donbass. Just one piece of advice, boss. People there are real hotheads, so mind what you're saying.
+#L_D16_ans51=I know, don't worry. Let's go.

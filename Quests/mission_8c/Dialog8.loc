@@ -1,0 +1,9 @@
+;*****************************
+;Dialog8.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D8_msg00=What's our plan?
+#L_D8_ans00=My friend asked me for help with escorting a convoy. Let's visit him in XT-54 and make some cash.

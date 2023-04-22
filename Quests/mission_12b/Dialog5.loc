@@ -1,0 +1,15 @@
+;*****************************
+;Dialog5.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Sedoy
+#L_D5_msg00=So it seems our noisy friends got to work. I intercepted the conversation between the station and a patrol. Let me output it to the shared channel.
+#L_D5_ans00=(Dalej)
+#L_D5_msg10=Team Tau, what's the status?
+#L_D5_ans10=(Dalej)
+#L_D5_msg20=Station, we're being attacked by pirates. Are they high on jet or something?
+#L_D5_ans20=(Dalej)
+#L_D5_msg30=Hold on, sending out reinforcements.
+#L_D5_ans30=Great, now let's head for the station!

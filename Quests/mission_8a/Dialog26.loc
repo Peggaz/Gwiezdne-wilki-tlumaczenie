@@ -1,0 +1,11 @@
+;*****************************
+;Dialog26.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;VksAce
+#L_D26_msg00=Major Viper sent us. I hope the cargo is safe.
+#L_D26_ans00=Tell Viper that I want to talk to her very much. There's no deal until she answers my questions.
+#L_D26_msg10=I have a clear order: in case of any problems, make sure that the cargo is safe and then act on the circumstances. I guess we obviously have a problem, so give me the cargo. After that I'll contact the major immediately.
+#L_D26_ans10=All right, take it.

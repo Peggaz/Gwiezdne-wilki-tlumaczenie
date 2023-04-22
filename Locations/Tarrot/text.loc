@@ -1,0 +1,9 @@
+LOCALE_FILE
+FILETYPE MODDING 
+
+;*****************************
+;NavPoints
+;*****************************
+#M_L_station_a2=Stacja "A2"
+#M_piratestation=Stacja Piratów
+

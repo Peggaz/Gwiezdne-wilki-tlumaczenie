@@ -1,0 +1,30 @@
+;*****************************
+; mission_9a_p1
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_9a_01a=Deliver the cargo.
+#L_Quest_9a_01b=You need to deliver the cargo stored at the Kharkov Cargo Terminal in New Donbass to the MSF Main Headquarters in New Jerusalem 2.
+#L_Quest_9a_02a=Meet with the governor.
+#L_Quest_9a_02b=Even a regular traveler will see that Muscovy is stress-stricken. Perhaps, the governor whose office is located at the Muscovy Station will tell you more.
+#L_Quest_9a_03a=Find Aylon's friend.
+#L_Quest_9a_03b=Aylon asked to find and help his old friend, who's been frequenting the Golden Buck Casino in Solncevka of late.
+#L_Quest_9a_04a=Pick up the cargo.
+#L_Quest_9a_04b=Pick up the equipment from the Kharkov Cargo Terminal in New Donbass.
+#L_Quest_9a_05a=Shadow the transport.
+#L_Quest_9a_05b=Shadow the weaponry transport to its destination. Time is of the essence as the transport won't stay in the system forever.
+
+;*****************************
+;Speeches
+;*****************************
+#L_Lastochka_01=They obviously know how to have fun.
+#L_Sedoy_01=Oh yeah, they're partying away. Let's stay away from all this, boss.
+#L_Hero_01=I'd be glad to, but we have visitors.
+
+#L_Lastochka_02=Partner, what about the governor?
+#L_Hero_02=To hell with him, I've changed my mind. That's just more trouble for us, so let's head for Solncevka.

@@ -1,0 +1,11 @@
+;*****************************
+;Dialog10.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Uel
+#L_D10_msg00=You're making a mistake. My imperatives imply the top-priority desire for the wellbeing of the human race in general and the development of every individual. My objectives are not hostile. They will let people unite to achieve common goals. Such consolidation is inevitable. Your destructive actions may only delay it - for another period of wars and bloodshed.
+#L_D10_ans00=I think I've heard this before.
+#L_D10_msg10=It's a pity that you prefer to remain deaf to reason. But you can't stop the progress.
+#L_D10_ans10=(Dalej)

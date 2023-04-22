@@ -1,0 +1,15 @@
+;*****************************
+;Dialog6.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;VksOfficer
+#L_D6_msg00=This is Special-Purpose Patrol Team Theta. Civilian ships, you are prohibited to be here. Leave or I'll have to resort to radical measures!
+#L_D6_ans00=(Dalej)
+#L_D6_msg10=Calm down, boy, and no one gets hurt.
+#L_D6_ans10=(Dalej)
+#L_D6_msg20=You bastard, this is Captain Elm Easter speaking! Surrender immediately and pray that I spare your petty lives!
+#L_D6_ans20=Jeez! Greyhair, Che, why the hell are we wasting time on these clowns? We've got things to do! Whack them and let's jump!
+#L_D6_msg30=General alert, guards are under attack! Team, withdraw!
+#L_D6_ans30=(Dalej)

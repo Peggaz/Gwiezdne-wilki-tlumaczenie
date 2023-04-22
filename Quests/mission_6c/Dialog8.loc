@@ -1,0 +1,11 @@
+;*****************************
+;Dialog8.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;USSAgent
+#L_D8_msg00=Again I ask you to leave the transports here and attack.
+#L_D8_ans00=Again I refuse.
+#L_D8_msg10=That's one stupid decision. Well, I did my best. Get the trader, boys.
+#L_D8_ans10=(Dalej)

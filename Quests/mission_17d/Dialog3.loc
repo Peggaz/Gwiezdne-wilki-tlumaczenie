@@ -1,0 +1,19 @@
+;*****************************
+;Dialog3.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Cleric
+#L_D3_msg00=I set the exit point away from staitons to have time to look around. Just a sec, I'll run a comm frequency scan. What do we have here... The NESF, naturally. Whoa, the MSF... And Triada. Oh damn, there's a Star Wolf!
+#L_D3_ans00=(Dalej)
+#L_D3_msg10=Why, do you have any problems with that?
+#L_D3_ans10=(Dalej)
+#L_D3_msg20=I'm fine with the ship, but I'm not with Corsair who flies it. Once he promised to tear my head off, if he was to met me again. Listen, don't tell him I'm here with you. Just pretend you don't know me at all, ok? We've been detected! The station's calling.
+#L_D3_ans20=(Dalej)
+#L_D3_msg30=Well, well, well, it seems we have visitors. We were expecting you, but not this soon. It's good you've decided to announce your arrival and sent us some pretty interesting reading matter. Let me ask you just in case: are you willing to surrender by any chance?
+#L_D3_ans30=(Dalej)
+#L_D3_msg40=No chance.
+#L_D3_ans40=(Dalej)
+#L_D3_msg50=Somehow I knew you'd say that. What a pity, it would be fun for an enemy of the state to provide the proof of his crimes and surrender peacefully. Anyway, come to the station. No one will prevent you from leaving the system, I promise.
+#L_D3_ans50=(Dalej)

@@ -1,0 +1,39 @@
+;*****************************
+; mission_14c
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_14c_01a=Reach the portal.
+#L_Quest_14c_01b=Reach the XT-26 portal.
+
+;*****************************
+;Speeches
+;*****************************
+#L_Alexandra_01=Great, we did it! Oh, how I hate those dust bags, those nebulas. I must confess to something... I needed your help very badly. And though I did hurry up to XT-24, because I worried about you, the main reason was still to persuade you to take on a mission. Let's head for the XT-26 portal and I'll fill you in on the details on the way.
+
+#L_Alexandra_02=Get ready to fight!
+#L_Che_01=Caramba! Let's dance salsa on their bones, amigos!
+
+#L_Gray_01=Dammit! They've killed Cayer!
+#L_Alexandra_03=Stop resisting or you'll be next!
+
+#L_Kair_01=Curses! Don't dawdle over that huckster, you lame dogs! Whack him already!
+
+#L_Kair_02=Idiots! Can't you handle a bunch of surface rats?! I'm calling in backup!
+#L_Sedoy_01=Now we're done for, boss.
+
+#L_unknown_01=Mission accomplished. Return to the HQ.
+#L_Sedoy_02=That's some ending. What was that?
+#L_Che_02=If two tarantulas are leading a vendetta here, there might as well be the third one we won't be able to squash. We'd better get away to a quieter place, amigos.
+#L_Sedoy_03=Boss, if I ever talk much before starting a fight, do stop me, all right? That's a typical cliche that always ends bad for the talker.
+#L_Lastochka_01=Another cliche is to hang around a battlefield, being a nice target for more grey lamebrains. It's high time to hit it, partner.
+#L_Alexandra_04=I couldn't agree more. We don't have enough forces to fight Greys non-stop.
+
+#L_Alexandra_05=Great, we've reached the spot. I don't know what's on the other side, so watch your scanners.
+
+#L_sys_01=That was your biggest mistake. Whatever happens next, you won't be a part of it.

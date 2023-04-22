@@ -1,0 +1,10 @@
+;*****************************
+;Dialog13.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D13_msg00=Where to now, partner?
+#L_D13_ans00=I'm sure Triada is bound to have the information we need. We're going to Candela.
+#L_D13_ans01=My friend asked me for help with escorting a convoy. Let's visit him in XT-54 and make some cash.

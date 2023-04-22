@@ -1,0 +1,26 @@
+;*****************************
+;Dialog7.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m12_CaptainVKSgraft
+#L_D7_msg00=Well, we found your pretty guy.
+#L_D7_ans00=So where is he?
+#L_D7_msg10=Not so fast. You owe us a reward.
+#L_D7_ans10=Sure thing, I stick to my word.
+#L_D7_msg20=Great. Here are the coordinates we noticed him at.
+#L_D7_ans20=Wait! Wait! You mean you didn't wreck his ship?
+#L_D7_msg30=Do we look like hired butchers? Of course we didn't.
+#L_D7_ans30=But I said "eliminate"!
+#L_D7_msg40=Can't remember that. Anyway, you'd have to cough up 100 grands more for that kind of job.
+#L_D7_ans40=(Dalej)
+#L_D7_msg50=Boss, they're obviously conning us out of another 100 G's.
+#L_D7_ans50=I couldn't agree more. No deal!
+#L_D7_ans51=Nah, just playing hard to get. All right, I agree, dammit.
+#L_D7_msg60=Well, it's your call. Team, let's move out to our former spot. As for you, good luck in catching that guy. You'll need tons of it, believe me.
+#L_D7_ans60=(Dalej)
+#L_D7_msg70=I wonder what the thick-skulled rat meant.
+#L_D7_ans70=I'm afraid we'll find out soon enough.
+#L_D7_msg61=Right! So, that Cleric of yours is protected by a bunch of pirates. While I'm calling for backup we'll visit the place and try to negotiate.
+#L_D7_ans61=(Dalej)

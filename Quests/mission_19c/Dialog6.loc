@@ -1,0 +1,79 @@
+;*****************************
+;Dialog6.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Alex
+#L_D6_msg00=Are you insane? You brought a tincan along!
+#L_D6_ans00=(Dalej)
+#L_D6_msg10=Greetings. SAM, the artificial intelligence of the 3rd generation is at your service.
+#L_D6_ans10=(Dalej)
+#L_D6_msg20=SAM, tell us something. Is it true that you're going to put a chip into every human's head and rule us as you please?
+#L_D6_ans20=(Dalej)
+#L_D6_msg30=This assumption is wrong. My entire software architecture is based on principles eliminating any harm to humanity. An attempt to change this imperative will result in my death. I was created only as a tool for effective resource management, humans included. According to my analysis, intervention in individual's mind and imposing a certain behavioral model only reduces his or her efficiency.
+#L_D6_ans30=(Dalej)
+#L_D6_msg40=By the way, Oliver said the same to the empress, when we started to worry about InoCo creating a new AI. Finally, SAM, the last and most important question: how much might neurochip technology cost?
+#L_D6_ans40=(Dalej)
+#L_D6_msg50=The potential benefits of the neurochip technology are impossible to estimate accurately. The technology starts a new era in controlling databases, machines and data. But the profit from using neural interfaces in industries for a single year may cover the total revenue of all inhabited systems for ten years.
+#L_D6_ans50=(Dalej)
+#L_D6_msg60=I'll be damned, if I believe a word of this!
+#L_D6_ans60=(Dalej)
+#L_D6_msg70=I cannot lie. It is against my imperatives.
+#L_D6_ans70=(Dalej)
+#L_D6_msg80=So, admiral, dear guests, what do we have? The words of a machine that has never lied yet. And the words of a man who created a secret society, stole from both empires and all corporations and got his hands on the technology promising an enormous fortune. Ah, and he's also stalling for time, while his fleet is approaching our location. Do what you please, but I'm not trusting any of his words. Though I can offer a compromise: Alex, you give the stolen technology back and surrender peacefully.
+#L_D6_ans80=(Dalej)
+#L_D6_msg90=Quite an offer. But my astrology charts don't recommend me doing that.
+#L_D6_ans90=(Dalej)
+#L_D6_msg100=Then we have nothing to talk about.
+#L_D6_ans100=Oh, we have plenty of that. I don't like that SAM insisted on attacking the FTU station. And demanded to get rid of police forces. Look at its ship, it's obviously based on Berserk technologies! You know, I met a whole horde of them in the border sector. No, I definitely can't a machine! Though we, people, may still come to an agreement.
+#L_D6_ans101=Why is everything up to me again?! Alex, I'm sorry, but I can't trust you anymore. You really lied a lot. I don't want to shoot you. Please surrender.
+#L_D6_ans102=Wait a second! Don't push me! SAM, you haven't yet explained how those neurochips operate and how data will be communicated. Besides, I'm eager to know if you have anything to do with the Berserk hordes in the border worlds? Your ships look very much alike.
+#L_D6_msg110=Right, boss! Let's dismantle that clunker!
+#L_D6_ans110=(Dalej)
+#L_D6_msg120=Humans, you're making a mistake!
+#L_D6_ans120=(Dalej)
+#L_D6_msg130=It was me who made a mistake by trusting a person who has just decided to betray me. But I'm going to fix it right now!
+#L_D6_ans130=(Dalej)
+#L_D6_msg140=I told you talking would be no use. They are all the same.
+#L_D6_ans140=(Dalej)
+#L_D6_msg111=People, you will be sorry you've listened to a tincan. You will be sorry you've been so blind.
+#L_D6_ans111=(Dalej)
+#L_D6_msg121=Save compassion for yourself!
+#L_D6_ans121=(Dalej)
+#L_D6_msg131=Alex, you should really surrender. I guarantee that you will at least be heard. And the neurochip information will be thoroughly checked out.
+#L_D6_ans131=(Dalej)
+#L_D6_msg141=Admiral, if the tincan gets the chips, there will be no one to check anything out. As for you, my friend, I'm sorry. I've done much wrong, but you can't set it right now. General alert!
+#L_D6_ans141=(Dalej)
+#L_D6_msg112=You're right! I've completely forgotten about the cursed tincans!
+#L_D6_ans112=(Dalej)
+#L_D6_msg122=Berserks? What is it about, SAM? Why haven't you mentioned them?
+#L_D6_ans122=(Dalej)
+#L_D6_msg132=You never asked. The aforementioned fleet was created exclusively for protection and is currently under my complete control. Unfortunately, the previous blocking algorithms prevented me from controlling the fleet, which resulted in sad incidents in the border sector.
+#L_D6_ans132=(Dalej)
+#L_D6_msg142=That's something new. Why did you need to assemble those tincans at all?
+#L_D6_ans142=(Dalej)
+#L_D6_msg152=Unlike the loss of a pilot, the loss of a machine is easily compensated. Initially, it was planned to give fleet ships to the allies, but they expressed an irrational disapproval of the idea to use berserks in combat operations.
+#L_D6_ans152=(Dalej)
+#L_D6_msg162=And what about neurochips?
+#L_D6_ans162=(Dalej)
+#L_D6_msg172=We plan to implant them in volunteers and individuals, whose skills are vital for the success of the humanity evolution. But not in everyone, as your opponent claims.
+#L_D6_ans172=(Dalej)
+#L_D6_msg182=The plan of humanity evolution? Boss, when I hear such things, my fingers start itching of urge to open fire at once!
+#L_D6_ans182=(Dalej)
+#L_D6_msg192=Please refrain from hostile actions. The plan of humanity evolution created by the Future Projects department will allow to reorganize the human society, maximize its structure efficiency, end the ongoing civil war, eliminate reasons for future wars, eradicate crime and start a new era.
+#L_D6_ans192=(Dalej)
+#L_D6_msg202=A plan of evolution you say... For the good of humanity, huh? Very interesting. Tell me, friend, what kind of protection is Oliver Reynolds under? Is his security the only reason for him to be guarded?
+#L_D6_ans202=(Dalej)
+#L_D6_msg212=Oliver Reynolds is accused of destroying the data vital for the plan of humanity evolution. Thus, he has been locked up.
+#L_D6_ans212=(Dalej)
+#L_D6_msg222=And they say machines don't lie.
+#L_D6_ans222=(Dalej)
+#L_D6_msg232=I cannot lie.
+#L_D6_ans232=(Dalej)
+#L_D6_msg242=But you can replace certain words with other words. InoCo did a truly great job creating you...
+#L_D6_ans242=(Dalej)
+#L_D6_msg252=Umm, Alex. Peace, people! I was wrong! But let's talk about it later. Now we need to dismantle the tincan!
+#L_D6_ans252=(Dalej)
+#L_D6_msg262=You are making a huge mistake. I am forced to activate additional means of protection.
+#L_D6_ans262=(Dalej)

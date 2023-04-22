@@ -1,0 +1,13 @@
+;*****************************
+;Dialog5.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Phantom
+#L_D5_msg00=I beg your pardon, but are you mercenaries by any chance? I thought you've came from the Exchange.
+#L_D5_ans00=No, unfortunately we're not.
+#L_D5_msg10=Oh, quite a pity. I need a good team, maybe even more than one. Your mothership is just perfect. It has space for so much scientific equipment! Why can't those cursed bureaucrats assign me a ship like that?
+#L_D5_ans10=Sorry to hear that.
+#L_D5_msg20=Oh, forgive the old talkative scientist. You know, I just got used to commenting everything aloud. This is probably the reason all my assistants run off from the lab after the first month. But don't let me detain you any longer and please forgive my inoffensive words.
+#L_D5_ans20=Oh, don't mention it. Good luck.

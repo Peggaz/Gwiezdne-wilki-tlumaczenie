@@ -1,0 +1,33 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m10_Hunter
+#L_D1_msg00=Are you all right?
+#L_D1_ans00=Sort of. Thanks for your help!
+#L_D1_msg10=Always welcome.
+#L_D1_ans10=(Dalej)
+#L_D1_msg20=How did Berserks get here?
+#L_D1_ans20=(Dalej)
+#L_D1_msg30=They've been sneaking from far borders for a year now. But I have no idea what's going on there.
+#L_D1_ans30=(Dalej)
+#L_D1_msg40=My, a whole year... There was nothing in the imperial news.
+#L_D1_ans40=(Dalej)
+#L_D1_msg50=The imperial news pretend not to notice that sector at all. Those bastard have left us to struggle for life without either help or equipment.
+#L_D1_ans50=(Dalej)
+#L_D1_msg60=Well, I can see that by the look of your ships. Excuse me, but where did you get all this junk?
+#L_D1_ans60=(Dalej)
+#L_D1_msg70=Junk?! Sheesh, you can only dream about "junk" like this. Completely customized, reinforced, modified, fine-tuned and runs like clock. Junk, hah! By the way, if you need some serious vessels, I can mark our station on your map. We are more than interested in trading. Besides, our prices are quite affordable.
+#L_D1_ans70=We'll drop by, if our affairs permit.
+#L_D1_msg80=Speaking of affairs, what's your destination? Are you another bunch of mineral hunters? Forget it, it's hopeless. Enough expeditions have already vanished in far borders.
+#L_D1_ans80=No, we need to rendezvous with a certain man in X203.
+#L_D1_msg90=Oh, I see. I saw a guy passing by. Thought he was going to Joseph - his kind of fellow.
+#L_D1_ans90=Joseph?
+#L_D1_msg100=Just a crackpot hermit. He has established a base on an asteroid in X203. He spends all the time there. But there was a time when he wandered this sector without a break, examining every rock. If you need a guide, Joseph is your best bet.
+#L_D1_ans100=Thanks for the advice.
+#L_D1_msg110=It's just a recommendation. And the advice is: forget about X203, all hell has broken loose there recently. A local guy has been telling horror stories since he returned from there. Well, he's a drunkard for sure, but we know he has seen something there. So stay away from X203.
+#L_D1_ans110=Thanks, we'll consider this.
+#L_D1_msg120=You've been warned. If you ever decide to pay Joseph a visit, tell him that Zurab Adjani sends his regards. Good luck.
+#L_D1_ans120=(Dalej)

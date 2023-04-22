@@ -1,0 +1,11 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;VksOfficer
+#L_D1_msg00=Have you lost your way?
+#L_D1_ans00=We were to meet up with the trade convoy.
+#L_D1_msg10=You're a bit late, they've gone through the Tira portal.
+#L_D1_ans10=Thanks, officer. Dammit. Let's hurry up, people!

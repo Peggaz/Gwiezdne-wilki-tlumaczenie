@@ -1,0 +1,68 @@
+;*****************************
+; mission_10_2
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_10_02a=Reach the Precursor portal.
+#L_Quest_10_02b=The Precursor portal is somewhere in X220. Find and activate it.
+#L_Quest_10_04a=Protect Phantom.
+#L_Quest_10_04b=Protect Phantom. He's the only one who can activate the Precursor portal.
+#L_Quest_10_05a=Protect Heretic.
+#L_Quest_10_05b=Protect Heretic. He's the only one who can activate the Precursor portal.
+#L_Quest_10_06a=Continue the search for the Precursor portal.
+#L_Quest_10_06b=There was no Precursor portal in X213. Continue the search in the adjacent X220.
+#L_Quest_10_07a=Eliminate Berserks.
+#L_Quest_10_07b=Berserks are blocking approaches to the Precursor portal. Eliminate them before reinforcements arrive.
+#L_Quest_10_08a=Jump through the portal.
+#L_Quest_10_08b=Jumping through the Precursor portal is the only way to escape the system.
+
+;*****************************
+;Speeches
+;*****************************
+#L_Josef_01=I'll mark the exact portal location on the map.
+#L_Phantom_01=Excellent! Friends, we're on the threshold of a great discovery.
+#L_Heretic_01=Fine. Here come artifacts!
+#L_Sedoy_01=Or big trouble. Boss, watch our tails. I'm afraid tins might arrive.
+
+#L_Phantom_02=I was right, the signal comes from this system! All right, I've located the source coordinates.
+#L_Heretic_02=I was right, the signal comes from this system! Transmitting the source coordinates.
+
+#L_Phantom_03=Ladies and gentlemen, congratulations! We've found it.
+#L_Heretic_03=Good news, people! We've found it.
+#L_Sedoy_02=And we're not alone.
+#L_Hero_01=Berserks!
+
+#L_Phantom_04=My equipment indicates the portal is almost fully operable.
+#L_Heretic_05=My equipment indicates the portal is almost fully operable.
+#L_Sedoy_03=Then there's just one little problem left.
+#L_Lastochka_01=Come on! Money loves busy people!
+
+#L_Phantom_05=Nice work, friends! I'm glad you've agreed to help me and I want-
+#L_Phantom_06=Well, friends, we lost the transports, but collected precious scientific data!
+#L_Hero_02=Sorry, Phantom, but let's just hit the damn portal before new problems arise!
+#L_Heretic_04=What's holding you? Let's jump!
+#L_Hero_03=One day I'll whack him...
+
+#L_Lastochka_02=Bastards! They shot the transport down!
+#L_Sedoy_04=We've got 2 more. Easier to protect.
+#L_Lastochka_03=But fewer artifacts to save! Hey, partner, be quicker with the guns!
+
+#L_Lastochka_04=We've lost 2 ships! Partner, have you forgotten your gunnery skills?!
+#L_Hero_04=Don't sleep at the rudder yourself.
+#L_Phantom_07=Take it easy, youngsters. Information is our goal, it's priceless.
+#L_Lastochka_05=We don't get paid for science.
+
+#L_Lastochka_06=That's it... Our journey to this poky hole was in vain.
+#L_Hero_05=Enough. I've heard enough moaning about financial losses. We still have the mothership, its cargo bay is large enough. Besides, our hides are more valuable than all transports together.
+#L_Lastochka_07=But-
+#L_Hero_06=Enough I said! Let's focus on the current tasks.
+
+#L_sys_01=This game is obviously not for you. Try playing Doom, Quake or Lineage. You might like them better.
+#L_sys_02=This was your biggest and last mistake in this game.
+#L_sys_03=Phantom is dead, you failed to protect him. That was a fatal mistake.
+#L_sys_04=Heretic is dead, you failed to protect him. That was a fatal mistake.

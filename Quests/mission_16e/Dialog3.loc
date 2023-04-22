@@ -1,0 +1,13 @@
+;*****************************
+;Dialog3.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Yana
+#L_D3_msg00=I... I feel strange. There's noise in my head.
+#L_D3_ans00=(Dalej)
+#L_D3_msg10=It is the result of your brain adjusting to neurochip. This will end soon. For now you are not directly connected to the databases, as your nervous system must adapt to the new electromagnetic balance of brain activity. If I open all neurochip channels at once, there is a high possibility of damaging your brain beyond repair.
+#L_D3_ans10=So how can I see if your plan of humanity evolution is real, huh? It seems that you, tincan, are tricking us!
+#L_D3_msg20=I am sorry that you got my intentions wrong. Implanted neurochips change the electromagnetic image of your brain, amplifying signals transmitted by nerve cells and increasing the speed of creating synaptic links. The chip is located on top of the spinal cord, maximizing the abilities of your nervous system. Your reaction, analytical skills, reflexes, perception and other psychophysical characteristics have multiplied. Now you have to adjust your muscular reaction. I have placed a few dummy buoys not far from here, so you can try your new abilities in the combat mode. The local Berserks will not be aggressive towards you. I must ask you to refrain from attacking them, however they will not fire back. They are your support in the mission. Return to the station, when you think you are ready for action. I shall tell you the details.
+#L_D3_ans20=(Dalej)

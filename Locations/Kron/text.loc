@@ -1,0 +1,12 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#L_nav_01=Portal do Debris (Strefa 4)
+#L_nav_02=Struktura g³ówna
+#L_nav_03=Statek Al
+#L_nav_04=Spotkanie
+#L_berBase=Zniszczona Struktura g³ówna 
+#L_vks=Zdalna baza MSF

@@ -1,0 +1,15 @@
+;*****************************
+;Dialog16.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D16_msg00=Partner, are you out of your mind? Why the hell did you start firing?!
+#L_D16_ans00=Calm down. They were luring us into a trap, haven't you noticed?
+#L_D16_msg10=Well... You may be right, but how are we going to find the stash now?
+#L_D16_ans10=Are you sure they were leading us to it?
+#L_D16_msg20=No, I'm not. We are truly in a scrape. Should we leave?
+#L_D16_ans20=Leave now? No way, that Quarter of yours owes me one. Let's get back to the station and put muscle on the old bastard. He might know something.
+#L_D16_msg30=Partner, I love adventuring, but there's a whole gang of pirates!
+#L_D16_ans30=Count again, Ternie. The station was guarded by only one team plus Squinty's men. Your Quarter seems to be a greedy bastard who saves on everything, including security. So let's pick up the trophies and pay him a return visit.

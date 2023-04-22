@@ -1,0 +1,9 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#L_main=Stacja "Kapitol"
+#L_First=Stacja "Z³ote Berety"
+#L_second=Stacja "Kosmiczne Tygrysy"

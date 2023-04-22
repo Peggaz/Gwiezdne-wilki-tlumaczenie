@@ -1,0 +1,11 @@
+;*****************************
+;Dialog12.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D12_msg00=Partner, the thick skulls won't just let us go. Let's scram!
+#L_D12_ans00=Where to?
+#L_D12_msg10=To hell itself or whatever, just away from the imperial systems.
+#L_D12_ans10=I think we should check what InoCo wanted from us. We're going to Lidau.

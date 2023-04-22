@@ -1,0 +1,23 @@
+;*****************************
+;Dialog3.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Viper
+#L_D3_msg00=Excellent. Now we'll grab Triada by the throat. Lieutenant, escort this transport to the station. I'll contact the prosecutor.
+#L_D3_ans00=(Dalej)
+#L_D3_msg10=Major, we have a little problem. The transport's cargo bay is empty.
+#L_D3_ans10=(Dalej)
+#L_D3_msg20=What do you mean empty? Hey, transport! What have you corporate bastards done to the cargo?! Answer quickly and clearly before I lose my temper!
+#L_D3_ans20=What cargo? I'm a mere trader. I've just entered the system. I'm empty!
+#L_D3_msg30=What were you doing among Triada fighters?
+#L_D3_ans30=What could I be doing, surrounded by fighters with guns aimed at me? They ordered me to follow and I did!
+#L_D3_msg40=Follow where? Why?
+#L_D3_ans40=I have no idea! I've called for you right away. To be honest, I haven't expected you to arrive that fast. And I must say I don't like the mess you have in this system! A loyal trader that pays taxes you live by cannot travel safely anymore!
+#L_D3_msg50=Shut up. Lieutenant, what do we know about this transport?
+#L_D3_ans50=(Dalej)
+#L_D3_msg60=It's registered in the Free Traders Union. The portal patrol has confirmed it has arrived alone and empty.
+#L_D3_ans60=(Dalej)
+#L_D3_msg70=Good. Now listen close, loyal one. We'll load you with escape pods that have survived corporators inside. You will deliver those to the local MSF HQ. When you arrive, report to the officer on duty that you have a cargo from Major Viper. One turn in the wrong direction and I'll skin you alive. And I mean it. Now get going.
+#L_D3_ans70=(Dalej)

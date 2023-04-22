@@ -1,0 +1,24 @@
+;*****************************
+; mission_12
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_12a_01a=Meet with Admiral Trump.
+#L_Quest_12a_01b=Admiral Trump might know something that will help us locate Ternie's kidnappers. Right now the admiral is in Al-Trabon.
+#L_Quest_12b_01a=Meet with Aja Shumova.
+#L_Quest_12b_01b=Aja Shumova is the head of Triada's special security department, and this corporation is well known for connections with the underworld. Aja might know about a gang on grey ships. She is currently at the Changchun Station in XT-52.
+#L_Quest_12c_01a=Meet with Alexandra Sukhova.
+#L_Quest_12c_01b=Alexandra's department has been searching for grey ships for some time now and she might know the location of that gang's base. Alexandra awaits in Cadi.
+#L_Quest_12d_01a=Meet with Cleric.
+#L_Quest_12d_01b=Alex says that InoCo has a system to determine which portals were visited by ships with known engine signatures. The corporation will hardly want to share this information, but Cleric, a hacker, can break into InoCo's server and steal the needed data. He's currently in XK-10, most likely, in trouble once again.
+#L_Quest_12e_01a=Reach XK-10.
+#L_Quest_12e_01b=InoCo has a system to determine which portals were visited by ships with known engine signatures. Considering that we have helped the corporation a lot, their Chief Administrator Whell might agree to help us locate Ternie's kidnappers. We need to reach XK-10 and contact InoCo's bosses.
+
+;*****************************
+;Speeches
+;*****************************

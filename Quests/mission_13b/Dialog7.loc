@@ -1,0 +1,21 @@
+;*****************************
+;Dialog7.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka2
+#L_D7_msg00=It's you! By Great Space, am I glad to see you! We've nearly lost all hope.
+#L_D7_ans00=Are you all right? Who's this with you?
+#L_D7_msg10=Quite fine already. Partner, this is Kalem. He's a technician that pirates have captured. It was he who disabled the guns on this transport and helped me get out.
+#L_D7_ans10=(Dalej)
+#L_D7_msg20=What did they fire at us? I've never seen a gun of that power before.
+#L_D7_ans20=(Dalej)
+#L_D7_msg30=Major caliber guns. Developed for the MSF and customized by me.
+#L_D7_ans30=Wait, you said pirates? Are those Greys a clan or something?
+#L_D7_msg40=No, these guys go beyond all clans I've heard of. They are just using pirates. Their base is nearby.
+#L_D7_ans40=Then we have to scram. Kalem, can you take those guns off and install them at our base?
+#L_D7_msg50=If I managed to get them working on these old tubs, I'd install them on your base in a breeze. I'll just need...
+#L_D7_ans50=(Dalej)
+#L_D7_msg60=Too late, boss. Bandits at nine o'clock!
+#L_D7_ans60=(Dalej)

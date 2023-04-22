@@ -1,0 +1,16 @@
+;*****************************
+;Dialog9.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D9_msg00=Free trader calling Illumino.
+#L_D9_ans00=(Dalej)
+#L_D9_msg10=Hey, we've been looking forward to meeting you.
+#L_D9_ans10=I'm here on imperial business, my client is very influential. Touch me, and you'll be in trouble!
+#L_D9_msg20=Oh yeah, Malky is sure influential. Especially when it comes to lamebrains. Listen, trader, we're in a hurry. We think your hide costs 5 G's, so either cough them up or pray.
+#L_D9_ans20=I'll pay, damn you!
+#L_D9_ans21=Fat chance, I've dealt with bastards worse than you!
+#L_D9_msg30=That's better. Good luck, huckster, drop by again.
+#L_D9_ans30=(Dalej)

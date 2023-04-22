@@ -1,0 +1,12 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#L_pirate=Stacja wojskowa Triady
+#L_trade_station=Stacja Handlowa "Candela"
+#L_triada_stab=Stacja Triady "Triumwirat"
+#L_Fact1=Zak³ad "Samung"
+#L_fact2=Zak³ad "Mitsubi"
+#L_lab1=Stacja naukowa "Onis"

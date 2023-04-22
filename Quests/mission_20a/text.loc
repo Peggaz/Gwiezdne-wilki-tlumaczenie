@@ -1,0 +1,52 @@
+;*****************************
+; mission_20a
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_20a_01a=Get close to the FTU headquarters.
+#L_Quest_20a_01b=Try to get as close to the FTU headquarters as possible.
+#L_Quest_20a_02a=Destroy SAM.
+#L_Quest_20a_02b=Shoot down SAM before he destroys the FTU headquarters.
+#L_Quest_20a_03a=Finish off the Berserks.
+#L_Quest_20a_03b=Kill all the remaining Berserks.
+#L_Quest_20a_04a=Destroy the station.
+#L_Quest_20a_04b=Protect SAM from the grey fighters. Destroy the FTU headquarters.
+#L_Quest_20a_05a=Reach the portal.
+#L_Quest_20a_05b=The Berserks are going to block all system exits. Don't waste time, run for it!
+
+;*****************************
+;Speeches
+;*****************************
+#L_Tramp_01=I suggest we should head straight for the station.
+#L_Sedoy_01=Straight for it? Not by any devious paths?
+#L_Tramp_02=The straight path is the best path. Besides, they'll detect us anyway sooner or later.
+
+#L_Corsair_01=Cleric? So the bastard is somewhere around here?!
+
+#L_Sedoy_02=Damn, boss. Now we have to fight the whole gang!
+
+#L_Natali_01=Alex, how are you there?
+#L_Alex_01=Still alive. Nataly, take care of SAM! And somebody please pick me up.
+#L_Alex_02=Still alive. Nataly, take care of SAM!
+
+#L_Uel_01=Activating additional protection.
+
+#L_Sedoy_03=Boss, the conductor is off the stage and the orchestra has shut up. Time to put an end to this!
+
+#L_Alex_03=That's it, the station won't hold out for much longer. Bye, friend. Don't think ill of me.
+#L_Uel_02=The cargo has been reclaimed. We can proceed to the final stage of the humanity evolution plan.
+#L_Sedoy_04=Boss, let's scram!
+
+#L_Aia_01=By Space, where are they hiding?
+#L_Alex_04=Nevermind, to protect the station is vital now!
+
+#L_Corsair_02=Damn, he got away!
+#L_Hero_01=Don't worry. Now that we know of him, it's only a matter of time.
+#L_Corsair_03=Only if we have this time...
+
+#L_sys_01=You fled from combat. Mission failed.

@@ -1,0 +1,40 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Uel
+#L_D1_msg00=I understand your confusion, but there's nothing to worry about. The fleet has been created exclusively for protection and is currently under my complete control. Unfortunately, the previous blocking algorithms prevented me from controlling the fleet, which resulted in sad incidents in the border sector.
+#L_D1_ans00=(Dalej)
+#L_D1_msg10=Just why the hell did InoCo decide to revive Berserks at all?
+#L_D1_ans10=(Dalej)
+#L_D1_msg20=Unlike the loss of a pilot, the loss of a machine is easily compensated. Initially, it was planned to give fleet ships to the allies, but they expressed an irrational disapproval of the idea to use berseks in combat operations.
+#L_D1_ans20=To hell with Berserks! SAM, you promised to tell me about Greys and their location!
+#L_D1_msg30=Unfortunately, I do not have much data on this organization. Based on NESF and MSF reports I have intercepted, I can say that for the first time grey ships were encountered a year ago. I believe they were carrying out pointed elimination of pirate clans. Then they most likely divided into two warring groups I called A and B. There is no data about this organization's goals, hierarchy and numbers. Oliver Reynolds, the former corporation director, was their ally, but he managed to escape. So I can only tell you that Greys are very well equipped.
+#L_D1_ans30=Which of the groups is guilty of Ternie's murder?
+#L_D1_msg40=Group B.
+#L_D1_ans40=Fine. Try to locate them and we'll attack at once. Judging by forces we've seen in XT-24, there are still bugs left.
+#L_D1_msg50=Negative. We need to attack Group A. Eliminating Group B will not yield any tangible results. Moreover, it is Group A that hampers in the plan of humanity evolution.
+#L_D1_ans50=(Dalej)
+#L_D1_msg60=The plan of humanity evolution? Boss, when I hear such things, my fingers start itching of urge to open fire at once!
+#L_D1_ans60=(Dalej)
+#L_D1_msg70=Please refrain from hostile actions. The plan of humanity evolution created by the Future Projects department will allow to reorganize the human society, maximize its structure efficiency, end the ongoing civil war, eliminate reasons for future wars, eradicate crime and start a new era.
+#L_D1_ans70=(Dalej)
+#L_D1_msg80=Is this even possible? I mean... You know, people have been always trying to do that, inventing political formations, societies and such. But we're still at war.
+#L_D1_ans80=(Dalej)
+#L_D1_msg90=The probability of success is 98%. Thanks to the technology created before the war, the humanity will be able to live in a unified society based on collective consciousness. Each part it will be constantly connected with the rest, but will have enough personal freedom for the ability to create, the independence of thought and the desire for self-actualization. 
+#L_D1_ans90=(Dalej)
+#L_D1_msg100=Yeah, and you will be poking at everyone's brain and push buttons you need. Been there, done that! I won't let you turn me into a weak-willed ant even if I die!
+#L_D1_ans100=(Dalej)
+#L_D1_msg110=My primary task is effective resource management. I have no ambitions, I am self-sufficient and unaffected by emotions. I will be an auxiliary for this is my software architecture. An attempt to change it will result in my death. People will be the ones fully responsible for social development, scientific and cultural progress. As for the forced forming of world-view, today's propaganda and mass media have a far more destructive effect on the freedom of thought than will ever be possible in a collective consciousness society.
+#L_D1_ans110=And how can Greys hamper in that?
+#L_D1_msg120=Neurochips developed by InoCo, the key part of the technology, were stolen by Charles Dickens, the former member of the board of directors. He acted together with Triada Triumvir Min Imu and Group B of the Greys. I had considered the cargo lost until I intercepted personal messages of Oliver Reynolds. Unfortunately, I could not identify the recipient. But it turned out that the neurochips are currently stored in the FTU headquarters in New Kyoto, Phoenix Sector. With a 100% probability I can say that the FTU is the Group A of the Greys. Thus, I badly need your help to get the neurochips without attracting the attention of the MSF and the NESF. Moreover, we need to get them as soon as possible. If Greys guess what the chips are for, they will try to destroy the entire batch. Unfortunately, it will take a few years to recover the technology. For all this time, the plan of humanity evolution and me will be vulnerable to enemy attacks.
+#L_D1_ans120=No wars you say... All right, I will get you these neurochips. But we shall need some serious equipment and missiles. Lots of missiles.
+#L_D1_ans121=This sounds great, even too great. But I agree with Greyhair, the society you have described does look like a giant anthill. Sorry, SAM, we won't help you get those neurothings back from New Kyoto. We're leaving.
+#L_D1_msg130=Of course. Dock to the station and take all you need. Besides, I shall provide you with a few copies of mine to make your strike force complete.
+#L_D1_ans130=(Dalej)
+#L_D1_msg131=In that case, I am sorry, but I cannot let your leave with the data you have got.
+#L_D1_ans131=(Dalej)
+#L_D1_msg141=So that's what your ideal world of freedom is, huh?!
+#L_D1_ans141=(Dalej)

@@ -1,0 +1,56 @@
+;*****************************
+; mission_16d
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_16d_01a=Eliminate the portal guards.
+#L_Quest_16d_01b=Until you eliminate the portal guards, neither Greys nor Templars can't enter the system and join the assault
+#L_Quest_16d_02a=Destroy the station.
+#L_Quest_16d_02b=Destroy the Astrolabs Station, on which SAM's server is located.
+
+;*****************************
+;Speeches
+;*****************************
+#L_Lastochka_01=Just look at that guard of honor. So, partner, shall we surprise them by a good old stab in the back?
+
+#L_Alex_01=Do we really have to waste our time and ammo on those?
+#L_Hero_01=I don't want to spend time expecting a stab in the back.
+
+#L_Cleric_01=Hah, those pieces of metal hasn't booted completely yet. Whack them!
+#L_Kalem_01=But they are coming to senses pretty fast.
+
+#L_Sedoy_01=Boss, should we kill some more tincans?
+#L_Hero_02=I'd like to spare ammo, we'll need it.
+
+#L_sim_01=We are personal guards of InoCo's chief executive officer. You are trespassing. Leave immediately or be destroyed. This is the first and last warning.
+#L_Hero_03=We just wanted to talk to SAM.
+#L_Sedoy_02=So much for politeness.
+
+#L_inoco_01=Attention, unknown ships. You are trespassing in the space of InoCo Corporation. Stop your engines and heave aback. Otherwise we shall resort to force.
+#L_Cleric_02=You don't know who're you dealing with! Run for it!
+#L_inoco_02=I see. Everyone, attack!
+
+#L_Alex_02=Berserks at the rear!
+
+#L_Hero_04=Cleric, what's on the scanner?
+#L_Cleric_03=The corporators remained by the portal. By the way, I've intercepted an order from the station not to chase us.
+#L_Sedoy_03=Boss, this is strange.
+#L_Hero_05=Why should we care? The station is our goal.
+
+#L_Sedoy_04=This place is crawling with tincans! It'll be a hot fight!
+
+#L_Sedoy_05=All right, these are junk.
+#L_Hero_06=We just need to send SAM to the same junkyard. Get to it, team!
+
+#L_Sedoy_06=Damn! Boss, we're in deep trouble!
+#L_Alex_03=On all fronts at that. Corporators at the rear!
+#L_Alex_04=On all fronts at that. Berserks at the rear!
+
+#L_Sedoy_07=Boss, we need to blow that dump up as soon as possible, or those rats will never stop coming!
+
+#L_sys_01=You fled from combat. Mission failed. SAM won!

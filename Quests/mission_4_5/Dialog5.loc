@@ -1,0 +1,11 @@
+;*****************************
+;Dialog5.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D5_msg00=All right, we left them far behind, let's go. Here are the route coordinates. Oh, and I got a report on what those guns were. Fixed short- and long-range twin turrets.
+#L_D5_ans00=Couldn't you tell me earlier?!
+#L_D5_msg10=Don't interrupt me. I can't get a reading of targeting systems or firepower, so just do your best to stay away from them.
+#L_D5_ans10=(Dalej)

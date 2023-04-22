@@ -1,0 +1,12 @@
+;*****************************
+;Dialog41.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;KfniAce
+#L_D41_msg00=Attention, civilian ship, stop your engines and prepare for examination. Oh, I can see you had a rough day. What, run afoul of thick skulls?
+#L_D41_ans00=They are freaking maniacs! Hit us with all they had, we nearly made it to the portal.
+#L_D41_msg10=Oh, they sure could do that. They're keeping our system under a severe blockade. Wouldn't let any ship pass either way. I'd understand if they hunted us, the military, but they shoot down civilians and even those who surrender. Wild beasts... Anyway, the scanners indicate you're carrying rations and medicines. This is great! We'll take you to the station, they need it badly!
+#L_D41_ans10=Wait! Don't take us there yet. The scanners are showing it wrong. It's a bomb to demolish your station. I'll explain it later, right now we have to ditch it.
+#L_D41_ans11=Oh, I can't wait to get it all unloaded myself. Show me the way.

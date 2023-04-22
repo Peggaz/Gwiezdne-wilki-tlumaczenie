@@ -1,0 +1,23 @@
+;*****************************
+;Dialog11.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m9c_Guard
+#L_D11_msg00=Great! We won, my friends, we won!
+#L_D11_ans00=It's hard to argue with that. I wonder how pirates managed to gather and move all that army across Endoria?
+#L_D11_msg10=It's pretty obvious: thick skulls helped. I wouldn't be surprised, if the attack was planned to their order.
+#L_D11_ans10=Too bad... We've got radium transports to deliver.
+#L_D11_msg20=I don't have many men, but I can dispatch a team to help you.
+#L_D11_ans20=That would come in handy.
+#L_D11_msg30=And there's one more thing. I'd like you to know that our entire system is in your debt. I'll try to message Alexandra immediately about your invaluable help in the defense of Dionysus. I hope we'll meet again, when it's quieter. Just a second... They report that the transports were been loaded with radium and sent to the rendezvous point. Let me mark the coordinates on your map. And I've dispatched an escort there as well. Well, friends, thanks again and good luck.
+#L_D11_ans30=And good luck to you. See you again.|So, people, shall we finish this mission properly? Che, are you coming with us or saying good bye?
+#L_D11_msg40=It would be a great honor for me to join you, amigos.
+#L_D11_ans40=(Dalej)
+#L_D11_msg50=Aw, you're bowing and scraping again... You could have just said, "Sure, let's go".
+#L_D11_ans50=(Dalej)
+#L_D11_msg60=But I just-
+#L_D11_ans60=Take it easy, Che. Ternie likes grumbling for appearances' sake. She's actually glad to have you along.
+#L_D11_msg70=Yeah, I have this cake with candles right here. I mean cut the cackle, we have things to do!
+#L_D11_ans70=(Dalej)

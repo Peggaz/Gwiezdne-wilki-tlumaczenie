@@ -1,0 +1,12 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#L_nav_01=Portal do Debris (Strefa 2)
+#L_nav_06=Nielegalny magazyn uranu
+#L_nav_03=Stacja wydobywcza uranu "InoCo-1"
+#L_nav_04=Stacja wydobywcza uranu "InoCo-2"
+#L_nav_05=Stacja wydobywcza uranu "InoCo-3"
+#L_nav_02=Stacja patrolu Triady

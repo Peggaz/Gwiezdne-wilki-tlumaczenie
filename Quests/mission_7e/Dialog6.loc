@@ -1,0 +1,21 @@
+;*****************************
+;Dialog6.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D6_msg00=Are you ready for this? I look at the scanner and there's nothing, completely nothing. As if the entire system is empty. But if I apply a filter, I can see tracks of ship signatures.
+#L_D6_ans00=And why should we care?
+#L_D6_msg10=Because we are the only ones clearly visible. Everybody else is well hidden.
+#L_D6_ans10=(Dalej)
+#L_D6_msg20=That cannot be. I can understand if a ship is cloaked, but you can't just hide a whole system with all the stations and ships inside. Imagine how much energy that'd take.
+#L_D6_ans20=(Dalej)
+#L_D6_msg30=Believe it or not, I told you what I saw. This place is full of life that's concealed from strangers. And I'm wondering why.
+#L_D6_ans30=I'm not. I don't want somebody to eavesdrop on us and decide we're better dead than alive. So let's all keep silent.
+#L_D6_msg40=That's reasonable. If you don't have paranoia, it doesn't mean you're not being watched.
+#L_D6_ans40=(Dalej)
+#L_D6_msg50=Have you come up with this yourself?
+#L_D6_ans50=(Dalej)
+#L_D6_msg60=No, I found it in the Web.
+#L_D6_ans60=Would you be so kind to shut up?

@@ -1,0 +1,17 @@
+;*****************************
+;Dialog9.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Sedoy
+#L_D9_msg00=Plasma be damned!
+#L_D9_ans00=What now?
+#L_D9_msg10=Our hacker has vanished!
+#L_D9_ans10=What? How?!
+#L_D9_msg20=How should I know, boss?
+#L_D9_ans20=So what now?
+#L_D9_msg30=Nothing.
+#L_D9_ans30=What do you mean nothing?
+#L_D9_msg40=The game's over.
+#L_D9_ans40=(Dalej)

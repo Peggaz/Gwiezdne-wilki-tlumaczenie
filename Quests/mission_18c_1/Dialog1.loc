@@ -1,0 +1,43 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;VksAce
+#L_D1_msg00=Admiral? Thanks Space, you're here! We have an emergency. The HQ is keeping silent, flower lovers are pouring in from Tira. We have repelled a few attacks, but we're getting low on ammo!
+#L_D1_ans00=(Dalej)
+#L_D1_msg10=Pouring in from Tira? Lieutenant, don't you want to explain?
+#L_D1_ans10=(Dalej)
+#L_D1_msg20=I... I can't. You have my word.
+#L_D1_ans20=(Dalej)
+#L_D1_msg30=Your word is of little use to me now.
+#L_D1_ans30=(Dalej)
+#L_D1_msg40=Admiral, I want to help, but I don't know how. My department doesn't plan military operations, and I personally didn't know about any scheduled attacks.
+#L_D1_ans40=(Dalej)
+#L_D1_msg50=And if you did, you probably would't tell me anyway. Captain, who's in charge of our forces here?
+#L_D1_ans50=(Dalej)
+#L_D1_msg60=Rear Admiral Janosz went bush along with the chief of staff. The same happened in New Jerusalem 2. I took command, being the superior officer here.
+#L_D1_ans60=(Dalej)
+#L_D1_msg70=A captain is a superior officer in two systems?
+#L_D1_ans70=(Dalej)
+#L_D1_msg80=Yes, sir. There's that Colonel Stein, but he commands infantry task force and insisted on me taking command of the fleet. He guaranteed me full support.
+#L_D1_ans80=(Dalej)
+#L_D1_msg90=Rats! To withdraw all higher-ups is an outrage that must be punished by a firing squad! Captain, what's the status of the flower lovers?
+#L_D1_ans90=(Dalej)
+#L_D1_msg100=I'd say they are not aggressive. They arrive in relatively small teams and transmit the offer to surrender. We've been shooting at them as a warning, but neither us or them have suffered any casualties yet.
+#L_D1_ans100=(Dalej)
+#L_D1_msg110=Good... Listen, captain. I don't have the situation under control right now, but I think to be careful is the best tactics at the moment. If large forces of the NESF or any other enemy arrive, you are to evacuate to Al-Trabon, where you will be under the command of Rear Admiral Kirillov. Transmit my orders to New Jerusalem 2 and 3, so they start getting ready for evacuation. Try to avoid losses among the MSF personnel.
+#L_D1_ans110=(Dalej)
+#L_D1_msg120=But... Pardon me for asking, admiral, but does it mean we've lost the war?
+#L_D1_ans120=(Dalej)
+#L_D1_msg130=Captain, I don't have enough data right now to speculate, so let's focus on keeping our men alive. Oh yes, it is very important that our soldiers think the evacuation is a planned tactical maneuver. We must preserve morale they still have.
+#L_D1_ans130=(Dalej)
+#L_D1_msg140=Yes, sir!
+#L_D1_ans140=(Dalej)
+#L_D1_msg150=Good luck, captain. I'll do my best to sort this out, I promise. Then I'll contact you. Now get to it.
+#L_D1_ans150=(Dalej)
+#L_D1_msg160=The twists and turns of life are odd at times.
+#L_D1_ans160=(Dalej)
+#L_D1_msg170=Let's hope these oddities won't be a reason for us being shot down that side of the portal. Lieutenant, your higher-ups will have to explain a lot of things.
+#L_D1_ans170=(Dalej)

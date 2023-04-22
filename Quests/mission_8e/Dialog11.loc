@@ -1,0 +1,36 @@
+;*****************************
+;Dialog11.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m7f_Dikkens
+#L_D11_msg00=Nice to see you. Here's the briefing. We now head for XT-54, pass through XT-52 and attack the station in XT-45, where your containers are kept. Then we take the cargo and retrest to InoCo's space through XT-54. The possible risk will be compensated by 700,000 credits.
+#L_D11_ans00=Wait! What do you mean "through"? XT-54 is a dead-end. Besides, it's some ten system away.
+#L_D11_msg10=Let's say that I have means to quickly deliver a small fleet into a certain location - XT-54 in our case.
+#L_D11_ans10=(Dalej)
+#L_D11_msg20=How small should this fleet be?
+#L_D11_ans20=(Dalej)
+#L_D11_msg30=A few support teams. There will be no backup, so we'll have to act quickly and accurately.
+#L_D11_ans30=(Dalej)
+#L_D11_msg40=I smell trouble.
+#L_D11_ans40=(Dalej)
+#L_D11_msg50=It's worth the risk. Besides, they don't expect us to appear in the heart of the Triada's space.
+#L_D11_ans50=So it's Triada who has the lost containers? Those bastards charged me for the lost cargo!
+#L_D11_msg60=Yeah, funny, isn't it?
+#L_D11_ans60=No it's not. It's not funny at all. To hell with the cargo, but if Triada has the containers, I'm starting to think they have to do with the attack on my employees.
+#L_D11_msg70=Heh, not just have to do. They were the ones who attacked your employees. As I told you, the cargo had belonged to InoCo initially, but was stolen. When our security found out about the loss, Triada ships had already been far away with containers. It seems Triada has planned the disappearance of your ships since the very beginning, but the MSF attack on Beta Lethera was a perfect opportunity. FIrst, we thought that the cargo had been taken by imperial goons. But then we got to know where to look for containers - in XT-45.
+#L_D11_ans70=Bastards... Can you at least tell me what was the cargo? Why were my pilots killed?
+#L_D11_msg80=Without entering the details, I can say it's an example of a new and very promising technology. The problem is that container locks are set to you biometrics and the only key we supplied had been destroyed along with the transports. To try and open the containers without it means to risk losing the cargo to self-destruction.
+#L_D11_ans80=(Dalej)
+#L_D11_msg90=Partner, this is a setup. Why can't InoCo get the containers here for you to open them?
+#L_D11_ans90=(Dalej)
+#L_D11_msg100=Because, my dear, the stakes in this game are too high to take even the smallest risk. We'll need to open the containers as soon as we have them. And then get them out by several ships, so at least some get to the destination, if others are destroyed. Just so you don't suspect anything, I'm ready to pay you right after you've agreed to participate in the operation.
+#L_D11_ans100=And still I have to refuse. I can't get my pilots back, and I don't want to risk my friends' lives. Besides, the cargo is not our concern anymore.
+#L_D11_ans101=Then we're in.
+#L_D11_msg110=For some reason, I considered you a brave and a proud man. Well, in that case you may go. Guards, take our guests to the exit.
+#L_D11_ans110=(Dalej)
+#L_D11_msg120=Please proceed straight to the portal.
+#L_D11_ans120=(Dalej)
+#L_D11_msg111=Great. I mentioned the means of fast transportation. It's here, in this system, I'll mark it on your map. By the way, the money have been transferred to your account already.
+#L_D11_ans111=(Dalej)

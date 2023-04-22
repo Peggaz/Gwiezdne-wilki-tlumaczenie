@@ -1,0 +1,17 @@
+;*****************************
+;Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D2_msg00=Greyhair, why do mercenaries need an exchange at all?
+#L_D2_ans00=(Dalej)
+#L_D2_msg10=Most mercenaries live by their military, police or generic combat experience. They are not in high demand in times of peace. So the Empire created centers for mercenary registration and certification - to keep an eye on every one of them and assign tasks as they pleased. Want to fly a spaceship? Register, get a certificate and hand over your logbook on arrival.
+#L_D2_ans10=That's a serious approach.
+#L_D2_msg20=We didn't complain. The most competent teams were hightly respected and awarded. Besides, we mostly maintained order and fought pirates. In many systems they treated us like heroes. Respect and understanding of the good things you do - boss, this is like balm to the soul.
+#L_D2_ans20=But everything has changed much.
+#L_D2_msg30=Very much, believe me. Center clerks became focused on wallets more than on everything else. Need a mission? Pay the half of your reward. Finally, mercenaries ran out of patience and, when Star Wolves declared a legal empress, gathered all the imperial riffraff in a hangar and threw them into the open space with no suits on.
+#L_D2_ans30=That was harsh.
+#L_D2_msg40=That was deserved. Staff brain muddlers had already gotten a few good teams killed. Those bastards assigned our boys to missions of no return. And mercenaries are not the ones to endure being walked all over for long. What happened next and who runs the Exchange now I do not know, sorry.
+#L_D2_ans40=That's ok, we'll see it ourselves soon enough.

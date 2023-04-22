@@ -1,0 +1,15 @@
+;*****************************
+;Dialog4.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Phantom
+#L_D4_msg00=I don't believe my eyes! Nice to meet you! I hope you still remember the old scientist that you saved from pirates and generously rewarded with a great ship?
+#L_D4_ans00=Professor?! My, what a surprise. We're glad you could get home safe and sound.
+#L_D4_msg10=Only with your help, young people, only with your help. Which reminds me about an old debt. No, I won't listen! I never delay paying my debts and I'm too old to change my principles. Let me transfer you 25,000 credits. As you can see, I've managed to get some dough from university rats, hah!|But let me ask you, friend, what are you doing in this system?
+#L_D4_ans10=We're on a little investigation.
+#L_D4_msg20=How interesting. Can I help you by any chance?
+#L_D4_ans20=We were referred to the special operations department, so if you could put in a word for us, that would be very nice.
+#L_D4_msg30=Unfortunately, I know nobody of that department. Let me think... Of course! What if you speak with Corsair? We used to fly together, and I must say he's a great guy. Besides, he's a high-ranking official in the New Empire government. He will get you in touch with the right people for sure. He's in the Gideon system now, I'll message him right away. Done. Now please excuse me, but my time is of the essence. I'm gathering a new expedition to border systems, and this is always a great fuss. It was nice to see you!
+#L_D4_ans30=Thank you, professor, and good luck.

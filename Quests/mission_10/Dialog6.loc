@@ -1,0 +1,15 @@
+;*****************************
+;Dialog6.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D6_msg00=And yet again he's alone and unprotected.
+#L_D6_ans00=(Dalej)
+#L_D6_msg10=Oh, my old friends! I've got tired of waiting already.
+#L_D6_ans10=We got here as fast as we could.
+#L_D6_msg20=Well, since you're here, everything is all right. Friends, let's let's get down to business, shall we? I managed to get a diary of Jacob Cust, the famous far space explorer. This is a real mine of surprising facts and discoveries. But the last recording is the most interesting. Let me read it for you. "I can't sleep. I'm rechecking my calculations over and over. Joseph laughs, saying that I'll have a heart attack because of this and won't need to fly anywhere. Hah, dream on, Joseph! Tomorrow we'll set out to X213 where I believe the Precursor portal is to be found." The rest is expedition equipment details. 
+#L_D6_ans20=Does it say anything about portal coordinates?
+#L_D6_msg30=Unfortunately, no. But I have a device that detects hyperspace hardware emission, so we'll have no problems finding the portal ourselves. All right, enough talking, let's set out to X213 immediately. Sesame awaits!
+#L_D6_ans30=(Dalej)

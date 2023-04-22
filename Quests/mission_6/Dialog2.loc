@@ -1,0 +1,17 @@
+;*****************************
+;Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;VksOfficer
+#L_D2_msg00=Ah, we do have visitors. Boys, it seems we haven't been hanging around in vain. Attention, everyone, full alert. Intruder ships prepare to surrender.
+#L_D2_ans00=Listen, officer, we don't need any trouble. I don't know what's going on here, and I like not knowing it. But my convoy and cargo vanished here a while ago, so I'm searching for my employees.
+#L_D2_msg10=Isn't that sweet. The big daddy is willing to poke his head into a hornet's nest to find his stray children. We could even believe in such selflessness. Not free, of course. We're sick and tired of dawdling by this portal and we could use a little vacation for, like, 50,000 credits. But where are all the sponsors these days? Getting my drift, trader?
+#L_D2_ans10=Oh, I know one good man. Name's Watchmaker. They say he's always willing to help soldiers get some fun.
+#L_D2_msg20=Dammit! What connection do you have to Watchmaker?
+#L_D2_ans20=His promise to solve your problems in exchange of my free passage into this system.
+#L_D2_msg30=Solve them?! It was he who got us involved!
+#L_D2_ans30=That's none of my business. So, can I proceed or not?
+#L_D2_msg40=By Great Space! Because of our debts we're forced to dawdle in this back of beyond or they'll cut our throats. But if you say Watchmaker is going to settle things up... All right, trader, you may pass. We've never seen you, no one will know about you. But if you're lying, this system will become your grave. Understood? Now get lost.
+#L_D2_ans40=(Dalej)

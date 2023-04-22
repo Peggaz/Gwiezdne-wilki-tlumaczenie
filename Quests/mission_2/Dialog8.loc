@@ -1,0 +1,14 @@
+;*****************************
+;Dialog8.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m2_Recruit
+#L_D8_msg00=Hey, trader, need an escort within this system? This place is crawling with pirates, and we don't charge much, just 1,000 credits. We'll escort you to the destination and back here. All fair and square.
+#L_D8_ans00=I can use a few guards. Transferring money.
+#L_D8_ans01=No thanks, considering the sum, it'll be easier for me to pay pirates off.
+#L_D8_msg10=Great! Tell us where to go, boss.
+#L_D8_ans10=Copernicus Scientific Station, and fast.
+#L_D8_msg20=Then we should use a portal. Chances are there are pirates lurking around, but that's our problem.
+#L_D8_ans20=(Dalej)

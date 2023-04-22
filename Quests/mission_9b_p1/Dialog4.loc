@@ -1,0 +1,24 @@
+;*****************************
+;Dialog4.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;PirateTough
+#L_D4_msg00=But boss, this hardware costs gobs of money! Even after we've dealt with it!
+#L_D4_ans00=(Dalej)
+#L_D4_msg10=Bug, do you remember who has paid us to disable a tracking station, not destroy it? How do you think what he will do to us, if we steal his satellite? And I'm not eager to lose a potential customer.
+#L_D4_ans10=(Dalej)
+#L_D4_msg20=But boss, if we sell it right, we won't have to work ever again-
+#L_D4_ans20=(Dalej)
+#L_D4_msg30=Attention, everyone, we have visitors!
+#L_D4_ans30=Gentlemen, we need no trouble. We're just fixing a satellite located on this asteroid.
+#L_D4_msg40=Then you do have trouble, for that asteroid is ours.
+#L_D4_ans40=Since when?
+#L_D4_msg50=Since the MSF started confiscating USS property. But please, don't pull my leg and try to tell me it doesn't belong to USS. So let's just have it this way: you pay me 50 grands and we drift apart greatly pleased.
+#L_D4_ans50=All right, you have a deal. I don't need this junk.
+#L_D4_ans51=This isn't your satellite, so you have no right to put a price on it. So guys, you'd better leave.
+#L_D4_msg60=Partner, are you insane? We could kill them in a breeze!
+#L_D4_ans60=That would attract unwanted attention. It was easier to pay off.
+#L_D4_msg61=Yeah, right. Bug, call for backup!
+#L_D4_ans61=(Dalej)

@@ -1,0 +1,12 @@
+;*****************************
+;Dialog5.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D5_msg00=Perhaps, we should have agreed, partner. We've spent so much time in search of that cursed cargo. It's such a pity.
+#L_D5_ans00=Too much obscurity and too many secrets on InoCo's part.
+#L_D5_msg10=I agree, boss. I don't like taking leaps in the dark, too. What now?
+#L_D5_ans10=I wonder why the MSF attacked the station my transports had been delivering the damned cargo to. Let's visit the MSF HQ in New Jerusalem 2 and try to find something out there.
+#L_D5_ans11=Ternie, you're right. Let's pause on the investigation for the time being and try to make some credits. We should visit my friend Alex in XT-54, I think he has a job for us.

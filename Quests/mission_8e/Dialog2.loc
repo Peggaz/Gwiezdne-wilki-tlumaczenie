@@ -1,0 +1,17 @@
+;*****************************
+;Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Sedoy
+#L_D2_msg00=By Great Space, what's that?!
+#L_D2_ans00=(Dalej)
+#L_D2_msg10=A portal. A part of the portal network.
+#L_D2_ans10=How did it get here?
+#L_D2_msg20=No one knows, how it ended up here, who built it or how it works. Our eggheads did their best to find out, but all we got was a bunch of theories. Sometimes this thing works all right, but occasionally it takes you to places you haven't expected to visit. Some people don't return at all. But right now it's pulse is stable and in the phase we need.
+#L_D2_ans20=(Dalej)
+#L_D2_msg30=And what does that mean?
+#L_D2_ans30=(Dalej)
+#L_D2_msg40=That we'll find ourselves where we need - in XT-54. At least I hope so. All right, let's not waste time and jump in.
+#L_D2_ans40=(Dalej)

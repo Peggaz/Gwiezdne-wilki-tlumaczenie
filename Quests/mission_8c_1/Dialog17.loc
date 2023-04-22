@@ -1,0 +1,21 @@
+;*****************************
+;Dialog17.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D17_msg00=Let's say the base is safe, but how are we supposed to deliver the package now?
+#L_D17_ans00=(Dalej)
+#L_D17_msg10=Let me handle this, boss. I'll visit the station posing as a mercenary. I am a mercenary, mind you. My license will have been fine for six more months. This will go off without a hitch.
+#L_D17_ans10=All right, do it. But be very careful.
+#L_D17_ans11=All right, but take Ternie along. This way you'll have more chances to break through, if anything goes wrong. Meanwhile I shall look after the base.
+#L_D17_ans12=Let's go together and leave the base here.
+#L_D17_msg20=Sure thing, boss. I'll be there in no time.
+#L_D17_ans20=(Dalej)
+#L_D17_msg21=Sure thing, boss. We'll be there in no time. So, Ternie, shall do a bit of tricking?
+#L_D17_ans21=(Dalej)
+#L_D17_msg31=That's what I've been doing since I met you.
+#L_D17_ans31=(Dalej)
+#L_D17_msg22=It's your call, partner, but it's too reckless.
+#L_D17_ans22=(Dalej)

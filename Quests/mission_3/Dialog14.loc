@@ -1,0 +1,15 @@
+;*****************************
+;Dialog14.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Dispetcher
+#L_D14_msg00=Great, we've been expecting you. Come closer, we'll start unloading it.
+#L_D14_ans00=Got you. What sort of cargo is it, by the way? If that's not a secret.
+#L_D14_msg10=No idea. Besides, it's here on transit. Some geek from the New Empire has been expecting it for two weeks here.
+#L_D14_ans10=What geek?
+#L_D14_msg20=Beats me. Some professor. A funny gramps, if he doesn't talk about space physics. If he does, consider yourself bored. He's been getting on everyone's nerves for quite some time now, so we owe you in a sense. Fine, the unloading is finished. Here you go, 60,000 credits, fair and square.
+#L_D14_ans20=Thanks. Say, do you know any mercenary teams other than those station guards?
+#L_D14_msg30=Sure thing. I'll message you the coordinates of a mothership. A good team, but they charge a lot.
+#L_D14_ans30=It figures: good mercenaries are always expensive. Thanks.

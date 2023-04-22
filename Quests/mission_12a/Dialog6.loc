@@ -1,0 +1,15 @@
+;*****************************
+;Dialog6.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m12a_Kishimov
+#L_D6_msg00=Great job! Hey, transport. This is the commander of the Tigers special squad speaking. Proceed to the designated coordinates. And don't take any wrong turns or I'll crack your tincan open in one shot.
+#L_D6_ans00=(Dalej)
+#L_D6_msg10=Hey, don't shoot, we surrender. You! Yes, you, who promised to help us! We'll never forget your treachery. Never!
+#L_D6_ans10=Hey, I've saved your lives! Or have you expected a hearty welcome from Triada?
+#L_D6_msg20=I'm going to start drinking again after all this...
+#L_D6_ans20=(Dalej)
+#L_D6_msg30=By the way, the admiral wants to see you. He says he's got something regarding your case.
+#L_D6_ans30=Why haven't you said so before?!

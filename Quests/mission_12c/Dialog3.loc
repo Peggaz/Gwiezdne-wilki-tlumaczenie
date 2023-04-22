@@ -1,0 +1,26 @@
+;*****************************
+;Dialog3.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;VksAce
+#L_D3_msg00=Attention, civilian ships, the system is under martial law. A special pass is required to move around freely.
+#L_D3_ans00=I'm a free trader and I go where I please. Got it?
+#L_D3_ans01=That's strange. I thought the emperor issued a decree, allowing free passage to vessels with humanitarian cargo. Or am I wrong?
+#L_D3_ans02=Officer, I quite get it and would be grateful to you, er, finanically, if you help us cross this system and jump to Al-Zed.
+#L_D3_msg10=Quite so. General alert, intruders!
+#L_D3_ans10=(Dalej)
+#L_D3_msg11=What's your route?
+#L_D3_ans11=Corrino to XT-41.
+#L_D3_msg21=Why haven't you chosen another?
+#L_D3_ans21=Sheesh... It would be longer and, besides, we'd have to deal with Triada. Why, we can turn around, but I'll surely report that the cargo required by the Empire is delayed because of you.
+#L_D3_msg31=All right, dammit, you may pass. But I'll inform all the posts, and if you fly anywhere but the XT-81 portal, blame yourself.
+#L_D3_ans31=We already have a destination. Good luck, officer.
+#L_D3_msg12=Why do you even care about those rebels?
+#L_D3_ans12=Just business, officer. You've scanned by cargo bay and can see what I'm carrying. They are willing to pay for it, and I'm willing to share.
+#L_D3_msg22=Share?.. Well, we could use some cash right now... All right, I'll take you to the Al-Zed portal for 50,000 credits.
+#L_D3_ans22=How much?! Have you all cracked here? This price is not reasonable. Do I make myself clear?
+#L_D3_ans23=I can see you are not to be trifled with. All right, I agree.
+#L_D3_msg33=Stay right behind me and keep you mouths shut. I'll talk to the portal guards myself.
+#L_D3_ans33=Sure thing, officer.

@@ -1,0 +1,21 @@
+;*****************************
+;Dialog9.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Phantom
+#L_D9_msg00=Alexandra, run! Warn Astra!
+#L_D9_ans00=(Dalej)
+#L_D9_msg10=No, I won't leave you!
+#L_D9_ans10=(Dalej)
+#L_D9_msg20=Don't argue with me, girl! We can't change this, but the NESF must know what they will be dealing with to retaliate! Now go. Don't make me drag you to the hangar!
+#L_D9_ans20=(Dalej)
+#L_D9_msg30=I'll be back. I'll bring help. Hold on!
+#L_D9_ans30=(Dalej)
+#L_D9_msg40=One enemy has left. This introduces changes into our plan.
+#L_D9_ans40=A lot of them?
+#L_D9_msg50=Enough, but none are critical.
+#L_D9_ans50=Then let's finish it!
+#L_D9_msg60=We meant no harm...
+#L_D9_ans60=(Dalej)

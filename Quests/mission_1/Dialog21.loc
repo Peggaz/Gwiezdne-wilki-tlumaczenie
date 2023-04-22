@@ -1,0 +1,11 @@
+;*****************************
+;Dialog21.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D21_msg00=Hey, station. Take delivery for Triada.
+#L_D21_ans00=(Dalej)
+#L_D21_msg10=Excellent work! Please accept these humble 2,000 credits as a token of our gratitude. I hope our cooperation will thrive in the future.
+#L_D21_ans10=Thanks for the money. As for the rest, time will tell.

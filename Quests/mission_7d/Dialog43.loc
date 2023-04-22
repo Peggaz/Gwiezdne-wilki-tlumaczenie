@@ -1,0 +1,9 @@
+;*****************************
+;Dialog43.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Sedoy
+#L_D43_msg00=Where to now, boss?
+#L_D43_ans00=We're invited to the InoCo headquarters, aren't we? It would be unwise to refuse, so let's go to Lidau.

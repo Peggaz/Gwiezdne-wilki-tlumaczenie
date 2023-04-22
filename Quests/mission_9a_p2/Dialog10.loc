@@ -1,0 +1,10 @@
+;*****************************
+;Dialog10.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Sedoy
+#L_D10_msg00=Aha. Boss, I see a transport.
+#L_D10_ans00=No, that's not the one. Let's wait.
+#L_D10_ans01=That's the one. Let's get back to Muscovy and wait for it that side of the portal.

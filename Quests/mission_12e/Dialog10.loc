@@ -1,0 +1,13 @@
+;*****************************
+;Dialog10.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Yana
+#L_D10_msg00=Oh, I think I got something!
+#L_D10_ans00=What's that?
+#L_D10_msg10=They apprehended Cleric. There was a fight with pirates!
+#L_D10_ans10=Jana, let's omit the details for now. Where are they taking him?
+#L_D10_msg20=To a base. But... The base is sending support. Pretty strong! What should we do?
+#L_D10_ans20=We'll see. Get their approximate route on the map. Greyhair, get your guns ready.

@@ -1,0 +1,10 @@
+;*****************************
+;Dialog16.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D16_msg00=Where to now, partner?
+#L_D16_ans00=Let's try to get some information from the MSF. Let's head for New Jerusalem 2.
+#L_D16_ans01=I'm sure Triada is bound to have the information we need. We're going to Candela.

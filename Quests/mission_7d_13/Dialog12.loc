@@ -1,0 +1,11 @@
+;*****************************
+;Dialog44.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Sedoy
+#L_D44_msg00=Where to now, boss?
+#L_D44_ans00=I haven't got the slightest idea.
+#L_D44_msg10=Let's go shopping. We should restock and get rid of unnecessary junk.
+#L_D44_ans10=(Dalej)

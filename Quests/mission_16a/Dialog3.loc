@@ -1,0 +1,17 @@
+;*****************************
+;Dialog3.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D3_msg00=I wonder what we meant by that.
+#L_D3_ans00=(Dalej)
+#L_D3_msg10=Who cares. Great work, team! Excellent work!
+#L_D3_ans10=Who is that Hader guy at all?
+#L_D3_msg20=Emperor's flag admiral. The man who advises to our suzerain on military tactics. And a traitor, as it has turned out. This is very, very bad - if the emperor is guarded by bastards like Hader, His Majesty is as good as dead. For this reason we're jumping to Earth immediately. Feel free to replenish ammo at the station, if there's anything left. In the meantime, I'll have them start up the catapult. All we shall need to do to jump is to pass through any portal, so let's not waste time, team.
+#L_D3_ans20=(Dalej)
+#L_D3_msg30=Damn, I'm fed up with all this team stuff. We have names, you know.
+#L_D3_ans30=(Dalej)
+#L_D3_msg40=Sorry, dear, but I never call companions-in-arms by names - this way it's easier to cope with their loss. But I never hush up enemies' names either, so they can shudder every time they hear own call signs! Now quit blabbering, we have lots of work to do.
+#L_D3_ans40=(Dalej)

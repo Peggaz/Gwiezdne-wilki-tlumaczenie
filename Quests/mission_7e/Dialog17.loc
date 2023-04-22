@@ -1,0 +1,10 @@
+;*****************************
+;Dialog17.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D17_msg00=Where to now, partner?
+#L_D17_ans00=Let's try to get some information from the MSF. Let's head for New Jerusalem 2.
+#L_D17_ans01=InoCo wants something from us. We should find out what exactly. Let's go to Lidau.

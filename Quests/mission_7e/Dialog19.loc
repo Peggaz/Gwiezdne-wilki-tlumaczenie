@@ -1,0 +1,9 @@
+;*****************************
+;Dialog19.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D19_msg00=Where to now, partner?
+#L_D19_ans00=I'm sure Triada is bound to have the information we need. We're going to Candela.

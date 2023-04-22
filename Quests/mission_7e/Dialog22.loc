@@ -1,0 +1,15 @@
+;*****************************
+;Dialog22.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Corsair
+#L_D22_msg00=My, the Universe is sure small! Phantom said you were his friends. Apparently he didn't know about your little hobby of blowing stations up.
+#L_D22_ans00=You know it was just the opposite. Everybody makes mistakes, but we have at least noticed ours and prevented the worst from happening.
+#L_D22_msg10=True enough. All right, I won't bother you with this anymore. That is, unless I see you with an armed detonator. How can I help you?
+#L_D22_ans10=Well, sorry for bothering you, but do you know Lieutenant Alexandra Sukhova by any chance?
+#L_D22_msg20=Sukhova? She's my subordinate, though she's the head of the operative investigations department. I wonder why you might need her. Her work is rather specific.
+#L_D22_ans20=The commander of the Mercenary Market told us to find her.
+#L_D22_msg30=Is that so... Fletcher is a serious man, he wouldn't tell you that just for fun. Seems like you do have some serious business. Ok, I'll contact Sukhova and tell her to expect you. And mark her location on the map. Just don't turn anywhere, we have special security policies here and I'm not letting strangers go wherever they please.
+#L_D22_ans30=Sure thing! Thanks a lot.

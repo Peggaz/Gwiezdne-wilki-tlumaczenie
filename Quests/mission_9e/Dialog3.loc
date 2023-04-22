@@ -1,0 +1,68 @@
+;*****************************
+;Dialog3.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D3_msg00=Have thick skulls gone totally crazy?! Are they having a "Kill'em All" fest or something?
+#L_D3_ans00=(Dalej)
+#L_D3_msg10=You're right. I've seen system mop-ups, but this...
+#L_D3_ans10=(Dalej)
+#L_D3_msg20=Partner, we picked up an escape pod.
+#L_D3_ans20=An attacker?
+#L_D3_msg30=No, the signatures are different. Let me read the telemetry. It seems our passenger is all right. Unlocking the pod. Hah, boys, you'll like it. It's a girl.
+#L_D3_ans30=(Dalej)
+#L_D3_msg40=Where am I?
+#L_D3_ans40=(Dalej)
+#L_D3_msg50=So trite.
+#L_D3_ans50=(Dalej)
+#L_D3_msg60=Who are you?!
+#L_D3_ans60=(Dalej)
+#L_D3_msg70=Still trite. Ok, let's not trouble you anymore or your brains will surely boil. You're safe on a mothership of a certain independent, but very active company. We're not pirates, we also don't work for corporators, empires and other power-hungry maniacs. My partner sometimes jokes about us being traders. Well, it's his call, all the more so he's an FTU member, following their code and whatnot. But he's a good man. Me and Greyhair are mere mortals, but we don't think this world is green and easy. Am I saying it right, partner?
+#L_D3_ans70=I so regret to be in Achilles today.
+#L_D3_msg80=Come on, you must be joking again. I'm the best that has ever happened to you. Now, girl, I answered your questions, so it's your turn to tell me what you did to thick skulls so they decided to take the station apart.
+#L_D3_ans80=(Dalej)
+#L_D3_msg90=Jana... My name's Jana. Has the station been destroyed? I don't know who attacked us, I just heard the alarm, then something exploded and I rushed to the pods. Did the MSF attack us?!
+#L_D3_ans90=They sure did. Any ideas why would they want to destroy an InoCo station?
+#L_D3_msg100=I'm just a junior technician. I don't know what the Empire might need from us.
+#L_D3_ans100=(Dalej)
+#L_D3_msg110=All right, so you don't know. But what about security forces? What's happened to them?
+#L_D3_ans110=(Dalej)
+#L_D3_msg120=Security? There were guards! But they left with the transports.
+#L_D3_ans120=Pardon me?
+#L_D3_msg130=Transports with personnel and equipment. A while ago the higher-ups ordered to dismantle the equipment and prepare it for transportation. Then transports arrived to pick up the higher-ups, engineers, senior technicians and those who worked in subspace physics and IT labs. We were told to wait for our turn. But the next batch of transports only picked up equipment...
+#L_D3_ans130=(Dalej)
+#L_D3_msg140=Let me guess, the transports never came for you, right?
+#L_D3_ans140=(Dalej)
+#L_D3_msg150=Yes. We waited, killing time... Wait, were they never supposed to pick us up?
+#L_D3_ans150=(Dalej)
+#L_D3_msg160=Seems like it.
+#L_D3_ans160=(Dalej)
+#L_D3_msg170=So hardware is more important than us, huh?! Bastards...
+#L_D3_ans170=Jana, let's not jump to conclusions.
+#L_D3_msg180=Jump to conclusions?! Those bastards could send more transports and take us away along with equipment. There was space in the transports! I shall-
+#L_D3_ans180=(Dalej)
+#L_D3_msg190=Yeah, do tell us what you shall do. Grind InoCo into dust using your mental powers? Or take them apart? Huh?
+#L_D3_ans190=(Dalej)
+#L_D3_msg200=I don't know, but-
+#L_D3_ans200=Once again I suggest you calm down and then make decisions. What I'm worried about is how this mess will affect our plans.
+#L_D3_msg210=Let's head for Ashelon! I have lots of questions to ask my higher-ups or whoever is in charge. They have a military base there and somebody is bound to know why we were left to die! Tell me, have you picked up anyone else? There were many other people left at the station, they were my friends.
+#L_D3_ans210=(Dalej)
+#L_D3_msg220=Sorry, friend, you're the only one. I scanned the debris and found no other pods. It seems you're the sole survivor.
+#L_D3_ans220=(Dalej)
+#L_D3_msg230=Then Ashelon it is! They'll answer for everything!
+#L_D3_ans230=(Dalej)
+#L_D3_msg240=Given the same fate hasn't befallen the Ashelon station. Boss?
+#L_D3_ans240=I'm also wondering what's going on here. I think we should visit Ashelon, since it's close anyway. Besides, we have that Meier guy. He asked us to pick up station equipment not without purpose. Let's see what tune he will sing, when InoCo gets him.
+#L_D3_ans241=There's no way I'm going back to InoCo after what happened. Let's do this: leave the system for now and then, in quiet surroundings, get Meier out of the pod and interrogate him ourselves. Let's head for the New Jerusalem 2 portal. He asked us to pick up station equipment not without purpose.
+#L_D3_msg250=I'll tell it to their faces!
+#L_D3_ans250=(Dalej)
+#L_D3_msg260=No, girl, you will keep your mouth shut until we let you talk. Got it?
+#L_D3_ans260=(Dalej)
+#L_D3_msg270=Sure... I get it, sorry. I... will keep silent. But you do ask them why they have left us to die.
+#L_D3_ans270=(Dalej)
+#L_D3_msg280=We'll do that, I promise.
+#L_D3_ans280=(Dalej)
+#L_D3_msg290=Thank you! Thank you so much! By the way, I'm a decent technician when it comes to ship equipment. A mediocre gunner, but hardware likes me, so to say. So if you have a spare ship...
+#L_D3_ans290=We can use your help.

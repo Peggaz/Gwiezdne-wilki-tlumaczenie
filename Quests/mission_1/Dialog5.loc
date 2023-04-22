@@ -1,0 +1,18 @@
+;*****************************
+;Dialog5.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m1_Pirat
+#L_D5_msg00=Hey man, we're here for you.
+#L_D5_ans00=Guys, I've got nothing of value.
+#L_D5_msg10=That's up to us to decide. Let's do it the easy way: hand the pilots from your cargo bay over to Triada and go fifty-fifty on the reward. The MSF won't be that generous.
+#L_D5_ans10=But this way I'll surely get into trouble with them. Remember, if you open fire, you'll damage your precious corporators.
+#L_D5_ans11=Well, why let easy money go. I'm coming with you.
+#L_D5_msg20=Triada just doesn't want the MSF to get the pilots, dead or alive. Sorry, nothing personal.
+#L_D5_ans20=(Dalej)
+#L_D5_msg21=You agreed too quickly.
+#L_D5_ans21=I had another reason. Someone from the MSF promised to skin me alive. And I don't like insolent, brainless soldiers who think they can threaten anyone they like.
+#L_D5_msg31=I see. There's a neutral station nearby, deliver the cargo there. Man, we'll earn quite some money this way!
+#L_D5_ans31=(Dalej)

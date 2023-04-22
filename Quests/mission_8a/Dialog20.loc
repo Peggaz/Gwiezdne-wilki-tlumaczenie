@@ -1,0 +1,18 @@
+;*****************************
+;Dialog20.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m8a_Marko
+#L_D20_msg00=I believe you're the ones patrols have reported about? What brings you to the system? Business or pleasure?
+#L_D20_ans00=We need the container you've taken from Aylon.
+#L_D20_msg10=Oh yes, I remember. Just two corrections: not taken, but requisitioned for spreading lies and dealing financial damage to the legal government of this system. He dared call us pirates! We should have impaled his butt on the local antenna cluster for that!
+#L_D20_ans10=Frankly speaking, I don't care about your relations. I need the container.
+#L_D20_msg20=Hey, that's what I call business grip! Well, a voluntary donation of 50,000 credits to the system development fund will be enough.
+#L_D20_ans20=Heh, you guys are funny. I'm taking the container free of charge.
+#L_D20_ans21=Well, the price is all right. Let me transfer the money.
+#L_D20_msg31=Great! Businessmen can always come to an agreement. The container is onboard of your ship. We hope to see you again in this land of stability, democracy and justice of the Phoenix Sector.
+#L_D20_ans31=(Dalej)
+#L_D20_msg41=Partner, I can't believe it. You gave them money so easily! There was my share as well. And Greyhair's! It was Greyhair's share too!
+#L_D20_ans41=Calm down, Ternie. It was easier that way. Now we should head for Endoria and ask Viper a few questions.

@@ -1,0 +1,17 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D1_msg00=Would you look at that. I got a message from Ternie's kidnappers. They want us to go to New Kyoto and blow up the FTU headquarters. Wait, I'll copy it to the shared box.
+#L_D1_ans00=(Dalej)
+#L_D1_msg10=This is strange. More than strange even. I can't see any logical reason to destroy an FTU office. No corporation or empire will last long without traders. And they know it.
+#L_D1_ans10=Perhaps, those Greys look to become an FTU replacement.
+#L_D1_msg20=Then they'd use high-ranking officials, politics and bureaucrats to grab the transportation market. I have heard nothing about that. I'm afraid they're using us to arrange some provocation that neither us or Ternie will live through. We need to attack first.
+#L_D1_ans20=Then let's hurry up. Greyhair, what do we have on XT-24?
+#L_D1_msg30=Not much, boss. I haven't been to that back of beyond myself, so we only have general information from the mapping satellite. That system is an awful mess of dust and inert gases of the XT nebula. Noise and statics they generate cover almost the entire frequency range. On the one hand it's good, as our enemies won't be able to contact each other. On the other hand, our scanners will be nearly blind as well.
+#L_D1_ans30=Are you saying we should get more powerful scanners?
+#L_D1_msg40=I don't know if this really helps, boss. But we should visit stations anyway -- to hire mercenaries or something. We can use any help right now.
+#L_D1_ans40=We don't have much time... But I'll consider what you've just said.

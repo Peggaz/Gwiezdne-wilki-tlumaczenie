@@ -1,0 +1,16 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#L_nav_first=Punkt 1
+#L_nav_second=Punkt 2
+#L_nav_third=Punkt 3
+#L_nav_fourth=Punkt 4
+#L_nav_fiveth=Punkt 5
+#L_nav_trades=Stacja sieci
+#L_nav_mining=Kopalnia "Nadzieja"
+#L_STO=Stacja konserwacyjna
+#L_Vector=Stacja "Vector-3"
+#L_WAR_KFNI=Baza wojskowa NESF

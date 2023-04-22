@@ -1,0 +1,17 @@
+;*****************************
+; mission_19a_1
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+
+;*****************************
+;Speeches
+;*****************************
+#L_Tramp_01=I'll mark the destination on the map.
+
+#L_Tramp_02=That's it. Next stop - New Kyoto.

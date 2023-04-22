@@ -1,0 +1,19 @@
+;*****************************
+;Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m7f_Dikkens
+#L_D2_msg00=I'm Charles Dickens, a member of InoCo's Board of Directors. Now that you know who you're dealing with, I'd like you to return the flavor. Introduce yourselves and tell me what you were doing in XT-54.
+#L_D2_ans00=Well, it's easy, we were placing spy satellites. Speaking of our identities, here's my FTU registry card.
+#L_D2_msg10=Spy satellites! And you're saying it just like that?
+#L_D2_ans10=I don't see why I should make things complicated. I don't like being manipulated very much. If Triada filled me in on the details, I would still be play-acting.
+#L_D2_msg20=I wonder what Triada promised you.
+#L_D2_ans20=Information. Early in the war, my convoy vanished in one of their systems. I decided to exchange my services for information about it.
+#L_D2_msg30=Wait... Right! You're the man I've tried my best to find! And it turns out you were working for Triada. By Space, what exceptional irony! Hahaha, aren't those corporators good. I haven't seen such an elegant combination for a long time. I really have to give those bastards credit. They sure can cheat! Hahaha!
+#L_D2_ans30=Hey, time out. What are you talking about? Why were you looking for me? What irony is there, for heaven's sake?!
+#L_D2_msg40=Ooh, my dear, I beg your pardon, but I won't tell you not to spoil this fine joke. You will find out in due time. Perhaps you will remember it as a joke of the century. Now please excuse me I have orders to issue. As for you, you should leave InoCo's space for now. I shall let you visit our store once, so you don't feel that hurt.
+#L_D2_ans40=Wait, what was that thing we used to get here?
+#L_D2_msg50=A part of a hyperspace network built by hell knows who and hell knows when. It's kind of erratic and may send you to the devil himself or even disintegrate you. But sometimes its ability to cover long distances makes up for all the risk. Now excuse me, I have to go. Good luck. My, those Triada guys have a great sense of humor!|By the way, leave those spy satellites here. You won't be needing them anymore.
+#L_D2_ans50=(Dalej)

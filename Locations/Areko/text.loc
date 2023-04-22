@@ -1,0 +1,14 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#M_trade_station=Stacja Handlowa
+#L_STO=Stacja konserwacyjna
+#L_war=Baza wojskowa InoCo
+#L_uzl=Skrzy¿owanie Galaneta-5
+#L_lab1=Laboratorium Empiryczne
+#L_lab2=Portal do Stacji Badañ Eksperymentalnych
+#L_fact1=Zak³ad eksperymentalny-2184
+#L_fact2=Zak³ad eksperymentalny-2620

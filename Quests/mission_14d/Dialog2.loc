@@ -1,0 +1,17 @@
+;*****************************
+;Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m14a_Unknown
+#L_D2_msg00=Harry Cayer, in the name of the Council I order you to disable your weapons and follow us. Don't try to resist.
+#L_D2_ans00=(Dalej)
+#L_D2_msg10=This is Senior Coordinater Alex Koshevoy speaking. Transmitting the confirmation code now. Forget about the arrest, fire for effect!
+#L_D2_ans10=(Dalej)
+#L_D2_msg20=I just don't get it, boss. Who exactly should we fire at, huh? We're not killing all of them!
+#L_D2_ans20=(Dalej)
+#L_D2_msg30=Attack Cayer! Those new ships are on our side.
+#L_D2_ans30=(Dalej)
+#L_D2_msg40=You're going to die! You there! Attack!
+#L_D2_ans40=(Dalej)

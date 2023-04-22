@@ -1,0 +1,13 @@
+;*****************************
+;Dialog4.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;KfniOfficer
+#L_D4_msg00=Attention, all teams, this is a ruse! The pirate is trying to escape! Stop attacking the gun emplacements, here are the pirate's coordinates.
+#L_D4_ans00=(Dalej)
+#L_D4_msg10=Couldn't you just sit still for a couple of minutes?! Now we're in trouble!
+#L_D4_ans10=Sorry, I jerked the rudder. Didn't really mean it.
+#L_D4_msg20=They are pushing us to the gun emplacements. We can still try to escape. Let's whizz by both guns and patrols at top speed. Here are the coordinates of the first waypoint. But this time do what I say!
+#L_D4_ans20=(Dalej)

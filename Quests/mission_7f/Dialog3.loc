@@ -1,0 +1,11 @@
+;*****************************
+;Dialog3.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D3_msg00=I don't like that smart aleck one bit! He talked our ears off, but said nothing useful. Partner, why do you even need this cargo? We've wasted so much time on it already!
+#L_D3_ans00=Call it a matter of principle. Dammit, Ternie, my men got killed, I got robbed, and someone is out there after my head. I'm sure it's all because of those containers.
+#L_D3_msg10=The boss is right... Because he's the boss! So, should we finally comb though InoCo's treasuries or stay here and guess what awaits us and why things happen this way and not another? I'm personally licking my lips, thinking of all those new guns! Questions can wait.
+#L_D3_ans10=(Dalej)

@@ -1,0 +1,11 @@
+;*****************************
+;Dialog6.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;VksOfficer
+#L_D6_msg00=The Empire thanks you for your display of loyalty. We are to escort you to the headquarters.
+#L_D6_ans00=Why didn't they give me an escort before?
+#L_D6_msg10=I repeat, the Empire thanks you for your display of loyalty. We'll now escort you to the headquarters. Major's orders. As well as to keep radio silence. Let's move.
+#L_D6_ans10=(Dalej)

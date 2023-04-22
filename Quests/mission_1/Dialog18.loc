@@ -1,0 +1,18 @@
+;*****************************
+;Dialog18.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m1_GrafterVKS
+#L_D18_msg00=Transport vessel, stop your engines immediately and lie to. You're under arrest.
+#L_D18_ans00=Me? But why?
+#L_D18_msg10=Attempted smuggling.
+#L_D18_ans10=What smuggling? My cargo bay is empty!
+#L_D18_msg20=I saw how you tried to jettison cargo! Whatever it was, it was very, very illegal. Could be drugs! You know, when bosses hold back three-month wages, patrolmen's eyesight becomes really keen! So, a moderate fine of, say, 500 credits will let us keep the law and make us for the damages you've inflicted on society. And avoid trouble. Do you get my meaning?
+#L_D18_ans20=Umm, sure. Here are 500 credits. Glad to be, er, of help and such.
+#L_D18_ans21=Then complain to your accounting department. I've already paid my taxes that you feed upon. As for drugs, don't be ridiculous. I've been scanned on entry already, you may check the logs. Your accusations are not worth a depleted asteroid!
+#L_D18_msg30=Good. And I hope you've repented of your deed sincerely and won't try smuggling ever again. Good luck.
+#L_D18_ans30=(Dalej)
+#L_D18_msg31=Sheesh, another blockhead. Today isn't my lucky day for sure.
+#L_D18_ans31=(Dalej)

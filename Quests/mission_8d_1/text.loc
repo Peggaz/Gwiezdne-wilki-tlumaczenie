@@ -1,0 +1,38 @@
+;*****************************
+; mission_8d_1
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_8d_1_01a=Meet with Тито.
+#L_Quest_8d_1_01b=Alex asked me to meet with his debtor Tito who resides at the Brennan's Triumph Station in Shula.
+#L_Quest_8d_1_02a=Deliver the cargo.
+#L_Quest_8d_1_02b=You must deliver the cargo to the Miner's Paradise Station in Debris 1.
+#L_Quest_8d_1_03a=Find the station.
+#L_Quest_8d_1_03b=The exact coordinates of the Miner's Paradise Station are unknown, but it should be located near one of the spots marked on the map.
+#L_Quest_8d_1_04a=Deliver the cargo to Debris 3.
+#L_Quest_8d_1_04b=You must deliver the cargo to Triada's mining station in Debris 3.
+
+;*****************************
+;Speeches
+;*****************************
+#L_Hero_01=What the... I knew we'd have trouble, it was all too smooth. Where should we look for this station?
+#L_Sedoy_01=We'll have to check asteroid clusters.
+
+#L_Lastochka_01=Leave your paltry dole to yourself, loser!
+#L_Sedoy_02=Now we're on Triada's black list. Which means we're on pirates' black list too. Boss, you're full of surprises.
+#L_Hero_02=It's life that is full of surprises. I can just add in a few. Anyway, let's find those miners.
+#L_Lastochka_02=Right! And charge them a triple pay! As compensation.
+#L_Hero_03=Another fit of greed?
+#L_Lastochka_03=Not greed, but healthy appetatite for revenue! I have a right after all.
+
+#L_tri_01=Stupid life - stupid death. Fortunately, your logic was flawless. Now let's finish this.
+
+#L_Hero_04=Now let's head for Charon and don't stop anywhere.
+
+#L_min_01=What are you doing?!
+#L_tri_02=That was stupid.

@@ -1,0 +1,13 @@
+;*****************************
+;Dialog8.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;USSOperative
+#L_D8_msg00=That's it, start loading.
+#L_D8_ans00=Wait a second. I'd like to go over our payment once again.
+#L_D8_msg10=Listen, dolt, they said you'd save your bacon.
+#L_D8_ans10=This isn't enough for all the fuss. Calling the Daredevils! Your turn!
+#L_D8_msg20=Got it, boss!
+#L_D8_ans20=(Dalej)

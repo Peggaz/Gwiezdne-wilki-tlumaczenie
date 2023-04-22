@@ -1,0 +1,33 @@
+;*****************************
+;Dialog12.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m9c_Guard
+#L_D12_msg00=I have to admit I'm impressed! I've seen much, but four people opposing a whole army...
+#L_D12_ans00=So, I believe our connection to pirates is out of the question now?
+#L_D12_msg10=It totally is! Great Space, I'll be telling my kids and grandkids stories about this day!
+#L_D12_ans10=(Dalej)
+#L_D12_msg20=Let's hope we'll live to the day we all have grandkids.
+#L_D12_ans20=(Dalej)
+#L_D12_msg30=I have a few decent fighters at the station, you may take them. None of my pilots are experienced enough to fly them anyway. But you have abilities to put them to good use.
+#L_D12_ans30=(Dalej)
+#L_D12_msg40=Oh, that's nice.
+#L_D12_ans40=Wait, where's La'Vertius?
+#L_D12_msg50=Under arrest. He tried to contact the pirates as soon as you left. It's good our men intercepted and jammed his signal. Then he tried to get away with the transports, but a couple of missiles calmed him down. He's not saying anything, but only because we haven't cracked him properly yet.
+#L_D12_ans50=Glad to hear that. I wonder how pirates managed to gather and move all that army across Endoria?
+#L_D12_msg60=It's pretty obvious: thick skulls helped. I wouldn't be surprised, if the attack was planned to their order.
+#L_D12_ans60=Too bad... We've got radium transports to deliver.
+#L_D12_msg70=I don't have many men, but I can dispatch a team to help you.
+#L_D12_ans70=That would come in handy.
+#L_D12_msg80=And there's one more thing. I'd like you to know that our entire system is in your debt. I'll try to message Alexandra immediately about your invaluable help in the defense of Dionysus. I hope we'll meet again, when it's quieter. Just a second... They report that the transports were been loaded with radium and sent to the rendezvous point. Let me mark the coordinates on your map. And I've dispatched an escort there as well. Well, friends, thanks again and good luck.
+#L_D12_ans80=And good luck to you. See you again.|So, people, shall we finish this mission properly? Che, are you coming with us or saying good bye?
+#L_D12_msg90=It would be a great honor for me to join you, amigos.
+#L_D12_ans90=(Dalej)
+#L_D12_msg100=Aw, you're bowing and scraping again... You could have just said, "Sure, let's go".
+#L_D12_ans100=(Dalej)
+#L_D12_msg110=But I just-
+#L_D12_ans110=Take it easy, Che. Ternie likes grumbling for appearances' sake. She's actually glad to have you along.
+#L_D12_msg120=Yeah, I have this cake with candles right here. I mean cut the cackle, we have things to do!
+#L_D12_ans120=(Dalej)

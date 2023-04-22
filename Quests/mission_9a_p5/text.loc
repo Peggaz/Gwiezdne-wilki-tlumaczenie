@@ -1,0 +1,50 @@
+;*****************************
+; mission_9a_p5
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_9a_01a=Deliver the cargo.
+#L_Quest_9a_01b=You need to deliver the cargo stored at the Kharkov Cargo Terminal in New Donbass to the MSF Main Headquarters in New Jerusalem 2.
+#L_Quest_9a_04a=Pick up the cargo.
+#L_Quest_9a_04b=Pick up the equipment from the Kharkov Cargo Terminal in New Donbass.
+#L_Quest_9a_11a=Escape the system.
+#L_Quest_9a_11b=You will hardly defeat all the NESF forces alone. Try to escape from the system.
+#L_Quest_9a_12a=Head for the station.
+#L_Quest_9a_12b=Head for the station to talk to the NESF command. Trying to escape now is very ill-considered.
+
+;*****************************
+;Speeches
+;*****************************
+#L_Hero_01=Thanks, Vladimir, you've helped us a lot.
+#L_Validol_01=Don't mention it. Beekeeper is impudent, but he's also a coward. Put muscle on him and he's as mild as a lamb. All right, now let's head for Muscovy to offload the cargo. Who's the owner, by the way?
+#L_Hero_02=Major Viper, MSF.
+#L_Validol_02=Whoa! If I knew I'd have to work for Imperials, like hell I'd leave the casino.
+#L_Hero_03=You've helped us already, so if you don't want to tag along...
+#L_Validol_03=I don't. But I've promised to help you with the cargo and I'm not backing off. Now let's go. Let it be another lesson for the old fool I am...
+
+#L_Validol_04=My, it's all peace and quiet. I thought it would be worse.
+
+#L_Voronov_01=Everyone, retreat to the station! I repeat, retreat to the station!
+#L_vks_01=But commander!
+#L_Voronov_02=To the station, you dolt! I'll deal with the situation myself!
+#L_vks_02=Attack! Let's finish the bastards off!
+#L_Validol_05=Were those Voronov's callsigns? Am I right?
+#L_Sedoy_01=Seems so. A friend of yours?
+#L_Validol_06=A friend... But not anymore it seems. Let's make it hot for those scoundrels!
+
+#L_Validol_07=Dmitry Voronov... They say nobody survived the blast. Oh, Dmitry, Dmitry... Another good man bites the dust.
+#L_Lastochka_01=But at least we had our revenge.
+#L_Validol_08=Yeah, but that doesn't make it any easier.
+#L_Hero_04=I'm very sorry, Vladimir...
+#L_Validol_09=You may call me Validol. Anyway, I take it we still have things to do. Let's move.
+
+#L_Validol_10=I smell trouble. We need to scram while those guys are fighting each other.
+
+#L_Validol_11=That was brave! I respect that.
+#L_Hero_05=My customer is not of the NESF. Vladimir, I'm sorry for risking your neck.
+#L_Validol_12=You may call me Validol. Don't worry about my neck, it survived situations much worse than this. Anyway, I take it we still have things to do. Let's move.

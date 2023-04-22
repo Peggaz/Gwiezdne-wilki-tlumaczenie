@@ -1,0 +1,34 @@
+;*****************************
+;Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;USSOperative
+#L_D2_msg00=Calling free traders. It's good you're still in the system. Our corporation would like to place a small order. The task is simple: to escort two FTU cargo ships to our station in the Al-Ariash system.
+#L_D2_ans00=It's strange you're so worried about FTU ships...
+#L_D2_msg10=We worry about the cargo inside those ships. There's no way to deliver it to our station in Al-Ariash other than by FTU ships.
+#L_D2_ans10=But why won't you hire mercenaries for protection? They are used to this kind of jobs.
+#L_D2_msg20=Our corporation doesn't work with mercenaries. But you are another story. You're a member of the FTU, you've proved yourself in action, and you have enough guns to keep pirates away. Before you answer, let me mention something else. First, a trade convoy escorted by MSF fighters is to set out from Corrino soon. You will just have to join it and your journey will be completely safe. Second, our corporation is offering you 100,000 credits as a reward.
+#L_D2_ans20=(Dalej)
+#L_D2_msg30=Whoa!
+#L_D2_ans30=What's the cargo?
+#L_D2_msg40=Partner, do you really care? It's 100 grands!
+#L_D2_ans40=(Dalej)
+#L_D2_msg50=Nothing hazardous or illegal, just some station equipment. But it has to be delivered as quickly as possible. Time is of the essence.
+#L_D2_ans50=What do you say, Ternie?
+#L_D2_msg60=Partner, 100 grands is quite an argument! What can I say? Thanks for being this generous. Besides, it's nearly along our way!
+#L_D2_ans60=I don't know, there's something fishy about all that. I beg your pardon, but we have to refuse.
+#L_D2_ans61=All right, we agree.
+#L_D2_msg70=Well, that's quite a pity. We'll have to find help elsewhere. Over and out.
+#L_D2_ans70=(Dalej)
+#L_D2_msg80=Have you lost your mind?! "Fishy..." If you haven't noticed, war is all about "fishy". And flinging money about, like you do, is incredibly stupid. Ah, nevermind. Let's visit my friend in New Jerusalem 3. He might have some easy jobs for us to make up for the 100 grands we've just lost. Just listen to this, "One hundred thousand credits!"
+#L_D2_ans80=(Dalej)
+#L_D2_msg71=Great! But please don't leave the transports unattended and stay away from trouble. We'll send out a message, so you'll have backup, if anything happens.
+#L_D2_ans71=Sure thing.
+#L_D2_msg81=Easy money! I love easy money!
+#L_D2_ans81=Don't count what you don't have. We're not at the destination yet.
+#L_D2_msg91=Are you our escort? We're ready to settle on the course.
+#L_D2_ans91=Just a second. Ternie, we haven't yet decided on the route.
+#L_D2_msg101=There's basically only one route: Debris 1, Corrino, Tira, New Jerusalem 1 and 3, Prien, Cadi, Hanoi. There's also roundabout way, but I wouldn't risk it - those systems are either under Triada control or just too dangerous. Wait, I'll send you a message.
+#L_D2_ans101=I see. Well, let's try and join that other convoy.

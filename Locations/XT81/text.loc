@@ -1,0 +1,8 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#L_mining1=Stacja wydobywcza "ML-100"
+#L_mining2=Stacja wydobywcza "ML-200"

@@ -1,0 +1,21 @@
+;*****************************
+;Dialog13.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m10_Hunter
+#L_D13_msg00=Hey, old buddies! We've been awaiting you.
+#L_D13_ans00=Zurab, don't tell me you got a make on us.
+#L_D13_msg10=Exactly! Frankly speaking, I was surprised to see a list of sins that long: piracy, terrorism, kidnapping, smuggling, cyberimplant trafficking. Why, we're not angels ourselves, but that... Besides, I know your situation, you're too busy for any of that.
+#L_D13_ans10=What about the ship that transmitted the bounty message?
+#L_D13_msg20=We shook him out of the ship and delivered to the station. Imagine, I flew up and politely asked what seemed to be the problem, and he started jawing at me. Temporarily disabled my ship even. But we're no rookies and always have support. In other words, our boys gave him a warm reception, so now your Cleric, or whatever he calls himself, is resting in our guardroom.
+#L_D13_ans20=(Dalej)
+#L_D13_msg30=Confirmed. The attack is ceasing. Communications are coming to normal.
+#L_D13_ans30=(Dalej)
+#L_D13_msg40=Hey, what's that strange thing doing in pilot's cockpit?
+#L_D13_ans40=Don't worry, that's a gift from InoCo. A copy of their Superior Artificial Mind.
+#L_D13_msg50=A tincan?! Guys, are you crazy? You hadn't had enough Berserk 'gifts' and decided to get an upgraded one as well? Move aside, I'll missile it!
+#L_D13_ans50=No, Zurab, wait! That's our only chance to find Ternie!
+#L_D13_msg60=Like hell it is! It's a chance to doom us all! Fire at will!
+#L_D13_ans60=(Dalej)

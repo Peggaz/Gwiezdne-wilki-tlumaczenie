@@ -1,0 +1,13 @@
+;*****************************
+;Dialog11.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Tramp
+#L_D11_msg00=Unknown ships, stay away from our convoy.
+#L_D11_ans00=(Dalej)
+#L_D11_msg10=Admiral, leave the emperor to us. We don't want to fight, but Azar must not escape justice.
+#L_D11_ans10=(Dalej)
+#L_D11_msg20=And he won't. Justice, not lynching, mind you. Now, for your own safety, don't get close to the convoy.
+#L_D11_ans20=(Dalej)

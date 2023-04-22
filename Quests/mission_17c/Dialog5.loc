@@ -1,0 +1,15 @@
+;*****************************
+;Dialog5.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Corsair
+#L_D5_msg00=That was fun! Like the good old days!
+#L_D5_ans00=(Dalej)
+#L_D5_msg10=I don't feel nostalgic about days which are neither good nor old.
+#L_D5_ans10=(Dalej)
+#L_D5_msg20=Come on, we won! This is the only thing that matters. We should celebrate!
+#L_D5_ans20=Shouldn't we inform the others first? They must be worrying.
+#L_D5_msg30=So let them worry. A bit of adrenaline strengthens the cardiovascular system. The winners have a right for some whims. All the more so I have a feeling we're in for more work, none of which is pleasant.
+#L_D5_ans30=(Dalej)

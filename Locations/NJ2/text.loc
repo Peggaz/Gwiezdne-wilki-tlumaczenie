@@ -1,0 +1,9 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#L_trade=Stacja Handlowa "Telle Avi"
+#L_STO=Stacja konserwacyjna
+#L_factory=Zak³ad "LaserTech"

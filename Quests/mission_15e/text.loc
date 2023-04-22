@@ -1,0 +1,55 @@
+;*****************************
+; mission_15e
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_15e_01a=Get neurochips back.
+#L_Quest_15e_01b=Get neurochip containers back from the FTU headquarters. The latter will probably have to be destroyed or you won't be able to reach the containers.
+#L_Quest_15e_02a=Eliminate Berserks.
+#L_Quest_15e_02b=Eliminate all Berserks and protect the FTU headquarters. If Berserks destroy the station, SAM will get neurochip containers and you won't be able to destroy it.
+#L_Quest_15e_03a=Destroy the hangar station.
+#L_Quest_15e_03b=One of the hangar stations is jamming SAM's communications. You need to locate and destroy it.
+
+;*****************************
+;Speeches
+;*****************************
+#L_Yana_01=So what will it be?!
+
+#L_Yana_02=Why did they do it? Why?!
+#L_Hero_01=They had principles of their own. What's on the scanner?
+#L_Yana_03=Many fighters are closing in on us! So many!
+
+#L_Yana_04=I think I know where they are departing from! I'll mark it on the map! It seems there are hangars of sort, camouflaged as warehouses.
+#L_Hero_02=More trouble. SAM, can you provide backup?
+#L_UelD_01=Negative. One of the hangar stations is jamming my communications.
+#L_Yana_05=Too bad. I'm detecting a multitude of ships by the FTU HQ, including large units. We can't handle them on our own!
+
+#L_Hero_03=SAM, what's the status? Is you comm channel all right?
+#L_UelD_02=Negative. The signal is still getting jammed.
+#L_Hero_04=Damn! Charge the target!
+
+#L_Hero_05=SAM, communications?
+#L_UelD_03=Affirmative. Backup sent.
+#L_Hero_06=Right on time. So, Jana, shall we finish the job?
+
+#L_UelD_04=Primary goal accomplished. Initiating hyper jump.
+
+#L_Sedoy_01=This should answer your question, boss.
+#L_Alex_01=Let's retreat to the station! Now!
+
+#L_Alex_02=We can't let them have neurochips!
+
+#L_Alex_03=Here are the control codes of one of the cruisers. Come on, friend, let's give the tincans hell!
+
+#L_Alex_04=Why you bastards! They have just destroyed the camouflaged hangar! Our forces have been reduced!
+#L_Alex_05=Damn! The second hangar was launched into eternity!
+#L_Alex_06=That's it, buddy. No more backups for us.
+
+#L_sys_01=Main character died.
+#L_sys_02=Game over.
+#L_sys_03=That was your biggest mistake. Whatever happens next, you won't be a part of it.

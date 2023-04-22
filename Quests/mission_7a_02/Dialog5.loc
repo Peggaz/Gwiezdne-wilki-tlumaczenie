@@ -1,0 +1,10 @@
+;*****************************
+;Dialog5.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D5_msg00=Where to now, partner?
+#L_D5_ans00=I think we should check what InoCo wanted from us. We're going to Lidau.
+#L_D5_ans01=You were right, I shouldn't have visited this place. All right, let's set the investigation aside for a while and improve our financial status. My friend Alex is offering a well-paying mission. Let's go to XT-54.

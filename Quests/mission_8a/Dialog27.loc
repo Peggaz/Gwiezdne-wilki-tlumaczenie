@@ -1,0 +1,26 @@
+;*****************************
+;Dialog27.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;VksAce
+#L_D27_msg00=Thank you for cooperation. I managed to contact the major.
+#L_D27_ans00=(Dalej)
+#L_D27_msg10=Why the hell are you distracting me from my work?!
+#L_D27_ans10=The deal was to deliver special equipment, not a bomb.
+#L_D27_msg20=So what? A bomb is a device, which is a sort of equipment. Should I make it even more primitive? I have an task, so go accomplish it!
+#L_D27_ans20=(Dalej)
+#L_D27_msg30=Hey! We're not in your army.
+#L_D27_ans30=(Dalej)
+#L_D27_msg40=My dear, everyone's a soldier during a war, whether he wears uniform or not. And if you're a soldier, then be so kind to execute orders.
+#L_D27_ans40=I didn't agree to demolish stations. The bomb is meant for that station, isn't it?
+#L_D27_msg50=The station you care about so much is a military administrative object used as a bridgehead by enemy forces. I understand that it's hard for certain spineless mercenaries to realize obvious things, but I can tell you this: destroying this station will strengthen the legal order in the entire Phoenix Sector.
+#L_D27_ans50=Perhaps, it will. But I still can't demolish a station full of people.
+#L_D27_msg60=I'm a soldier, not a monster. I bear responsibility for decisions I make. The bomb is set to detonate after a delay. There may be traitors at the station, but they'll have a chance to evacuate - to surrender and make amends to the Empire. You're wasting my precious time, dammit! So what's your answer? Are you going to execute the order or should I consider you deserters? Note that I don't negotiate with the latter!
+#L_D27_ans60=I'm sorry, but you'll have to deal with the station without my help.
+#L_D27_ans61=All right, I'll deliver the cargo, if they have time to evacuate.
+#L_D27_msg70=Wrong answer. Officer, you know what to do.
+#L_D27_ans70=(Dalej)
+#L_D27_msg71=And don't waste my time on trifles anymore. The patrol will take you to the Dionysus portal. You will get more instructions on the way. Viper out.
+#L_D27_ans71=(Dalej)

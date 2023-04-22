@@ -1,0 +1,27 @@
+;*****************************
+;Dialog4.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Tramp
+#L_D4_msg00=It seems there's nothing to protect here anymore, thanks to Hader's treachery. It's quite a pity that we didn't save the cruiser dockyard. Even one of those birds would come in handy right now. We also lost the hyper catapult station.
+#L_D4_ans00=So what now?
+#L_D4_msg10=Let's count on ships we have. Are you ready?
+#L_D4_ans10=That depends.
+#L_D4_msg20=You have a point. I can't stop worrying about the ship they've detected. It seems Viper was right, and our lieutenant friend came here not only to invite us.
+#L_D4_ans20=(Dalej)
+#L_D4_msg30=Do you mean the peace conference is cancelled? Just great!
+#L_D4_ans30=(Dalej)
+#L_D4_msg40=No, we can't lose a chance to make peace. But I don't want them to stack the deck. Lieutenant's information has serious - and most likely intentional - gaps. But we can fill them with the data Viper has collected. We must find out what goals those Greys are pursuing. Which means we'll have to visit them before the conference.
+#L_D4_ans40=Where at, if that's not a secret?
+#L_D4_msg50=The FTU Headquarters in New Kyoto.
+#L_D4_ans50=(Dalej)
+#L_D4_msg60=I say!
+#L_D4_ans60=(Dalej)
+#L_D4_msg70=My thoughts exactly. Though, on the other side, free traders are a perfect cover for any kind of activity. No one asks you too much questions about where you go and what you deliver. And no one knows how much money you have. If there's anyone to build a fleet by means of imperial or corporate funds, it must be you. As wise men say, if you're out of possible explanations, it's the impossible one you're looking for.
+#L_D4_ans70=(Dalej)
+#L_D4_msg80=I hate philosophy...
+#L_D4_ans80=(Dalej)
+#L_D4_msg90=Then let's not waste time, there's a long road ahead of us. We must get to Al-Trabon, they have recently built a hyper catapult.
+#L_D4_ans90=(Dalej)

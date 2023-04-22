@@ -1,0 +1,65 @@
+;*****************************
+; mission_7g
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_7g_a=Reach the XB-17 system.
+#L_Quest_7g_b=The fighter prototype stolen from the MSF is located in the XB-17 system. But don't underestimate the mercenaries who stole the ship.
+#L_Quest_7g_01a=Reach the vessel parking space.
+#L_Quest_7g_01b=You have honestly paid for the ship. Now you have to visit the parking space and exchange your old mothership with the new one.
+#L_Quest_7g_02a=Leave the system.
+#L_Quest_7g_02b=Now you have a new mothership and no more business in this system. You can leave it and pursue other goals.
+#L_Quest_7g_03a=Reach the vessel parking space.
+#L_Quest_7g_03b=You won't get the ship peacefully now. Try to reach the parking space as quickly as possible and seize it.
+#L_Quest_7g_04a=Find the ship.
+#L_Quest_7g_04b=They had time to hide the ship, but had no time to take it far away from the parking space. Try to find its location.
+#L_Quest_7g_05a=Get rid of the guards.
+#L_Quest_7g_05b=Get rid of the ship guards as quickly as possible by either eliminating them or luring them away from the ship.
+#L_Quest_7g_06a=Approach Astarte.
+#L_Quest_7g_06b=Your old mothership is too far from the new ship. Take it closer to be able to move the equipment.
+#L_Quest_7g_07a=Leave the system.
+#L_Quest_7g_07b=You have successfully captured Astarte. You can leave the system and pursue other goals now.
+
+;*****************************
+;Speeches
+;*****************************
+#L_merc_01=This is Team Gamma, we're in trouble. Withdraw the birdie!
+#L_merc_02=Affirmative.
+#L_Lastochka_01=Dammit, they had time to hide the base.
+
+#L_Lastochka_02=Wait a second, I detected the base's reply. I'll mark it on the map.
+
+#L_Hero_01=They got away...
+#L_Sedoy_01=Not too far. Boss, don't forget that a base has acceleration of a metal chunk. We should search around.
+
+#L_merc_03=General alert, we have visitors!
+
+#L_Lastochka_03=Partner, they damaged our old tub!
+#L_Lastochka_04=Partner, they found and damaged our old tub!
+#L_Hero_02=Status?
+#L_Lastochka_05=The reactor is critical! The cooling system won't last long!
+#L_Hero_03=Then let's deal with our friends quickly!
+#L_Hero_04=Then let's deal with our friends quickly! Command the autopilot to take the base here!
+
+#L_Lastochka_06=Partner, we need to get our possessions from the old base. I'm afraid its reactor won't last long.
+#L_Sedoy_02=Yeah, yeah, I'm on the transporter already! Got it! Watch out, it's going to explode!
+#L_Lastochka_07=Good bye, old friend... We lived through a lot together...
+
+#L_Hero_05=We shouldn't hang around here.
+#L_Lastochka_08=That's it, we're good to go. But let's visit a maintenance station along the way. Perhaps, they will hot the base engine up a bit.
+
+#L_merc_04=All right, take the base.
+#L_Lastochka_09=Not so fast. We gave you the money and the ship. But our possessions are not a part of the deal.
+
+#L_Sedoy_03=One hell of a vessel, boss. But it requires much efforts.
+#L_Hero_06=We'll sort it out. Ternie, how's the loading going?
+#L_Lastochka_10=Done.
+
+#L_merc_05=Hey, decided to play a game?! So let's play then!
+
+#L_Lastochka_11=What idiot laid his hands on the guns? Or you thought I'd live with you in a tent on an asteroid, cook and wash your clothes till the end of me?

@@ -1,0 +1,23 @@
+;*****************************
+;Dialog6.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m10_Hunter
+#L_D6_msg00=Did we miss something?
+#L_D6_ans00=Zurab?! How did you get here?
+#L_D6_msg10=It's a sad story. We lost the border sector, it's been overrun by Berserks. It's good we had time to evacuate the majority of inhabitants right after the first raid. Joseph was killed...
+#L_D6_ans10=I'm so sorry.
+#L_D6_msg20=We all are. USS is still trying to hold Berserks at bay by the Al-Ariash portal, but that system is as good as lost. Corporators have started a massive evac into the Triada's space. And we hid our people in a safe place and came here, as soon as we got to know you had decided to whack the emperor. We have a crow to pick with him.
+#L_D6_ans20=(Dalej)
+#L_D6_msg30=Alex, did you put up a notice to hire volunteers? I bet you put up an ad in the Galanet.
+#L_D6_ans30=(Dalej)
+#L_D6_msg40=It was Cleric who told us about your plans. Man, I had no idea someone could curse so fluently. Right now he's with my people, organizing a "data black hole" or whatnot.
+#L_D6_ans40=(Dalej)
+#L_D6_msg50=So the guy was right about Berserks, and we should have listened to him. Oh, boss, we flopped big time.
+#L_D6_ans50=(Dalej)
+#L_D6_msg60=We can still fix it all. If we eliminate the emperor, the NESF will have resources and MSF soldiers at their disposal. In that case they should be able to overcome Berserks. However, we're quite pinched.
+#L_D6_ans60=(Dalej)
+#L_D6_msg70=Let's hurry ip to Vaudille then.
+#L_D6_ans70=(Dalej)

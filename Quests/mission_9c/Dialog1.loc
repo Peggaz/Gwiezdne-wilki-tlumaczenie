@@ -1,0 +1,20 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m9c_LaVerti
+#L_D1_msg00=You must be those people Alexandra told me about. I thought there would be more of you.
+#L_D1_ans00=You'll have to live with it.
+#L_D1_msg10=Well, it's even better this way... Even better.
+#L_D1_ans10=(Dalej)
+#L_D1_msg20=How so?
+#L_D1_ans20=(Dalej)
+#L_D1_msg30=We shouldn't attract unwanted attention. I hope you know the details of this mission, but let me revise just in case. Right now we'll head for Dionysus with a cargo of special fiber. Quite a thing, I have to admit. Very durable and leak-tight. Good for constructing temporary station bays. But let's get back to the mission. The MSF should let you into the system with no problems. They only detain military cargoes. In Dionysus we'll pick up radium and that's where it gets difficult. The radium has to be delivered to Vulcan, which means passing at least one system controlled by the MSF. Radium is just the cargo they aren't eager to let go, so your task will be to clear the way for the transports.
+#L_D1_ans30=Wait! That wasn't a part of the deal! We were told to defend the transports, not act as a regular army. You'll have to do without our help, La'Vertius.
+#L_D1_ans31=Nobody told us about clearing... Oh well, only troubles are easy to get in this life. We agree.
+#L_D1_msg40=I'm sure I'll have... Gentlemen, please excuse me, but we're time-constrained.
+#L_D1_ans40=(Dalej)
+#L_D1_msg41=You do? Great, let's move out immediately. Try not to lose the visual of the convoy. It's in your interest, as there's no getting into Dionysus without a group permit.
+#L_D1_ans41=(Dalej)

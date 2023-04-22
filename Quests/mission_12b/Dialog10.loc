@@ -1,0 +1,15 @@
+;*****************************
+;Dialog10.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Aia
+#L_D10_msg00=So there. One bastard less.
+#L_D10_ans00=(Dalej)
+#L_D10_msg10=Are you happy now?
+#L_D10_ans10=(Dalej)
+#L_D10_msg20=Of course! But I'll be even happier when his father is dead. Oh how I long for that moment!
+#L_D10_ans20=About our deal.
+#L_D10_msg30=Ah, yes, the deal. My agents found the Greys you've mentioned in XT-24. But I don't know their number or base location. The system is confirmed however. I can't accompany you as I have to prepare another surprise for Min. But I wish you luck!
+#L_D10_ans30=(Dalej)

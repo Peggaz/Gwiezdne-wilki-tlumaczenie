@@ -1,0 +1,23 @@
+;*****************************
+;Dialog13.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Trader
+#L_D13_msg00=Thanks, I've started praying already.
+#L_D13_ans00=You're welcome. But heed my advice, buddy, don't hang around these systems alone.
+#L_D13_msg10=I wasn't alone, I had a mercenary escort, but we stumbled upon a large group of pirates - a few dozen ships. The escort engaged in combat and told me to run for it. Good guys, it would be a pity, if they died.
+#L_D13_ans10=(Dalej)
+#L_D13_msg20=Where did it take place?
+#L_D13_ans20=(Dalej)
+#L_D13_msg30=In XT-93, I'll mark it on your map. The pirates might have left already, but I'd better stay away from that place.
+#L_D13_ans30=Thanks, we'll think about it.
+#L_D13_msg40=Listen, if you are headed for an imperial sector, please take me with you. I won't make it on my own.
+#L_D13_ans40=Sorry, pal, but we have other things to do now. But there's a trade convoy behind us led by my friend. I'll ask him to let you join.
+#L_D13_msg50=Oh it would be great! Thanks again.
+#L_D13_ans50=(Dalej)
+#L_D13_msg60=Dozens of pirates... Either the trader was too scared to count or we're in deep trouble. That would mean a few clans united for a joint attack. And I think our convoy is their target.
+#L_D13_ans60=(Dalej)
+#L_D13_msg70=I agree. What should we do, boss?
+#L_D13_ans70=Let's get to ур-93 and see.

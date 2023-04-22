@@ -1,0 +1,20 @@
+;*****************************
+;Dialog25.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D25_msg00=Hey, station, I need to talk to Ray.
+#L_D25_ans00=(Dalej)
+#L_D25_msg10=Did Nataly send you?
+#L_D25_ans10=She did.
+#L_D25_msg20=Fine, glad to meet you! She spoke of you well. You see, they offered me an urgent contract, but I had that accident just a few days ago. I didn't fix some boxes in the cargo bay and one fell right on my neck. A doc had me corseted and said I was to spend a month in zero gravity not to overstrain the back. I'd shrugged his prescription off, but I can merely move my hands and legs, not to mention fly a ship. Can you help me out? Take my ship to the Copernicus Station, it's not far. I'll pay you 25,000 now and another 25 G's when you return the ship.
+#L_D25_ans20=Sure thing, Ray!
+#L_D25_ans21=I'm sorry, Ray, but no can do. I'm looking for something more serious. Don't get me wrong...
+#L_D25_msg30=Great! Here are the ship access codes and station coordinates. Meanwhile, I shall drift in your clunker. But be careful, rumor has it there's a gang of crazy brutes lurking around. A few traders have already gone missing. Just stick to the route and try to get to the scientific station as soon as possible. Time is of the essence, if you're late, they'll remember about penalties.
+#L_D25_ans30=Don't worry, this is not my first day in open space. Aren't you afraid to let a stranger take your ship just like that?
+#L_D25_msg31=Ah, buddy, I'm not angry, but it's still a pity. Come visit me, if you want, I'm stuck here for a long time. But remember about penalties for late delivery.
+#L_D25_ans31=(Dalej)
+#L_D25_msg40=There is certain risk, but is anything safe these days? Besides, one shouldn't try to leave the system on my old tub. As soon as he would enter the portal, the onboard computer would signal me and I, in turn, would initiate a self-destruct sequence. You're asking out of curiosity, aren't you?
+#L_D25_ans40=Solely out of curiosity, I assure you.

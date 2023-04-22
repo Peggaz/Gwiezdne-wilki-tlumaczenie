@@ -1,0 +1,63 @@
+;*****************************
+;Dialog11.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Uel
+#L_D11_msg00=You were in Hapha.
+#L_D11_ans00=Yes, listen-
+#L_D11_msg10=Your biometric data is identical to that of the team that attacked a Triada station in XT-45.
+#L_D11_ans10=(Dalej)
+#L_D11_msg20=Bingo.
+#L_D11_ans20=(Dalej)
+#L_D11_msg30=Reply not recognized. The Hapha station hasn't been answering our calls. I can't locate corporation mobile security forces. I demand more data.
+#L_D11_ans30=If that was a question, I can say that your station was taken apart. As a matter of fact, this is exactly-
+#L_D11_msg40=Station disassembly was unauthorized. Who performed it?
+#L_D11_ans40=(Dalej)
+#L_D11_msg50=By Space, what are these ravings about? Who are you?
+#L_D11_ans50=(Dalej)
+#L_D11_msg60=I am the supervisor of InoCo Corporation. Artificial intelligence of the third generation, the Superior Artificial Mind. You may call me SAM for simplicity. I've been entrusted with administrative and management functions, development and implementation of corporation's economical, military and political doctrine.
+#L_D11_ans60=(Dalej)
+#L_D11_msg70=Jeez, another tincan. Those corporators sure want to bring us to our graves again.
+#L_D11_ans70=(Dalej)
+#L_D11_msg80=This analogy has no sense. What's happened to the station and mobile security forces of the corporation?
+#L_D11_ans80=When we entered the system, there were no mobile forces. And your station was being taken apart by the MSF.
+#L_D11_msg90=Reasons?
+#L_D11_ans90=How the hell should we know?!
+#L_D11_msg100=Insufficient data.
+#L_D11_ans100=Dammit! That's all we know! Wait, we have a witness, an employee of your corporation. And we managed to catch a guy who was trying to obtain your equipment.
+#L_D11_msg110=Hey! What are you doing, partner? We've barely survived the thick skulls back there, and you're spitting it out to a tincan just like that?
+#L_D11_ans110=(Dalej)
+#L_D11_msg120=Too many idioms. Please formulate a more accurate request.
+#L_D11_ans120=(Dalej)
+#L_D11_msg130=Oh, I'll arrange it in orderly symmetrical pigeonholes, just you wait. Need information? Buy it! Pay us 1,250,000 credits and we'll let you talk to the witness and apprehend that mysterious guy.
+#L_D11_ans130=(Dalej)
+#L_D11_msg140=What information content does your witness have?
+#L_D11_ans140=(Dalej)
+#L_D11_msg150=She's the only survivor of all station personnel. Jana, do you have any codes, an electronic signature or whatever you use as an ID?
+#L_D11_ans150=(Dalej)
+#L_D11_msg160=Oh, sure, here you are...
+#L_D11_ans160=(Dalej)
+#L_D11_msg170=ID confirmed. Expenses deemed reasonable, credits transferred. Awaiting information.
+#L_D11_ans170=(Dalej)
+#L_D11_msg180=Hey, tincan, you sure don't haggle. I like that!
+#L_D11_ans180=(Dalej)
+#L_D11_msg190=Glad to be of help. Awaiting information.
+#L_D11_ans190=(Dalej)
+#L_D11_msg200=I don't know much. I was transferred to the station six months ago as a junior technician. Not long before the attack we were ordered to prepare all equipment for transportation. Then ships arrived to pick up all the higher-ups and the equipment. And we were left... Left to die!
+#L_D11_ans200=(Dalej)
+#L_D11_msg210=Who issued the order? Where were the senior employees and the equipment taken? Please provide more data.
+#L_D11_ans210=(Dalej)
+#L_D11_msg220=I don't know! Do you think anyone has reported to me or something?! They just took them away and left us!
+#L_D11_ans220=(Dalej)
+#L_D11_msg230=The information needs to be analyzed. Input data insufficient for an accurate conclusion. Hand over the pod with the second object.
+#L_D11_ans230=All right... Here you go. Wait, SAM, you mean you had no idea about the events at the station? You didn't know the employees of your corporation were left defenseless?
+#L_D11_msg240=Station evacuation wasn't authorized. The loss of junior personnel is not a part of effective management principles.
+#L_D11_ans240=Damn, but who could arrange all that?
+#L_D11_msg250=The information needs to be analyzed. Input data insufficient for an accurate conclusion.
+#L_D11_ans250=(Dalej)
+#L_D11_msg260=All right, SAM, feel free to analyze and whatnot, and we'll be on our way. We told you all we knew, and you don't need us anymore, right?
+#L_D11_ans260=(Dalej)
+#L_D11_msg270=The necessity of your personal presence is currently minimal. You are free to leave. You may be contacted in the future, the passes into the InoCo's space will remain valid.
+#L_D11_ans270=(Dalej)

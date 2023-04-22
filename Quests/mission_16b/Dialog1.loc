@@ -1,0 +1,17 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Sedoy
+#L_D1_msg00=Boss, are you sure we did the right thing? Shouldn't we deal with the tincan?
+#L_D1_ans00=Greyhair, we've promised to help Aja and we'll do it. At least for that she's helped us free Ternie.
+#L_D1_msg10=And I just like the idea to whack Imu. If Aja starts hunting pirates as well, I'll vote with my both hands!
+#L_D1_ans10=(Dalej)
+#L_D1_msg20=I wouldn't underestimate the machine.
+#L_D1_ans20=(Dalej)
+#L_D1_msg30=Come on, machines comes and go, but pirates have been shedding people's blood for as long as humanity has been in space. So who's bigger problem, eh?
+#L_D1_ans30=(Dalej)
+#L_D1_msg40=I agree with Ternie on this one. Without Imu the outer space will be a much safer place. Much safer. Besides, he's connected with Kane, and I'll be glad to drive a wedge into that party.
+#L_D1_ans40=Jeez, who am I keeping company with? Valkyries? Here are the coordinates Aja should be awaiting at.

@@ -1,0 +1,34 @@
+;*****************************
+;Dialog3.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Viper
+#L_D3_msg00=Damn! Admiral, how could you let her go?!
+#L_D3_ans00=(Dalej)
+#L_D3_msg10=Get hold of yourself, major. I have a feeling you're not even trying to see this in proper perspective.
+#L_D3_ans10=(Dalej)
+#L_D3_msg20=I’m the only one here who sees this in proper perspective! Admiral, you're one of the few experienced flag officer of the empire. You're respected by subordinates and capable of planning a well thought out attack on the rebels. For these reasons, you're a danger for the enemies. One hell of a danger! All those armistice offers are just a scam to lure you into a trap and neutralize. Come to your senses, admiral!
+#L_D3_ans20=(Dalej)
+#L_D3_msg30=You're the one who needs to come to senses, major. All of us - military, civilians - are in deep trouble. What if my intel is true? Consider this. As soon as the news about the events on Earth spread across MSF space, the Outer Worlds will turn into a bloodbath. Pirates, our own deserters, corporators - all of them will pounce on our systems like a flock of vultures on a dying beast. We must do our best to prevent bloodshed. Or we shall forever have this blot on our escutcheons!
+#L_D3_ans30=(Dalej)
+#L_D3_msg40=What are you trying to say, admiral?
+#L_D3_ans40=(Dalej)
+#L_D3_msg50=If we have a chance to make peace and avoid slaughter, we must use it in full. Even if we have to swallow our hate. I'm sure that armistice offer isn't a trap.
+#L_D3_ans50=(Dalej)
+#L_D3_msg60=Am I right that you've set your mind to going there?
+#L_D3_ans60=(Dalej)
+#L_D3_msg70=You are right.
+#L_D3_ans70=(Dalej)
+#L_D3_msg80=Admiral Trump, by authority bestowed upon me by the Empire I'm relieving you of command of the New Restoration Project and detaining you until court-martial. Any resistance will be crushed severely. Please surrender peacefully. Don't make me do what I'll be sorry about later.
+#L_D3_ans80=(Dalej)
+#L_D3_msg90=Major, you will be sorry about all this anyway. You're an honest person and will not kid yourself. One day you will painfully realize you are not defending the people you've sworn to, but Azar and a bunch of blue blood betrayers.
+#L_D3_ans90=(Dalej)
+#L_D3_msg100=His Imperial Majesty is a legal suzerain of Earth and Outer Worlds. Those who oppose him are former criminals, hitmen and pirates. What wellbeing can they have in mind? I'm sorry, admiral, but you leave me no choice. Get him, team! Detain the admiral!
+#L_D3_ans100=(Dalej)
+#L_D3_msg110=Boss?
+#L_D3_ans110=What? You heard the order, attack the admiral.
+#L_D3_ans111=Sorry, major, but the admiral is right. We are all tired of this war, so if there's a chance to end it, we must use it. It doesn't matter who wins.
+#L_D3_msg121=So you, bastards, turned on me too, huh? Serves me right I guess... You've just signed your death sentence!
+#L_D3_ans121=(Dalej)

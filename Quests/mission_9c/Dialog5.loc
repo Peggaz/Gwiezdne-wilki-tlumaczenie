@@ -1,0 +1,15 @@
+;*****************************
+;Dialog5.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m9c_LaVerti
+#L_D5_msg00=That was the only way. It sure was. I contacted Kruger and he promised to spare everyone's life. He also ordered to load the radium at the mine, so I'll send the ships there, all right? Jeez, this day is so nervous.
+#L_D5_ans00=(Dalej)
+#L_D5_msg10=Why, it's usual. For somebody who has chickened out and sold his soul this day is perfectly usual.
+#L_D5_ans10=Greyhair, I don't get your hints.
+#L_D5_msg20=Then you don't need them, boss. Sorry, I'm not in the mood for talking.
+#L_D5_ans20=Ternie?
+#L_D5_msg30=Partner, neither am I. Besides, we have visitors.
+#L_D5_ans30=(Dalej)

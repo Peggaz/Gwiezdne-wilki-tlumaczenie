@@ -1,0 +1,21 @@
+;*****************************
+; mission_14e_3
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_14e_05a=Reach New Kyoto.
+#L_Quest_14e_05b=Leave the InoCo's space as soon as possible and head for New Kyoto.
+#L_Quest_14e_06a=Reach New Kyoto.
+#L_Quest_14e_06b=Alex Koshevoy is expecting you in New Kyoto. Try not to delay.
+#L_Quest_14e_07a=Proceed to the Kyoto Trade Station.
+#L_Quest_14e_07b=Proceed to the Kyoto Trade Station.
+
+;*****************************
+;Speeches
+;*****************************
+#L_sys_01=That was your biggest mistake. Whatever happens next, you won't be a part of it.

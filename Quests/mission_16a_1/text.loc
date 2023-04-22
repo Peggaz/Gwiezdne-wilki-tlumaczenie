@@ -1,0 +1,17 @@
+;*****************************
+; mission_16a_1
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+
+;*****************************
+;Speeches
+;*****************************
+#L_Viper_01=I'll mark the hyper catapult station we need to visit. I've already instructed the locals to ask no questions.
+
+#L_Viper_02=Hmm, it worked better than I had expected.

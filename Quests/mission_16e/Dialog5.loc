@@ -1,0 +1,16 @@
+;*****************************
+;Dialog5.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Noise_Station
+#L_D5_msg00=Do you wish to add more copies of SAM to your team?
+#L_D5_ans00=Yes
+#L_D5_ans01=No
+#L_D5_msg10=Which copy do you want to add?
+#L_D5_ans10=Gunner
+#L_D5_ans11=Rocketeer
+#L_D5_ans12=Systems expert
+#L_D5_ans13=Remove all copies
+#L_D5_ans14=Finish

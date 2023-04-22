@@ -1,0 +1,17 @@
+;*****************************
+;Dialog13.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Tramp
+#L_D13_msg00=Kishimov, cease fire! Greys, don't shoot. It seems we have nothing to fight over now.
+#L_D13_ans00=(Dalej)
+#L_D13_msg10=Got him court-martialed, admiral, didn't you?
+#L_D13_ans10=(Dalej)
+#L_D13_msg20=I didn't expect USS to have access to hyper jump. We had no intel on a catapult in that system.
+#L_D13_ans20=(Dalej)
+#L_D13_msg30=Then why the hell did you head for that cursed station?
+#L_D13_ans30=(Dalej)
+#L_D13_msg40=We had to replace the crew at the admiral's flagship.
+#L_D13_ans40=(Dalej)

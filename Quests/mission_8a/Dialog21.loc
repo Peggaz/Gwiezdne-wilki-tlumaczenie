@@ -1,0 +1,11 @@
+;*****************************
+;Dialog21.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m8a_Marko
+#L_D21_msg00=Well, friend, bravery is something that has a price and inspires respect.
+#L_D21_ans00=For a moment I thought you were throwing dust in my eyes to save your sorry butt.
+#L_D21_msg10=Pal, if you haven't noticed, you've got no chances here. But I'm a businessman, so here's my final offer. You pay me 25 grands, take your container, and leave peacefully.
+#L_D21_ans10=And here's my final answer. I take the container free of charge. What part of it don't you get?

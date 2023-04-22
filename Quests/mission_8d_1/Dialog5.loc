@@ -1,0 +1,15 @@
+;*****************************
+;Dialog5.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Dispetcher
+#L_D5_msg00=Equipment! Finally! The best news for the last two months!
+#L_D5_ans00=I share your joy, but please unload it quickly. I've got things to do.
+#L_D5_msg10=Sure, sure. Here's your pay. Sorry about the meager sum, but it's all we have.
+#L_D5_ans10=Nevermind, I knew what I was agreeing to.
+#L_D5_msg20=Our whole mine is in your debt. Drop by if you need to trade uranium, we'll give you a discount. Also, if you need your ship's license plates cleaned, we have a few "experts".
+#L_D5_ans20=Oh, that might come in handy, thanks! Have you finished unloading the cargo?
+#L_D5_msg30=Yes, you're free to go. Good luck!
+#L_D5_ans30=(Dalej)

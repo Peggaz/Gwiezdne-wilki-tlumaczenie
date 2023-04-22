@@ -1,0 +1,27 @@
+;*****************************
+;Dialog6.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Tramp
+#L_D6_msg00=Captain, I don't have time for explanations. What is it?
+#L_D6_ans00=(Dalej)
+#L_D6_msg10=According to the latest report, flower lovers captured Shula, Tira, Corrino and Muscovy. A report from Prien indicates that a large fleet of grey ships has been assembling there.
+#L_D6_ans10=(Dalej)
+#L_D6_msg20=How large?
+#L_D6_ans20=(Dalej)
+#L_D6_msg30=We don't know exactly, but rumor has it they have a few Lions.
+#L_D6_ans30=(Dalej)
+#L_D6_msg40=Too bad... Listen, captain, get back to Al-Trabon and wait at the jump station for my signal. We might need your help.
+#L_D6_ans40=(Dalej)
+#L_D6_msg50=Jump coordinates?
+#L_D6_ans50=(Dalej)
+#L_D6_msg60=I don't know yet. Just let them keep the catapult fired up, I'll tell the coordinates later.
+#L_D6_ans60=(Dalej)
+#L_D6_msg70=Got it, moving out.
+#L_D6_ans70=(Dalej)
+#L_D6_msg80=So where should we go? We're kind of surrounded.
+#L_D6_ans80=(Dalej)
+#L_D6_msg90=We shall visit XT-86. I can't visit a meeting that important on some old clunker, can I? I need a better ship. But we'll have to use the portal to boost our jump, the hyper spring in this transport is nearly dead.
+#L_D6_ans90=(Dalej)

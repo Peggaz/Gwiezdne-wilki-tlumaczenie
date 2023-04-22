@@ -1,0 +1,63 @@
+;*****************************
+;Dialog14.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Viper
+#L_D14_msg00=Good job, I haven't expected that. And I can see there's more of you. Care to introduce your friend?
+#L_D14_ans00=(Dalej)
+#L_D14_msg10=I can introduce myself fine. Vladimir Bykov, former patrolman in New Donbass, now temporary helper to these vagabonds. Speaking of help, I've kept my word, so I'm now free to go home.
+#L_D14_ans10=(Dalej)
+#L_D14_msg20=How biting.
+#L_D14_ans20=(Dalej)
+#L_D14_msg30=It is. Sorry, nothing personal. Is that all?
+#L_D14_ans30=(Dalej)
+#L_D14_msg40=I'll tell you when this is over. Tell me one thing, Bykov. I looked through your file, your career was flawless. You clearly liked your job. Why did you retire when the Empire needed people like you most?
+#L_D14_ans40=(Dalej)
+#L_D14_msg50=I wanted to become a singer.
+#L_D14_ans50=(Dalej)
+#L_D14_msg60=I'm serious.
+#L_D14_ans60=(Dalej)
+#L_D14_msg70=Oh, are you? All right, let's get serious then. When brave Imperial soldiers massacre an entire station, it makes you look at your values in a new way. Clear enough for you?
+#L_D14_ans70=(Dalej)
+#L_D14_msg80=You mean the Operation Blazing Adits...
+#L_D14_ans80=(Dalej)
+#L_D14_msg90=I mean the station. One full of civilians that were butchered to the last man. I mean the massacre. I believe you use the word "operation".
+#L_D14_ans90=(Dalej)
+#L_D14_msg100=Cut it out, Bykov, you don't know all the details of that incident. No one gave an order to eliminate the civilians. Moreover, no lethal force whatsoever should have been applied to them.
+#L_D14_ans100=(Dalej)
+#L_D14_msg110=Oh, I see now. Thanks for clarifying. No one wanted the bad thing to happen.
+#L_D14_ans110=(Dalej)
+#L_D14_msg120=I haven't finished. It was a mistake of the personnel officer who assigned that operation to a team that had just arrived from a war zone. It started as planned, but then one of the miners fired from a gravitation drill. That idiotic prank wouldn't harm an armored soldier, just knock him back a few meters. But there wasn't time to ponder on it, and soldiers fired for effect. Then the nearby miners attacked.
+#L_D14_ans120=(Dalej)
+#L_D14_msg130=Even so?! Oh, let me imagine it in detail...
+#L_D14_ans130=(Dalej)
+#L_D14_msg140=Just let me finish, will you! Yes, the soldiers killed the miners who opposed. Then some lost it and started butchering everyone around. Other soldiers tried to stop them, but it was too late. They just went haywire.
+#L_D14_ans140=(Dalej)
+#L_D14_msg150=It's very convenient to blame the heat of passion.
+#L_D14_ans150=(Dalej)
+#L_D14_msg160=No one blamed it on anything. All guilty were punished. The officers of that squard were executed. That was a mistake, a horrible mistake. One that could ruin the reputation of the whole Empire.
+#L_D14_ans160=(Dalej)
+#L_D14_msg170=You want me to believe this nonsense?
+#L_D14_ans170=(Dalej)
+#L_D14_msg180=I suggest you think about what I've just said.
+#L_D14_ans180=(Dalej)
+#L_D14_msg190=Why?
+#L_D14_ans190=(Dalej)
+#L_D14_msg200=I repeat, the Empire needs people like you right now. It is in my power to do everything to get you - and every other worthy man - back into action.
+#L_D14_ans200=(Dalej)
+#L_D14_msg210=Don't waste your time on me. It'd be in vain.
+#L_D14_ans210=(Dalej)
+#L_D14_msg220=It wouldn't. You already have doubts, I just need to appeal to reason. And send you investigation reports for that operation, so you, Bykov, can examine them and make conclusions. I'm sure you'll decide to resume service. And I'll help you get your former rank back.
+#L_D14_ans220=So what should we do?
+#L_D14_msg230=Oh, you... I have no more work for you right now. You've complained about the lack of funds. Well, I can give you 250,000 credits for the delivery. Now get down to something useful. And I'm busy. Bykov, I'll talk to you later. Over and out.
+#L_D14_ans230=Validol, was it the sin you had mentioned?
+#L_D14_msg240=It was.
+#L_D14_ans240=Did you take part in the massacre?
+#L_D14_msg250=By gods, no. We were guarding assault bots. Never poked our noses out of the hangar.
+#L_D14_ans250=What's your sin then? I don't get it.
+#L_D14_msg260=I didn't interrupt. Sometimes it's worse than crime itself. Now sorry, friend, I'd rather not talk about it anymore. And you may thou me, it's easier this way.
+#L_D14_ans260=As you say. What will you do now?
+#L_D14_msg270=There are no particular plans. I guess I'll just tag along for some more time, if you don't mind. I can probably be of more help. Right now I'll look through the papers she's sent me. I should give that woman her due, she did hook me on.
+#L_D14_ans270=I guess no one will object to that, so welcome to the team. Now let's leave the system and decide our next move.

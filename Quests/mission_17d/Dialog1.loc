@@ -1,0 +1,17 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Alex
+#L_D1_msg00=Are you mad?
+#L_D1_ans00=Come on, it was just a joke.
+#L_D1_msg10=That was awkward. Everyone, attack.
+#L_D1_ans10=(Dalej)
+#L_D1_msg20=Wait, we'll handle that dolt ourselves.
+#L_D1_ans20=(Dalej)
+#L_D1_msg30=Partner, you are an idiot!
+#L_D1_ans30=(Dalej)
+#L_D1_msg40=I couldn't agree more.
+#L_D1_ans40=(Dalej)

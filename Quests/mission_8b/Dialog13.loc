@@ -1,0 +1,13 @@
+;*****************************
+;Dialog13.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;PirateTough
+#L_D13_msg00=Well, well, well. It's good we came here. So you decided to work for InoCo, didn't you?
+#L_D13_ans00=Not to work for, but conduct recon. Contact Triada, they'll explain everything.
+#L_D13_msg10=It's not necessary, I believe you. So you just go and do what you've been told. Got it?
+#L_D13_ans10=Permission to lollop, sir?
+#L_D13_msg20=I didn't get it...
+#L_D13_ans20=I'm sure of it, so nevermind. Ternie, Greyhair, we have much to do, let's go.

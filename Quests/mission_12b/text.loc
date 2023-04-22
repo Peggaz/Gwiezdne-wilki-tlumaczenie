@@ -1,0 +1,62 @@
+;*****************************
+; mission_12b
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_12b_01a=Meet with Aja Shumova.
+#L_Quest_12b_01b=Aja Shumova leads special security department in Triada, and this corporation well-known for its connection to the underworld. Perhaps, Aja has information on a gang with grey ships. You can find Aja at the Changchun Station in XT-52.
+#L_Quest_12b_02a=Neutralize station guards.
+#L_Quest_12b_02b=Aja will deal with Lee Imu by herself. You just need to neutralize guards of the Kuru Station in XT-45.
+#L_Quest_12b_03a=Wait for pirates to attack.
+#L_Quest_12b_03b=Let pirates launch a distracting attack.
+#L_Quest_12b_04a=Protect Aja.
+#L_Quest_12b_04b=Aja is the key person now. If she dies, your search will reach a deadlock.
+#L_Quest_12b_05a=Eliminate Imu.
+#L_Quest_12b_05b=Eliminate all the ships of Lee Imu.
+
+;*****************************
+;Speeches
+;*****************************
+#L_Alisa_01=I marked the base where we can find Aja on the map.
+#L_Aia_01=No need to find anyone. So, Alice, what are you doing here?
+
+#L_Sedoy_01=Quite a riddle, boss. What should we do?
+#L_Hero_01=As the case may be. Let's get to XT-45 and then see.
+
+#L_pirate_01=Watch out! Let's get the hell out!
+
+#L_Hero_02=Now let's head for the station.
+
+#L_Sedoy_02=We shouldn't have dealt with this riffraff, boss. Now there'll be trouble.
+#L_Hero_03=It was bound to happen anyway. Let's head for the station.
+
+#L_Sedoy_03=We shouldn't have dealt with this riffraff, boss. I'm afraid they'll sell us out to that Imu.
+#L_Hero_04=I've paid them.
+#L_Sedoy_04=Boss, it's just the way they are. So keep your eyes open.
+
+#L_Sedoy_05=Boss, we have visitors!
+
+#L_pirate_02=For Imu! Let's help our brothers!
+#L_Alisa_02=Like we hadn't enough!
+
+#L_Sedoy_06=Boss, couldn't you think of anything smarter? You could say we came from that Roghem guy! Now there'll be trouble.
+
+#L_triada_01=General alert! Reactor critical! Evac immediately!
+#L_Sedoy_07=Oh, the party's in full swing, as I can see.
+#L_Aia_02=Now let's wait for the handsome one.
+
+#L_Sedoy_08=I'm afraid he won't be alone.
+#L_Aia_03=Attack! Don't let anyone escape!
+#L_Imu_01=I knew it was you beyond all this, half-breed.
+#L_Aia_04=You shouldn't have said that, bastard! Imu is mine!
+
+#L_Alisa_03=Kim would be disappointed to see her like that...
+#L_Sedoy_09=She's right. Now is not the time to be kind.
+#L_Hero_05=Now is not the time for heart-to-heart talks! To XT-24. Today someone will regret touching Ternie!
+
+#L_sys_01=Mission failed. Game over.

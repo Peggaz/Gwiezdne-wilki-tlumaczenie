@@ -1,0 +1,23 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m14a_Kair
+#L_D1_msg00=Well, well, well. I should've guessed you wouldn't fly to New Kyoto. But who would've thought you'd find my base... Such a pity.
+#L_D1_ans00=I don't know who're you and what problems you have with me, but-
+#L_D1_msg10=Problems? At first, you were but a mere unwanted witness. Then you turned into a real pain in the back. So the word "problems" is a bit too insufficient.
+#L_D1_ans10=A witness? Of what?
+#L_D1_msg20=How nice... You're dumber than I thought. Let's put it this way: Triada hired your meager startup to deliver a cargo that was very important for me. And if it only went right - and you stayed on that cursed planet - all information about the cargo would be buried in Beta Lethera 1.
+#L_D1_ans20=But Triada knew...
+#L_D1_msg30=Hah! Triada! It was InoCo that shouldn't have noticed you. They would comb every out-of-the-way system to find their junk! And that would mean much trouble for me. There's only one thing I'm sorry about: I should've killed you myself, instead of hiring those butterfingered palookas of Breakneck. Sheesh, one has to do everything by himself these days. Where's this world coming to?
+#L_D1_ans30=(Dalej)
+#L_D1_msg40=A nice story. But that's what you've missed: that team is both under my lead and protection now. Your threats alone are enough for an execution. But I don't want to spare my time and ammo on your sorry ass. So grab it and scram while you're in one piece. Consider it a gift.
+#L_D1_ans40=(Dalej)
+#L_D1_msg50=What's that background noise? Oh, it's Major Viper! Well, that explains you finding my base. Major, did you like the fireworks I've set up in Dionysus? It was such fun to watch your politics' faces.
+#L_D1_ans50=(Dalej)
+#L_D1_msg60=So that was you... Forget about gifts. You're going to die. In a quite painful way!
+#L_D1_ans60=(Dalej)
+#L_D1_msg70=Yeah, right. Major, do you really think I've come here unprepared? Men, attack! Tear them to shreds!
+#L_D1_ans70=(Dalej)

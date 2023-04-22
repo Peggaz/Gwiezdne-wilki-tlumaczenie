@@ -1,0 +1,19 @@
+;*****************************
+;Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka2
+#L_D2_msg00=Great... Honest... Like hell! A dumb fanatic up to her elbows in blood!
+#L_D2_ans00=(Dalej)
+#L_D2_msg10=The admiral is right, she was a real professional. Too harsh and strict? Maybe. But still a professional. I've met such people before and I can say they will sooner overstrain than betray or disregard an order. Such people don't usually care about what others think, but that's why they come off with flying colors.
+#L_D2_ans10=(Dalej)
+#L_D2_msg20=Yeah, right... For as long as you're headed in the same direction. But if you get in their way, you might as well start writing a will.
+#L_D2_ans20=How do you think, Validol, are we on the right side?
+#L_D2_msg30=Who knows. Time will tell. But the admiral is right, if we don't resume patrolling quickly, pirates and other riffraff will slaughter lots of innocent people. And then there are Greys! Right at the wrong time. There's trouble everywhere.
+#L_D2_ans30=(Dalej)
+#L_D2_msg40=You may think I'm an egoist, but I really don't care who's ruling the roost - the Old Empire, the New Empire, Greys or anyone else, except for pirates. A technician will always be able to find work.
+#L_D2_ans40=(Dalej)
+#L_D2_msg50=Exactly!
+#L_D2_ans50=We'll see if you're right. But now I think we should hit the store, all the more so it's free!

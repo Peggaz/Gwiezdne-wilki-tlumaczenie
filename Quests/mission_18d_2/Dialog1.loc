@@ -1,0 +1,19 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Cleric
+#L_D1_msg00=Hyper jammers activated - only too predictable. Connecting to the data network. Hmm, you thought Cleric could be stopped by dynamic encryption? Hehehe, what do you say to this... Got you! Freestyle, baby! I updated the map and marked all the local objects.
+#L_D1_ans00=(Dalej)
+#L_D1_msg10=Can you disable the Berserks?
+#L_D1_ans10=(Dalej)
+#L_D1_msg20=No. SAM switched them into the standalone mode. Now it just gives them target markers.
+#L_D1_ans20=(Dalej)
+#L_D1_msg30=A smart move. He says bite and the Berserks decide how exactly.
+#L_D1_ans30=Can you infect them with a virus?
+#L_D1_msg40=Only if I meet them in person.
+#L_D1_ans40=(Dalej)
+#L_D1_msg50=Then we'll give you a chance. Now let's give them hell, boss.
+#L_D1_ans50=Do we have any other choice? We must clear the way for reinforcements.

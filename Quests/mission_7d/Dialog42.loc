@@ -1,0 +1,9 @@
+;*****************************
+;Dialog42.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Sedoy
+#L_D42_msg00=Where to now, boss?
+#L_D42_ans00=Triada has to know something about all this fuss. Let's go to Candela.

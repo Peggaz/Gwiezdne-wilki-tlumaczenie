@@ -1,0 +1,19 @@
+;*****************************
+;Dialog6.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Corsair
+#L_D6_msg00=That was fun! Like the good old days!
+#L_D6_ans00=(Dalej)
+#L_D6_msg10=Patron? You're alive?!
+#L_D6_ans10=(Dalej)
+#L_D6_msg20=Hah, no dumb tincan can kill Red Corsair. Though I had to drift in the pod for a while.
+#L_D6_ans20=(Dalej)
+#L_D6_msg30=So while we were busy, someone was having a siesta.
+#L_D6_ans30=(Dalej)
+#L_D6_msg40=Come on, we won! This is the only thing that matters. We should celebrate!
+#L_D6_ans40=Shouldn't we inform the others first? They must be worrying.
+#L_D6_msg50=So let them worry. A bit of adrenaline strengthens the cardiovascular system. The winners have a right for some whims. All the more so I have a feeling we're in for more work, none of which is pleasant.
+#L_D6_ans50=(Dalej)

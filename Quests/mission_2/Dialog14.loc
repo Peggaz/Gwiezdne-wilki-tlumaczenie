@@ -1,0 +1,16 @@
+;*****************************
+;Dialog14.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m2_Recruit
+#L_D14_msg00=Boss, if you said it before, we would've avoided trouble. Malky Donelly is a notorious bastard. He lures pilots into a trap, asking to deliver some cargo, then his gang of pirates rob them blindly or even worse.
+#L_D14_ans00=How could I know? He sounded trustworthy.
+#L_D14_msg10=Oh, he sure can crook an unwary, but greedy trader. Anyway, what's done is done. Now what? Should we escort you to where we met or sign a new contract?
+#L_D14_ans10=I think we should prolong our cooperation. You did help me a greal deal. Here's another 1,000 credits.
+#L_D14_ans11=No thanks, considering the sum, it'll be easier for me to pay pirates off.
+#L_D14_msg20=Great! Tell us where to go, boss.
+#L_D14_ans20=Copernicus Scientific Station, and fast.
+#L_D14_msg30=Then we should use a portal. Chances are there are pirates lurking around, but that's our problem.
+#L_D14_ans30=(Dalej)

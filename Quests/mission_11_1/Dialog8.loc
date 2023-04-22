@@ -1,0 +1,33 @@
+;*****************************
+;Dialog8.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D8_msg00=Ternie!
+#L_D8_ans00=(Dalej)
+#L_D8_msg10=Boss, I've got nothing on my radar!
+#L_D8_ans10=(Dalej)
+#L_D8_msg20=Scanning... Scanning... Sorry, no signs.
+#L_D8_ans20=By Great Space! Then how should we find her?
+#L_D8_msg30=Can anyone tell me what's going on here? What were those grey ships?
+#L_D8_ans30=(Dalej)
+#L_D8_msg40=I wish we knew!
+#L_D8_ans40=(Dalej)
+#L_D8_msg50=I saw how they picked up the pod. This means they need our friend alive. I've already contacted the guys by the portal to stop all ships. But considering their concealed approach, nothing prevents them from leaving the same way.
+#L_D8_ans50=Or hiding somewhere near.
+#L_D8_msg60=If this is the case, we'll find them.
+#L_D8_ans60=(Dalej)
+#L_D8_msg70=I'm in your debt: you've dragged me out of my lair and back to life. I'll ß ransack all systems of this sector, each rock of it. If these grey bastards are here, I'll find them and let you know.
+#L_D8_ans70=Thanks.
+#L_D8_msg80=I'm very sorry for what has happened. For getting you involved into this expedition. For this unfortunate outcome.
+#L_D8_ans80=It's not your fault, professor. Encounter with Greys was just a matter of time.
+#L_D8_msg90=I have certain connections in the New Empire government. If I ever get to know something about the Greys or your friend, I'll contact you immediately.
+#L_D8_ans90=Thanks, professor.
+#L_D8_msg100=It's cold comfort, but I still have some expedition funds left. Please, accept them.
+#L_D8_ans100=Phantom, you shouldn't...
+#L_D8_msg110=I should. Buy decent guns, pay informers and beat the hell out of the kidnappers.
+#L_D8_ans110=(Dalej)
+#L_D8_msg120=I'll keep you informed as well. Let me escort you to the portal. Who knows, these Greys may still be lurking here. We have to survive to find her.
+#L_D8_ans120=(Dalej)

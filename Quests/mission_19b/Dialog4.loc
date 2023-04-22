@@ -1,0 +1,31 @@
+;*****************************
+;Dialog4.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Aia
+#L_D4_msg00=I've just met with Ethan. He has his hands full organizing retreat from this system and trying to salvage valuable equipment. As ill luck would have it, hyper catapult coils burned out, so transports have to fly to safety. I hate admitting my own mistakes, but that Alex of yours was right: we had to approach SAM and try to finish it off.
+#L_D4_ans00=(Dalej)
+#L_D4_msg10=SAM?
+#L_D4_ans10=(Dalej)
+#L_D4_msg20=Another artificial intelligence from InoCo. Did you think Berserks bred all by themselves?
+#L_D4_ans20=(Dalej)
+#L_D4_msg30=So that's how it is. Then our affairs are in a bad way. We won't defend this system by ourselves.
+#L_D4_ans30=(Dalej)
+#L_D4_msg40=There's no need. We just have to buy Ethan enough time to evacuate station personnel. I messaged Savay to gather everyone and establish reliable defense in Dalled.
+#L_D4_ans40=(Dalej)
+#L_D4_msg50=Reliable defense? Against that horde of tincans? Aja, it's ridiculous.
+#L_D4_ans50=(Dalej)
+#L_D4_msg60=Let's hope they will spread by that time. That some will head for Hanoi.
+#L_D4_ans60=(Dalej)
+#L_D4_msg70=That will be a great battle! I'll be proud to take part in it!
+#L_D4_ans70=(Dalej)
+#L_D4_msg80=It'll be a slaughter, if you ask me.
+#L_D4_ans80=(Dalej)
+#L_D4_msg90=Aw, come on, whatever will be, will be. And I'm not going to die.
+#L_D4_ans90=(Dalej)
+#L_D4_msg100=No one is willing to, maybe just-
+#L_D4_ans100=(Dalej)
+#L_D4_msg110=Alert! General alert! Incoming tincans!
+#L_D4_ans110=(Dalej)

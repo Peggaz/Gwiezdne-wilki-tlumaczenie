@@ -1,0 +1,52 @@
+;*****************************
+; mission_7a
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_7a_a=Reach the MSF headquarters.
+#L_Quest_7a_b=MSF Security has to know everything about what happened in Beta Lethera 1. You just have to reach New Jerusalem 2 and find someone who would be willing to share this information.
+#L_Quest_7b_a=Reach Triada headquarters.
+#L_Quest_7b_b=Triada has to know everything about what happened in Beta Lethera 1. You just have to reach their main headquarters in Candela and find someone who would be willing to share this information.
+#L_Quest_7c_a=Reach the Mercenary Market.
+#L_Quest_7c_b=The debris of a ship, lacking any imperial or corporate labels, most likely belongs to a mercenary team. The Mercenary Market in Cassily has the biggest database on free fighters, but they won't share it remotely.
+#L_Quest_7d_a=Meet with Alex.
+#L_Quest_7d_b=Alex needs help in escorting a convoy, and his client is willing to pay good money. Alex will be waiting in XT-54. There's some free time to spend, but not much.
+#L_Quest_7a_01a=Leave the system.
+#L_Quest_7a_01b=You need to leave the system as quickly as possible.
+#L_Quest_7a_02a=Hold out until the portal is activated.
+#L_Quest_7a_02b=You must hold out, repelling MSF attacks, until Cleric activates the portal.
+
+;*****************************
+;Speeches
+;*****************************
+#L_Sedoy_01=You're the boss, but I'd rather not mention Beta Lethera to fleet guys.
+#L_Lastochka_01=He's right, partner. Let's leave until it's too late.
+#L_Hero_03=Why do you think so?
+#L_Sedoy_02=The MSF has always been known for harsh approach to vital issues. And the blockade of Beta Lethera is definitely one of those.
+#L_Hero_01=Greyhair, you're talking about combat units, but we're going to staff officers - they are just army bureaucrats. I know how to deal with their kind. Press here, ask there, hint at a compromise - and we'll have a man willing to share information. It'll be a matter of price, but that's negotiable as well. So let me do it and things will be all right.
+
+#L_Sedoy_03=Boss, we're progressing for sure, but to what end?
+#L_vks_01=Attention, civilian ships, prepare to surrender!
+#L_Hero_04=But we just wanted to...
+#L_vks_02=I repeat, stay put! You're under arrest for espionage. Any actions you take will be considered resistance to the law enforcers.
+#L_Lastochka_03=Run for it!
+
+#L_Lastochka_02=Partner, what are you doing?!
+
+#L_Cleric_01=There's no time to explain! I've hacked them, but that won't last long. Let's scram!
+
+#L_Cleric_02=We need to break through to the portal. Quickly, don't mind the patrol. If we linger, they'll have time to bring up main forces. Then we'll be done for.
+#L_Sedoy_04=Boss! The portal is off!
+#L_Cleric_03=Just I as thought. They disabled it.
+#L_Hero_02=Now we're done for! We should have handed you over to the MSF.
+#L_Hero_05=Now we're done for! We should have handed him over to the MSF.
+#L_Cleric_04=Wait, I'll fix it. They could do it remotely. I just need to find the right frequency and hack the authorization. Give me a few minutes! Just a few minutes and I'll get this junk running!
+#L_Sedoy_05=Here comes cavalry...
+#L_Cleric_05=Just a bit more time and we're good to go!
+#L_Viper_01=Surrender! Resistance is futile!
+#L_Cleric_06=Yes! The portal is open, let's jump!

@@ -1,0 +1,15 @@
+;*****************************
+;Dialog7.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka2
+#L_D7_msg00=Partner, am I sleeping or have we actually survived?
+#L_D7_ans00=(Dalej)
+#L_D7_msg10=Seems like we're still alike and kicking! We won, boss!
+#L_D7_ans10=(Dalej)
+#L_D7_msg20=We did... I wish the price of the victory wasn't that dear.
+#L_D7_ans20=Me too. But what's done can't be undone. Where will you go now, Alexandra?
+#L_D7_msg30=It's "we", not "you". I'm afraid we can't do without your team, if we want to restore order in this universe. But right now we need to report to the empress.
+#L_D7_ans30=(Dalej)

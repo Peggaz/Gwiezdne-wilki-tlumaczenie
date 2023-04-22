@@ -1,0 +1,11 @@
+;*****************************
+;Dialog37.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D37_msg00=Hey, station. Take delivery for Triada.
+#L_D37_ans00=(Dalej)
+#L_D37_msg10=Please accept these humble 10,000 credits as a token of our gratitude. If you ever need a corporate job, do tell. A man of your talent and loyalty to customers is bound to succeed in Triada.
+#L_D37_ans10=Thanks for the money. As for the rest, time will tell.

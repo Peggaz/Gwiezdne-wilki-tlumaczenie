@@ -1,0 +1,25 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D1_msg00=You said InoCo had the best surgeons and equipment! You promised to save her!
+#L_D1_ans00=(Dalej)
+#L_D1_msg10=I'm sorry, but corporation employees did their best.
+#L_D1_ans10=But I thought... I hoped... For heaven's sake, I was sure that-
+#L_D1_msg20=Boss, it's over. We lose friends and dear people sometimes. You have to live with it... Boss, I lost only too many friends, believe me...
+#L_D1_ans20=(Dalej)
+#L_D1_msg30=I'm so sorry for Ternie too... We met just a while a go, but I know what you're feeling. We must remember her, then she will stay with us forever.
+#L_D1_ans30=Jana, this is ridiculous! Ternie was killed and that's forever! I won't forget it just like that. SAM, I need to know where the grey bastards are hiding! I'll extirpate those scums!
+#L_D1_msg40=Revenge is not efficient.
+#L_D1_ans40=To hell with efficiency! Do you know where they are?
+#L_D1_msg50=I have located their headquarters with 90% probability. I need a bit more time to finish analyzing the data.
+#L_D1_ans50=You can do it later, we're moving out now!
+#L_D1_msg60=No. We are risking to attack a wrong target and murder innocent people. I can't let such a price be paid for erroneous calculations.
+#L_D1_ans60=So what do you suggest? Just sit here and wait until you calculate everything?!
+#L_D1_msg70=Final data analysis will not take long. Now tell me what you know about the relatives of your friend. We could send her body to them.
+#L_D1_ans70=I know nothing. She once said she was alone in this world and that we were her family.
+#L_D1_msg80=Then I believe you should be the one to organize her funeral.
+#L_D1_ans80=(Dalej)

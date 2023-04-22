@@ -1,0 +1,9 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#L_trade_station=Stacja Handlowa "Beta" Triady
+#L_Name_PStation=Stacja patrolu Triady
+#L_pir=Czerwona baza Piratów

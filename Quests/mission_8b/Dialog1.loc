@@ -1,0 +1,20 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m7b_8b_Roem
+#L_D1_msg00=Glad to see you again. The favor I'd like to ask you for is really simple. We've been observing strange activity in XT-54 of late. We sent a few fighter teams to investigate, only to lose track of them. Surely, the system is inhabited, there's a couple of station and such, but there are no forces to overcome veterans of our corporation. You will need to place a few satellites in XT-54 at coordinates I will tell you later. Should I mention that no one must find out about the nature of this mission.
+#L_D1_ans00=Is this all?
+#L_D1_msg10=Yes, it is. When you're finished, return here and I'll provide you with intel you're looking for.
+#L_D1_ans10=(Dalej)
+#L_D1_msg20=This sounds too easy. So we won't have to look for your men and avenge them, if they are dead? Or do something else of the sort?
+#L_D1_ans20=(Dalej)
+#L_D1_msg30=You won't have to look for anyone. We do mourn the loss, but they're off the payroll already. There's no need to avenge as well, I'm afraid you're not subtle enough. So it's only the satellites. What do you say?
+#L_D1_ans30=I say no. This does sound too easy.
+#L_D1_ans31=Well, this doesn't seem difficult. It's a deal.
+#L_D1_msg40=Well, it's a pity. You may leave now. But drop by, if you're looking for work.
+#L_D1_ans40=(Dalej)
+#L_D1_msg41=Great. I shall see to it that recon satellites are loaded into your ship immediately. All mission details are in your log already. Good luck.
+#L_D1_ans41=(Dalej)

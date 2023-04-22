@@ -1,0 +1,18 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#L_link=Stacja wojskowa "Comm"
+#L_cargo=Magazyny
+#L_dock1=Stocznia 1
+#L_dock2=Stocznia 2
+#L_dock3=Stocznia 3
+#L_dock4=Stocznia 4
+#L_control=Terminal Centralny
+#L_rendez_vous=Miejsce spotkania
+#L_mshipyard=Przypuszczalna lokalizacja stoczni
+#L_mliving=Przypuszczalna lokalizacja siedliska
+#L_mcargo=Przypuszczalna lokalizacja magazynu
+#L_mlink=Przypuszczalna lokalizacja stacji komunikacyjnej

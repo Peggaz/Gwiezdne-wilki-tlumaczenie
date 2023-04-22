@@ -1,0 +1,27 @@
+;*****************************
+;Dialog3.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D3_msg00=Aja, I thought you wanted to go on your business.
+#L_D3_ans00=(Dalej)
+#L_D3_msg10=I'd better take you to the XT-11 portal. Just for the sake of my own peace of mind. We don't know how many more grey bastards are sneaking here. They won't dare attack you in XT-11, and Savay will look after you in XT-05.
+#L_D3_ans10=(Dalej)
+#L_D3_msg20=Just who are they?!
+#L_D3_ans20=(Dalej)
+#L_D3_msg30=I don't know, some gang. Imu has been feeding them well recently, equipping with guns, money. But you have to admit, those bastards are better organized. Besides, they sure have connections. I do know they provided Imu's pocket scientists with samples of InoCo, USS and imperial technology. Not just some junk pirates usually scavenge, but untested novelties.
+#L_D3_ans30=(Dalej)
+#L_D3_msg40=They sure are serious.
+#L_D3_ans40=(Dalej)
+#L_D3_msg50=I don't think so. If they were serious, they'd have killed Imu long ago, instead of dancing to his tune. Rumor has it that they had a serious quarrel, when the war started. But now they're almost French kissing. Still, I think we took them down a notch or two, having killed the boss. I wonder what Imu will do now: make them his vassals or kick them in the pants.
+#L_D3_ans50=Are there many Greys under Imu's control?
+#L_D3_msg60=Don't be ridiculous, he didn't report to me. I only had information about the XT-24 base - and that thanks to Savay. One of Imu's stooges got tanked up and opened up to Savay. But the Greys are nothing on a large scale. We might have bigger problems, if we don't hurry up. Pirates' hierarchy changed greatly over the last two months. The previous lamebrains everyone had already got used to were replaced by trained professionals, all former mercenaries and military. They are the ones who can make it hot for everyone. And if Imu manages to tame them, I don't even want to think what will happen to the Outer Worlds.
+#L_D3_ans60=(Dalej)
+#L_D3_msg70=This explains why pirate attacks have become fiercer and more thoroughly planned... You think the Greys are behind it all?
+#L_D3_ans70=(Dalej)
+#L_D3_msg80=That's why I'm in such a hurry, why I need your help, and why I'm sure you'll want to join in. These new pirates are still somewhat disorganized, like an evil, dangerous, but amorphous mass. Imu wants to make a steel fist out of it. We don't have much time, it's more than just personal revenge. But, of course, I'm not giving that up.
+#L_D3_ans80=So how are you planning to stop him?
+#L_D3_msg90=Not stop, eliminate. Savay will fill you in on the details. All right, the way is clear and it's time to say good bye for the time being. See you in Uhle.
+#L_D3_ans90=(Dalej)

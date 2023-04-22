@@ -1,0 +1,10 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#L_trade=Stacja Handlowa "Nadzieja"
+#L_gran=Stacja Stra¿y Granicznej "Rubicon-7"
+#L_fact=Zak³ad brygadzisty Finna
+#L_mine=Stacja wydobywcza "Wilczy Dó³"

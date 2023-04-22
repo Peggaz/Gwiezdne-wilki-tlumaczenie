@@ -1,0 +1,11 @@
+;*****************************
+;Dialog10.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Kertis
+#L_D10_msg00=Well, well, well. Who do we have here? Scavengers, huh? Scram while you're still in one piece.
+#L_D10_ans00=We only need that pod.
+#L_D10_msg10=We need it too, so I'm afraid it's a conflict of interests. Boys, let's teach the scavengers to stay away from other people's goods.
+#L_D10_ans10=(Dalej)

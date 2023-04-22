@@ -1,0 +1,11 @@
+;*****************************
+;Dialog12.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D12_msg00=There are two routes to Elio, but going to systems belonging to the Old Empire is madness. They are crawling with thick skulls.
+#L_D12_ans00=With what?
+#L_D12_msg10=MSF forces, what else. We have more chances to survive a journey through the New Empire.
+#L_D12_ans10=All right, we'll see how it turns out.

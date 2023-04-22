@@ -1,0 +1,17 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#L_aster=Ulyss
+#L_inoco_stab=Kwatera g³ówna InoCo
+#L_fin=Stacja Departamentu Finansów
+#L_log=Stacja Departamentu Logistyki
+#L_sci=Stacja Departamentu Nauki
+#L_live=Siedlisko "Ogrodu z Raju"
+#L_patrol=Stacja patrolu InoCo
+#L_acad=Stacja Akademii Humanitarnej i Techicznej InoCo
+#L_gost=Stacja dla drugorzêdnych goœci
+#L_core=Stacja bazowa "Galanet"
+#L_STO=Stacja konserwcyjna

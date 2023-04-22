@@ -1,0 +1,13 @@
+;*****************************
+;Dialog9.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;TriadaYakuza
+#L_D9_msg00=Hey, who're you and what's your destination? Answer or we'll open fire!
+#L_D9_ans00=We're just looking for work. She said one-time contracts were the best here.
+#L_D9_msg10=Says who?
+#L_D9_ans10=Aja Shumova.
+#L_D9_msg20=What? Shumova?! Guns ready! General alert!
+#L_D9_ans20=(Dalej)

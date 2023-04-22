@@ -1,0 +1,37 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Dispetcher
+#L_D1_msg00=Welcome to the station. At your service are: a casino, a bar, the best in the entire sector, striptease, girls, a sauna, a massage parlour, and a gym. If you're up to something exotic, just let me know.
+#L_D1_ans00=Thanks. We're looking for a certain man, Validol.
+#L_D1_msg10=Validol? Just a second, I'll switch you over to a manager.
+#L_D1_ans10=(Dalej)
+#L_D1_msg20=Gentlemen, I heard your request. Please, take away that drunk away from our station.
+#L_D1_ans20=That's interesting... How did he spite you?
+#L_D1_msg30=He's scaring off our clientele. I know he's a good guy, a former patrol leader and such, but he knows every out guest by sight! He's got a whole database in his head! He's all right when sober, but give him a drink and he'll fisk your life entirely. And he's been totally sozzled of late. So please take him away!
+#L_D1_ans30=It's up to him to leave or stay.
+#L_D1_msg40=I'll pay you 10 grands, if he leaves.
+#L_D1_ans40=We'll see how it turns out. Where can I find him?
+#L_D1_msg50=I've already ordered to find him, so get ready to talk. Remember about 10 grands.
+#L_D1_ans50=(Dalej)
+#L_D1_msg60=Yeah? Who is this? I don't know you, get lost.
+#L_D1_ans60=Aylon sent us.
+#L_D1_msg70=Hah, so that vagabond is still alive! What does he want?
+#L_D1_ans70=To help you, obviously. He asked me to let you into my team.
+#L_D1_msg80=You've wasted your time. I told Aylon I'd never want to mess with smuggling.
+#L_D1_ans80=Smuggling? We're all legit.
+#L_D1_msg90=Congratulations, but the answer is still no.
+#L_D1_ans90=(Dalej)
+#L_D1_msg100=Yeah, right. Being constantly plastered is so much better than helping people.
+#L_D1_ans100=(Dalej)
+#L_D1_msg110=So that's what you're up to. How can this old soldier help you then?
+#L_D1_ans110=We could use some help as a matter of fact, but with no obligations. If you want to tag along, fine. If not, we won't cry.
+#L_D1_msg120=Help... It's been long since I tried to help anyone. All right, I'll join and see what I can do. But I'm warning you, if I see you messing with anything shady, you'll need all your firepower to fight me off. Get it?
+#L_D1_ans120=Sure thing.
+#L_D1_msg130=Bye, Validol. Drop by some time.
+#L_D1_ans130=(Dalej)
+#L_D1_msg140=Wipe that smile off your face, or I might actually visit you again.
+#L_D1_ans140=(Dalej)

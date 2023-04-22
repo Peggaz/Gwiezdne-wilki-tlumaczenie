@@ -1,0 +1,44 @@
+;*****************************
+; mission_8c_1
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_7a_a=Reach the MSF headquarters.
+#L_Quest_7a_b=MSF Security has to know everything about what happened in Beta Lethera 1. You just have to reach New Jerusalem 2 and find someone who would be willing to share this information.
+#L_Quest_7b_a=Reach Triada headquarters.
+#L_Quest_7b_b=Triada has to know everything about what happened in Beta Lethera 1. You just have to reach their main headquarters in Candela and find someone who would be willing to share this information.
+#L_Quest_7d_a=Meet with Alex.
+#L_Quest_7d_b=Alex needs help in escorting a convoy, and his client is willing to pay good money. Alex will be waiting in XT-54. There's some free time to spend, but not much.
+#L_Quest_8c_04a=Hide the base.
+#L_Quest_8c_04b=You must hide the base among asteroids, avoiding patrols.
+#L_Quest_8c_05a=Wait for Greyhair.
+#L_Quest_8c_05b=Greyhair will fly to these coordinates, when he's done at the station. Wait for his return.
+#L_Quest_8c_06a=Wait for Greyhair and Ternie.
+#L_Quest_8c_06b=Greyhair and Ternie will fly to these coordinates, when he's done at the station. Wait for his return.
+
+;*****************************
+;Speeches
+;*****************************
+#L_Sedoy_01=This is too quiet.
+#L_Hero_01=We have passed the examination. All right, let's dock with the station.
+
+#L_vks_01=We're under attack! Send backup!
+
+#L_Lastochka_01=Now they know we're here!
+#L_Sedoy_02=Boss, we need to hide first and deal with the package later. There's a ferrous asteroid cluster, no scanner will detect us among those rocks. Here, I've marked it on the map. But we have to get there unnoticed or hiding will have no sense.
+
+#L_sysmsg_01=Let Greyhair visit the station.
+#L_sysmsg_02=Let Greyhair and Ternie visit the station.
+#L_sysmsg_03=Let all the teammates leave the base, so they can visit the station.
+
+#L_vks_02=Aha, there's our target! Fire for effect!
+
+#L_vks_03=General alert! The intruding mothership has been detected! Trying to detain.
+#L_Hero_02=Greyhair, hurry up. We're in trouble!
+#L_Sedoy_03=Like I said, it went off without a hitch, boss.
+#L_Hero_03=Great, now I think we should get the hell away from the MSF!

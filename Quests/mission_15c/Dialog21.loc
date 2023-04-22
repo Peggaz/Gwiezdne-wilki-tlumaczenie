@@ -1,0 +1,13 @@
+;*****************************
+;Dialog21.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Tramp
+#L_D21_msg00=The transponder has been set to transmit MSF signals. Now patrols and stations will recognize you as allies. But that doesn't mean you can do what you want, of course.
+#L_D21_ans00=(Dalej)
+#L_D21_msg10=Oh, we weren't going to anyway...
+#L_D21_ans10=(Dalej)
+#L_D21_msg20=Just a warning, just in case.
+#L_D21_ans20=(Dalej)

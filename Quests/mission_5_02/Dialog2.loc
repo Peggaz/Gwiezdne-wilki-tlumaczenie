@@ -1,0 +1,18 @@
+;*****************************
+;Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;VksAce
+#L_D2_msg00=Well, well, well. What do we have here?
+#L_D2_ans00=Officer, we're just traders.
+#L_D2_msg10=Oh, you're just traders... Since when traders have been flying ships with this kind of weaponry?! We, the Scorpions, have seen lots of traders in our lifetime. And you look like bandits more, or saboteurs even! Follow us and don't try anything stupid. You're dealing with the Scorpions special unit, and we're not joking!
+#L_D2_ans10=Listen, I'll send you all my IDs, so you can check them against your database. We're going to Aurora from FTU Headquarters in New Kyoto.
+#L_D2_msg20=I bet all your codes are forged. But let's suppose I shall believe you. Say... for just 3,000 credits. This won't make other patrols believe you as well. So your best bet is to hire us, so we can escort you all the way to Aurora. Fast, safe and no issues with authorities. For mere 5,000, mind you!
+#L_D2_ans20=We'll be fine without an escort. On the other hand, I need to issues with authorities. I'll pay you 3,000.
+#L_D2_ans21=I can offer you an alternative: you check my ID against your database, see that we're clean and get the hell out to rob other dolts who believe your threats. In return, I promise not to tell your higher-ups about this extortion attempt. How does this sound?
+#L_D2_msg30=Well, it's your call. MSF patrol out.
+#L_D2_ans30=(Dalej)
+#L_D2_msg31=A greedy trader is a dead trader. Attention, everyone! General alert! Enemy at the Elio portal!
+#L_D2_ans31=(Dalej)

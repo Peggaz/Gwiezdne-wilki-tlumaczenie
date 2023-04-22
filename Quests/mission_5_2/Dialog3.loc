@@ -1,0 +1,21 @@
+;*****************************
+;Dialog3.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;RecruitOfficer
+#L_D3_msg00=Daredevils welcome you. Perhaps, you're in need of protection or something else? We have a fine reputation, low rates and execute contracts quickly, effectively and professionally!
+#L_D3_ans00=We do need help, but it depends on price. I need to finish a job in Pegasus.
+#L_D3_msg10=Pegasus is not the quietest place in this sector. Pirates control nearly every bit of that system. This is a difficult mission, but we'll do it for 15,000 credits.
+#L_D3_ans10=I can hire an army for this much!
+#L_D3_ans11=All right, fine by me.
+#L_D3_msg20=It's your call, but heed a free advice: stay away from Pegasus, if you want to live. Daredevils out.
+#L_D3_ans20=(Dalej)
+#L_D3_msg30=Some prices they have. I'd have to sell my space suit or something! Nevermind, partner, we'll manage on our own. Let's get to the Achilles portal.
+#L_D3_ans30=(Dalej)
+#L_D3_msg21=Fine, boss, transmit the coordinates. What is this mission exactly about by the way? The more we know we better we can plan and prepare.
+#L_D3_ans21=Nothing special. I need to recover a debt - either in money or debtor's hide. But he might have accomplices, that's the reason I need your help. I don't expect strong resistance though.
+#L_D3_ans22=The mission is quite difficult and dangerous. I need to loot a pirate stash and, naturally, get away. The stash may be seriously guarded, so I'll need your most active help.
+#L_D3_msg31=Then let's do this: you jump first, we cover you from the other side. If we all jump, we might scare your debtor off. Don't worry, we'll be nearby to join in, if anything happens.
+#L_D3_ans31=Sounds reasonable. Let's go to the portal.

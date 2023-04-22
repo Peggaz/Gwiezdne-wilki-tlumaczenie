@@ -1,0 +1,19 @@
+;*****************************
+;Dialog3.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Sedoy
+#L_D3_msg00=I told you it was their den. It was nice knowing you, fellows.
+#L_D3_ans00=(Dalej)
+#L_D3_msg10=You're taking what's not yours. Items, lives.
+#L_D3_ans10=(Dalej)
+#L_D3_msg20=We're only examining!
+#L_D3_ans20=(Dalej)
+#L_D3_msg30=The place of our ancestors. The place of sorrow. Leave. This is our legacy, not yours.
+#L_D3_ans30=(Dalej)
+#L_D3_msg40=Now, now. Come on, guys, don't be like this. You've got this place crammed with all sorts of junk. No one will even notice. And humanity needs these technologies badly. For the common good!
+#L_D3_ans40=(Dalej)
+#L_D3_msg50=No. You won't understand. It's too early for you. Leave. You've been warned. Don't come back. Or your worlds will become your graves. Spread these words among your kind. Leave...|Follow the path. Deviate and you'll die.
+#L_D3_ans50=(Dalej)

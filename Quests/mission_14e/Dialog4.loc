@@ -1,0 +1,31 @@
+;*****************************
+;Dialog4.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m14e_InoCo_SC
+#L_D4_msg00=I have to ask you again, mister chairman. Please tell your men to surrender and no one will get hurt. We have an order to put you all under house arrest. I don't like it as much as you do, but this is what the Board of Directors have ordered. And you know I shall carry it out.
+#L_D4_ans00=(Dalej)
+#L_D4_msg10=And I can tell you again to shove this order up the butts of tincan bludgers or "directors" as you call them. Every true and legitimate Director is behind me - along with the people loyal to the corporation!
+#L_D4_ans10=(Dalej)
+#L_D4_msg20=Please, Oliver, don't make me open fire. You can sort the technicalities out later. Save us from bloodshed right now.
+#L_D4_ans20=(Dalej)
+#L_D4_msg30=By Great Space, Jimmy, you were hired by my father. So open your eyes and see where the damned tincan is pushing this world to! First we get fired, then accused of nonsense, and now you're trying to arrest us. And instead of the council you've got either bludgers or outright idiots! Who, who is your boss?!
+#L_D4_ans30=(Dalej)
+#L_D4_msg40=I'm leading the Board of Directors now, and thus command the security forces.
+#L_D4_ans40=(Dalej)
+#L_D4_msg50=Bates?! Now I see. You have never lead anything larger than a research group. And you're trying to say you can manage the entire corporation?
+#L_D4_ans50=(Dalej)
+#L_D4_msg60=We've created a perfect tool to control the corporation. That artificial intelligence is capable-
+#L_D4_ans60=(Dalej)
+#L_D4_msg70=We all know too well what your Frankensteins are capable of! First your group created Berserks, then AM, and now you're trying to hand everything over to another electronic golem, hoping it'll become a human?! Jeez, Bates, how many backlashes do you need to realize, your theories are only too far from the reality?
+#L_D4_ans70=(Dalej)
+#L_D4_msg80=Mister Reynolds! Your words insult the entire scientific department of the corporation. We've done one hell of a job locating and fixing known bugs. The new AI version is stable and has human safety algorithms built-in. Its entire software architecture is meant to achieve the only goal: to provide the entire humanity with peace and wellbeing. By applying heuristic analysis-
+#L_D4_ans80=(Dalej)
+#L_D4_msg90=Save your gibberish for students! This corporation was founded by my family. No one, especially that bag of bolts, will take it from me. What is happening today has already happened before, and mistakes you're making now had already been made. Your new AI doesn't differ from Berserks, AM and other attempts to play God.
+#L_D4_ans90=(Dalej)
+#L_D4_msg100=I have to disagree with you decisively. Now if you deign to-
+#L_D4_ans100=(Dalej)
+#L_D4_msg110=I won't! Get the hell out of my way, you bloody idiots! Men, break through to the portal! For InoCo!
+#L_D4_ans110=(Dalej)

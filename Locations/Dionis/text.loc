@@ -1,0 +1,14 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#L_nav_01=Portal do Endoria
+#L_nav_04=Stacja "Spokojne Wybrze¿e"
+#L_nav_05=Stacja
+#L_nav_08=Miejsce spotkania
+#L_trade_dest=Zniszczona Stacja Handlowa
+#L_nav_06=Stacja "Spokojne Wybrze¿e"
+#L_middle_her=Nieznana stacja
+#L_trade=Stacja Handlowa "Dionizos"

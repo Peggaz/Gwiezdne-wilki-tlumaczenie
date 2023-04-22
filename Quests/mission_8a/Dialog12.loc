@@ -1,0 +1,9 @@
+;*****************************
+;Dialog12.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D12_msg00=She's such a moron. Probably got poison up her brain or something. What next, partner?
+#L_D12_ans00=We should see what InoCo wants from us. Let's go to Lidau.

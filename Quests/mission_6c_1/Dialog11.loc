@@ -1,0 +1,11 @@
+;*****************************
+;Dialog11.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D11_msg00=It's getting better all the time, partner! What now?
+#L_D11_ans00=Let's find out what's happened to my ships in Beta Lethera 1.
+#L_D11_msg10=Fine. But first we should visit my friend in New Jerusalem 3. It's right along the way.
+#L_D11_ans10=(Dalej)

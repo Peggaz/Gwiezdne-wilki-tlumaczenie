@@ -1,0 +1,13 @@
+;*****************************
+;Dialog7.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D7_msg00=Hey, station, a delivery for Black Cherubs.
+#L_D7_ans00=(Dalej)
+#L_D7_msg10=What's that?
+#L_D7_ans10=No idea. A patrolman gave it to me, if that rings any bells.
+#L_D7_msg20=It sure does! Hand it over now. And tell that patrolman fellow he may consider himself lucky. If he had delayed for a bit longer, we would have tickled his ribs with a blade. Now get lost.
+#L_D7_ans20=(Dalej)

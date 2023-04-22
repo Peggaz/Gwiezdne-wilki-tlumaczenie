@@ -1,0 +1,20 @@
+;*****************************
+;Dialog15.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;VksAce
+#L_D15_msg00=Intruders detected! Call for backup! Damn, there's so many of them!
+#L_D15_ans00=(Dalej)
+#L_D15_msg10=Calm down, soldier. We're just passing by quietly, minding our own business. Don't kick up a fuss and there will be no casualties.
+#L_D15_ans10=(Dalej)
+#L_D15_msg20=What? Are you trying to bribe us?! Why, let's make it 50 grands and nobody has seen anything.
+#L_D15_ans20=You couldn't agree any faster, could you? Transferring the money.
+#L_D15_ans21=Have you taken a special depravity course at the military academy? I'd save more on missiles I'll spend on you!
+#L_D15_msg30=I'm out of retorts. You may pass. Stick to the edge of the system, as there are no patrols. We'd rather not to explain your being here, you know.
+#L_D15_ans30=Then edge it is.
+#L_D15_msg31=Attention, everyone! General alert, general alert!
+#L_D15_ans31=(Dalej)
+#L_D15_msg41=Dispatching backup.
+#L_D15_ans41=(Dalej)

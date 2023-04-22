@@ -1,0 +1,14 @@
+;*****************************
+;Dialog9.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D9_msg00=Damn, I lost him!
+#L_D9_ans00=Nevermind, he's got only a few ways out. Let's intercept him by the portal.
+#L_D9_msg10=Which one exactly?
+#L_D9_ans10=I think he'll try to escape to New Jerusalem 2 and pretend he's a mercenary. Let's go there.
+#L_D9_ans11=I suspect he's connected to those who has ambushed the convoy in Prien, so he'll probably try to break through to them. Let's go to the New Jerusalem 3 portal.
+#L_D9_ans12=I suspect he'll try to hide on territories of the New Empire. Let's head for the Tira portal.
+#L_D9_ans13=He would want to hide in a neutral system. Al-Trabon is the closest, so let's hurry up there.

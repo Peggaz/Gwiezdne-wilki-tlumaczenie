@@ -1,0 +1,9 @@
+;*****************************
+;Dialog12.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D12_msg00=Where to now, partner?
+#L_D12_ans00=Alex sent me a message. He says that he has found someone who knows about the missing convoys. So we're going to Aurora.

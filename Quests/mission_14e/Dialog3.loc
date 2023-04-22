@@ -1,0 +1,17 @@
+;*****************************
+;Dialog3.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Sedoy
+#L_D3_msg00=Hmm, boss, have you noticed there are fewer patrols now?
+#L_D3_ans00=(Dalej)
+#L_D3_msg10=You're right! I thought my scanner was erratic.
+#L_D3_ans10=So what?
+#L_D3_msg20=I don't know... But as we know from physics, if something left a place, something else arrived to another place. I bet InoCo has decided to prepare for action and pulled some of its forces closer to the border.
+#L_D3_ans20=You may be right. Why should we care?
+#L_D3_msg30=Oh, could someone attack the MSF again? What if they are fighting all over again?
+#L_D3_ans30=I beg your pardon, but I really don't give a damn. My only goal now is to get to the Greys. And I hope you will help me achieve it. As for the universe, it might as well go to the dogs.
+#L_D3_msg40=All right, boss, we'll not bother you. But please don't get obsessed with revenge, or we all may suffer. I drained this cup in my time.
+#L_D3_ans40=Thanks, Greyhair, I'll think it over. Over and out.

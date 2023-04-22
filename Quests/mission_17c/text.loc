@@ -1,0 +1,77 @@
+;*****************************
+; mission_17c
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_17ñ_01a=Protect the NESF station.
+#L_Quest_17ñ_01b=Protect the NESF station from the attack of the Berserks.
+#L_Quest_17ñ_02a=Leave the system.
+#L_Quest_17ñ_02b=The hyper portal is still active. You should hurry up and leave the system while you can.
+#L_Quest_17ñ_03a=Destroy SAM's ship.
+#L_Quest_17ñ_03b=You have a real chance to destroy SAM's ship. Don't lose it!
+#L_Quest_17ñ_04a=Finish the Berserks off.
+#L_Quest_17ñ_04b=Mop up the remaining Berserks.
+#L_Quest_17ñ_05a=Destroy SAM and its guards.
+#L_Quest_17ñ_05b=You can't win a battle by defending. Attack SAM and its guards. In case you overlooked it, its coordinates are -800, 200, 800, which is the top left corner of the map.
+#L_Quest_17ñ_06a=Start up the hyperspace jammer.
+#L_Quest_17ñ_06b=SAM is calling in reinforcements from hyperspace. To prevent this, activate one of the hyperspace jammers, which are marked on the map by target icons. Alexandra claims the buoy will be automatically activated if you shoot it. Just make sure you don't destroy it.
+
+;*****************************
+;Speeches
+;*****************************
+#L_Corsair_02=All right, keep cool. Don't get outside the defensive perimeter. Let the guns do the talking first.
+#L_Lastochka_01=We're crushing them!
+
+#L_Alex_01=That was only the first wave.
+
+#L_Phantom_01=Got it. Hold your hats, gentlemen.
+#L_Phantom_02=I brainwashed them a bit. Shall we shoot down some immobile targets?
+#L_Corsair_03=Great! Come on, let's give them hell!
+#L_Phantom_03=But don't get carried away, they won't ignore you for long.
+
+#L_Corsair_04=Phantom, get your stubborn butt away from the station!
+#L_Phantom_04=I'm afraid, it's too late. I'll try to surprise the Berserks for the last time.
+#L_Corsair_05=You'll do that many times in the future, I promise!
+
+#L_Phantom_05=It seems we can do another trick, it's all the coil can endure.
+#L_Corsair_06=Suits me fine, start it up.
+#L_Corsair_07=Now get on board quickly and be quiet!
+#L_Phantom_06=Oh my, and they say youngsters are impolite. I'm going, I'm going...
+#L_Corsair_08=Fine. Let's return to the station.
+
+#L_Corsair_09=Here we go.
+#L_Alexandra_01=Patron!
+
+#L_Corsair_10=Right on time. But you shouldn't have gotten involved in it!
+#L_Alexandra_02=It's up to me to decide.
+#L_Corsair_11=Since when have my subordinates been so cheeky? Anyway, let's get back to the station. We can't hold on here for long.
+
+#L_Sedoy_01=Boss, dammit! This way we might as well help the tincan!
+
+#L_Sedoy_02=Baby, you look great!
+#L_Alexandra_03=Damn, Berserks are closing in on us.
+#L_Kalem_01=It's the law of nature: moths are attracted by light.
+#L_Lastochka_02=Then let's show them who has the swatter!
+
+#L_Cleric_01=Help, somebody! We're under attack!
+
+#L_Cleric_02=No! Nooo!
+
+#L_Sedoy_03=Boss, let's jump into that anomalous thing. It can't get any worse!
+
+#L_Sedoy_04=Boss, the conductor is off the stage and the orchestra has shut up. Time to put an end to this!
+
+#L_Sedoy_05=Burn! Burn! Burn!
+
+#L_Kalem_02=It seems we can restore communications.
+#L_Hero_01=Fine, let's finish the job!
+
+#L_Corsair_01=What the... Alexandra, is your friend insane?
+#L_sys_01=Main character died.
+#L_sys_02=Game over.
+#L_sys_03=Unfortunately, all hyperspace jammers have been destroyed.

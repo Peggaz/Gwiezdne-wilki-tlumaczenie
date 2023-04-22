@@ -1,0 +1,29 @@
+;*****************************
+; mission_20c
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_20c_01a=Intercept SAM.
+#L_Quest_20c_01b=Don't let SAM escape the system.
+#L_Quest_20c_02a=Finish off the Berserks.
+#L_Quest_20c_02b=Kill all the remaining Berserks.
+#L_Quest_20c_03a=Reach the portal.
+#L_Quest_20c_03b=Escort SAM to the nearest portal out of the system.
+
+;*****************************
+;Speeches
+;*****************************
+#L_Sedoy_01=Boss, the tincan is trying to get away!
+
+#L_Sedoy_02=Boss, let's scram!
+
+#L_Sedoy_03=Boss, the conductor is off the stage and the orchestra has shut up. Time to put an end to this!
+
+#L_Uel_01=I had no doubts in our success. Thus, a new era for the humanity has started.
+
+#L_sys_01=You fled from combat. Mission failed.

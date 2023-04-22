@@ -1,0 +1,35 @@
+;*****************************
+;Dialog5.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D5_msg00=Not much has been left of the station. This place is creepy. Wait a sec, partner, scanners indicate that some bays are still operational.
+#L_D5_ans00=Do you mean there's someone there?
+#L_D5_msg10=I have no idea, let's check it out.|Hello? Anybody there?
+#L_D5_ans10=(Dalej)
+#L_D5_msg20=What if there is? That's none of your business. Don't try to get close to the station, I've got a fighter ready. And station guns are not as dead as you might have wanted. So get lost, you scavengers, while you're still in one piece.
+#L_D5_ans20=Easy now, buddy, we're no scavengers and have no use for your station. We are free traders and information is all we need.
+#L_D5_msg30=Hah! Your smooth talking won't deceive me! I repeat, get lost until I get angry.
+#L_D5_ans30=Jeez! I don't care if you believe me or not. All I need is information about a certain transport convoy. I'll pay you for it and then you can continue loitering about your station until the end of times.
+#L_D5_msg40=Pay me? So you're not a scavenger?
+#L_D5_ans40=You've heard me at last.
+#L_D5_msg50=Err, sorry for the chilly reception, friend. But scavengers have really been getting on my nerves recently. They still think there's something to pick up in these ruins.
+#L_D5_ans50=Sorry to hear that. Now name your price.
+#L_D5_msg60=A ticket out of here.
+#L_D5_ans60=I beg your pardon?
+#L_D5_msg70=I said, "A ticket out of here". You take me away from this station and I'll tell you everything I know about the convoy.
+#L_D5_ans70=(Dalej)
+#L_D5_msg80=Yeah, right! To let a stranger on a ship! Partner, he'll cut our throats at the first occasion!
+#L_D5_ans80=(Dalej)
+#L_D5_msg90=Sheesh, lock me up somewhere, weld up the door, shackle me, but take me to any station in any other system! Do you want to know who I am? Great, I'll tell you! Name's Greyhair, I'm a former leader of the Swordsmen. That was one hell of a unit, as good as Star Wolves. But when all of my boys died, I joined Triada as a security officer. As you can see, it all went the wrong way. We were attacked by MSF forces. They swept the security and took the station apart. My fighter crashed into the station and I came to myself when it had been finished already. I managed to patch a few bays, fix the life support system and gather some supplies. Since that time I've been a reluctant hermit here.
+#L_D5_ans90=You said you had a fighter. Why didn't you try to get away?
+#L_D5_msg100=I do have one, but it's actually a wreck. I couldn't fix it no matter how hard I tried. The life support system is going to die soon and I'm nearly out of supplies. So, I'm only exchanging this information for my way out of here. To assuage your doubts, I have the records of everything: the skirmish, points of cargo departure and destination, companies and agents involved. For the fun of it, I've even calculated possible locations of your transports. Given there's something left of them, of course.
+#L_D5_ans100=(Dalej)
+#L_D5_msg110=Partner, I'm against this!
+#L_D5_ans110=I heard about Swordsmen, some decent mercenaries they were. Besides, it's against my rules to leave a man in such a situation.
+#L_D5_msg120=What if this is a trap?!
+#L_D5_ans120=In that case, they would have attacked while Greyhair was telling his story.
+#L_D5_msg130=So, are you going to let me in? Listen, I can also be useful as a mercenary! I have no money, but you can take my fighter. It's a decent ship, it just needs to be fixed! Sell it if you want, just don't leave me here!
+#L_D5_ans130=It's all right, Greyhair, welcome aboard.

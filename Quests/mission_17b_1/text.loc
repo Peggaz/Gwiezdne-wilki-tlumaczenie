@@ -1,0 +1,54 @@
+;*****************************
+; mission_17b_1
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_17b_06a=Find SAM.
+#L_Quest_17b_06b=You must find SAM who is controlling Berserks as soon as possible.
+#L_Quest_17b_07a=Keep Ternie close to the portal.
+#L_Quest_17b_07b=Ternie needs time to make reliable contact with Precursors' Great Machine. Keep her by the portal for some time.
+#L_Quest_17b_08a=Destroy SAM.
+#L_Quest_17b_08b=SAM must not survive.
+#L_Quest_17b_09a=Finish off the Berserks.
+#L_Quest_17b_09b=Kill all the remaining Berserks.
+
+;*****************************
+;Speeches
+;*****************************
+#L_Aia_01=We made it!
+#L_Alisa_01=There's an army of metal dummies on our tails. We must hurry.
+
+#L_Sedoy_01=So far so good. Kalem, can you tweak the scanner to locate that tincan general?
+#L_Kalem_01=I would've done it already, if I could. There's a lot of junk and noise here.
+#L_Sedoy_02=Yet our arrival was detected. Boss, we must move, if we want to get the job done!
+
+#L_Lastochka_01=Give me some time, I must contact the Great Machine.
+#L_Hero_01=This won't be easy.
+
+#L_Lastochka_02=That is our help.
+#L_Aia_02=By Space! How did you do this?
+#L_Lastochka_03=Not me, the Great Machine. I had to wait until it could reactivate the fleet.
+#L_Sedoy_02_2=Boss, time to dismantle the main tincan!
+
+#L_Sedoy_03=Boss, we might lose it!
+#L_Aia_03=We haven't come here to let that metal bastard escape!
+
+#L_Aia_04=Damn, it got away! It was all in vain...
+#L_Sedoy_04=In vain? We've killed a freaking lot of tincans!
+#L_Aia_05=So what? It'll make new ones.
+#L_Hero_02=But that will take time. Let's hope we'll find it before that. Now we must get back to humans. I'm tired of this fight.
+
+#L_Sedoy_05=Boss, the conductor is off the stage and the orchestra has shut up. Time to put an end to this!
+
+#L_Alisa_02=I still can't believe we've made it!
+#L_Aia_06=Me too. Me too... But we did great, didn't we?
+#L_Kalem_02=I think the word "great" can't reflect what we did.
+#L_Sedoy_06=You're all psychos! But I like you! So, boss, shall we return?
+#L_Aia_07=Not just return, but do it as heroes!
+
+#L_sys_01=You fled from combat. Mission failed.

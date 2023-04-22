@@ -1,0 +1,11 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D1_msg00=I marked the location where Alex should be waiting on the map.
+#L_D1_ans00=(Dalej)
+#L_D1_msg10=But we don't even know what we're getting into!
+#L_D1_ans10=I doubt that my friend will offer us anything shady or dubious. Let's move.

@@ -1,0 +1,9 @@
+;*****************************
+;Dialog12.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D12_msg00=What's our plan?
+#L_D12_ans00=I'm sure Triada is bound to have the information we need. We're going to Candela.

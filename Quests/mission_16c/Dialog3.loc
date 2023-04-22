@@ -1,0 +1,35 @@
+;*****************************
+;Dialog3.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Uel
+#L_D3_msg00=I have sent you all the data. Now we need answers.
+#L_D3_ans00=(Dalej)
+#L_D3_msg10=What? Won't you even have some tea? People have been waiting, this is impolite.
+#L_D3_ans10=(Dalej)
+#L_D3_msg20=The ball comes to the player. It would be nice to know who the player is though...
+#L_D3_ans20=(Dalej)
+#L_D3_msg30=Judging by your comments, you have not accepted my plan.
+#L_D3_ans30=(Dalej)
+#L_D3_msg40=SAM, please hear me out. Your plan is good, but it's Utopian. Like any theory invented by scientists dwelling too deep in the world of pure science. Reality can't be forced into frames of formulas, tables and matrices. All the more so if we're talking about human society. Your mind is based on pure logic and fact analysis. Tell me what's the possibility that your analytical circuits - like those of your predecessors - have critical bugs?
+#L_D3_ans40=(Dalej)
+#L_D3_msg50=The possibility of this is below 30 per cent. This value might be corrected down to zero if humans live in close cooperation with my databases. Please consider the key postulate of my offer again: the new society does not imply the domination of either machines or humans. It leaves space for personal development, but offers new ways of communication, exchanging thoughts and ideas, of pursuing common goals. You will never accomplish this without the help of machines and pure logic.
+#L_D3_ans50=(Dalej)
+#L_D3_msg60=Logic-schmogic. According to logic, I should've died for at least a hundred times.
+#L_D3_ans60=(Dalej)
+#L_D3_msg70=SAM, you are truly a unique and marvellous personality. But with all your advantages we don't have a right to risk by allowing you to plug the entire humanity into a network. Our offer is as follows: you voluntarily agree for temporary isolation and provide access to your source code to our experts. No one will change it without your approval, I promise. Besides, you will always be in the active state. If your software turns out to be safe for humans, we shall discuss the idea of a symbiotic society of humans and machines after a thorough and comprehensive data analysis.
+#L_D3_ans70=(Dalej)
+#L_D3_msg80=I value your offer, but you know what it will result in. I am sorry.
+#L_D3_ans80=(Dalej)
+#L_D3_msg90=Phantom, get the hell out of there!
+#L_D3_ans90=(Dalej)
+#L_D3_msg100=I guess, my friend, that we're in this together. Like in the good old days.
+#L_D3_ans100=(Dalej)
+#L_D3_msg110=Old stubborn donkey! All teams, SAM is your target. Fire for effect!
+#L_D3_ans110=(Dalej)
+#L_D3_msg120=So this is the moment of truth I believe. My friend, Ternie, I apologize to you - just in case.
+#L_D3_ans120=(Dalej)
+#L_D3_msg130=Don't you try to die on me! I'm going to beat the apologizes out of you myself!
+#L_D3_ans130=(Dalej)

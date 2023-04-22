@@ -1,0 +1,67 @@
+;*****************************
+; mission_19c
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_19c_01a=Get close to the FTU headquarters.
+#L_Quest_19c_01b=Try to get as close to the FTU headquarters as possible.
+#L_Quest_19c_02a=Get under the shelter of the station.
+#L_Quest_19c_02b=Get into the defensive perimeter, surrounding the FTU headquarters.
+#L_Quest_19c_03a=Destroy SAM.
+#L_Quest_19c_03b=The Berserks won't stop attacking, and you're not going to hold the FTU headquarters until SAM is destroyed.
+#L_Quest_19c_04a=Destroy the station.
+#L_Quest_19c_04b=Protect SAM from the grey fighters. Destroy the FTU headquarters.
+#L_Quest_19c_05a=Finish off the Berserks.
+#L_Quest_19c_05b=Kill all the remaining Berserks.
+#L_Quest_19c_06a=Destroy SAM.
+#L_Quest_19c_06b=SAM is allies' ideological leader, and you won't be able to protect the FTU headquarters until SAM has been destroyed.
+
+;*****************************
+;Speeches
+;*****************************
+#L_Corsair_01=Cleric? So that petty bastard is here?!
+
+#L_Alex_01=General alert!
+#L_Lastochka_01=Partner, we've lost the mothership!
+#L_Alex_02=Retreat to the station, you'll have a new one there!
+#L_Sedoy_01=What about our things?
+#L_Alex_03=You'll pick something up at the station. Now get back and fast!
+
+#L_Corsair_02=Everyone remain at your positions, I'm calling for backup. If we are to fight those Greys, we might as well hit them with all we can!
+
+#L_Alex_04=I guess it will be an unpleasant surprise for them.
+#L_Sedoy_02=Yeah, and this is an unpleasant surprise for us.
+#L_Alex_05=Attention, Constables. Your turn, guys.
+
+#L_Sedoy_03=Damn, boss. Now we have to fight the whole gang!
+
+#L_Alex_06=No! No, dammit! Cleric, I told you to disable it!
+#L_Cleric_01=Sorry, Alex, but sometimes even I can't do anything. Sometimes.
+#L_Alex_07=This is bad, very bad... I haven't provided for it.
+#L_Lastochka_02=Nevermind, that will disperse with time.
+#L_Alex_08=Do we have that time?
+
+#L_Corsair_03=They've re-equipped warehouses into hangars. So cunning.
+#L_Uel_01=The station is our top priority.
+#L_Sedoy_04=Yeah, and meanwhile the Greys will set our tails on fire. No, boss, we need to deal with them first. Then we'll focus on the station!
+
+#L_Corsair_04=Damn, that fleet has made it here! Attention, to everyone, protect SAM!
+
+#L_Hero_01=This is more like it.
+
+#L_Uel_02=The cargo has been reclaimed. We can proceed to the final stage of the humanity evolution plan.
+#L_Corsair_05=What the hell? What plan?!
+
+#L_Aia_01=By Space, where are they hiding?
+#L_Alex_09=We'll find out later. Now we need to defend the station!
+
+#L_Sedoy_05=Boss, the conductor is off the stage and the orchestra has shut up. Time to put an end to this!
+
+#L_sys_01=You fled from combat. Mission failed.
+#L_sys_02=Your main character was killed.
+#L_sys_03=Game over.

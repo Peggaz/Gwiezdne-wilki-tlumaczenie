@@ -1,0 +1,19 @@
+;*****************************
+;Dialog4.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D4_msg00=Well, that was unfortunate.
+#L_D4_ans00=(Dalej)
+#L_D4_msg10=I wish I had an army of mercenaries. I'd show them!
+#L_D4_ans10=(Dalej)
+#L_D4_msg20=Show them what? Your empty skull? Partner, how could you believe this windbag?
+#L_D4_ans20=(Dalej)
+#L_D4_msg30=Hey, that was uncalled for.
+#L_D4_ans30=Time out. I suggest that you all shut up before you've said too much.
+#L_D4_msg40=I don't say too much. I talk business. All right, all right, I better shut up. Or you'll start grumbling again. Not only I've lost a whole fortune, I'll have to listen to your grouching.
+#L_D4_ans40=Ternie!
+#L_D4_msg50=Oh, here it goes... My lips are sealed.
+#L_D4_ans50=(Dalej)

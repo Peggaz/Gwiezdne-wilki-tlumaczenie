@@ -1,0 +1,17 @@
+;*****************************
+;Dialog10.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Corsair
+#L_D10_msg00=What the hell? What plan?!
+#L_D10_ans00=(Dalej)
+#L_D10_msg10=The plan of humanity evolution created by the Future Projects department will allow to reorganize the human society, maximize its structure efficiency, end the ongoing civil war, eliminate reasons for future wars, eradicate crime and start a new era. Thanks to the technology created before the war, the humanity will be able to live in a unified society based on collective consciousness. Each part it will be constantly connected with the rest, but will have enough personal freedom for the ability to create, the independence of thought and the desire for self-actualization.
+#L_D10_ans10=(Dalej)
+#L_D10_msg20=I knew we'd be in trouble!
+#L_D10_ans20=(Dalej)
+#L_D10_msg30=You should realize the obvious. Your disconnection prevented you from protecting a single system. How are you going to protect the entire humanity?
+#L_D10_ans30=You're quite a philosopher, aren't you?
+#L_D10_msg40=And you're hopeless in your obstinacy. I'm sorry, but personal flaws prevent you from joining the society of the future.
+#L_D10_ans40=(Dalej)

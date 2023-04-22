@@ -1,0 +1,11 @@
+;*****************************
+;Dialog6.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;PirateRookie
+#L_D6_msg00=Hah! That'll teach him to mess with us! Now your turn. Who are you?
+#L_D6_ans00=A trader. Like that guy. Just passing by.
+#L_D6_msg10=You're lucky we are in a good mood. Now go and tell everyone that no one messes with the Slashing Machetes. The shrift is short and bloody! Now go and remember the day you witnessed our mighty power!
+#L_D6_ans10=(Dalej)

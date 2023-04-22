@@ -1,0 +1,13 @@
+;*****************************
+;Dialog16.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Aia
+#L_D16_msg00=Whoa, you have a whole festival going on here! Hey, Greys, I don't know what the hell you're doing here, but I'm here for Imu's hide. If you stand in my way, I'll squash you like bugs!
+#L_D16_ans00=(Dalej)
+#L_D16_msg10=Good hunting. That Imu of yours at at the dockyard. We have a different target.
+#L_D16_ans10=(Dalej)
+#L_D16_msg20=Then have fun too. Savay, Blade, let's bury Imu with great fanfare!
+#L_D16_ans20=(Dalej)

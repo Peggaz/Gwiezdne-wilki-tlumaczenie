@@ -1,0 +1,15 @@
+;*****************************
+;Dialog5.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Sedoy
+#L_D5_msg00=All right, these are junk. What now, boss?
+#L_D5_ans00=To the station. Cleric, are you sure SAM is there?
+#L_D5_msg10=Absolutely. After I stole its ship, the dummy has to hide at server stations.
+#L_D5_ans10=(Dalej)
+#L_D5_msg20=Wait a second! Are there many stations like this?
+#L_D5_ans20=(Dalej)
+#L_D5_msg30=At least more than one. But if we destroy this one, SAM will need time to reactivate its copies and reorganize data streams. It will also lose some data permanently. In the meantime, I'll be able to find other server stations.
+#L_D5_ans30=Then let's do it.

@@ -1,0 +1,19 @@
+;*****************************
+;Dialog9.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Corsair
+#L_D9_msg00=Damn, it got away!
+#L_D9_ans00=(Dalej)
+#L_D9_msg10=Patron? You're alive?!
+#L_D9_ans10=(Dalej)
+#L_D9_msg20=Hah, no dumb tincan can kill Red Corsair. Though I had to drift in the pod for a while.
+#L_D9_ans20=(Dalej)
+#L_D9_msg30=So while we were busy, someone was having a siesta.
+#L_D9_ans30=(Dalej)
+#L_D9_msg40=Sheesh... I have a feeling SAM will give us hell.
+#L_D9_ans40=Don't worry. The most important thing is that we know about it. The rest is a matter of time.
+#L_D9_msg50=I hope we have this time. I hope we have...
+#L_D9_ans50=(Dalej)

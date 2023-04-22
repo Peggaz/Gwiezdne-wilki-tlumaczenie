@@ -1,0 +1,17 @@
+;*****************************
+;Dialog5.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Alex
+#L_D5_msg00=Let's get back to the station! It's their primary target.
+#L_D5_ans00=(Dalej)
+#L_D5_msg10=Then what did Corsair head for?
+#L_D5_ans10=(Dalej)
+#L_D5_msg20=To the hangars. Nearly all our mobile forces are there. But those guys know their onions. Let's hope they'll hold out until reinforcements arrive!
+#L_D5_ans20=(Dalej)
+#L_D5_msg30=What if they won't?! Then the NESF, Triada and that bloody tincan will hit us with all they have. Boss, we need to help the boys!
+#L_D5_ans30=(Dalej)
+#L_D5_msg40=Do what you want, but I can't leave the station!
+#L_D5_ans40=(Dalej)

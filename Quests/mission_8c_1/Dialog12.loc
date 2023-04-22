@@ -1,0 +1,10 @@
+;*****************************
+;Dialog12.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D12_msg00=What's our plan?
+#L_D12_ans00=Let's try to get some information from the MSF. Let's head for New Jerusalem 2.
+#L_D12_ans01=InoCo wants something from us. We should find out what exactly. Let's go to Lidau.

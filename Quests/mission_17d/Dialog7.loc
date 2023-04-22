@@ -1,0 +1,15 @@
+;*****************************
+;Dialog7.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Natali
+#L_D7_msg00=I don't know about you, but I sure haven't expected that turn of events.
+#L_D7_ans00=(Dalej)
+#L_D7_msg10=We'll die some day anyway.
+#L_D7_ans10=(Dalej)
+#L_D7_msg20=But I'd like that day to come much, much later.
+#L_D7_ans20=(Dalej)
+#L_D7_msg30=I'd also like to live for a while longer, so let's heed to Corsair's offer to clean out a local store. We'll need all means of survival we can get.
+#L_D7_ans30=(Dalej)

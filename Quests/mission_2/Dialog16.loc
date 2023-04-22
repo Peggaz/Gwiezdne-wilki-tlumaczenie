@@ -1,0 +1,13 @@
+;*****************************
+;Dialog16.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D16_msg00=Calling Copernicus Station. I've delivered your cargo, who's going to pick it up?
+#L_D16_ans00=(Dalej)
+#L_D16_msg10=Oh, great! You're just in time. We'll unload it right away. What's happened to Ray? It's his transport, isn't it?
+#L_D16_ans10=Ray is having health issues and can't work.
+#L_D16_msg20=Oh, it's a pity for sure. Send him our kindest regards. If you need work, do come visit us here.
+#L_D16_ans20=I will. Good luck.

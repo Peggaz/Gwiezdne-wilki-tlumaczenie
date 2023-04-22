@@ -1,0 +1,17 @@
+;*****************************
+;Dialog3.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m10_Hunter
+#L_D3_msg00=Hey, old buddies! Found your friend?
+#L_D3_ans00=(Dalej)
+#L_D3_msg10=More like I have found them.
+#L_D3_ans10=As you can see, Zurab, we have. What are doing in Al-Ariash?
+#L_D3_msg20=It's a sad story. We lost the border sector, it's been overrun by Berserks. It's good we had time to evac most inhabitants right after the first raid. Joseph was killed...
+#L_D3_ans20=I'm so sorry.
+#L_D3_msg30=We all are. But it's going to be worse than that. Now the entire border is crawling with tincans. I couldn't even think there was so many of them! Berserks tried to break through here, but we stopped them. Though I'm afraid that was only a recon in force and the real horde is going to follow soon. So, as you can see, we're guarding the portal, expecting trouble.
+#L_D3_ans30=What about your men?
+#L_D3_msg40=We evacuated them to the Capricorn Sector with Aja's help. But stations, workshops - everything was ruined. According to information from navigational buoys spread across the border, all hell is let loose beyond this portal.
+#L_D3_ans40=(Dalej)

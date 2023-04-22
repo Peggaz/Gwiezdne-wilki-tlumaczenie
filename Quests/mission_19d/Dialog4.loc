@@ -1,0 +1,26 @@
+;*****************************
+;Dialog4.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Alex
+#L_D4_msg00=Now we have to reach the Vaudille portal with minimal losses. Mister Fry, your mine layers will have work to do too. Go to the Sunji portal and caulk up that hole, so not even a meteor gets through.
+#L_D4_ans00=(Dalej)
+#L_D4_msg10=I'm afraid it's not that easy. We might encounter portal guards, and I won't be able to protect transports alone. An escort will be very handy.
+#L_D4_ans10=All right, we'll cover you, just don't lag behind.
+#L_D4_ans11=We'll just lose time, if we hang around this system. Folks in Vaudille will have time to gather around the portal. No, we must keep to the initial plan and assault Vaudille.
+#L_D4_msg20=But it might delay the assault.
+#L_D4_ans20=(Dalej)
+#L_D4_msg30=But we'll be safe from a stab in the back. I support the boss on this one.
+#L_D4_ans30=(Dalej)
+#L_D4_msg40=Just take us to the portal. When we start laying mines, the transports will be safe. And we'll be laying them very fast.
+#L_D4_ans40=(Dalej)
+#L_D4_msg50=All right, all right. I'll tell my men to head for the Vaudille portal and prepare a bridgehead.
+#L_D4_ans50=(Dalej)
+#L_D4_msg21=I can't risk my men's lives in vain. I'm very sorry, but we're leaving.
+#L_D4_ans21=(Dalej)
+#L_D4_msg31=So much for corporators' help...
+#L_D4_ans31=(Dalej)
+#L_D4_msg41=Let him leave, we'll manage.
+#L_D4_ans41=(Dalej)

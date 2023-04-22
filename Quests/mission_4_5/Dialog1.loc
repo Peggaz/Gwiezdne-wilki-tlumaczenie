@@ -1,0 +1,13 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D1_msg00=We lost them. What now?
+#L_D1_ans00=(Dalej)
+#L_D1_msg10=Let's try to outsmart them. Their scanners' effective range will be shorter in the dust cloud, but my equipment is better than standard junk, so we'll still be able to track those bastards.
+#L_D1_ans10=We won't be able to hide for long. They will start combing the cloud as soon as their forces are in place.
+#L_D1_msg20=It's all right, we'll just need to find a gap in the encirclement and break through to the Elio portal. And give the dolts a cheery wave.
+#L_D1_ans20=(Dalej)

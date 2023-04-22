@@ -1,0 +1,95 @@
+;*****************************
+; mission_19d
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_19d_01a=Dock to the trade station.
+#L_Quest_19d_01b=You have to replenish ammo before attacking Emperor Azar's forces. Your allies provided for necessary equipment and arsenal stored at the trade station.
+#L_Quest_19d_02a=Wait until USS ships arrive.
+#L_Quest_19d_02b=Wait until USS ships arrive. It's vital that you find out who they are and what they want.
+#L_Quest_19d_03a=Eliminate the portal guards.
+#L_Quest_19d_03b=To clear the way for reinforcements, you have to eliminate the guards by the Prien portal.
+#L_Quest_19d_04a=Escort the transports.
+#L_Quest_19d_04b=Escort the transports of Ethan Fry to the Sunji portal. At least one transport must survive.
+#L_Quest_19d_05a=Reach the Vaudille portal.
+#L_Quest_19d_05b=Jump into Vaudille as quickly as possible, while Emperor Azar and allies are not prepared for a counter-attack.
+#L_Quest_19d_06a=Break into the system.
+#L_Quest_19d_06b=You must break deeper into the system.
+#L_Quest_19d_07a=Leave the system.
+#L_Quest_19d_07b=The Berserks are going to block all system exits. Don't waste time, run for it!
+#L_Quest_19d_08a=Eliminate emperor's allies.
+#L_Quest_19d_08b=Eliminate emperor's allies - Kane and Min Imu - by destroying their stations. And try not to lose sight of the emperor.
+#L_Quest_19d_09a=Eliminate the emperor.
+#L_Quest_19d_09b=Eliminate Emperor Azar. Most likely, this will be hard, considering what guards he has.
+
+;*****************************
+;Speeches
+;*****************************
+#L_Alex_01=All right, our first target is portal guards. If we don't clear the way for reinforcements, things will get too hot for us.
+#L_Sedoy_01=Well, then let's dance to the music, shall we?
+
+#L_Alex_02=Do you think it's a good tactics?
+#L_Hero_01=I'd like to take them by surprise.
+
+#L_Itan_01=What a pity. Now we can forget about a dense minefield.
+
+#L_Hero_02=All right, Ethan, get to it.
+#L_Itan_02=I told you we would do the job fast.
+
+#L_Itan_03=All right, it's done. I'll send the transports back and then pay Kane a visit. I've been longing to meet him.
+#L_Itan_04=All right, it's done. I'll send the transport back and then pay Kane a visit. I've been longing to meet him.
+
+#L_grey_01=We're under attack!
+#L_Sedoy_02=Damn, tincans! Now we have our hands full of trouble!
+#L_Alex_03=But the emperor...
+#L_Natali_01=Don't be stupid, Alex. Berserks pouring out of Vaudille means no one has been left alive there. We must cut and run.
+#L_Lastochka_01=You're right, friend. Let's scram while we're still alive!
+
+#L_Sedoy_03=Oh, a complete welcoming committee!
+#L_Kalem_01=I'll try to jam their communications.
+#L_Kalem_02=Well, the surprise was... surprising. I wish I knew for whom exactly. I'll try to intercept their communications.
+#L_Itan_05=I guess it's high time for a little surprise.
+#L_uss_01=What the hell! Mines!
+
+#L_Alex_04=Nice tunes. Like I said - spiders in a jar.
+#L_Kalem_03=I've pinned down the source of emperor and Imu's transmission. I'll mark it on the map.
+
+#L_Hero_03=More guests?
+#L_emperor_01=Admiral, you're just in time!
+#L_Tramp_01=Your Majesty, please switch to the BIS-812 secure frequency, enemies may be eavesdropping.
+
+#L_emperor_02=Admiral, order the captain of my ship to disengage and leave the system! Have your forgotten you're taking me to Earth? I agree to be tried by a tribunal, but dead men can't testify!
+#L_Tramp_02=Captain, leave the system, we'll delay the enemy.
+
+#L_Alex_05=Why? No more backups for us.
+#L_Kalem_04=Got it! I've found the emperor! Damn, he's by the station already!
+#L_Alex_06=Let's hurry up! If there's a hyper catapult at the station, it will take time to activate it. We still can launch Azar into eternity!
+
+#L_Kane_01=Azar! Imu! Where the hell are you?! I'm under attack! If they destroy the station, you're as good as dead too!
+#L_emperor_03=Kane, you know what to do!
+#L_Imu_01=Trying to leave me behind, you bastards?! I'll get you from hell itself!
+
+#L_Kalem_05=Got it! I've found the emperor! Damn, he's heading for the portal!
+#L_Alex_07=We must intercept them. Turn back.
+
+#L_Imu_02=I'm under attack! Kane, Azar, send backup!
+#L_Kane_02=Sorry, but our hands are full. Try to hold on.
+
+#L_Hero_04=Berserks are approaching. We need to get out of this system.
+#L_Tramp_03=You're right, get back to the portal, we'll cover you. It's the least I can do now, I'm sorry.
+
+#L_Alex_08=Our job is done, we may leave.
+
+#L_Alex_09=I can't believe we've lost Azar! We nearly got him!
+#L_Lastochka_02=He came and went. Partner, we also must leave before tincans cut us off from the portal!
+#L_Natali_02=She's right. What's done is done.
+
+#L_shipyard=Min Imu's Dockyard
+#L_emperor=Emperor Azar's Fleet
+
+#L_sys_01=That was your biggest mistake. Whatever happens next, you won't be a part of it.

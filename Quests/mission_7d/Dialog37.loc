@@ -1,0 +1,10 @@
+;*****************************
+;Dialog37.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Sedoy
+#L_D37_msg00=Where to now, boss?
+#L_D37_ans00=We're invited to the InoCo headquarters, aren't we? It would be unwise to refuse, so let's go to Lidau.
+#L_D37_ans01=It would be nice to get some information from the MSF. Why have they attacked a Triada system at all? We're going to New Jerusalem 2.

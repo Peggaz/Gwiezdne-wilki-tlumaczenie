@@ -1,0 +1,11 @@
+;*****************************
+;Dialog4.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;USSAgent
+#L_D4_msg00=So, what about your friend?
+#L_D4_ans00=She's still trying to locate the ambush.
+#L_D4_msg10=I think she's far enough already. Get the trader, boys.
+#L_D4_ans10=(Dalej)

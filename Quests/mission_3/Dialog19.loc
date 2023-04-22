@@ -1,0 +1,11 @@
+;*****************************
+;Dialog19.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Heretic
+#L_D19_msg00=Hey, where are you? We're going the other way!
+#L_D19_ans00=I just thought... You might be right about those Laszlo guys, but my friend promised I'd deliver the cargo. I don't want to set Alex up, sorry.
+#L_D19_msg10=You idiot, you don't have a slightest idea what this will result in! Aw, to hell with you. Go kowtow to those pirates of yours. Just don't say you haven't been warned.
+#L_D19_ans10=(Dalej)

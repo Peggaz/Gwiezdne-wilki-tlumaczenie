@@ -1,0 +1,17 @@
+;*****************************
+;Dialog4.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m7e_KfniAce
+#L_D4_msg00=Attention, civilian ships. Stop the broadcast immediately!
+#L_D4_ans00=(Dalej)
+#L_D4_msg10=No pizza for us...
+#L_D4_ans10=Hey, I just wanted to talk to-
+#L_D4_msg20=I repeat, stop the broadcast now or we're opening fire! How did you get the secret frequency? Answer quickly and clearly!
+#L_D4_ans20=Listen, I just wanted to talk to Alexandra Sukhova, Special Operations.
+#L_D4_msg30=How do you know about the Special Operations? You're a trader, according to the database, so what are you doing here? Why are you using the military frequency? Answer or I'll open fire!
+#L_D4_ans30=Dammit, officer, stop putting muscle on me! I just want a few words with Alexandra Sukhova. If I need to answer questions, fine! But do contact her. I have information that might interest your higher-ups.
+#L_D4_msg40=Stay put until further orders.
+#L_D4_ans40=(Dalej)

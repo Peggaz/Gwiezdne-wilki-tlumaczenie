@@ -1,0 +1,15 @@
+;*****************************
+;Dialog5.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m6c_GuardVKS
+#L_D5_msg00=Traders, you're great! I haven't expected that! You showed them!
+#L_D5_ans00=I'm also glad, but what about our transports?
+#L_D5_msg10=Safe and sound, like I've promised!
+#L_D5_ans10=Perfect. So we can continue?
+#L_D5_msg20=It was an honor to fight alongside you! Good luck, free traders.
+#L_D5_ans20=(Dalej)
+#L_D5_msg30=So, shall we proceed to Al-Ariash?
+#L_D5_ans30=Sure. Transports, follow us.

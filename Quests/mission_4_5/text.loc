@@ -1,0 +1,127 @@
+;*****************************
+; mission_4_5
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_4_5_01a=Reach the Grid Station in Elio.
+#L_Quest_4_5_01b=A friend of Ternie, who resides at the Grid Station in Elio, can fix pirate mothership's license plates. If it's not done, any patrol or military force will consider it an honor to disintegrate you.
+#L_Quest_4_5_02a=Reach the Elio portal.
+#L_Quest_4_5_02b=The Elio portal is far away. Unfortunately, it's also well guarded by New Empire patrols, which you should avoid for the time being.
+#L_Quest_4_5_03a=Eliminate the scavengers.
+#L_Quest_4_5_03b=The scavengers must not leave the security zone!
+#L_Quest_4_5_04a=Escort Matt Hander.
+#L_Quest_4_5_04b=Matt Hander asked you to escort his convoy to the Hope Mine in Elio.
+#L_Quest_4_5_05a=Find Matt Hander.
+#L_Quest_4_5_05b=Carl Hander asked you to find his son Matt who hadn't arrived to the Hope Mine on time.
+#L_Quest_4_5_06a=Pick up the escape pod.
+#L_Quest_4_5_06b=Pick up the escape pod at the wreck site and deliver it to the Grid Station.
+#L_Quest_4_5_07a=Dock to the station.
+#L_Quest_4_5_07b=Dock to the Grid Station so Carl Hander can do everything necessary.
+#L_Quest_5_01a=Return to Alex's station.
+#L_Quest_5_01b=A former pirate base is a nice thing to have, all the more so it's probably not on the wanted list anymore. But equipping it will require lots of money, so you should return to Placid Docks in Aurora. Alex must have a few serious and well-paying contracts.
+
+;*****************************
+;Speeches
+;*****************************
+#L_navy_01=New Empire patrol to the pirate ship. Heave aback and disable your guns! Prepare to surrender or we'll open fire!
+#L_Lastochka_01=Partner, let's scram while we can!
+#L_navy_02=All ships, fire for effect.
+
+#L_navy_04=Patrol Team Zeta to base! We've got a situation with a pirate raider here. Need backup now.
+#L_navy_08=Patrol Team Zeta to base! The criminal is escaping to the cloud. We're losing him on the scanner, send sleuths.
+#L_disp_01=Backup sent, hold your position.
+#L_Lastochka_02=Let's head for the dust cloud, catch the coordinates!
+#L_navy_05=Cruiser Thunderer to the pirate ship. Heave aback and yield immediately.
+#L_Hero_02=You're right, this isn't a time to be a hero. Let's scram.
+
+#L_Lastochka_03=Scavengers! Don't let them get away, partner, or we'll be in for deep trouble!
+
+#L_Hero_03=We made it...
+#L_Lastochka_04=All right, but we should keep our eyes open. The patrols are stuck by the guns now. There are pulling in ships to that area now. I've located a gap in the encirclement, here are the coordinates. When we get close to the secured perimeter, just blow up a couple of guns and we're free.
+
+#L_Lastochka_05=Nice work, partner! Here's the last scanner report. The patrols are stuck by the guns now. There are pulling in ships to that area now. I've located a gap in the encirclement, here are the coordinates. When we get close to the secured perimeter, just blow up a couple of guns and we're free.
+
+#L_Lastochka_06=Another little effort... Sending target designation.
+#L_Hero_04=Now let's get out of here, this junkyard is making me a paranoiac. I'm always thinking that someone's watching us.
+
+#L_pirate_01=Hey, not so fast!
+#L_pirate_02=Rivals, huh? Trying to steal other people's things? Come on, boys, let's kill the guests. Hucksters will wait!
+
+#L_Lastochka_07=Anymore premonitions, partner?
+#L_Hero_05=Only one: we need to get the hell out of this sector before we stumble upon another patrol.
+
+#L_Hero_06=Who were those scavengers by the way? Another pirate clan?
+#L_Lastochka_08=A 'clan?' They don't deserve the honor. Just a bunch of salvagers who live by stripping wrecked ships of equipment, alloys, goods. They descend to robbing corpses too.
+#L_Hero_07=Fine gentlemen.
+#L_Lastochka_09=Unfortunately, this happens pretty often these days. Usually scavengers keep in the background, but if they guard a debris-rich area, they might get aggressive. They are quick to become impudent, besides, sometimes they find really good military equipment.
+
+#L_Lastochka_10=Let's scram!
+#L_Lastochka_11=Are you crazy?! Let's leave, they're pulling in forces!
+#L_Lastochka_12=Let's hide here. We'll leave when they get their hands full with the guns.
+
+#L_navy_06=Team Delta to Cruiser Thunderer. It seems those rats have dug in well here! We encountered automatic weapon emplacements. Send backup, we can't handle them ourselves.
+#L_navy_07=Affirmative, moving out.
+
+#L_Lastochka_13=Here are the coordinates!
+#L_Lastochka_14=All right, they are far enough, let's go. Here are the route coordinates. Try to stay away from the guns, they do pack a punch.
+#L_Lastochka_15=New coordinates!
+#L_Lastochka_16=One waypoint left!
+#L_Lastochka_17=We almost made it. I'm detecting a few patrol fighters ahead, let's try to break through.
+#L_Lastochka_18=We almost made it. I'm detecting a few patrol fighters ahead. They are far enough, so there's a gap - just what we need. Now let's move or we might encounter scavengers.
+#L_Lastochka_19=Great! Now let's move or we might encounter scavengers.
+
+#L_pirate_03=Leave us the transports and get the hell out. We won't finish you off!
+#L_trader_01=Come up with a better story! Do you think I have no idea you've been hired by Curtis to kill us?!
+
+#L_Matt_07=Hold on, boys!
+
+#L_Matt_01=Curtis! I knew it was you behind all the attacks. It stank so much!
+#L_Kertis_01=Boy, we warned you and your idiot dad that you should leave the system while you could. You should've listened. Now we'll have to disappoint you greatly.
+
+#L_Hero_08=One of your long-time friends?
+#L_Matt_02=He's the source of all our problems! He arrived to Elio a few months ago, visited every station, offering to buy family businesses for a quarter of price. Of course, everyone told him to shove it. But then he started sabotaging every business little by little and attacking trade ships. Everything came to a standstill, carriers stopped showing up here and we started losing money at a fast pace.
+#L_Hero_09=Why didn't you hire mercenaries?
+#L_Matt_03=We hoped we could deal with him by ourselves. Unfortunately, we only lost time, money and ships. Then we just had nothing to pay mercenaries with, so we had to assemble a convoy and go get the equipment we needed. Finally Curtis has been dealt with! This whole system is in your debt!
+#L_Hero_10=Glad to be of help.
+
+#L_disp_02=Matt, is that you? What's that pirate doing by your side?
+#L_Matt_04=It's all right, they are friends.
+#L_Hero_17=Well, if everything's all right, we'll be on our way.
+#L_Matt_05=Oh, sure. Sorry for delaying you. Thanks a lot, we would have never made it without your help!
+#L_Hero_11=Good luck, take care.
+
+#L_disp_05=This is Grid Station. We don't allow pirates to dock. Please leave or we'll send out the guards.
+#L_Lastochka_20=Hey, we need Carl Hander. Tell him his son sent us! Some welcome this is.
+#L_Karl_01=Ternie, is that you?! Matt messaged me to "meet old friends", but he never said what friends exactly. I'm going to kick his butt, just so he remembers the good old times! Dock in, you're welcome at any station in Elio!
+#L_Lastochka_21=Carl, we need something from you. Please fix our mothership's ID so it's clean for any law enforcer. You went in for this once.
+#L_Karl_02=I did. Now I have a small, but legit business. But I'll remember my old skills for you.
+
+#L_Lastochka_22=Hey, we need Carl Hander. Tell him that his old friends are here.
+#L_Karl_03=Ternie, is that you?! What brings you here?
+#L_Karl_04=I did, but no more. But I'll remember my old skills for you - in exchange for a favor.
+#L_Lastochka_23=What kind of favor?
+#L_Karl_05=My son went missing. He was to deliver a transport convoy to the Hope Mine in this system. The last time he contacted me he was in Hephaestus. He said pirates attacked him, but he managed to repel them. But he never showed up at the mine. Bad things have been happening in this system of late, and I'm afraid Matt is in trouble. I'll give you the mine coordinates. Find Matt... Or what's left of him... Then we'll talk business.
+#L_Lastochka_26=All right, we'll do our best.
+#L_Karl_07=I'll inform local patrols about you, so they leave you alone. I'm so counting on you.
+
+#L_Lastochka_24=Partner, it seems we're in trouble.
+#L_Hero_15=You're right. But if Carl doesn't find out who has wrecked the convoy, our situation won't be that bad. Let's go back to the portal in Hephaestus and look for escape pods.
+#L_Lastochka_25=What if we find them safe and sound?
+#L_Hero_16=We'll see. Now let's move.
+
+#L_Hero_12=Hey, station, we need to talk to Matt. He was to arrive here with a transport convoy.
+#L_disp_06=Ah, we were informed about you. But I'm afraid I have no good news. Matt contacted us after passing through the portal and then he suddenly vanished. We've been unable to contact him ever since or locate his ship. I'll give you his route coordinates, so you can look for him.
+
+#L_Hero_13=Whoever that was, let's scram before someone else arrives.
+
+#L_Lastochka_27=Carl, we found someone, but he's in a bad shape. He needs a doctor, right now.
+#L_Karl_09=Unload the pod. It's Matt! Thanks be, he's alive! Wait a second!
+#L_disp_07=You did great.
+#L_Hero_14=Who is that Curtis?
+#L_disp_08=Some bandit. First, he tried to take over our stations by threatening us, then he started attacking trade ships. But Carl and Matt Hander are not easily frightened, so the boy decided to lead the convoy himself. I hope he lives.
+#L_Karl_10=Matt is in resuscitation now. The doctor says he'll be all right. I'm forever in your debt! You said something about fixing mothership IDs? I'll get down to it right away. Thank you again for saving my son!

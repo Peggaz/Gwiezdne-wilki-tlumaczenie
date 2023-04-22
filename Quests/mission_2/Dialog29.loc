@@ -1,0 +1,13 @@
+;*****************************
+;Dialog29.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D29_msg00=Calling Copernicus Station. I've delivered your cargo, who's going to pick it up?
+#L_D29_ans00=(Dalej)
+#L_D29_msg10=Finally! What took you so long? Every minute of downtime of scientific equipment, parts of which you've delivered, slows down the entire station's work!
+#L_D29_ans10=I had trouble with pirates along the way.
+#L_D29_msg20=Everyone is having trouble with pirates. But it doesn't mean the entire Universe has to wait for you. Anyway, now we'll have to fall back upon the penalty paragraph. Your reward is 30,000 credits. It's a pity Ray couldn't come here. He's truly punctual. Over and out.
+#L_D29_ans20=This isn't good... This isn't good at all. Anyway, we have to return the ship.

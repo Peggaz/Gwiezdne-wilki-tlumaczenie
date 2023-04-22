@@ -1,0 +1,35 @@
+;*****************************
+;Dialog15.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D15_msg00=Aja, how did you find us?
+#L_D15_ans00=(Dalej)
+#L_D15_msg10=I knew where you had gone, and I also knew the station coordinates. But since it would be too long and boring to fly all that distance, I visited a good friend of mine and jumped right at the location.
+#L_D15_ans10=What do you mean jumped?
+#L_D15_msg20=By means of a hyperspace catapult. It's an imperial device, they've just developed it. I'm not really into these things, I just need a result, which is satisfactory in this case.
+#L_D15_ans20=(Dalej)
+#L_D15_msg30=Before pirates got me, I had read some rumors in the Web about this technology. But those were only theories.
+#L_D15_ans30=(Dalej)
+#L_D15_msg40=I'd bet my fighter that the Empire would like the catapult to remain a rumor. But since Savay collects and checks rumors, I've managed to borrow some equipment from thick skulls. It's not very convenient actually. Why, it's great, of course, but too huge. Only a station can carry one. For ships there are hyper springs that only throw you across three or four systems. Besides, you have to recharge them at a catapult after each use. Kalem, where did you get the imperial guns?
+#L_D15_ans40=(Dalej)
+#L_D15_msg50=I don't know, they haven't reported to me. I just had to upgrade them or else...
+#L_D15_ans50=(Dalej)
+#L_D15_msg60=A standard way of persuasion among pirate riffraff. So, you're a weaponry expert?
+#L_D15_ans60=(Dalej)
+#L_D15_msg70=Just an expert I'd rather say. These guns don't require specialization. Any more or less competent technician will sort out how this thingamajig works in two days. You know, it seems they used legs, not hands, to assemble those. And were drunk at that. But, man, aren't there cool stickers all round instead! Advanced Multi Dynamics! Ridiculous...
+#L_D15_ans70=(Dalej)
+#L_D15_msg80=Advanced Multi Dynamics... We remelt their junk as soon as we get it.
+#L_D15_ans80=(Dalej)
+#L_D15_msg90=Not you alone. USS wouldn't do business with them either.
+#L_D15_ans90=(Dalej)
+#L_D15_msg100=It's not surprising. But there's one thing I'm wondering about. Good technicians are rare even in corporations. How did you end up with Greys, Kalem?
+#L_D15_ans100=(Dalej)
+#L_D15_msg110=I ended up with pirates first. A planetary raid, an offer you can't refuse. And the next moment you find yourself inside a pirate clunker with a bunch of tools in your hands. They handed me over to Greys later.
+#L_D15_ans110=(Dalej)
+#L_D15_msg120=Those dolts would never think much of an expert. Idiocy and poverty of intellect is in their blood. But just you wait, we'll clean the space of that riffraff.
+#L_D15_ans120=(Dalej)
+#L_D15_msg130=I'm afraid there's too much to clean. Enough for our grandchildren even.
+#L_D15_ans130=(Dalej)

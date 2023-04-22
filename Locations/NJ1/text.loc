@@ -1,0 +1,10 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#L_nav_convoy=Miejsce konwoju
+#L_trade=Stacja Handlowa "Ariel"
+#L_patrol_stab=Siedziba Imperialna patrolu
+#L_factory=Zak³ad "CyberNano"

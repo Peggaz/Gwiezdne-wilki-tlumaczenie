@@ -1,0 +1,12 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#M_pirate=Stacja Piratów
+#M_resident=Gwiezdny przyczó³ek
+#L_pirate=Stacja Piratów "Kyu"
+#L_patrol=Stacja patrolu Triady
+#L_tri=Stacja "Dan" Triady
+#L_trade=Stacja Handlowa "Uhle"

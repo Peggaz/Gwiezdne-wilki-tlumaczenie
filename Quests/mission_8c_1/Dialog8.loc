@@ -1,0 +1,10 @@
+;*****************************
+;Dialog8.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D8_msg00=What's our plan?
+#L_D8_ans00=I'm sure Triada is bound to have the information we need. We're going to Candela.
+#L_D8_ans01=My friend asked me for help with escorting a convoy. Let's visit him in XT-54 and make some cash.

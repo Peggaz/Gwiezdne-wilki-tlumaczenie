@@ -1,0 +1,37 @@
+;*****************************
+;Dialog4.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D4_msg00=And yet again he's alone and unprotected.
+#L_D4_ans00=(Dalej)
+#L_D4_msg10=Oh, my old friends! I've got tired of waiting already.
+#L_D4_ans10=We made a detour to pick up a guide. Meet Joseph.
+#L_D4_msg20=Fine, fine, I'm very glad to see you. Well, friends, let's get down to business, shall we? I managed to get a diary of Jacob Cust, the famous far space explorer.
+#L_D4_ans20=(Dalej)
+#L_D4_msg30=Jacob's diary?! My, is he alive?
+#L_D4_ans30=(Dalej)
+#L_D4_msg40=Unfortunately, it says nothing about that.
+#L_D4_ans40=(Dalej)
+#L_D4_msg50=But the last recording? What does it say?!
+#L_D4_ans50=(Dalej)
+#L_D4_msg60=Let me read it for you. "I can't sleep. I'm rechecking my calculations over and over. Joseph laughs, saying that I'll..." Wait a second, are you this Joseph he's talking about?
+#L_D4_ans60=(Dalej)
+#L_D4_msg70=Yes, that's me! Do read on!
+#L_D4_ans70=(Dalej)
+#L_D4_msg80=Yeah, sure. "...Saying that I'll have a heart attack because of this and won't need to fly anywhere. Hah, dream on, Joseph! Tomorrow we'll set out to X213 where I believe the Precursor portal is to be found."
+#L_D4_ans80=(Dalej)
+#L_D4_msg90=No need to continue. Oh well, it seems Jacob hasn't returned. He made this recording before our departure to the Precursor portal in which he vanished. Poor soul...
+#L_D4_ans90=(Dalej)
+#L_D4_msg100=Well, my friend, then we have a chance to know the fate our your partner. We're going to X213 immediately. I have certain experimental equipment that, I believe, will open the portal for us. Come on, friends, Sesame awaits!
+#L_D4_ans100=(Dalej)
+#L_D4_msg110=Not so fast. There's no portal in X213. It's located in X220.
+#L_D4_ans110=(Dalej)
+#L_D4_msg120=What? But the diary-
+#L_D4_ans120=(Dalej)
+#L_D4_msg130=The diary has assumptions and guesses, while I have facts. The portal is located in X220. Tell me, can you really open it?
+#L_D4_ans130=(Dalej)
+#L_D4_msg140=At least I hope so. Well, friends, let's not waste time. To X220!
+#L_D4_ans140=(Dalej)

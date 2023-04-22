@@ -1,0 +1,32 @@
+;*****************************
+;Dialog12.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m9b_Fry
+#L_D12_msg00=Why, hello there. I have to admit I haven't expected you to respond.
+#L_D12_ans00=Hello, Ethan. You were the last man I thought I'd get a message from. We have never been real friends, you know.
+#L_D12_msg10=Neither we have been enemies. Besides, I could always rely on you and you'd never let me down.
+#L_D12_ans10=Thanks, but let's cut to the chase. What's troubling you?
+#L_D12_msg20=Something I could expect from being a CSO. I have enemies. Somebody has been seriously intriguing against me, trying to sabotage my whole department.
+#L_D12_ans20=Which handles...
+#L_D12_msg30=Employee security checks, collecting information on rivals... In other words, a mix of security with recon and analysis - a usual department for any corporation. But recently our workflow has been stalling at nearly every level. A few days ago our spy satellite, located in an imperial system, stopped responding. Which means it was either destroyed or disabled. By one of us.
+#L_D12_ans30=Why are you so sure of that?
+#L_D12_msg40=The satellite is very well hidden. Its power supply and electronics are deep inside a ferrous asteroid. Only a small cluster of passive sensors is outside. The satellite transmits and emits nothing. Once a month we send a ship masked as a trader to collect data. It's done by means of a directional laser ray, when there are no witnesses nearby.
+#L_D12_ans40=It seems there's a gap in your security somewhere.
+#L_D12_msg50=That's exactly what is to be found out. The satellite is located in Prien, tracking a very important route network. Our ship performed every necessary procedure, but got no response. I'll load some repair bots into your cargo bay to repair the satellite, if that can be done, or collect what's left of it.
+#L_D12_ans50=Couldn't it be an accident? A malfunction?
+#L_D12_msg60=It could be anything. But given the recent situation, I suspect sabotage. Besides, a system like that can hardly malfunction. It's a true technological masterpiece.
+#L_D12_ans60=All right. Tell us what needs to be done.
+#L_D12_msg70=Sorry, but I can't trust satellite codes to anyone. Besides, I don't know them anyway. Thus, we'll all visit Hanoi first to pick up our security expert Alice Grant. Then we'll head for Prien. I'm willing to pay you 750,000 credits on mission completion to make up for the effort.
+#L_D12_ans70=No can do, I only work with my team. Given the recent events, I'm not trusting corporators enough to invite any of them into the crew. Even you, Ethan.
+#L_D12_ans71=Ok, I agree to these conditions.
+#L_D12_msg80=Well, it seems I was wrong about you. Which is a pity. Over and out.
+#L_D12_ans80=(Dalej)
+#L_D12_msg90=I believe this is it for our partnership with corporators. Unless you have other director friends among them, partner.
+#L_D12_ans90=No, I haven't. But I got a message from Alex. He has information about our grey buddies. So we're going to Aurora.
+#L_D12_msg81=Great!
+#L_D12_ans81=Not so fast. If I feel you're trying to set me and my team up, you'll be the first to croak. I hope you understand it's nothing personal.
+#L_D12_msg91=Sure thing, I'd do the same. But we have to hurry to catch up with Alice. Let's head for Hanoi. You'll find all mission details in a message. I ordered to load the repair bots into your cargo bay.
+#L_D12_ans91=(Dalej)

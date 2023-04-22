@@ -1,0 +1,28 @@
+;*****************************
+;Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m1_DispTriada
+#L_D2_msg00=Welcome to Triada Corporation. We are always willing to offer brave pilots with quality ships a chance to make some easy money. If you're looking for doers, we cooperate with the most experienced and reliable teams that do jobs without asking too many questions!
+#L_D2_ans00=We are only looking for information on private shipping contracts.
+#L_D2_msg10=Then let me switch you to the press service.
+#L_D2_ans10=(Dalej)
+#L_D2_msg20=Greetings, how can I help you?
+#L_D2_ans20=I'm looking for information about what happened in Beta Lethera 1.
+#L_D2_msg30=Oh, Beta Lethera... It has been illegally seized by the MSF and is currently off limits to civilians. Also closed are Beta Lethera 2 and 3, where our people are located. We are trying to oppose imperial lawlessness by legal means, but I'm afraid, if you have any business in either system, you will have to shelve it. This information is also available in our official press release.
+#L_D2_ans30=I know that your systems are off limits. I'm looking for information about a private transport convoy that was near the station at the time of attack. It belonged to me and I was on a mission for your company. Let me send you the documents.
+#L_D2_msg40=I see... Hmm... Sorry, but these are not enough. Besides, you have already contacted our legal department and they should have explained that the contact and the attack were not related, so we didn't watch what happened to your ships.
+#L_D2_ans40=I know otherwise. Listen, I'm a businessman and know that everything has its price. I'm willing to pay handsomely for the information about my convoy.
+#L_D2_msg50=If you're hinting at a deal with me, I have to refuse as it violates our code of conduct. But let me switch you to the special operations department that handles such cases.
+#L_D2_ans50=(Dalej)
+#L_D2_msg60=I've heard your conversation with both approach control and press service, so let's cut to the chase. We don't need your money, but we still can come to an agreement, if you do a little errand for us.
+#L_D2_ans60=What kind of errand?
+#L_D2_msg70=One-time contracts are handled by our field agents. If you agree, I'm refer you to one who can use a team with the clean past and official FTU membership. In return, I guarantee you will get all the information we have about your convoy.
+#L_D2_ans70=I have to refuse. I'm not taking leaps in the dark. But, perhaps, I can still buy the information?
+#L_D2_ans71=I can't promise I'll work for you, but I'll contact your agent. Where should I look for him?
+#L_D2_msg80=As I've said, we don't sell information. Over and out.
+#L_D2_ans80=(Dalej)
+#L_D2_msg81=I'll transmit you the coordinates of Agent Roghem who will be handling the mission. I hope your cooperation will be long and effective. Over and out.
+#L_D2_ans81=(Dalej)

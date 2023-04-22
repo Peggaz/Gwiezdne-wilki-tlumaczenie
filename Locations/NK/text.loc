@@ -1,0 +1,16 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#L_nav_01=Portal do Prozerpiny
+#L_nav_03=Nieznany portal
+#L_nav_04=Nieznany kontakt
+#L_nav_05=Pole asteroid
+#L_nav_06=Magazyn piratów
+#L_nav_02=Zniszczona stacja piratów
+#L_STO=Stacja konserwacyjna
+#L_trade=Stacja Handlowa "Kyoto"
+#L_UFT=Siedziba g³ówna Unii Wolnych Handlarzy
+#L_anhar=Hangar

@@ -1,0 +1,17 @@
+;*****************************
+;Dialog17.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Alexandra
+#L_D17_msg00=What was that cunning trick, may I wonder?
+#L_D17_ans00=This is just an old divide and rule tactics. Alexandra, you heard them. Trump is an old imperial attack dog. If he grappled with his brother in arms, we never even had a chance to come to an agreement.
+#L_D17_msg10=You just didn't give us such a chance!
+#L_D17_ans10=First of all, I gave no chances to one of our enemies to focus on us! While each of them was fighting on two fronts, trying to achieve whatever goals they had, they were both vulnerable. None of us knows what could happen, if either of them combined forces to attack us. I decided not to push our luck.
+#L_D17_msg20=Boss might be right. But I still wish we could just negotiate it.
+#L_D17_ans20=(Dalej)
+#L_D17_msg30=And I think all is gas and gaiters. What should we do now?
+#L_D17_ans30=(Dalej)
+#L_D17_msg40=We should get back to Eridan. Let's head for the station. I think after this massacre they won't object much to firing up the hyper catapult and sending us to whatever place we need. Naturally, I'll see to it that they input the right coordinates.
+#L_D17_ans40=(Dalej)

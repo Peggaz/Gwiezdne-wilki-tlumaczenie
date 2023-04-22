@@ -1,0 +1,27 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;InocoOfficer
+#L_D1_msg00=Attention, ships! Stop your engines immediately! Do it! Or we'll open fire!
+#L_D1_ans00=(Dalej)
+#L_D1_msg10=We're glad to see you too, but why so emotional?
+#L_D1_ans10=We have the passcode for InoCo systems, transferring now.
+#L_D1_msg20=Shove that code up your rear nozzle! Stop the engines right now! There will be no second warning!
+#L_D1_ans20=(Dalej)
+#L_D1_msg30=Just wait, will you? I work for corporation maintenance. We're here to-
+#L_D1_ans30=(Dalej)
+#L_D1_msg40=Repairmen? Why didn't you say so? We've been expecting you! Just a sec, I'll contact the control room...
+#L_D1_ans40=What's happened? Why didn't you accept our passcode?
+#L_D1_msg50=This place is going to the dogs! Databases are unavailable, communications are erratic, recognition systems have gone crazy. So, boys, you have yourselves a whole lot of crap to delve into... Ah, there's the reply. My, it's the Central itself! Transmitting channel settings.
+#L_D1_ans50=(Dalej)
+#L_D1_msg60=...remember you...not corporation employees...Why are you here?
+#L_D1_ans60=We need help. Someone kidnapped one of our team. We don't know who the kidnappers are exactly, but we have their engine signatures. You can track the portals they've jumped through, can't you?
+#L_D1_msg70=...can't...help...
+#L_D1_ans70=I thought we could expect some help, given the favor we had done to you. Moreover, the kidnappers flew the same grey ships involved in the attack on Hapha!
+#L_D1_msg80=...want...can't...hacker's attack...can't regain control...changes tactics all the time...losing servers... must stop hacker...destroy his ship...in Cadi...can't send our ships...be war...
+#L_D1_ans80=All right, we'll do it. Will you provide us with the data then?
+#L_D1_msg90=...yes...take my copy...destroy hacker's ship...will tell you...can't continue...resources leaking...
+#L_D1_ans90=(Dalej)

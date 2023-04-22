@@ -1,0 +1,54 @@
+;*****************************
+; mission_18d_2
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_18d_02a=Ensure the arrival of reinforcements from Fronn.
+#L_Quest_18d_02b=To ensure that Triada reinforcements arrive, you must eliminate the guards at the Fronn portal.
+#L_Quest_18d_03a=Destroy the station.
+#L_Quest_18d_03b=Destroy the station where SAM's server is located.
+#L_Quest_18d_04a=Ensure the arrival of reinforcements from Gaeon.
+#L_Quest_18d_04b=To ensure that reinforcements arrive, you must eliminate the guards at the Gaeon portal.
+#L_Quest_18d_05a=Ensure the arrival of reinforcements from hyperspace.
+#L_Quest_18d_05b=To ensure that reinforcements arrive, you must shoot down hyperspace jammers.
+#L_Quest_18d_06a=Find the mainframe station.
+#L_Quest_18d_06b=There are several stations in this system. One of them is SAM's mainframe. You must find it.
+
+;*****************************
+;Speeches
+;*****************************
+#L_Lastochka_01=Partner, what the hell?!
+#L_Natali_01=That was very stupid!
+#L_Sedoy_01=Have you decided to cross the front line, boss? No way.
+
+#L_Corsair_01=The bridges have been burned – the tincan has disabled the portal.
+#L_Tramp_01=Then we must not hang around here and move deeper into the system, where it's easier to maneuver.
+
+#L_Ranolds_01=I can see you can use our help.
+#L_Corsair_02=We can use anyone's help now, including shamans and gypsies!
+
+#L_Tramp_02=Excellent work! You should be proud of yourselves!
+#L_Corsair_03=I've seen better. I've never done better though. That's probably the reason I'm still alive. Enough compliments, we need to clear up this place.
+#L_Alex_01=Great! I'll message our reinforcements!
+
+#L_Aia_01=I thought you decided to have all the fun for yourselves. All right, soldiers, let's show the tincans how we can fly!
+
+#L_Sedoy_02=I hate this kind of tincans even more.
+
+#L_Lastochka_02=Why that bastard?! It should've blown to bits. An explosion would be nice too!
+#L_Natali_02=What was that?! Berserks have always fought to the death!
+#L_Kalem_01=Perhaps, this outcome is not suitable for all of them.
+#L_Cleric_01=I've located the exit signal. They are still here! Wait, I'll mark the coordinates.
+
+#L_Sedoy_03=So that's where they have motor oil changed! Who's eager to add some filings into their brake coils?
+#L_Sedoy_04=Hmm, it seems somebody has already been here. The debris looks like it was a dockyard.
+
+#L_sys_01=Main character died.
+#L_sys_02=Game over.
+
+#L_rep_fact=Maintenance dockyard

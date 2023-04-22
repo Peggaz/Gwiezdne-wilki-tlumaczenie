@@ -1,0 +1,17 @@
+;*****************************
+;Dialog8.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Tramp
+#L_D8_msg00=You're back. Fine. What did you get to know?
+#L_D8_ans00=Not much, we got unmasked pretty fast. Transmitting the data now.
+#L_D8_msg10=You're right, it's not much. Ok, we'll stick to what we have.
+#L_D8_ans10=They are suspicious types.
+#L_D8_msg20=I couldn't agree more. Dammit, the HQ is putting pressure on me to restore ore shipments immediately. I guess we'll have to launch the operation with just this data on hand... Tactics, what do you have? Hmm, the preliminary attack plan... Gentlemen, I'm afraid there's another service to be rendered to the Empire. Your team is to enter the system and distract the enemy.
+#L_D8_ans20=(Dalej)
+#L_D8_msg30=Bad idea.
+#L_D8_ans30=(Dalej)
+#L_D8_msg40=The best I have. After that, I'll send the strike team in. Let's get started.
+#L_D8_ans40=(Dalej)

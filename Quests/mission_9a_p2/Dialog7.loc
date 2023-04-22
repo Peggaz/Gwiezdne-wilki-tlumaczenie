@@ -1,0 +1,10 @@
+;*****************************
+;Dialog7.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D7_msg00=Partner, there's something by the base. Sending the telemetry data.
+#L_D7_ans00=No, that's not the one. Let's wait.
+#L_D7_ans01=That's the one. Let's get back to Muscovy and wait for it that side of the portal.

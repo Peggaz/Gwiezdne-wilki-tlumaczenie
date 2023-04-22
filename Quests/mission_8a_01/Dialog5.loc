@@ -1,0 +1,12 @@
+;*****************************
+;Dialog5.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D5_msg00=Partner, the thick skulls won't just let us go. Let's scram!
+#L_D5_ans00=Where to?
+#L_D5_msg10=To hell itself or whatever, just away from the imperial systems.
+#L_D5_ans10=Let's try to find out what Triada knows about my convoy. We're going to Candela.
+#L_D5_ans11=Let's pause on the investigation and improve our financial status. My friend Alex is offering a one-time well-paid mission. Let's go to XT-54.

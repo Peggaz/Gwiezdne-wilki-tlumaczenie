@@ -1,0 +1,18 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D1_msg00=That's strange...
+#L_D1_ans00=(Dalej)
+#L_D1_msg10=What is it, partner?
+#L_D1_ans10=The system belongs to InoCo, meaning it's off-limits to everyone. But there are no guards by the portal.
+#L_D1_msg20=Are you disappointed?
+#L_D1_ans20=I'm alerted.
+#L_D1_msg30=You're right, boss, this is fishy. Let's find the man, do what we need and get the hell out.
+#L_D1_ans30=I think we should get the hell out right now, without pushing our luck. InoCo has serious security forces, and if someone is strong enough to whack them, I'd rather not meet him for the moment. By the way, Greyhair, I doubt that man is still alive.
+#L_D1_ans31=All right, let's visit him, but quickly.
+#L_D1_msg40=This may be true, boss, but I'd rather check what's going on here. But it's your call.
+#L_D1_ans40=(Dalej)

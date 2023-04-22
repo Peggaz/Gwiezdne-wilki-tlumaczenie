@@ -1,0 +1,25 @@
+;*****************************
+;Dialog19.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m7b_8b_Roem
+#L_D19_msg00=Glad to see you again, team. My compliments on the job well done!
+#L_D19_ans00=You changed contract terms on the fly, you threatened us, and you job turned out to be different from what you had promised. This is not the way of doing business.
+#L_D19_msg10=Oh, I apologize for all those misunderstandings. We never do this, believe me, but the situation was exceptional and demanded exceptional measures, most efficient at that.
+#L_D19_ans10=Tell me more.
+#L_D19_msg20=You see, we have all reasons to believe that InoCo is preparing a large-scale attack on a number of our systems. We've had to check this out as quickly as possible. Then our agent reported that one of InoCo's directors was about to visit XT-54. We couldn't lose such a chance, could we?
+#L_D19_ans20=You may be right, but you should've done it yourself, not blackmail us into doing it. What about the information I need?
+#L_D19_msg30=Don't you worry. I've collected all the data you're looking for. Let me upload it to your log. Besides, here are 100,000 credits as I've promised.
+#L_D19_ans30=By the way, how did InoCo ships get here? Their fighters would have to go through your systems.
+#L_D19_msg40=Rumor has it that there's some kind of an ancient portal in XT-54. We haven't found out who it belongs to and where it is. Neither we know which systems it connects and how many such portals there are. What we know is that using them can be dangerous.
+#L_D19_ans40=But effective, given it allows to jump over large distances.
+#L_D19_msg50=True enough. It may be effective, but we can't risk our pilots or ships just like that. And it would be stupid to rely on pirates' intel.
+#L_D19_ans50=I see. Please excuse us, we have to leave.
+#L_D19_msg60=Sure, sure, you may leave now. I'd like our cooperation to continue in the future.
+#L_D19_ans60=We'll see about that.
+#L_D19_msg70=I'll bet my boots that Triada guy is lying like-
+#L_D19_ans70=Spare your boots. And breath. I can see that myself.
+#L_D19_msg80=What now, boss?
+#L_D19_ans80=He intrigued me with that mysterious portal. We should visit XT-54 and look for that magic door leading to other worlds.

@@ -1,0 +1,13 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#L_nav_01=Portal do Hapha
+#L_nav_02=Portal do Nowego Jeruzalem
+#L_nav_05=Baza Piratów
+#L_nav_06=Baza Patrolu
+#L_nav_04=Baza wojskowa InoCo
+#L_nav_03=Stacja Patrolu "Ajax-3"
+#L_fact=Wytwórnia CryoSys

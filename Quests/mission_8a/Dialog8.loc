@@ -1,0 +1,10 @@
+;*****************************
+;Dialog8.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D8_msg00=She's such a moron. Probably got poison up her brain or something. What next, partner?
+#L_D8_ans00=Let's try to find out what Triada knows about my convoy. We're going to Candela.
+#L_D8_ans01=Greyhair, you mentioned the Mercenary Market in Cassily. We're going there. Might as well find something out about those fighter remains we've found.

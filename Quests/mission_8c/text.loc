@@ -1,0 +1,40 @@
+;*****************************
+; mission_8c
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_7a_a=Reach the MSF headquarters.
+#L_Quest_7a_b=MSF Security has to know everything about what happened in Beta Lethera 1. You just have to reach New Jerusalem 2 and find someone who would be willing to share this information.
+#L_Quest_7b_a=Reach Triada headquarters.
+#L_Quest_7b_b=Triada has to know everything about what happened in Beta Lethera 1. You just have to reach their main headquarters in Candela and find someone who would be willing to share this information.
+#L_Quest_7d_a=Meet with Alex.
+#L_Quest_7d_b=Alex needs help in escorting a convoy, and his client is willing to pay good money. Alex will be waiting in XT-54. There's some free time to spend, but not much.
+#L_Quest_8c_01a=Reach the Oxygen Station.
+#L_Quest_8c_01b=Alexandra's agent will expect you at the Oxygen Station in Torr.
+#L_Quest_8c_03a=Follow the route.
+#L_Quest_8c_03b=Follow the route designated by the MSF officer and wait for pirates to attack. Deviating from the route means trouble with the MSF.
+
+;*****************************
+;Speeches
+;*****************************
+#L_Sedoy_01=Any more smugglers to help around here?
+#L_Hero_01=We'll be the ones in need of help, if we don't scram.
+
+#L_smug_01=I trusted you, bastard!
+#L_vks_01=We're under attack! Send backup!
+#L_vks_02=We have a pirate! A pirate! Send backup!
+#L_Lastochka_01=Partner, how dumb was that! We're in deep trouble now!
+
+#L_Lastochka_02=Just why did you agree, partner?
+#L_Hero_02=Because we don't need any check-ups and issues with the MSF. Even if it's a petty corporal. Keep your eyes open, I have a feeling we'll be the ones to welcome pirates.
+
+#L_pir_01=This is our day! Hey you, on the ships. If you eject in escape pods, we won't hurt you. Otherwise we'll help you cross the Great Divide. 
+#L_Sedoy_02=You're sick in the head, boy, thinking you have a chance against us. But we'll fix it in no time.
+#L_vks_03=Whoa, you managed without us. Well then, you may go- Damn, we have visitors!
+#L_vks_04=To all who can hear us! Mayday, mayday! By Great Space, we're done for!
+#L_Lastochka_03=Happy now?! That was your idea!

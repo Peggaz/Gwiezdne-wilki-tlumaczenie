@@ -1,0 +1,15 @@
+;*****************************
+;Dialog23.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m8a_President
+#L_D23_msg00=So that's what all the fuss is about. Did you really have to make a stir? Marco is a cowardly moron.
+#L_D23_ans00=Right now Marco is a dead cowardly moron.
+#L_D23_msg10=Oh, even so... Did he suffer?
+#L_D23_ans10=Not quite.
+#L_D23_msg20=That's a pity. It would do him good to suffer before death. He's been overdoing recently and I've already started to think about killing him myself. So it turns out you've done me a favor. On the other hand, you opposed the legal government and killed my employee. I won't be a good president, if I don't draw your blood now. You know what, don't resist and I'll kill you quickly and painlessly. One, two and it's done! What do you say?
+#L_D23_ans20=(Dalej)
+#L_D23_msg30=They won't like it.
+#L_D23_ans30=(Dalej)

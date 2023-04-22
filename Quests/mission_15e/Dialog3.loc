@@ -1,0 +1,43 @@
+;*****************************
+;Dialog3.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Alex
+#L_D3_msg00=Some fight it was!
+#L_D3_ans00=(Dalej)
+#L_D3_msg10=Yeah, we had to sweat.
+#L_D3_ans10=(Dalej)
+#L_D3_msg20=We'll have to sweat to repair everything.
+#L_D3_ans20=(Dalej)
+#L_D3_msg30=We flopped big time. I could understand if someone didn't like SAM's idea, but why did you have to shoot instead of discussing it?
+#L_D3_ans30=Jana, it wasn't us who started shooting, mind you.
+#L_D3_msg40=But you left SAM no choice!
+#L_D3_ans40=(Dalej)
+#L_D3_msg50=Like he left us a bunch. What should we do next, friends?
+#L_D3_ans50=(Dalej)
+#L_D3_msg60=Let's dock with the station, grab what we need and be off. I'm afraid our grey brotherhood will have to step out of shadows, because we'll need all the help we can get. Damn, I hate explanations. As my friend Watchmaker says, "Oh woe ".
+#L_D3_ans60=What help are you talking about?
+#L_D3_msg70=I'm talking about the New Empire and other fine parties, which are gathering in Eridan. You will laugh, but if our agents have got it right, our future allies are now discussing ways to blow up the FTU headquarters.
+#L_D3_ans70=(Dalej)
+#L_D3_msg80=Do what you want, but don't involve me. I think you're making a mistake, trying to destroy SAM. All the more so we'll lose Ternie. Is there a chance we can still solve this peacefully?
+#L_D3_ans80=(Dalej)
+#L_D3_msg90=Unfortunately, Rubicon has been crossed.
+#L_D3_ans90=(Dalej)
+#L_D3_msg100=Well then... I can't stop or dissuade you. But I won't take part in it either, sorry.
+#L_D3_ans100=Where will you go now, Jana?
+#L_D3_msg110=I don't know... Probably settle down as a technician on a quiet planet. Will have family and kids, perhaps. And forget this nightmare. I'm not a fighter, you know. I hate violence. Good bye.
+#L_D3_ans110=(Dalej)
+#L_D3_msg120=It's a pity. She has just learned how to handle guns. Not to mention a gap in the team.
+#L_D3_ans120=(Dalej)
+#L_D3_msg130=Well, if you have a spot for Cleric and me, I'll be honored.
+#L_D3_ans130=Ah, what the hell, you may join. But, Alex, don't think I've decided to let it go. You will have to explain a lot. But not right now.
+#L_D3_msg140=Fine with me. But don't be angry at me. I swear I tried to help you, though I had no idea about what happened to Ternie. When we arrived to XT-24, we only found the debris of Cayer's station. But you're right, this is not the time to discuss it.
+#L_D3_ans140=(Dalej)
+#L_D3_msg150=Sign me in too. Don't worry, I learned to handle a fighter, when I was in the Amazons.
+#L_D3_ans150=(Dalej)
+#L_D3_msg160=Are you sure?
+#L_D3_ans160=(Dalej)
+#L_D3_msg170=Absolutely. If we manage to make the universe a better place, it will be the best way to pay our last respects to Ray.
+#L_D3_ans170=(Dalej)

@@ -1,0 +1,13 @@
+;*****************************
+;Dialog4.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D4_msg00=Your people are under attack there!
+#L_D4_ans00=(Dalej)
+#L_D4_msg10=We know. Teams Alpha and Gamma, follow to the area of combat. And we'll deal with the traitor.
+#L_D4_ans10=Hey, what's going on?
+#L_D4_msg20=I've told you we know. We know everything.
+#L_D4_ans20=(Dalej)

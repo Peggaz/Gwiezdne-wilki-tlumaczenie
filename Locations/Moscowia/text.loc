@@ -1,0 +1,11 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#L_universal_station=Centrum Handlowe
+#L_STO=Stacja konserwacyjna
+#L_kontra=Stacja przemytnicza "Szeremietiewo"
+#L_fact=Wytwórnia pr¹du
+#L_resid=Rezydencja "Moskwa"- Gubernatora Naczelnego

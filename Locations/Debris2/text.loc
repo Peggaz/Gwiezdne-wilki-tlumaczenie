@@ -1,0 +1,12 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#L_nav_01=Portal do Debris (Strefa 1)
+#L_nav_05=Uniwersalny portal Debris
+#L_nav_06=Zasadzka
+#L_nav_02=Stacja wydobywcza uranu Triady
+#L_nav_04=Stacja wydobywcza uranu
+#L_nav_03=Kwatera g³ówna Patrolu, Sektor Aquarius

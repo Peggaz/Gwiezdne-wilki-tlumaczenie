@@ -1,0 +1,11 @@
+;*****************************
+;Dialog14.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Sedoy
+#L_D14_msg00=Boss, we need to scram! Soon this place will be crawling with border guards. And that's more than we can chew up!
+#L_D14_ans00=(Dalej)
+#L_D14_msg10=But why did they attack? Don't they understand that SAM's previous bugs have been fixed completely?
+#L_D14_ans10=They have vast and unpleasant experience. Greyhair is right, let's scram!

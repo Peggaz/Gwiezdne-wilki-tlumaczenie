@@ -1,0 +1,13 @@
+;*****************************
+;Dialog4.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;DispetcherVKS
+#L_D4_msg00=Attention, patrols. I'm picking up a surge by the warehouses. Can't identify the source. Teams Gamma and Theta, check it up.
+#L_D4_ans00=(Dalej)
+#L_D4_msg10=Got you, moving out.
+#L_D4_ans10=Alexandra, did you find anything?
+#L_D4_msg20=No, nothing unusual. We should get away from here before thick skulls arrive.
+#L_D4_ans20=(Dalej)

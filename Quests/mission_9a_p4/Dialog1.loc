@@ -1,0 +1,21 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m9a_Pcholkin
+#L_D1_msg00=Who are you what the hell do you need?
+#L_D1_ans00=I'm looking for a man named Beekeeper.
+#L_D1_msg10=I'm Beekeper, who the hell are you? I owe you no money. If you lent me some when you were tipsy, that's not my problem. So get lost.
+#L_D1_ans10=You are to have a cargo for Major Viper. I'm here to pick it up.
+#L_D1_msg20=I don't know about any cargo, vipers or storekeeping. This isn't a warehouse, you know. All that's stored at the station belongs to the station.
+#L_D1_ans20=(Dalej)
+#L_D1_msg30=Listen close, you pimple, I'm going to whack that tincan you call the station. Give me the cargo.
+#L_D1_ans30=(Dalej)
+#L_D1_msg40=Yeah, you do that. Have you heard what Imperials did to a mining station? You'll find yourselves in deeper trouble, as they are much, much angrier now. And trigger-happy. So get lost, I know nothing. If that Viper or yours needs a cargo, she should get here and pick it up herself. Over and out.
+#L_D1_ans40=(Dalej)
+#L_D1_msg50=This is interesting...
+#L_D1_ans50=(Dalej)
+#L_D1_msg60=We should have picked up Aylon's friend. He would probably know this Beekeeper guy and take him down a notch. Or tell us what to do, given the local ways of doing things.
+#L_D1_ans60=All right, all right, I give up. Let's head for Solncevka. But if that changes nothing, I swear I'll get back and smash this place into smithereens.

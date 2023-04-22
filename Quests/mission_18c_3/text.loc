@@ -1,0 +1,17 @@
+;*****************************
+; mission_18c_3
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+
+;*****************************
+;Speeches
+;*****************************
+#L_Tramp_01=I thought we had the meeting in Eridan on our minds. But your route is quite a different one. I beg your pardon, but I don't have time for sightseeing.
+#L_Alexandra_01=Why did you wander off to this system? You failed an important mission!
+#L_sys_01=Mission failed. Game over.

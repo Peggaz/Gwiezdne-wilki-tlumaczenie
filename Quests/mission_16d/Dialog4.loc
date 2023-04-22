@@ -1,0 +1,35 @@
+;*****************************
+;Dialog4.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;InocoSuperAce
+#L_D4_msg00=Attention, unknown ships. You are trespassing in the space of InoCo Corporation. Stop your engines and heave aback. Otherwise we shall resort to force.
+#L_D4_ans00=Calm down, captain, we don't need any trouble. Besides, we're here to help the legal management overcome the mutiny.
+#L_D4_msg10=I'm intrigued, go on.
+#L_D4_ans10=Captain, I don't know how well you are aware of the situation, but right now the corporation is controlled by another artificial intelligence - way better than the previous ones. SAM removed the Board of Directors from office, and your boss Oliver Reynolds is either dead or detained.
+#L_D4_msg20=Cap'n, I told you there was something fishy about the last order!
+#L_D4_ans20=(Dalej)
+#L_D4_msg30=Shut up, Shaun. Go on.
+#L_D4_ans30=I can send you copies of SAM's orders regarding the Board of Directors. Along with its plans to build a fleet of Berserks. Cleric, upload it.
+#L_D4_msg40=This all sounds... rather interesting. But why do you care and also how come you know so much about our internal affairs?
+#L_D4_ans40=(Dalej)
+#L_D4_msg50=I'm Alex Koshevoy, Senior Coordinator of the Free Traders Union. We worked closely with InoCo management, Oliver Reynolds in particular. I can show you copies of our private correspondence. All messaged are marked with your standard security codes, so you can easily confirm their authenticity. Here you go.
+#L_D4_ans50=(Dalej)
+#L_D4_msg60=The codes are all right, but where's the text?
+#L_D4_ans60=(Dalej)
+#L_D4_msg70=Captain, I told you it was private correspondence. The messages are encrypted. As for our goals, we've come here to disable the artificial intelligence that has seized control of your corporation and is now threatening the FTU and the New Empire.
+#L_D4_ans70=(Dalej)
+#L_D4_msg80=Empty messages mean nothing to me, even if they are marked with all sorts of security codes. I'd tell my men to open fire long ago, if it weren't for strange events going on here in Vulcan. Unfortunately, your information explains them perfectly, so I can't ignore it.
+#L_D4_ans80=What strange events, captain?
+#L_D4_msg90=Related solely to the corporation, not strangers. Get my meaning? I can only say this: we are the only human staff in this system. Portal guards are just bots, the station is off-limits at all. Also a large formation of Berserks has arrived to this place, and Astrolabs has cut us off from InoCo's main HQ.
+#L_D4_ans90=(Dalej)
+#L_D4_msg100=Cap'n, you forgot about zombies.
+#L_D4_ans100=(Dalej)
+#L_D4_msg110=I didn't forget anything, and you have to watch your tongue. As far as I can tell, some station guards are zombies - people dehibernated and put into fighter cockpits. Completely mad, but very good as soldiers - we've seen them in action. I'll mark the locations where you may encounter the enemy. We're going with you.
+#L_D4_ans110=(Dalej)
+#L_D4_msg120=Are you sure? We can use your help, but won't you be punished for attacking corporation property?
+#L_D4_ans120=(Dalej)
+#L_D4_msg130=If you're right and another biggety bucket of microchips has seized control of the corporation, me and my boys will be rewarded. But if this is some trick, I'll just kill you. So yes, I'm completely sure.
+#L_D4_ans130=(Dalej)

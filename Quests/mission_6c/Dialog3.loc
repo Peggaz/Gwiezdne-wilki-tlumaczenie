@@ -1,0 +1,19 @@
+;*****************************
+;Dialog3.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m6c_USSAgent
+#L_D3_msg00=All ships, stop. It seems we have a little problem.
+#L_D3_ans00=What now? You've promised to take us to Al-Ariash safe and sound!
+#L_D3_msg10=I didn't say it would be easy. Come on, that's nothing. I've just received a warning from my sources that pirates have left a few men by the New Jerusalem 3 portal. I have no idea about their number or weaponry, so it would be unwise to take the transports straight to that place.
+#L_D3_ans10=Should we get to the convoy?
+#L_D3_msg20=What if there's just a few pirates? Then you will miss the real ambush. I have an idea. Leave the transports here with me and go clear the way. I would help, but USS wouldn't pay me for this fight. So I'd better watch the transports.
+#L_D3_ans20=Sounds logical. So, Ternie, let's make it hot for the pirates.
+#L_D3_ans21=I don't like the idea of leaving the transports unattended. Besides, we shouldn't rush in, not knowing how many pirates there are. No, we need to recon first.
+#L_D3_ans22=No, I'm not going to leave the transports for even a minute. Let's head for the portal together. All the more the guns on the transports might come in handy.
+#L_D3_msg31=Partner, I will go on a recon. And don't argue, my ship is equipped right such tasks.
+#L_D3_ans31=(Dalej)
+#L_D3_msg32=Well, it's your call. But you're making a big mistake.
+#L_D3_ans32=(Dalej)

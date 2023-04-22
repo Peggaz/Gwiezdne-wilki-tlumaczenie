@@ -1,0 +1,16 @@
+;*****************************
+;Dialog3.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Sedoy
+#L_D3_msg00=Oh, here you go. We've been detected.
+#L_D3_ans00=Don't shoot, officer!
+#L_D3_msg10=Give me a reason not to.
+#L_D3_ans10=We have vital information for your higher-ups. There's a New Empire agent at the Placid Docks Station, his name is Sanchen. We'd like to hand him over to authorities.
+#L_D3_ans11=Because we'll fire back at you, stupid!
+#L_D3_msg20=Why haven't you reported on him at the nearest patrol station?
+#L_D3_ans20=We wanted to make sure he was really an agent masked as a petty trader.
+#L_D3_msg30=All right, the message has been sent. Don't do anything stupid.
+#L_D3_ans30=(Dalej)

@@ -1,0 +1,9 @@
+;*****************************
+;Dialog4.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Sedoy
+#L_D4_msg00=Whoa! That was quite impressive! It's a pity we can't buy at InoCo stations anymore. Where to now, boss?
+#L_D4_ans00=Let's try to find something out about those fighter remains we've found. Greyhair, you mentioned the Mercenary Market. Is it in Cassily? We're going there.

@@ -1,0 +1,24 @@
+;*****************************
+; mission_5_01
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_5_01a=Return to Alex's station.
+#L_Quest_5_01b=A former pirate base is a nice thing to have, all the more so it's probably not on the wanted list anymore. But equipping it will require lots of money, so you should return to Placid Docks in Aurora. Alex must have a few serious and well-paying contracts.
+
+;*****************************
+;Speeches
+;*****************************
+#L_pat_01=Jeez, you're so impudent! Patrol Team Delta to station, we have that pirate here, send backup!
+#L_Hero_01=Hey, it's a mistake, we've never been to this system before. Check our license plates!
+#L_pat_02=I don't need your plates, I can smell your kind a mile away.
+
+#L_off_01=What's going on here? Civilian ships, you may pass. Sorry for this incident.
+#L_off_02=Patrol Team Delta, according to the database this ship is registered to a free trader who doesn't have issues with the law. Thus, we have no special orders regarding him. Have you forgotten our regulations? Or should I check everyone's license plates instead of you?
+#L_pat_03=But that mothership equipment, those escort ships - exactly the same! It's a pirate, I'm telling you!
+#L_off_03=The only thing I'm seeing is your immoderate zeal, detrimenting the law.

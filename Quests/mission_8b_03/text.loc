@@ -1,0 +1,32 @@
+;*****************************
+; mission_8b_03
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_7a_a=Reach the MSF headquarters.
+#L_Quest_7a_b=MSF Security has to know everything about what happened in Beta Lethera 1. You just have to reach New Jerusalem 2 and find someone who would be willing to share this information.
+#L_Quest_7c_a=Reach the Mercenary Market.
+#L_Quest_7c_b=The debris of a ship, lacking any imperial or corporate labels, most likely belongs to a mercenary team. The Mercenary Market in Cassily has the biggest database on free fighters, but they won't share it remotely.
+#L_Quest_7d_a=Meet with Alex.
+#L_Quest_7d_b=Alex needs help in escorting a convoy, and his client is willing to pay good money. Alex will be waiting in XT-54. There's some free time to spend, but not much.
+
+;*****************************
+;Speeches
+;*****************************
+#L_Hero_01=Where are we?
+#L_inoco_01=Welcome to Gaeon.
+#L_Lastochka_01=It cannot be!
+#L_Hero_02=My navigator confirms we're in Gaeon.
+#L_inoco_02=Lieutenant, thanks for bringing our guests here. Great job. Gentlemen, someone wants to talk to you. Please follow us to the station.
+
+#L_Lastochka_02=What was he babbling about? Partner, did you get it?
+#L_Hero_03=I wish. But I will find out what's going on. Right now let's visit InoCo's store, who knows when we'll get another chance.
+#L_Sedoy_01=A great idea, boss. And then we can ride that hyper jump thingie. I've seen a lot, but nothing like that.
+
+#L_Hero_04=All right, team, we have work to do. I've just got a message from my friend Alex. He's waiting for us in XT-54, in need of our help. Shall we set out?
+#L_Hero_05=All right, team, we have work to do. I've just got a message from my friend Alex. He said we should meet. Let's go to Aurora.

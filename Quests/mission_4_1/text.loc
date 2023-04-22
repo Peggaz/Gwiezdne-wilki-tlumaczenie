@@ -1,0 +1,50 @@
+;*****************************
+; mission_4_1
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_4_01a=Follow the waypoints.
+#L_Quest_4_01b=Follow the designated route, posing as a self-assured trader ready to challenge any local pirates.
+#L_Quest_4_02a=Leave the system.
+#L_Quest_4_02b=The job is done, but staying in Achilles is risky. You'd better leave the system.
+#L_Quest_4_03a=Provide help.
+#L_Quest_4_03b=Some trader got in serious trouble. If you are to help him, according to the FTU code of honor, you must hurry up - he's not going to hold out alone.
+#L_Quest_4_04a=Meet with the mercenaries.
+#L_Quest_4_04b=Dashing Riders mercenaries will be a great help in the forthcoming affair. You must meet with them and elaborate a plan of action.
+
+;*****************************
+;Speeches
+;*****************************
+#L_Merc_01=All right, boss, we're good to go. Here's the plan: you will be visiting the waypoints, where pirates should be waiting. Given your source is trustworthy, of course. A couple of our fighters will pose as your escort. As soon as pirates engage you, the rest of the team will join in.
+#L_Hero_01=What if pirates attack in large force?
+#L_Merc_02=Don't worry, boss, we've got an ace up our sleeve. I can guarantee they will be very surprised. Let's move!
+
+#L_Pir_01=There's the huckster! Spare no one!
+
+#L_Merc_03=Like I said, boss, they were very surprised!
+#L_Hero_02=We need to hurry, my friend can't defend the base all alone.
+
+#L_Lastochka_01=What took you so long? They nearly blasted the door!
+#L_Hero_03=We did our best.
+#L_Lastochka_02=Hurry up. I unblocked the docking bay.
+
+#L_Fight_01=Be careful! Cover me! They are trying to break through! Aha, got you! Watch the corridor, boys! All right, now we got them.
+
+#L_Merc_04=All done, boss, resistance crushed. Our job is done, we're leaving.
+#L_Hero_04=Thanks, I'm in your debt.
+#L_Merc_05=Message us, if anything happens. Good luck!
+
+#L_Merc_06=All done, boss, resistance crushed. Our job is done. You said you'd triple the pay, if we work on trust.
+#L_Hero_05=Yes, I'll keep to my word.
+#L_Merc_07=Great. I noticed that fighter in the hangar, we could take it as a reward. Deal?
+#L_Hero_06=All right, take it. Thanks for your help, guys.
+
+#L_Lastochka_03=What are you doing?!
+#L_Hero_07=I just wondered what would happen if I pushed this button.
+
+#L_Lastochka_04=We're too late. Damn, some bastard has already collected all the trophies. Partner, if you want to do something, do it faster. It's like you're in deep hibernation or something.

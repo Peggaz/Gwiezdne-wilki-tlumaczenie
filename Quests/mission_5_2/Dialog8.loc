@@ -1,0 +1,11 @@
+;*****************************
+;Dialog8.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;VksOfficer
+#L_D8_msg00=Now, mister trader, I would like to know what's really going on here. And why haven't we been informed on the operation plan?
+#L_D8_ans00=There was no plan. We acted under the circumstances.
+#L_D8_msg10=I'm sure this is not the end of it. I'm not risking my people, so our contract has been executed. Over and out.
+#L_D8_ans10=Hey, wait, I have another small mission to offer you. I'll pay!

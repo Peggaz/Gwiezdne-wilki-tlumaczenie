@@ -1,0 +1,23 @@
+;*****************************
+;Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m8d_Alfred
+#L_D2_msg00=What took you so long? We even had time to preach to the locals.
+#L_D2_ans00=(Dalej)
+#L_D2_msg10=We let you recruit more disciples for your sect. This additional cannon fodder might come in handy.
+#L_D2_ans10=(Dalej)
+#L_D2_msg20=How rude, my son. Now you owe me at least three bottles of rum.
+#L_D2_ans20=(Dalej)
+#L_D2_msg30=Why don't you forget about jokes for the time being? I'm detecting serious InoCo forces. Horseshoe formation, closing in on us.
+#L_D2_ans30=Output to everyone's tactical display.
+#L_D2_msg40=I can't, there's no such option here. I can just mark a relatively safe roundabout way.
+#L_D2_ans40=(Dalej)
+#L_D2_msg50=Shouldn't we give them hell? So they leave us alone next time.
+#L_D2_ans50=No to both. Let's try and persuade them that SAM is dangerous. They are people too despite their InoCo origin.
+#L_D2_ans51=Ternie's right. Let's attack them here and now, so they don't become a problem later.
+#L_D2_ans52=We should go round them.
+#L_D2_msg62=Why? We're cooler then they are! But it's your call. Here are the retreat point coordinates. The place should be empty I guess.
+#L_D2_ans62=(Dalej)

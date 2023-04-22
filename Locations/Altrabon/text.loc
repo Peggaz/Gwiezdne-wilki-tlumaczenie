@@ -1,0 +1,12 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#L_nav_01=Portal do Altrabon
+#L_nav_02=Portal do XT-93
+#L_nav_05=Kontakt
+#L_nav_06=Urzêdnik
+#L_STO=Stacja konserwacyjna
+#L_trade=Stacja Handlowa w Al Trabon

@@ -1,0 +1,23 @@
+;*****************************
+;Dialog10.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D10_msg00=I don't like platitudes, but great news, team!
+#L_D10_ans00=(Dalej)
+#L_D10_msg10=Are we to shoot, blow up or smuggle someone? Or is someone going to do all that to us?
+#L_D10_ans10=Yeah, go on being spiteful. Ternie, do you remember that old crackpot we met in Achilles? When we seized our base from the Dogs?
+#L_D10_msg20=Yes, I do.
+#L_D10_ans20=So, he still thinks he owes us. He's offering a spot in his expedition to one of the border sectors. He wrote he calculated the location of a portal leading to a Precursor system. But above all he understood how to get that portal up and running.
+#L_D10_msg30=Yeah, and court a freaking disaster.
+#L_D10_ans30=Come on, Precursors died thousands of years ago, they can't harm you. As for the remains of their civilizations... Do you get my drift, Ternie?
+#L_D10_msg40=Artifacts! Oh Space! Mounds, hoards, even mountains of artifacts!
+#L_D10_ans40=Right!
+#L_D10_msg50=Oh, now I get it. You're both cracked. Bags, Ternie's fighter is mine!
+#L_D10_ans50=(Dalej)
+#L_D10_msg60=A big fat zero for you! Listen, Greyhair, of all Precursor artifacts only junk has been found, but even it costs zillions. Now imagine our clunker full of those thingamajigs to the brim!
+#L_D10_ans60=(Dalej)
+#L_D10_msg70=Well, the image is nice, I can't argue with that. Besides, helping people get rid of money is surely worth it! Where to, boss?
+#L_D10_ans70=X203. But remember, we're posing as bijouterie salesmen. When asked about artifacts, look blank and round-eyed.

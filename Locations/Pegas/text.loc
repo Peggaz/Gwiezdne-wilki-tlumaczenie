@@ -1,0 +1,10 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#L_nav_TBase=Baza Ekonomistów
+#L_nav_HidePlace=Bezpieczna kryjówka
+#L_nav_TShip=Statek Ekonomistów
+#L_Trade=Magazyn prze³adunkowy "Hipodrom-3"

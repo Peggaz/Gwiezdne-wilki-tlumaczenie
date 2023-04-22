@@ -1,0 +1,24 @@
+;*****************************
+;Dialog3.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Karl
+#L_D3_msg00=Here you go. No sleuth will pick on you now.
+#L_D3_ans00=Thanks, Carl.
+#L_D3_msg10=Thanks to you for all you've done. If you ever visit our neck of the woods again, be sure to drop by!
+#L_D3_ans10=(Dalej)
+#L_D3_msg20=So, what's the plan? Should we remain partners or sell this clunker and follow our own ways?
+#L_D3_ans20=What would you prefer?
+#L_D3_msg30=Well, I'd like to wander around outer space. Carl made me new papers, I have no plans for the future, I have nowhere to go, so...
+#L_D3_ans30=And I need a reliable partner. Can I count on you?
+#L_D3_msg40=Only if you're not thinking of becoming a pirate. I've had enough of that at the last job.
+#L_D3_ans40=Oh, it's only the number five on my agenda. Besides, we have short odds of being killed more earlier. So don't worry.
+#L_D3_msg50=You sure know how to set a mind at rest.
+#L_D3_ans50=Oh yes, I can do that! Anyway, let's return to my friend in Aurora. I'm sure he will have a serious mission for us this time.
+#L_D3_msg60=Then Aurora it is. We can pass through Gredos controlled by the Old Empire, but I'd prefer a route through Hephaestus.
+#L_D3_ans60=Do you remember we've come into the spotlight there?
+#L_D3_msg70=Exactly. Let's check how good Carl's work is. The MSF should have the freshest intel on us. If Carl has flopped, we'll be able to escape to Elio and have him do it again.
+#L_D3_ans70=Well, to put our new ID to the test is a good idea. Let's go through Hephaestus.
+#L_D3_ans71=What if patrols start firing before asking for any IDs? Let's go through Gredos. Imperials are also logging all ships, but we haven't clashed with them yet. Besides, this route is shorter.

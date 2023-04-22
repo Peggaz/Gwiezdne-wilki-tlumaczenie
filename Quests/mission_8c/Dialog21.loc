@@ -1,0 +1,16 @@
+;*****************************
+;Dialog21.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D21_msg00=Partner, you should've agreed! There will be hell to pay now!
+#L_D21_ans00=Are you sure we would have survived the mission? I'm not.
+#L_D21_msg10=Sure or not, let's step on it now and guess later. Damn. Listen, partner, let's erase the storage device at least. If thick skulls apprehend us with it, it'll be uranium mines for us.
+#L_D21_ans10=I agree, we don't need any more trouble. I'm erasing the data.
+#L_D21_ans11=We can always do it. But I wouldn't like to strain relations with the New Empire.
+#L_D21_msg20=To leave imperial space would also be nice, boss.
+#L_D21_ans20=You're right yet again. Let's leave.
+#L_D21_msg21=Oh, so it's ok to strain relations with the Old Empire then, huh? We'll all pay for your stubborness some day.
+#L_D21_ans21=(Dalej)

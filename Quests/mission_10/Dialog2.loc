@@ -1,0 +1,15 @@
+;*****************************
+;Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D2_msg00=Keep your eyes open, everyone.
+#L_D2_ans00=(Dalej)
+#L_D2_msg10=For real? And I, much as I regret it, wanted to snatch a nap. Listen, boss, I don't know about you, but I've been bathing in adrenaline since that skirmish with Berserks. By Great Space, we've taken such pains, lost so many good boys - all to eliminate those freaking tins. But here they are again, right at the wrong time. If this plague breaks loose, consider the humanity extinct.
+#L_D2_ans10=Such things happened many times, but we're still alive and kicking.
+#L_D2_msg20=You don't understand! When me and the boys were whacking those vermin, we-
+#L_D2_ans20=Please, Greyhair, let's deal with this later. We can't stop all the Berserks anyway. But we can warn people.
+#L_D2_msg30=No one will believe. All right, boss, I get it: no big hunt is going to happen. Ah, what the hell, I'd be the first to dissuade you from it. If time permits, I'll give you a description of those clunkers later.
+#L_D2_ans30=Be my guest. And now let's focus on our goals.

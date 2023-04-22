@@ -1,0 +1,25 @@
+;*****************************
+;Dialog4.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Sedoy
+#L_D4_msg00=What's next, boss?
+#L_D4_ans00=We'll search for Ternie.
+#L_D4_msg10=Sure thing, but where exactly?
+#L_D4_ans10=(Dalej)
+#L_D4_msg20=I have an idea. Remember that kid, Cleric, that we dragged out of Charon?
+#L_D4_ans20=Of course I do!
+#L_D4_msg30=I doubt we should be knocking sense into his head all the time, as he doesn't show much gratitude. But in terms of searching for information, he's the best there is.
+#L_D4_ans30=I wonder how he can help.
+#L_D4_msg40=If kidnappers have jumped through even a single portal, there must be logs of it. We just need to filter the right engine signatures. And, strange as it may seem, I happen to know them.
+#L_D4_ans40=Alex, I may be wrong, but you seems to know much about those Greys. Don't you think it's high time to share your knowledge?
+#L_D4_msg50=Not now. I promise that I'll tell you everything, but right now it'll just confuse you and hamper in reaching our common goal. Believe me, I want to save Ternie as much as you do.
+#L_D4_ans50=All right, I'll accept your excuse this time. So, should we visit Cleric? As far as I remember, you left him in Aurora.
+#L_D4_msg60=I did, but he ran off. He's in XK-10 now - deep in trouble, as usual. He asked for our help.
+#L_D4_ans60=(Dalej)
+#L_D4_msg70=Huh? No one gets into InoCo systems just like that.
+#L_D4_ans70=(Dalej)
+#L_D4_msg80=Cleric has attached valid passes into the system to his cry for help, so this is not a problem.
+#L_D4_ans80=Then let's not waste time and head for XK-10.

@@ -1,0 +1,27 @@
+;*****************************
+;Dialog25.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;VksOfficer
+#L_D25_msg00=That was quite a fight! We hit them hard!
+#L_D25_ans00=(Dalej)
+#L_D25_msg10=Who gave the alarm?
+#L_D25_ans10=(Dalej)
+#L_D25_msg20=It was... that civilian, sir! We saved him from pirates, acting bravely and skilfully!
+#L_D25_ans20=(Dalej)
+#L_D25_msg30=Lieutenat Elm Easter, you should really cut the clowning. Given your reference and training results, I'd sooner believe those civilians saved your butts in a scrape you had got into yourselves.
+#L_D25_ans30=(Dalej)
+#L_D25_msg40=Well, you're mostly right.
+#L_D25_ans40=(Dalej)
+#L_D25_msg50=I knew that. On behalf of the MSF I'd like to thank you for helping against pirates and saving our men, even if they are dolts like these. We have a special fund for such occasions, and I guess 75,000 credits won't hurt.
+#L_D25_ans50=They sure won't.
+#L_D25_msg60=But sir!
+#L_D25_ans60=(Dalej)
+#L_D25_msg70=And you, lieutenant, will head straight for the officer in charge and tell him you're in for triple extra duty. Until you learn how to carry out orders precisely without getting into trouble you, Elm Easter, will be cleaning latrines with a toothbrush.
+#L_D25_ans70=(Dalej)
+#L_D25_msg80=Yes, sir...
+#L_D25_ans80=(Dalej)
+#L_D25_msg90=Gentlemen, you may leave. Thanks again.
+#L_D25_ans90=(Dalej)

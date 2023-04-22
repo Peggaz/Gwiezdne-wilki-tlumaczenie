@@ -1,0 +1,17 @@
+;*****************************
+; mission_3_03
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+
+;*****************************
+;Speeches
+;*****************************
+#L_vks_01=It's the ship, we're looking for! Attention, transport, stop your engines and prepare for apprehension.
+#L_Hero_01=Hey, On what grounds?!
+#L_vks_02=You sound unreasonable, pirate, totally unconvincing. So, boys, let's teach him a lesson, shall we?

@@ -1,0 +1,21 @@
+;*****************************
+;Dialog6.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka2
+#L_D6_msg00=Where are the transports?
+#L_D6_ans00=(Dalej)
+#L_D6_msg10=That triplet.
+#L_D6_ans10=(Dalej)
+#L_D6_msg20=Are your our escort?
+#L_D6_ans20=(Dalej)
+#L_D6_msg30=What, don't we look dangerous enough?
+#L_D6_ans30=(Dalej)
+#L_D6_msg40=You look fine. We should hurry up. Ethan said Berserks were preparing another attack.
+#L_D6_ans40=Where is he?
+#L_D6_msg50=Headed for the portal with last station guards.
+#L_D6_ans50=(Dalej)
+#L_D6_msg60=Then let's not waste time. Guys from the USS military station promised to cover us by the Dalled portal.
+#L_D6_ans60=(Dalej)

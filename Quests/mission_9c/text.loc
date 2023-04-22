@@ -1,0 +1,114 @@
+;*****************************
+; mission_9c
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_9c_01a=Meet with La'Vertius.
+#L_Quest_9c_01b=Trader La'Vertius will await your arrival to at the Grid Station in Elio.
+#L_Quest_9c_02a=Escort the convoy.
+#L_Quest_9c_02b=The Dionysus system has been attacked recently, one of the stations being greatly damaged. Escort a special fiber convoy there. The transports must survive.
+#L_Quest_9c_03a=Leave the system.
+#L_Quest_9c_03b=Pirates have captured the system and are eliminating unwanted witnesses. You'd better leave Dionysus.
+#L_Quest_9c_04a=Kill the pirates.
+#L_Quest_9c_04b=Killing the pirates is the only chance for Dionysus inhabitants and you to get out of this mess alive. Get back to the station when the pirates have been eliminated.
+#L_Quest_9c_05a=Destroy the transports.
+#L_Quest_9c_05b=La'Vertius's transports are obviously a part of the pirates' attack. Don't push your luck, trying to find out which exactly. Shoot them down quickly!
+#L_Quest_9c_06a=Defend the station.
+#L_Quest_9c_06b=If the pirates destroy the station, nothing will prevent them from capturing the whole system and massacre its inhabitants. Defend the station at any cost!
+#L_Quest_9c_07a=Clear the portal.
+#L_Quest_9c_07b=A large gang of pirates is blocking the portal. Deal with them.
+#L_Quest_9c_08a=Rendezvous with the transports.
+#L_Quest_9c_08b=The radium transports will await you at the designated spot.
+#L_Quest_9c_09a=Escort the transports.
+#L_Quest_9c_09b=Radium is to be delivered to Vulcan, but the MSF is not likely to let this strategically valuable cargo slip away. The way to Vulcan might be very dangerous.
+
+;*****************************
+;Speeches
+;*****************************
+#L_Lastochka_01=Partner, I have an idea. You should like it. What if we don't fly anywhere, but find a peaceful system and wait for the credits to trickle in. This is your kind of philosophy, isn't it?
+#L_Hero_01=I stick to the philosophy that's been keeping us alive so far: to stay away from somebody else's conflicts. As for the money and, what's more important, our grey fellows, I've got quite an interesting message from my friend Alex. So we won't be without work or information.
+
+#L_Lastochka_02=Damn, they've vanished from my scanner! Partner, why have we come here in the first place?! We've lost the contract!
+#L_Hero_02=No we haven't. We can still wait for them by the portal.
+
+#L_kfni_01=General alert! Code red!
+#L_Sedoy_01=Time to scram, boss!
+
+#L_LaVerti_01=What's happened here?
+#L_kfni_02=Somebody blasted the central station. Many died.
+#L_LaVerti_02=What about patrols? Did they survive? Otherwise this system is defenseless!
+#L_kfni_03=If you mean imperial butchers, we can still take them down a notch.
+#L_LaVerti_03=Out of curiosity, how many ships do you have left?
+#L_kfni_04=Enough. You know what, pal, save your questions for a quieter system. Asking them here will get you shot first and inspected later.
+#L_LaVerti_04=Oh... I just... Ok, ok, I get it.
+
+#L_disp_01=Great, you're finally here. Unloading now.
+#L_LaVerti_05=What about the radium? Is it ready for shipping?
+#L_disp_02=It sure is. We stick to our part of the deal. It'll be loaded as soon as we unload the plastofiber.
+#L_Kruger_01=Hey there, you blockheads! This is Joe Kruger speaking! Let's cut to the chase to save time and avoid your ridiculous questions. We need radium that I'm completely sure is stored at your station.
+#L_Kruger_11=The portal is blocked, we have numerical and fire superiority. Any resistance will result in civilian casualties. For the dumbest of you: if you bark, my boys will take care of your women and I'll scrag your brats myself.
+#L_Kruger_12=You have no time to think. I don't negotiate or accept alternatives. I'm expecting transports loaded with radium at the portal in five minutes. No escort! Kruger out.
+
+#L_Kruger_02=Hey, I'm unarmed! I give up! I demand that you detain me and hand over to the law enforcers!
+#L_Sedoy_02=Not this time...
+#L_Lastochka_03=Greyhair, why did you do that? We could get a handsome reward for Kruger.
+#L_Sedoy_03=Yeah, but what then? I handed over that bastard to the law enforcers once, but he got free. Who could guarantee that wouldn't happen again? Boss, Ternie, I'm sorry, but there wasn't a second chance for him.
+#L_Hero_03=It's ok, Greyhair, you did right. But you should've warned us, so we could fire a couple of missiles too.
+#L_Sedoy_04=My bad, boss. Won't happen again. Next time it'll be a joint execution.
+
+#L_Lastochka_04=Let's sort these moral issues out later, all right? We need to get out of here. Alive.
+
+#L_Lastochka_05=Partner, what the hell?!
+#L_Hero_04=Trying to survive, haven't you noticed? For the nth time I realize this is not our war.
+#L_Sedoy_05=Boss, I've promised to serve under your command and I will. But my respect for you has reduced greatly.
+
+#L_guard_01=We fought back the vanguard, but recon reports about a large enemy formation approaching. Finish your work and get back here!
+#L_guard_02=We barely made it! The casualties are heavy. Get back!
+#L_guard_03=Where the hell are you?! We're nearly done for and won't survive the third wave!
+#L_Lastochka_06=It's too late...
+
+#L_guard_04=Great, there you are! A large group of enemies is approaching. Get ready for a hot fight. I don't know if we survive or die, but it's been a great honor fighting alongside you.
+#L_Sedoy_06=Captain, dying has never been on our agenda, so keep your chin up. We're going to get us a few pirate skins!
+#L_Lastochka_07=Quit chatting, we have things to do!
+
+#L_guard_05=We fought back, but that was only a vanguard.
+#L_guard_06=Dammit, men, be quicker with your guns! Or they'll crash us during the next attack.
+
+#L_guard_07=Great, there you are. Listen to the plan. Covered by the base, you will deliver a frontal attack. Don't spare your missiles. We'll flank the enemy, disrupt their ranks and crush active resistance. Then you join in close combat. Feel free to tailor the attack to circumstances. We'll adapt.
+#L_Hero_05=Got it. Let's move!
+
+#L_kfni_05=We're good to go. But let's try to get through Endoria as fast as possible. Our ships are not suited for combat. And there is nothing to fear in the space of the New Empire.
+
+#L_sysmsg_01=Your pilots' fighters are loaded with explosives. Take them away from the base before they blow up.
+
+#L_Lastochka_08=Partner, you're insane. This mission is a suicide.
+#L_Sedoy_07=I second that. But we still have a chance, if that Che does his job.
+#L_Hero_06=I think he'll do it right. There's no sense for them to lose three soldiers, when pirates are threatening. Check your ejector seats. I wouldn't like any of you to get stuck inside, when it's time to act.
+#L_Kruger_03=Whoa! We got us a team of brave men! Missile them, boys.
+#L_Hero_07=Wait, don't shoot! We don't want to die, we surrender! Spare our lives and we'll tell you everything about local defenses.
+#L_Kruger_04=Hmm... I'm intrigued. We won't shoot you just yet, but do anything stupid and you're done for. Got it?!
+#L_Hero_08=Get ready... Go, go, go!
+#L_Kruger_05=It's a trap! Everyone, fire at the ships! Fire at the ships!
+#L_Lastochka_09=That was fun! What now?
+#L_Che_01=Hold on, amigos. I'm going to pick you up!
+#L_Sedoy_08=There's no hurry. Soldiers in escape pods have never been considered a secret weapon or something.
+#L_Che_02=I brought along three fighters for you, amigos, so you're back in action.
+#L_Lastochka_10=By Space, Che, couldn't you find any rustier junk?
+#L_Che_03=I did my best. It's better than nothing. We'll ask the captain about your expenses later. I think he has no more doubts about you now.
+#L_guard_08=Che, friends, get back. It seems the pirates have launched an attack.
+#L_Lastochka_11=Speak of the devil...
+#L_Sedoy_09=I noticed something else: we're their friends now.
+#L_Hero_09=Better friends than enemies. Let's hurry up before the pirates get to the station! Don't forget, the guards owe us for our wrecked fighters!
+
+#L_Che_04=You disappoint me, muchachos. Adios.
+
+#L_vks_01=Attention, everyone! General alert, general alert!
+#L_vks_02=Dispatching backup.
+
+#L_Sedoy_10=What now, boss?
+#L_Hero_10=I have to think it over. For now, let's visit a store and buy us some better guns. I don't like the course of events. It might get much hotter here soon.

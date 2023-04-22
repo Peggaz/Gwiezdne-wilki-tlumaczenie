@@ -1,0 +1,20 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;USSOfficer
+#L_D1_msg00=Ladies and gentlemen, please follow us to Ergelan. We have numerical and fire superiority, resistance would be unwise.
+#L_D1_ans00=(Dalej)
+#L_D1_msg10=So Kane decided to invite us to dinner after getting his butt kicked?
+#L_D1_ans10=(Dalej)
+#L_D1_msg20=The invitation doesn't come from Mister Kane. They just want to talk, you're completely safe.
+#L_D1_ans20=Who can be that eager to see our sweet mugs?
+#L_D1_msg30=Just follow us, you'll get explanations.
+#L_D1_ans30=If there were fewer of you, I wouldn't even budge. All right, we'll come along. Consider us intrigued.
+#L_D1_ans31=Sorry, pal, we're going another way. But tell them we'll visit on the first occasion, so let them keep the tea hot.
+#L_D1_msg40=Please come to the portal. And don't wander off.
+#L_D1_ans40=(Dalej)
+#L_D1_msg41=I'm very sorry, but I have clear orders regarding such a sutiation.
+#L_D1_ans41=(Dalej)

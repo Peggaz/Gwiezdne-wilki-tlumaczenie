@@ -1,0 +1,13 @@
+;*****************************
+;Dialog29.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D29_msg00=Tell me, partner, your attacking everyone - is that a hobby, or does it have to do with a deep psychological scar?
+#L_D29_ans00=Listen, I was bored to death. So I wanted to see what'd happen if I shoot a USS ship.
+#L_D29_msg10=Seen it all? I hope satisfying your curiosity was worth the 30 grands we lost.
+#L_D29_ans10=You could say that. Come on, take it easy. We'll make money elsewhere, the outer space is vast. I suggest we find out what's happened to my convoy in Beta Lethera 1.
+#L_D29_msg20=Like we have any choice. But, partner, I'm warning you: if you keep shooting everyone around, I'll rough you up myself. Got it? Now let's head for that Beta Lethera of yours. And visit my old friend in New Jerusalem 3 along the way.
+#L_D29_ans20=(Dalej)

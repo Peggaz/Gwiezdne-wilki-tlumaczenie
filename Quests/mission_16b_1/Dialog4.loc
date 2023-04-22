@@ -1,0 +1,37 @@
+;*****************************
+;Dialog4.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Aia
+#L_D4_msg00=So there, one Imu less. I hope the old bastard will suffer.
+#L_D4_ans00=(Dalej)
+#L_D4_msg10=For some reason, I don't feel satisfied.
+#L_D4_ans10=(Dalej)
+#L_D4_msg20=Well, you should. Medish was a slaver, and I'm sure Tan used to set his cutthroats to civilian ships. That Imu daughter, despite all the whining, was one of a kind herself. She squeezed the last from clans that had some honesty left - she stole their jobs and wouldn't let them rise from poverty. So, Alice, we were right to save people from that couple.
+#L_D4_ans20=What now, Aja?
+#L_D4_msg30=I don't know. I guess we should leave this system, we're not welcome here anymore. Then we should search for Imu. But first we need to visit Ethan in Al-Ariash. I'd like to ask him a few questions. Get ready to jump.
+#L_D4_ans30=(Dalej)
+#L_D4_msg40=Wait!
+#L_D4_ans40=(Dalej)
+#L_D4_msg50=What now?
+#L_D4_ans50=(Dalej)
+#L_D4_msg60=I think we've picked up Medish's onboard computer. I searched it for any interesting information and look what I found: a file named "Alice Grant".
+#L_D4_ans60=(Dalej)
+#L_D4_msg70=Talk!
+#L_D4_ans70=(Dalej)
+#L_D4_msg80=It mentions some names, the Pandora system and a station. Do you know Felix and Virginia Clark? Marika, perhaps?
+#L_D4_ans80=(Dalej)
+#L_D4_msg90=Oh my, Marika! Copy it to my computer immediately!
+#L_D4_ans90=(Dalej)
+#L_D4_msg100=Sure, sure. Here you go. I was just curious...
+#L_D4_ans100=(Dalej)
+#L_D4_msg110=Marika is alive! So that bastard kidnapped her and sent to some family to blackmail me. Aja, friends! I'm sorry, but I have to leave you. I must get my daughter back. After all these years, all that searching I've finally found her. Kalem, I'm forever in your debt!
+#L_D4_ans110=(Dalej)
+#L_D4_msg120=Oh, that's all right, I just...
+#L_D4_ans120=(Dalej)
+#L_D4_msg130=Sure, Alice, you go. Do you need an escort by the way? The route to Pandora is long and dangerous.
+#L_D4_ans130=(Dalej)
+#L_D4_msg140=Aja, my dear, do you really think there's something in the Universe that could stop me now? Again, I'm sorry to leave you. See you later!
+#L_D4_ans140=(Dalej)

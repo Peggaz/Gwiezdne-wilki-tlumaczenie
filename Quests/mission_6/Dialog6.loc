@@ -1,0 +1,14 @@
+;*****************************
+;Dialog6.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Sedoy
+#L_D6_msg00=I'm in your debt for as long as I live! But right now we better move, because an MSF patrol is going to arrive soon. And they prefer shooting to talking.
+#L_D6_ans00=An MSF patrol is just what I need. There must be a way to get information from them without much fuss.
+#L_D6_ans01=You have a point. Judging by what I've heard about the situation in this system, no good can come of meeting with the MSF. You've said you know the coordinates of my convoy's destination? Let's visit that place.
+#L_D6_msg10=You're the boss, but that's really insane. A patrol is going to arrive any minute. You've got a nice automatic repair system, by the way. My fighter is now as good as new. If you need a mercenary, count me in.
+#L_D6_ans10=(Dalej)
+#L_D6_msg11=Yeah, but my calculations are approximate. You've got a nice automatic repair system, by the way. My fighter is now as good as new. If you need a mercenary, count me in.
+#L_D6_ans11=(Dalej)

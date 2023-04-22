@@ -1,0 +1,19 @@
+;*****************************
+;Dialog10.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;DialogSystem
+#L_D10_msg00=Wait, don't shoot! We're just the technical staff! Don't kill us!
+#L_D10_ans00=If you hand my partner over to me safe and sound, I might just leave your station intact. But don't waste my time and pretend you don't know what I'm talking about.
+#L_D10_msg10=Don't shoot! I know what you're talking about! Your partner is not here anymore. A transport took her to a pirate station.
+#L_D10_ans10=Why?
+#L_D10_msg20=She is too dangerous for a hostage. But I swear she's all right. They've just locked her up!
+#L_D10_ans20=(Dalej)
+#L_D10_msg30=Heh, so our Ternie is giving them the hard time it seems!
+#L_D10_ans30=Where's that pirate station located?
+#L_D10_msg40=Wait, I'll transmit the coordinates. Just spare our lives, I'm begging you!
+#L_D10_ans40=(Dalej)
+#L_D10_msg50=Let's not kill them. Given they are technicians, of course...
+#L_D10_ans50=(Dalej)

@@ -1,0 +1,8 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#L_nav_Alex=Stacja "Spokojne doki"
+#L_Patrol=Stacja Patrolu

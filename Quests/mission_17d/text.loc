@@ -1,0 +1,20 @@
+;*****************************
+; mission_17d
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_17d_01a=Reach the NESF station.
+#L_Quest_17d_01b=Corsair isn't going to converse long-distance, as it greatly increases chances of eavesdropping. You have to come close to the station to get into a safer communication network.
+#L_Quest_17d_02a=Leave the system.
+#L_Quest_17d_02b=There are two ways to start attacking SAM's fortress: to use an anomaly portal and attack from Gaeon, escorted by Corsair's and Trump's forces, or risk jumping to Zebos and getting close to the Shula portal.
+
+;*****************************
+;Speeches
+;*****************************
+#L_Corsar_01=I see. So, cavalry, unsheathe your sabers!
+#L_Corsar_02=I get your drift. That's bold! But you leave something to us, all right?

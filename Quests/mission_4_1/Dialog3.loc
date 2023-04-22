@@ -1,0 +1,17 @@
+;*****************************
+;Dialog3.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D3_msg00=Freedom! Finally! By Great Space, I've already stopped dreaming about it!
+#L_D3_ans00=That was one hell of an adventure. Why did I agree to get involved in it at all?
+#L_D3_msg10=Come on, buddy, you have just got yourself a fine mothership! You have no right to be displeased! Speaking of the mothership, there is one problem. We need to fix its ID, otherwise it will be attracting all sorts of patrols anywhere.
+#L_D3_ans10=Does it require some special tools?
+#L_D3_msg20=It requires a special technician. I know one, he lives in Elio.
+#L_D3_ans20=That's far.
+#L_D3_msg30=Oh, partner, it will seem much longer, given that every patrol will try to bash your brains out. By the way, is it all right if I call you partner?
+#L_D3_ans30=It's not all right that our brains may be bashed out.
+#L_D3_msg40=Aw, nevermind that. If you're not bashing out somebody's brains, that somebody is bashing out yours. This game is thousands of years old and we can't change its rules. Let's head for Argon and then see what to do next. Oh, and remember: we should stay away from patrols, trade routes and stations.
+#L_D3_ans40=(Dalej)

@@ -1,0 +1,60 @@
+;*****************************
+; mission_6c
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_6M_a=Reach Beta Lethera 1.
+#L_Quest_6M_b=The last signal from the convoy came from Beta Lethera 1. It was a mayday. The ships were most likely destroyed, cargo stolen. But there's still a chance that some of the pilots have survived. Besides, an examination of the wreck site can shed light on what's happened.
+#L_Quest_6K_a=Escort the transports to Al-Ariash.
+#L_Quest_6K_b=100,000 credits is a good pay for escorting a couple of ships to Al-Ariash. Still, the route goes through a few tumultuous areas, so additional help might come in handy.
+#L_Quest_6_01a=Meet Ternie's friend.
+#L_Quest_6_01b=A friend of Ternie who lives in New Jerusalem 3 might have heard something about the missing convoy.
+#L_Quest_6c_01a=Eliminate the ambush.
+#L_Quest_6c_01b=Pirates smelled out about the cargo and decided to ambush you at the New Jerusalem 3 portal. You need to deal with them without risking the transports.
+#L_Quest_6c_02a=Save the transports.
+#L_Quest_6c_02b=The transports are under attack! If you linger, they won't hold out for long against the pirates.
+#L_Quest_6c_03a=Capture the agent.
+#L_Quest_6c_03b=The USS agent did his best to ambush you, but failed. It would be nice to catch the bastard and hand him over to Al-Ariash security.
+
+;*****************************
+;Speeches
+;*****************************
+#L_USS_01=Hey, that wasn't on the flight schedule! Are you leading us into a trap? The contract is cancelled, we're going back!
+#L_Lastochka_01=Jeez, aren't you a fool?! You've missed such a sum! Let's visit my friend. He might have some easy jobs for us to make up for the 100 grands we've just lost. Just listen to this, "One hundred thousand credits!"
+
+#L_Lastochka_03=Partner, are you out of your mind?! Dammit, 100 grands down the drain!
+#L_Hero_02=Don't be sad. Ternie, you have to agree that 100,000 credits for a mere escort through a couple of system is quite fishy.
+#L_Lastochka_04=Some logic you have! What are you, Jack the Ripper or something?
+#L_Hero_03=I could be, I sure could...
+
+#L_Lastochka_05=There they are. The corporate agent was right.
+#L_Lastochka_06=Dammit, partner, they've tricked us! They are but some wimps!
+#L_USS_02=Attention, escort, we're under attack! I repeat, we're under attack! Get back, we can't withstand fire for long!
+#L_Hero_04=We're here, hold on!
+#L_Lastochka_07=No! Our 100 grands! Kill, kill, kill!
+#L_Lastochka_08=Bastards! I hate you! You've cost me 100 grands!
+#L_Hero_05=Yeah, quite a pity. I suppose we have no reasons to visit Al-Ariash anymore.
+#L_Lastochka_09=Sad but true. Jeez, we've been tricked like children. All right, let's visit my friend in New Jerusalem 3.
+
+#L_sysmsg_01=Send Ternie on a recon.
+#L_Lastochka_10=Partner, this smells bad. I haven't reached the ambush spot, but my scanners are already showing a large group of ships near your location. I'm returning immediately. Meanwhile try to shake our corporate pal out of the fighter.
+#L_Hero_06=So you like surprises, huh? They'll break you off this habit in USS!
+#L_Lastochka_14=Partner, don't let the agent get away! I want to skin him myself!
+
+#L_USS_03=Great! Man, we're going to be rich after this is over. Now let's head for Al-Trabon.
+
+#L_Hero_07=What a bastard! Wanted to ambush us!
+#L_USS_04=You lamebrains are not even capable of dealing with a meager huckster!
+#L_Lastochka_11=Partner, don't let the agent go!
+
+#L_sysmsg_02=Wait until the agent arrives.
+#L_Lastochka_12=It seems our client escaped. That's a pity.
+#L_Hero_08=Seems so. All right, let's take those transports to Al-Ariash.
+
+#L_USS_05=You again, dammit?! Hey, you won't shoot an unarmed man, will you? That's unsportsmanlike!
+#L_Lastochka_13=Complain to the Olympic Committee.

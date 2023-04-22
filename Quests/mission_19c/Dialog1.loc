@@ -1,0 +1,17 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Alexandra
+#L_D1_msg00=Now we must approach the enemy station unnoticed and occupy a coign of vantage.
+#L_D1_ans00=(Dalej)
+#L_D1_msg10=In other words, lie in ambush and remain quiet, right?
+#L_D1_ans10=(Dalej)
+#L_D1_msg20=Right. If Greys decide to attack us, when Corsair and allies arrive, we'll interfere. I hope it'll be an unpleasant surprise for Greys.
+#L_D1_ans20=(Dalej)
+#L_D1_msg30=Sinorita, I'd prefer talking to shooting. La palabra - el mejor arma!
+#L_D1_ans30=(Dalej)
+#L_D1_msg40=So would I. But we have to provide for the worst course of events. Corsair won't tolerate Greys' activities, and they will hardly surrender without a fight.
+#L_D1_ans40=(Dalej)

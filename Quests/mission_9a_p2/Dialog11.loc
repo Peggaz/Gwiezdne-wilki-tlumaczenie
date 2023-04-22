@@ -1,0 +1,10 @@
+;*****************************
+;Dialog11.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D11_msg00=The base has detected a transport. Is it the one?
+#L_D11_ans00=No, that's not the one. Let's wait.
+#L_D11_ans01=That's the one. Let's get back to Muscovy and wait for it that side of the portal.

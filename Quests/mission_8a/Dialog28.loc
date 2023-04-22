@@ -1,0 +1,13 @@
+;*****************************
+;Dialog28.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D28_msg00=Partner, the thick skulls won't just let us go. Let's scram!
+#L_D28_ans00=Where to?
+#L_D28_msg10=To hell itself or whatever, just away from the imperial systems.
+#L_D28_ans10=Let's try to find out what Triada knows about my convoy. We're going to Candela.
+#L_D28_ans11=Greyhair, you mentioned the Mercenary Market in Cassily. We're going there. Might as well find something out about those fighter remains we've found.
+#L_D28_ans12=Let's pause on the investigation and improve our financial status. My friend Alex is offering a one-time well-paid mission. Let's go to XT-54.

@@ -1,0 +1,82 @@
+;*****************************
+; mission_12a
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_12a_01a=Meet with Admiral Trump.
+#L_Quest_12a_01b=Admiral Trump might know something that will help us locate Ternie's kidnappers. Right now the admiral is in Al-Trabon.
+#L_Quest_12a_02a=Follow the patrol.
+#L_Quest_12a_02b=Admiral's HQ is located on the well-defended cruiser Moscow. It would be wise to follow the patrol and don't do anything that might be considered hostile.
+#L_Quest_12a_03a=Reach the Al-Zed system.
+#L_Quest_12a_03b=The MSF plans to storm the Al-Zed system, but there may be civilian casualties. To minimize them, the admiral needs complete information about Al-Zed defenders.
+#L_Quest_12a_04a=Follow the patrol.
+#L_Quest_12a_04b=The local defending forces are rather wary about any foreigners. The wisest thing to do is to follow the patrol to the station and don't do anything that might be considered hostile.
+#L_Quest_12a_05a=Recon the system.
+#L_Quest_12a_05b=You must very carefully gather information about rebel forces and patrol locations in the system.
+#L_Quest_12a_06a=Gather the refugees.
+#L_Quest_12a_06b=Visit all system stations so all the refugees can board your transport.
+#L_Quest_12a_07a=Leave the system.
+#L_Quest_12a_07b=You must leave the system.
+#L_Quest_12a_08a=Meet with Admiral Trump.
+#L_Quest_12a_08b=Kishimov says that the admiral has found some information about grey ships. You need to meet with Trump.
+#L_Quest_12a_09a=Wait for Admiral Trump.
+#L_Quest_12a_09b=Wait for Admiral Trump ships to arrive.
+#L_Quest_12a_10a=Distract portal guards.
+#L_Quest_12a_10b=Sneak into Al-Zed and distract portal guards. Try to neutralize patrols.
+#L_Quest_12a_11a=Eliminate attack fighters.
+#L_Quest_12a_11b=You must eliminate attack fighters before they fire nuclear missiles.
+
+;*****************************
+;Speeches
+;*****************************
+#L_vks_01=That's a provocation! Attention, everyone! Detain the spies impersonating Security agents!
+
+#L_Kishimov_01=Gentlemen, I'm Captain Kishimov, Tigers special squad. We have admiral's orders to take you to the portal. Just in case, we'll be cloaked. When you get through the portal, we'll patrol on this side to cover your retreat, if anything goes wrong.
+
+#L_Kishimov_02=Fine, this gap is closed. My, I haven't expected this very team to be corrupted. They had excellent reputation, won a few fights by the portal.
+#L_Hero_01=The enemy has probably refused to pay.
+#L_Kishimov_03=We'll see. You need to get going. Good luck.
+
+#L_rebel_01=Attention, everyone! The spy has been sighted. I repeat, the spy has been sighted. Fire for effect!
+#L_Sedoy_01=Boss, time to hit it!
+#L_Hero_02=Let's cover our retreat. Calling in Tigers. We have a problem!
+#L_Kishimov_04=Got you, we're on our way. But make haste, we can't protect you for long.
+
+#L_liner_01=We had a deal to take everyone!
+
+#L_Validol_01=Captain, multiple ship signatures detected.
+#L_Hero_03=Pirates?
+#L_liner_02=Oh, don't worry, that's our welcoming committee. If imperials get here, they'll have a missile surprise right up their hulls! Hah, a nuclear surprise, I'd say.
+#L_Hero_04=Then good luck to them. It's time to leave the sweet home. Jump through the portal.
+
+#L_rebel_02=Cherish them as the apple of your eye! There's my family, too!
+
+#L_Hero_05=Kishimov? Send the admiral a present. And tell him that the enemy has nuclear weaponry, their pilot blabbed it out. Transmitting all data now.
+
+#L_Kishimov_05=Is everything all right?
+#L_Hero_06=We did what we could.
+#L_Kishimov_06=I see. The admiral asked to wait for him here.
+
+#L_rebel_03=Hey, what the hell are you doing here?!
+#L_Hero_07=I just wanted to ask...
+
+#L_Sedoy_02=Boss, I'm picking up strange signals from one ship cluster. It seems... seems like they have nuclear weapons.
+#L_Hero_08=Things have just become far more interesting. We need to neutralize them. Greyhair, mark it on the map.
+
+#L_Tramp_01=All teams, protect Moscow while we're burning out this nest out.
+#L_Sedoy_03=Boss, if those guys reach Moscow before we reach them, expect trouble.
+
+#L_Samir_01=Don't shoot, we surrender! We surrender!
+#L_Tramp_02=Boarding teams, secure station key spots, land and detain enemy ships.
+
+#L_Kishimov_07=It's an honor to fight alongside you.
+#L_Hero_09=This is nice to hear, though we haven't agreed to take part in this operation...
+#L_Kishimov_08=The admiral said he would wait for you onboard Moscow. He also said he got information regarding your case.
+
+#L_sys_01=Mission failed. Game over.
+#L_sys_02=Your retreat was considered fleeing. Mission failed. Game over.

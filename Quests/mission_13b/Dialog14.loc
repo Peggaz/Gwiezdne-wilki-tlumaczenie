@@ -1,0 +1,15 @@
+;*****************************
+;Dialog14.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Aia
+#L_D14_msg00=Great. I was right to think I'd find you here! I hope your mission was a success.
+#L_D14_ans00=We found Ternie, but our base got wrecked.
+#L_D14_msg10=A ship is just a piece of metal. Experienced fighters is what matters. What would you say if I give you my base in exchange for help in a certain task?
+#L_D14_ans10=(Dalej)
+#L_D14_msg20=An interesting clunker. What's that? A foofaraw coffin?
+#L_D14_ans20=(Dalej)
+#L_D14_msg30=It doesn't look great, I agree. But that's a part of the idea. It has reinforced hull and shields, reinforced engine, additional fire controls. But you'll study its specifications later. Time is of the essence right now, so we must hurry.
+#L_D14_ans30=(Dalej)

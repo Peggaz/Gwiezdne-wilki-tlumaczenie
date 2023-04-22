@@ -1,0 +1,22 @@
+;*****************************
+;Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m8c_SafetyOfficer
+#L_D2_msg00=Fine, you're here. Alexandra should've filled you in on the mission, but I'll go over the details one more time. You need to hand over this storage device to our agent in Aurora. Try to stay away from the MSF. But sticking to system edges all the time may arouse suspicion as well. Unfortunately, the MSF can locate the device by scanning, so it has a built-in self-destruct mechanism. The data is encrypted, but the MSF must not get it nevertheless. Any questions?
+#L_D2_ans00=Why use us? Why don't you try to send the data over the network? It's encrypted anyway.
+#L_D2_msg10=Any cipher can be cracked. So delivering it by hand is more reliable.
+#L_D2_ans10=(Dalej)
+#L_D2_msg20=Yeah, right... Especially, if the courier gets caught with the device.
+#L_D2_ans20=(Dalej)
+#L_D2_msg30=Let us determine the degree of reliability of various data exchange channels, shall you? Are you taking the mission or not?
+#L_D2_ans30=No. Even if there's a self-destruct sequence, the MSF will still put a bounty on our heads if they suspect something.
+#L_D2_ans31=We are. But I won't guarantee I'll fight to the death to protect this storage thingy, if thick skulls are on our tail. I'll just delete the data.
+#L_D2_msg40=Well, then I'll tell Alexandra you are unfit. You may leave now.
+#L_D2_ans40=(Dalej)
+#L_D2_msg50=You refused way too quickly, boss. I just blabbed about the MSF.
+#L_D2_ans50=Still you were right. Smuggling or recon is one thing, but if the MSF suspect us of espionage, we might as well walk out to space naked - it won't be as painful. Anyway, let's leave this place.
+#L_D2_msg41=Fine with me. I've sent you the storage device along with the mission details. Try not to delay. Over and out.
+#L_D2_ans41=(Dalej)

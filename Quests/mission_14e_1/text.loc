@@ -1,0 +1,38 @@
+;*****************************
+; mission_14e_1
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_14e_01a=Reach Zebos.
+#L_Quest_14e_01b=Meet with SAM at the central server station in Zebos.
+#L_Quest_14e_03a=Head for the station.
+#L_Quest_14e_03b=Don't attack the Berserks. Reach the station.
+#L_Quest_14e_04a=Proceed to the warehouse.
+#L_Quest_14e_04b=Reach SAM's warehouse.
+#L_Quest_14e_05a=Reach New Kyoto.
+#L_Quest_14e_05b=Leave the InoCo's space as soon as possible and head for New Kyoto.
+#L_Quest_14e_06a=Outstrip your pursuers.
+#L_Quest_14e_06b=It is vital that you outstrip the Berserks and copies of SAM that are pursuing you. Avoid fighting to remain undetected.
+#L_Quest_14e_07a=Find a transport.
+#L_Quest_14e_07b=You can't get through a portal without a mothership. Try looking for a transport on the outskirts of this system.
+
+;*****************************
+;Speeches
+;*****************************
+#L_Sedoy_01=Berserks! Fight back, boss!
+#L_Uel_01=Wait! They won't do you any harm. Please proceed to the station and refrain from hostile actions. I shall explain everything.
+
+#L_Uel_02=I am sorry you have made such a decision.
+
+#L_Sedoy_02=Let's floor it, boss!
+#L_Hero_01=We're in trouble, deep trouble... We can't get out without a mothership. We'll get torn apart on passing intersystem portal gravitational threshold. Damn! Think, think, think...
+#L_Hero_02=Let's assume that the system is self-dependent and relies on a closed-circuit production cycle. But even then the cursed tincan needs transports to deliver hardware to stations. It can't haul it by fighters, can it?
+#L_Hero_03=So if there are transports, one of them just might have a hangar. But then again where can we find it?
+
+#L_sys_01=Main character died.
+#L_sys_02=Game over.

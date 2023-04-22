@@ -1,0 +1,9 @@
+;*****************************
+;Dialog7.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Sedoy
+#L_D7_msg00=Whoa! That was quite impressive! It's a pity we can't buy at InoCo stations anymore. Where to now, boss?
+#L_D7_ans00=I wonder why the MSF attacked the station my transports had been delivering the damned cargo to. Let's visit the MSF HQ in New Jerusalem 2 and try to find something out there.

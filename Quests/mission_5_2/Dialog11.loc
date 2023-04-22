@@ -1,0 +1,11 @@
+;*****************************
+;Dialog11.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;RecruitOfficer
+#L_D11_msg00=That was fun! Boss, it's good that you had warned us beforehand and we had a chance to prepare. What now?
+#L_D11_ans00=Now? I think we should visit Quarter and thank him for being so caring.
+#L_D11_msg10=Fine! All right, boys, let's shake that pirate hive!
+#L_D11_ans10=(Dalej)

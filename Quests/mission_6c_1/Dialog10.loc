@@ -1,0 +1,13 @@
+;*****************************
+;Dialog10.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;USSOperative
+#L_D10_msg00=On behalf of our corporation allow me to thank you for effective cargo protection. I've heard about the ambush already. I hope you're all right.
+#L_D10_ans00=Could be worse.
+#L_D10_msg10=You did a flawless job! I'm especially glad to give you the reward and also a bonus that you will find most pleasant.
+#L_D10_ans10=Great!
+#L_D10_msg20=USS Corporation is in your debt. We'll be glad, if our cooperation continues. Now please excuse me, I have other business to attend to. Thanks again, over and out.
+#L_D10_ans20=(Dalej)

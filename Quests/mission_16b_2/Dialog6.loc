@@ -1,0 +1,15 @@
+;*****************************
+;Dialog6.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Blade
+#L_D6_msg00=So the war with the Imu Clan is over? I feel very strange...
+#L_D6_ans00=(Dalej)
+#L_D6_msg10=It will never be over, so keep your eyes open. Now you, Blade. I want you to meet Savay and go to Dosis with him. Gather all clan elders and declare that Imu is no longer a leader. Tell them that Triada is entering a new age, that we control all corporation finances and businesses. Let them face it that we'll now live according to the old code of honor my father has fought for. I'm sure Savay will know how to bring these news to the elders. And watch their reaction. If anyone protests, throw him out of the airlock. We don't have Imu's spongers at the rearward. On the whole, it's up to you, so do what you deem necessary.
+#L_D6_ans10=(Dalej)
+#L_D6_msg20=Ah, the good old Aja is back. I started to think you got too soft. All right, it will be done. Where will you be?
+#L_D6_ans20=(Dalej)
+#L_D6_msg30=I have an idea. If we succeed, our corporation will be so glorious that no one will ever dare remind us of the sins of the past.
+#L_D6_ans30=(Dalej)

@@ -1,0 +1,17 @@
+;*****************************
+;Dialog7.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Corsair
+#L_D7_msg00=I can't believe my eyes! Tincans!
+#L_D7_ans00=(Dalej)
+#L_D7_msg10=I can't believe my ears! The talking spirit of an innocent murder victim!
+#L_D7_ans10=(Dalej)
+#L_D7_msg20=I'm all right. Drifting in the escape pod.Calling all NESF units, stop the attack. Let's hit the Berserks! Admiral and, umm, Alex. Peace, people! I was wrong!
+#L_D7_ans20=(Dalej)
+#L_D7_msg30=Later! Let's deal with the routine first!
+#L_D7_ans30=(Dalej)
+#L_D7_msg40=Triada, attack! Let's show those tincans they are not a marker to Triada pilots!
+#L_D7_ans40=(Dalej)

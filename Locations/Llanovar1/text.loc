@@ -1,0 +1,19 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#L_Nav_01=Portal do Endoria
+#L_Nav_02=Portal do Llanowar 2
+#L_Nav_03=Portal do Nowego Kioto
+#L_Nav_04=Stacja Patrolu "Odyseusz"
+#L_Nav_05=Klient
+#L_Nav_06=Laboratorium badawcze
+#L_Nav_07=Stacja przetwórnicza LS
+#L_Nav_08=Zniszczony transportowiec
+#L_patrol=Stacja Patrolu "Odyseusz"
+#L_lab=Laboratorium badawcze
+#L_fact=Standardowa stacja w Llanowar
+#L_NI=Urz¹d Nowego Imperium
+#L_STO=Stacja konserwacyjna

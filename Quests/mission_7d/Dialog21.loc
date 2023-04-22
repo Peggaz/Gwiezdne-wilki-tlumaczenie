@@ -1,0 +1,17 @@
+;*****************************
+;Dialog21.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Sedoy
+#L_D21_msg00=Excuse me, boss, but this is, like, no comments. All words that are coming to my mind right now are pretty foul.
+#L_D21_ans00=We couldn't do anything...
+#L_D21_msg10=We could forget about excursions, given we had a clear task.
+#L_D21_ans10=(Dalej)
+#L_D21_msg20=Shut up, Greyhair. We're all sick at hearts now.
+#L_D21_ans20=(Dalej)
+#L_D21_msg30=Sure, sure... Where to now, boss?
+#L_D21_ans30=No idea. Somewhere. Away. Far away.
+#L_D21_msg40=Partner, don't grieve about it. It's not going to help. Come to your senses. Let's just leave the system for now.
+#L_D21_ans40=Yeah, you're right...

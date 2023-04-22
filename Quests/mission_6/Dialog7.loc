@@ -1,0 +1,19 @@
+;*****************************
+;Dialog7.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m6_PrisonerVKS
+#L_D7_msg00=Stop lingering, open fire already.
+#L_D7_ans00=I'll do as I please. Why the hell have you attacked before even listening to us?
+#L_D7_msg10=I've got an order to shoot down any ships trying to contact the station. Then I pick up pods and hand survivors over for interrogation.
+#L_D7_ans10=Why did the MSF attack the station?
+#L_D7_msg20=How should I know? I'm just a flying officer, no generals salute me or report about their plans. I just patrol my sector and watch that no one messes with the station.
+#L_D7_ans20=A trade convoy was on the way to the station. What happened to it?
+#L_D7_msg30=I have no idea and know no rumors. Listen, I told you everything I knew about the station. If you want to shoot me, you're the boss. If you let me go, I'll be grateful. But I have nothing more to say. Not even a word.
+#L_D7_ans30=(Dalej)
+#L_D7_msg40=Partner, we're in big trouble! A few large MSF units are on the way here. Very, very large units!
+#L_D7_ans40=Dammit! Do we have time to reach the debris?
+#L_D7_msg50=No! They are heading for the New Jerusalem 3 portal to cut us off! Let's hit it!
+#L_D7_ans50=Yeah, let's leave. A pity I haven't got any useful information.

@@ -1,0 +1,49 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;GreenRecruitOfficer
+#L_D1_msg00=Sorry, ladies and gentlemen, but right now this system is off limits.
+#L_D1_ans00=Why is that so? And just who are you?
+#L_D1_msg10=On request of the local inhabitants that are tired of pirates. We are a team of mercenaries, temporary under command of the local patrol. As for our name, you don't need it, as it will tell you nothing.
+#L_D1_ans10=Since when mercenaries have the right to open and close systems? I have a contract here and I'm not going to lose it. Let's settle this peacefully and I won't report you at the Exchange.
+#L_D1_ans11=I'm here to trade, not fight. You have goods I'm interested in.
+#L_D1_ans14=Oh, don't bother already. We've been looking for you. Lieutenant Ternie, call in the reinforcements. Corporal Greyhair, get the handcuffs ready. Gentlemen, you are under arrest in the name of the Empire. And don't try to resist.
+#L_D1_msg20=Sorry, pal, you had a chance to settle this quietly, but you wasted it. Attack!
+#L_D1_ans20=(Dalej)
+#L_D1_msg21=What goods are you talking about?
+#L_D1_ans21=I'm talking about the mothership you've stolen from the MSF. I'd like to buy it.
+#L_D1_msg31=Well, we spent some funds on getting this birdie... Plus the risk... I think 300,000 credits is a fair price.
+#L_D1_ans31=It's just ridiculous. I'm not paying you anything.
+#L_D1_ans32=How much?! Guys, you're funny. Make it 150,000 and we have a deal. What do you say?
+#L_D1_ans33=All right, I agree. The price seems fair to me.
+#L_D1_msg41=You made your choice, so it's nothing personal. Attack!
+#L_D1_ans41=(Dalej)
+#L_D1_msg42=It's not. This birdie has a price and you've heard it. Wait a second... this way we're going to lose our only mothership! Man, it's good I thought of this. You know what, the price has just grown to 450,000. And that's final, no haggling.
+#L_D1_ans42=You sure know how to trade. You could be a banker or something. Now listen to what I say. I agree to pay you 250,000 plus my old base. This is the best deal you can hope for, considering that you won't get far in the imperial space with an MSF mothership on hands.
+#L_D1_msg52=All right, it's a deal.
+#L_D1_ans52=Good. Transferring the money now. Now tell me where the base is.
+#L_D1_msg62=Not far from here. We'll show you.
+#L_D1_ans62=(Dalej)
+#L_D1_msg43=Wait a second... this way we're going to lose our only mothership! Man, it's good I thought of this. You know what, the price has just grown to 450,000. And that's final, no haggling.
+#L_D1_ans43=If everyone changes the deal as he pleases, no one is going to benefit. Let's do it this way: I pay you 300,000, like we've agreed, and give you my old base. You won't get a better deal.
+#L_D1_msg24=Sir, yes, sir!
+#L_D1_ans24=(Dalej)
+#L_D1_msg34=Too bad, skipper!
+#L_D1_ans34=(Dalej)
+#L_D1_msg44=What the hell?! Who are you?
+#L_D1_ans44=Military Intelligence, Special Unit. You shouldn't have stolen something as noticeable as an experimental mothership from the MSF. You've trapped yourselves. Lieutenant, what's the reinforcements status?
+#L_D1_msg54=Yes sir! Five strike teams and a transport of space marines! Sir!
+#L_D1_ans54=Fine. So, gentlemen? We're all peaceful people here, right? Should we stay this way?
+#L_D1_msg64=Peace would be better for sure... But you threw this ship out by yourselves and then lost the junkyard along with the whole system. From the legal angle, the base is our trophy. You can't just arrive and claim it back.
+#L_D1_ans64=But we're here, claiming it, as you can see.
+#L_D1_msg74=I see, but I generally don't care. And don't try to threaten me with your goons that side of the portal. We don't want any trouble with the MSF, but we won't give you the base just like that as well.
+#L_D1_ans74=What do you want, may I wonder?
+#L_D1_msg84=Well, we spent some funds on getting this birdie... Plus the risk... I think 300,000 credits is a fair price.
+#L_D1_ans84=It's just ridiculous. I'm not paying you anything.
+#L_D1_ans85=All right, I agree. The price seems fair to me.
+#L_D1_ans86=Pal, your assessment of the tactical situation is wrong. For a mercenary this is equal to suicide. Beyond the portal I have a team of veterans ready to get in here on my call. But I really want to settle this peacefully. I offer you 150,000 and my old base. Not because I'm that generous, but because I'll have to report about spent ammo.
+#L_D1_msg96=Sir!
+#L_D1_ans96=Quiet, lieutenant. So, what do you say?

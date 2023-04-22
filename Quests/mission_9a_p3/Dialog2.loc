@@ -1,0 +1,21 @@
+;*****************************
+;Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D2_msg00=Validol.
+#L_D2_ans00=(Dalej)
+#L_D2_msg10=Vladimir Bykov. Only friends may call me Validol, and you're not on the list.
+#L_D2_ans10=All right. Vladimir, you mentioned some sin.
+#L_D2_msg20=Are you a priest or something?
+#L_D2_ans20=No, just curious.
+#L_D2_msg30=Other people's sins are always more interesting that your own, huh? But I'm not in the mood for a confession. So let's just head for New Donbass with out traps shut. This place is so reeking of thick skulls, the stench even gets throught the space suit.
+#L_D2_ans30=Do you have issues with the MSF?
+#L_D2_msg40=No, I don't. I just don't want to meet any of them, that's all. As I don't like to talk about this anymore. Get it?
+#L_D2_ans40=I just asked...
+#L_D2_msg50=Inquired.
+#L_D2_ans50=What?
+#L_D2_msg60=People I used to deal with used the word "inquired". I think it's more correct. Now I'm out, I'm not in the chatting mood.
+#L_D2_ans60=(Dalej)

@@ -1,0 +1,14 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#L_nav_01=Portal do Endoria
+#L_nav_04=Punka Alfa
+#L_nav_05=Punkt Beta
+#L_nav_06=Punkt Gamma
+#L_nav_07=Punkt Delta
+#L_nav_03=Stacja produkcji tlenu
+#L_nav_02=Baza przemytnicza "Odyn"
+#L_patrol=Stacja patrolu NESF

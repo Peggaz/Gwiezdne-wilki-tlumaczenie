@@ -1,0 +1,98 @@
+;*****************************
+; mission_12e
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_12e_01a=Reach XK-10.
+#L_Quest_12e_01b=InoCo can track ships with known signatures jumping through portals. Since you've rendered multiple services to the corporation, chief administrator SAM might help you find Ternie's kidnappers. You need to visit XK-10 and contact InoCo higher-ups.
+#L_Quest_12e_02a=Find and destroy hacker's ship.
+#L_Quest_12e_02b=InoCo servers are attacked by a hacker who constantly changes his tactics. The only way to restore InoCo's server network is to destroy hacker's ship.
+#L_Quest_12e_03a=Leave the system.
+#L_Quest_12e_03b=The attack on InoCo's network has stopped. Leave the system as soon as possible.
+#L_Quest_12e_04a=Run Cleric down.
+#L_Quest_12e_04b=The hacker is getting away. You must run Cleric down and destroy his ship before he damages InoCo's data irreversibly.
+#L_Quest_12e_05a=Chase Cleric.
+#L_Quest_12e_05b=According to SAM, the hacker has left for Hanoi. You must run Cleric down and destroy his ship before he damages InoCo's data irreversibly.
+#L_Quest_12e_06a=Chase Cleric.
+#L_Quest_12e_06b=According to SAM, the hacker has left for Al Ariash. You must run Cleric down and destroy his ship before he damages InoCo's data irreversibly.
+#L_Quest_12e_07a=Chase Cleric.
+#L_Quest_12e_07b=According to SAM, the hacker has left for X297. You must run Cleric down and destroy his ship before he damages InoCo's data irreversibly.
+
+;*****************************
+;Speeches
+;*****************************
+#L_Sedoy_01=Damn... Yet again this proves that computers are needed to solve problems created by other computers. So, tincan, where's the hacker now?
+#L_Uel2_01=Cadi system.
+#L_Hero_01=All right, let's clip his wings. Moving out.
+
+#L_Hero_02=Greyhair, what are you doing?!
+#L_Sedoy_02=Boss, that wasn't me!
+#L_Jamshegi_01=You've made your choice. Attack!
+
+#L_vks_01=Everyone, cease fire immediately! Jamshedji, I remember our deal, so you can get the hell out. But Cleric is coming with us and that's not to be discussed!
+#L_vks_02=Is that what you want?! Attack! General alert!
+#L_Jamshegi_02=That was a mistake! He didn't mean it!
+#L_Sedoy_03=Boss, we need Cleric, not these guys! We can't whack them all anyway!
+#L_Hero_03=Damn, step on it!
+
+#L_Uel2_02=The target vessel has been detected jumping to Hanoi.
+
+#L_Sedoy_04=Damn your plasma! Where's Cleric?
+#L_Yana_01=I have no signals from the transport escape pod.
+#L_Hero_04=To hell with him, we must scram. SAM, what about the attack?
+#L_Uel2_03=It has ceased. Leave the system, I'll contact you.
+
+#L_Sedoy_05=Boss, we're going to lose our hacker! He's getting away!
+#L_Hero_05=I know!
+#L_vks_03=All teams, we are under attacked! Close the system, I repeat, close the system!
+#L_Yana_02=Where should we go now?
+#L_Hero_06=Let's get the law enforcers off our tails first, then see! SAM, will you know if the hacker jumps into a portal?
+#L_Uel2_04=Affirmative.
+#L_Hero_07=Then let's do it!
+
+#L_vks_04=Jamshedji, I remember our deal, so you can get the hell out. But Cleric is coming with us and that's not to be discussed! To hasten your brains: the station will be surrounded soon, the backup is on the way.
+
+#L_vks_05=Fine, guys, let's sweep away the riffraff. And will somebody please wreck that transport!
+#L_Jamshegi_03=Captain, we had a deal!
+#L_vks_06=I don't know what you're talking about, petty criminal! Move!
+
+#L_vks_07=Is everything all right?
+#L_Hero_08=Yes, our mission is accomplished. Here's the reward.
+#L_vks_08=Great. Call us, if you need help. That's it, guys, let's get back to base and celebrate!
+
+#L_vks_09=General alert! We're under attack! Send every team to our location!
+#L_Sedoy_06=It's going to be hot!
+
+#L_Hero_09=SAM, is he here?
+#L_Uel2_05=Negative.
+
+#L_Hero_10=What about here?
+#L_Hero_11=You could say something different for a change.
+#L_Uel2_06=42.
+#L_Hero_12=I shouldn't have asked...
+
+#L_Uel2_07=I have detected the target.
+
+#L_Jamshegi_04=What the hell?! Kill them!
+#L_Sedoy_07=Stupid tincan! Boss, we need to scram!
+
+#L_vks_10=They are the ones who caused the general alert! Fire at will!
+
+#L_Uel2_08=The target vessel has been detected jumping to Al-Ariash.
+#L_Sedoy_08=Aw, rats. The bastard might set USS on us!
+
+#L_Yana_03=But we haven't done anything!
+#L_Hero_13=It seems our hacker has had time to tweak their databases.
+#L_Sedoy_09=Exactly, boss. We'd better stay away from law enforcers.
+
+#L_Uel2_09=The target vessel has been detected jumping to X297.
+#L_Hero_14=Is he trying to hide among border guards? Let's step on it!
+
+#L_sysmsg_01=Cleric has been conveyed to the MSF base. Mission failed.
+
+#L_sys_01=That was your biggest mistake. Whatever happens next, you won't be a part of it.

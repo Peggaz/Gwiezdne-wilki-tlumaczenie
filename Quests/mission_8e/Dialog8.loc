@@ -1,0 +1,17 @@
+;*****************************
+;Dialog8.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D8_msg00=New guests - new troubles.
+#L_D8_ans00=(Dalej)
+#L_D8_msg10=What the hell are you doing in this system and why have you fired at the station? Most of my men are cloaked, so I wouldn't recommend you to try anything stupid.
+#L_D8_ans10=(Dalej)
+#L_D8_msg20=My task is to arrest Charles Dickens and deliver him to the InoCo headquarters. I have no information about the attack on the station.
+#L_D8_ans20=(Dalej)
+#L_D8_msg30=Deliver him? I think I'll deliver you all to the Triada HQ, where you'll be asked a few questions.
+#L_D8_ans30=(Dalej)
+#L_D8_msg40=Partner, I'm detecting another large group of Triada ships.
+#L_D8_ans40=(Dalej)

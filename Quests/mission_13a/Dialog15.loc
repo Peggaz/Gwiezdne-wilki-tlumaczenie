@@ -1,0 +1,39 @@
+;*****************************
+;Dialog15.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D15_msg00=Major, how did you find us?
+#L_D15_ans00=(Dalej)
+#L_D15_msg10=Like it was hard. I contacted Admiral Trump and asked where you had gone. Then I got myself a map of the system, pointed out your most likely location and jumped at the coordinates.
+#L_D15_ans10=What do you mean jumped?
+#L_D15_msg20=By means of a hyperspace catapult. It throws your sorry butt a really long way. Don't ask me the details, I'm no physicist and have no idea how it works. But it's convenient.
+#L_D15_ans20=(Dalej)
+#L_D15_msg30=Before pirates got me, I had read some rumors in the Web about this technology. But those were only theories.
+#L_D15_ans30=(Dalej)
+#L_D15_msg40=As you can see, theories have become a reality, but not too proper though. A catapult needs huge amounts of energy and as much space, so it can only be installed at a station. For a ship, or some ships to be more exact, there are hyper strings -- reduced catapult variants with limited range. Besides, a hyper spring needs to be "wound up" at a catapult after each use. In other words, if you need to delve into details, go exchange fuzzwords with technicians. Now you, my friend. Where are you from and what have you been doing with the pirates? And, by the way, how did you lay your hands on the secret imperial technology? I mean the guns.
+#L_D15_ans40=(Dalej)
+#L_D15_msg50=Probably one of yours just sold them to pirates.
+#L_D15_ans50=(Dalej)
+#L_D15_msg60=Don't wriggle, young man, I'm not in the mood for jokes now. Make your answers clear and straight. Upgrading these guns that deeply required access to classified blueprints, specifications and manuals. Each of these guns is individually labeled and stored too safe for any pirate riffraff to get it. So I repeat my question: how have you managed to get access to the imperial technology?
+#L_D15_ans60=(Dalej)
+#L_D15_msg70=I don't know what you keep and how, but any more or less competent technician will sort out how these thingamajigs work in two days. You know, it seems they used legs, not hands, to assemble those. And were drunk at that. You should have thrown those lazybones out for making peashooters instead of guns. But, man, aren't there cool stickers all round instead! Advanced Multi Dynamics! Ridiculous...
+#L_D15_ans70=(Dalej)
+#L_D15_msg80=Advanced Multi Dynamics you say?... Now I see. This explains everything.
+#L_D15_ans80=(Dalej)
+#L_D15_msg90=Dynamics? What dynamics?
+#L_D15_ans90=(Dalej)
+#L_D15_msg100=Fleet's main contractor. The firm belongs to the industry minister's brother. They have only been making portable radios before. Some crappy ones at that. But it seems they've gotten ambitious. We're not going to win the war with such guns. But mark my words, when I get back, certain people will get their necks broken. Now let's get back to our conversation. How have you ended up with the pirates?
+#L_D15_ans100=(Dalej)
+#L_D15_msg110=I read an ad in the newspaper. "Looking for an employee. Flexible schedule, interesting job..."
+#L_D15_ans110=(Dalej)
+#L_D15_msg120=So you won't stop joking, will you? All right, I'll punch a few more holes in your body to motivate you.
+#L_D15_ans120=(Dalej)
+#L_D15_msg130=Sheesh, how do you think technicians get to pirates? A planetary raid, an offer you can't refuse. And the next moment you find yourself inside a pirate clunker with a bunch of tools in your hands. The military don't care about us civilians. All they care is getting more medals to polish. You know what, I'll just send you my info and you can check it as much as you want. I need no excuses to come up with.
+#L_D15_ans130=(Dalej)
+#L_D15_msg140=And I will check it. As for the military... Teaching us life is meat and drink to you civilians. But for some reason not many of you are willing to risk your butts at war. How can you! Isn't it truly dishonorable for a real man to protect what is dear to him!
+#L_D15_ans140=(Dalej)
+#L_D15_msg150=Oh, so pathetic... Brings tears to my eyes.
+#L_D15_ans150=(Dalej)

@@ -1,0 +1,15 @@
+;*****************************
+;Dialog44.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;DispetcherKFNI
+#L_D44_msg00=Welcome, friend! Your cargo is very timely. We're out of medicines. Prepare for unloading.
+#L_D44_ans00=Just be quick about it, if you don't mind.
+#L_D44_msg10=Sure, sure!
+#L_D44_ans10=(Dalej)
+#L_D44_msg20=I'm feeling myself like a real stinker...
+#L_D44_ans20=(Dalej)
+#L_D44_msg30=That's it, we have the cargo. Thanks again!
+#L_D44_ans30=(Dalej)

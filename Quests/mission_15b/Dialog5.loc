@@ -1,0 +1,17 @@
+;*****************************
+;Dialog5.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Alisa
+#L_D5_msg00=Wait. Savay, I'm staying.
+#L_D5_ans00=Are you sure?
+#L_D5_msg10=Absolutely. Somebody has to look after Aja, so she doesn't mess up. And I'm indebted to her father, so... But I must ask you for a favor: if you ever hear about my daughter Marika, send me a message I beg you. I've uploaded her description, photo and my address to your log.
+#L_D5_ans10=(Dalej)
+#L_D5_msg20=I shall do it, I promise.
+#L_D5_ans20=(Dalej)
+#L_D5_msg30=Thank you... Remember: anything, just anything!
+#L_D5_ans30=(Dalej)
+#L_D5_msg40=I hate to interrupt, but Imu's not going to wait forever. You need to go.
+#L_D5_ans40=(Dalej)

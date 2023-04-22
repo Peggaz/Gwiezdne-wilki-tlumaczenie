@@ -1,0 +1,10 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#L_nav_01=Punkt spotkania Alicji Grant
+#L_universal_station=Stacja Handlowa "Hanoi"
+#L_base=Baza MSF
+#L_USS_Garbage=Zrujnowana stacja USS

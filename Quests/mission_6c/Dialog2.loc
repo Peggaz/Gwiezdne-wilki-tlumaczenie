@@ -1,0 +1,22 @@
+;*****************************
+;Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m6c_USSAgent
+#L_D2_msg00=I've been waiting for you. Let's get to the point. I'm from the information intel and warning department of USS. Let me transmit the identity code, transport pilots should know it.
+#L_D2_ans00=(Dalej)
+#L_D2_msg10=Yeah, he's all right. The code is valid.
+#L_D2_ans10=(Dalej)
+#L_D2_msg20=Great. But I have bad news for you, guys. A serious ambush is waiting for you in Prien. It's good I've got to know about it, and it's even better that you haven't joined the convoy first. It's stuck in New Jerusalem 2 now and getting you out would be problematic.
+#L_D2_ans20=We should warn them!
+#L_D2_msg30=Yeah, right. First, the convoy escort won't believe you until it's too late. Second, we won't be able to sneak past the pirates unnoticed. They are waiting for a large group of ships, not two meager transports with an escort. It would be stupid to lose this chance! You'll get your money for saving the transports, I'll be rewarded for timely warning and everyone'll be happy!
+#L_D2_ans30=(Dalej)
+#L_D2_msg40=Sounds convincing.
+#L_D2_ans40=I'm not convinced. What if we don't sneak past the pirates do? They'll kill us in a second. No, I think we'll have more chances as a part of the convoy. Let's head for New Jerusalem 2.
+#L_D2_ans41=We should warn the convoy, but the agent is right: we have no chances to break through together. All right, let's try to sneak by the ambush.
+#L_D2_msg50=In that case, have your fun without me. I've done my job and saving people for free is not my style.
+#L_D2_ans50=(Dalej)
+#L_D2_msg51=You've made a right choice! All right, there's no time to waste. We must get to the portal before the convoy does.
+#L_D2_ans51=(Dalej)

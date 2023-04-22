@@ -1,0 +1,21 @@
+;*****************************
+;Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Corsair
+#L_D2_msg00=Umm, sorry, I didn't mean to interrupt your stories of conspiracies, frightful computers and such. By the way, good time of day or night, admiral. You won't believe it, but I haven't expected to see you here, not in Eridan.
+#L_D2_ans00=(Dalej)
+#L_D2_msg10=And hello to you. Oh, I'm also surprised. These days are all about surprises. A sudden arrival of a hiding NESF ship to XT-86, for example.
+#L_D2_ans10=(Dalej)
+#L_D2_msg20=I have to admit, admiral, that was my fault. Not only I ordered Sukhova to give you the message, but I also told her to sniff out about that "New Restoration" of yours. It was rumored so much. But I'm not here to excuse. Greys are my target, and after a few confessions I heard, my urge to deal with them grew even strong. Admiral, are you in?
+#L_D2_ans20=(Dalej)
+#L_D2_msg30=I don't know yet. If you heard the whole story, how would you comment on Alex's words about SAM? InoCo is your ally, isn't it?
+#L_D2_ans30=(Dalej)
+#L_D2_msg40=Exactly so. A trustworthy and loyal ally. So my comments is: it's all a lie. For your information, admiral, a fleet of Greys is approaching this place right now. So our trader man is throwing dust into our eyes to win some time.
+#L_D2_ans40=(Dalej)
+#L_D2_msg50=Corsair, why don't you try to contact Oliver Reynolds? If you don't believe me, listen to the stepbrother of your empress.
+#L_D2_ans50=(Dalej)
+#L_D2_msg60=A nice move, a classic even. The true grey eminence style! You see, admiral, the joke is that Greys have organized an ambush for Reynolds. Fortunately, SAM got to know about it and secured Oliver far from those gentlemen. Wait, you'll hear it from the original source itself.
+#L_D2_ans60=(Dalej)

@@ -1,0 +1,15 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#L_nav_01=Portal do Al Trabon
+#L_nav_04=Piraci
+#L_nav_05=Ostatnie spotkanie USS
+#L_nav_06=Opuszczony transport USS
+#L_mos=Pancernik "Moskwa"
+#L_nav_02=Stacja Patrolu "Theseus-17"
+#L_nav_03=Zniszczona stacja zaopatrzeniowa Triady
+#L_VKS=Baza wojskowa MSF 
+#L_trade=Stacja Handlowa w Altair

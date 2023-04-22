@@ -1,0 +1,14 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#L_nav_01=Portal do Debris (Strefa 1)
+#L_nav_02=Uniwersalny portal Debris
+;#L_nav_05= Stacja Piratów
+;#L_nav_07= Miejsce mo¿liwego ataku
+;#L_nav_08= Zasadzka Piratów
+#L_nav_03=Stacja Handlowa "Nagroda" Triady 
+#L_nav_04=Stacja wydobywcza uranu "UD-3000"
+#L_nav_06=Dawna kwatera g³ówna Patrolu, Sektor Aquarius

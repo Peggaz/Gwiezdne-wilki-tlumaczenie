@@ -1,0 +1,54 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Moisha
+#L_D1_msg00=Oy, who is that before my old eyes?! Ternie sweetie, you still remember this old man. And who is that young companion of yours? Are you married?
+#L_D1_ans00=(Dalej)
+#L_D1_msg10=No, that's just my friend and partner.
+#L_D1_ans10=(Dalej)
+#L_D1_msg20=Ha! Were I forty years younger and you extremely shortsighted, I would do my best to become something more than just a friend to you.
+#L_D1_ans20=(Dalej)
+#L_D1_msg30=You're at your jokes again, Moishe.
+#L_D1_ans30=(Dalej)
+#L_D1_msg40=What else but humor is left to the old lonely man? I believe you're here on business as well, not just for a cup of tea.
+#L_D1_ans40=(Dalej)
+#L_D1_msg50=Actually we are, but I have to admit I've missed you. You see, Moishe, my friend lost a transport convoy in the neighboring system.
+#L_D1_ans50=It has just vanished with all the cargo, ships and, most importantly, people who were my friends. The cargo was to be delivered to the Triada station and it was completely legit. I tried to find out at least something, but lawyers at Triada stubbornly focused on breaching the contract paragraph about cargo delivery and said no more. Triada has been ignoring all my requests ever since the trial. Now the station my caravan has been headed for is my only source of information.
+#L_D1_msg60=Beta Lethera 1, I see... It's under MSF control now...
+#L_D1_ans60=That's strange, I've never heard about that.
+#L_D1_msg70=Oy, young man, live to my age and you'll see what is really strange. And this case is not strange at all. The Empire didn't just need Beta Lethera 1, they needed all Beta Lethera systems. So they captured the primary one, placed a serious garrison there and bind the remaining two, forcing Triada to surrender Beta Lethera 2 and 3 in exchange for their men. Believe me, this is as old as time.
+#L_D1_ans70=So how can I get there now?
+#L_D1_msg80=I can help. Why, for a sum of course, but satisfaction will be guaranteed. I have that acquaintance from MSF who has lost all his money like a good-for-nothing. To make up for it, he supplies me with useful information: patrol routes, military unit locations and such. For mere 25,000 credits I'll share this information with you and also talk to that man so you'll be let in unimpeded.
+#L_D1_ans80=That's too much. I'm not going to pay for nearly nothing.
+#L_D1_ans81=All right, I agree. You can't be too secure and the sum is actually small.
+#L_D1_msg90=Ternie sweetie, now I see why you haven't married this man. He's such a skinflint! You'll have no future with a man like this. Any chances you reconsider my offer? I won't live long, so you'll inherit all my fortune.
+#L_D1_ans90=(Dalej)
+#L_D1_msg100=No Moishe, some other time. Sorry, but we have to go. I'll visit you later for a cup of tea.
+#L_D1_ans100=(Dalej)
+#L_D1_msg110=I'm afraid, sweetie, you won't find me here. I'm going to curtail my business and find myself a quiet place in some distant agricultural system.
+#L_D1_ans110=(Dalej)
+#L_D1_msg120=But why? I thought your services would be in great demand during the war.
+#L_D1_ans120=(Dalej)
+#L_D1_msg130=The demand is too great to bear. A lot of people out there would like me to stop providing services to their enemies. Before, they've considered me a mere information collector, but now they think of me as a potential source of critical information leakage. Obviously, that's not the safest attitude.
+#L_D1_ans130=(Dalej)
+#L_D1_msg140=I'm very sorry to hear that.
+#L_D1_ans140=(Dalej)
+#L_D1_msg150=And my sorrow is even greater, believe me! But anyway, listen to the old man's advice: don't poke your heads into Beta Lethera. That's a well-organized MSF trap. But if those blockheads get you, send me a message. I think I'll be able to get you both out. Good bye, Ternie, we might meet again.
+#L_D1_ans150=(Dalej)
+#L_D1_msg91=Oy, Ternie sweetie. Heed the old man's advice: grab this young man and lead him to the altar. Make him drunk if needed, but marry him! Young man, that was just a test. I'm not going to charge friends of my dear Ternie. I'm uploading the data on MSF patrols and unit locations to your computer. Heed my advice: avoid those military thugs. They are ordered to shoot first and ask later. You'll meet imperial forces when you're out of the portal. Tell them Watchmaker has settled their affairs and they are free to disembark again. Unfortunately, that's all I can do at the moment.
+#L_D1_ans91=(Dalej)
+#L_D1_msg101=Thanks a lot, Moishe. I'll visit you later for a cup of tea.
+#L_D1_ans101=(Dalej)
+#L_D1_msg111=I'm afraid, sweetie, you won't find me here. I'm going to curtail my business and find myself a quiet place in some distant agricultural system.
+#L_D1_ans111=(Dalej)
+#L_D1_msg121=But why? I thought your services would be in great demand during the war.
+#L_D1_ans121=(Dalej)
+#L_D1_msg131=The demand is too great to bear. A lot of people out there would like me to stop providing services to their enemies. Before, they've considered me a mere information collector, but now they think of me as a potential source of critical information leakage. Obviously, that's not the safest attitude.
+#L_D1_ans131=(Dalej)
+#L_D1_msg141=I'm very sorry to hear that.
+#L_D1_ans141=(Dalej)
+#L_D1_msg151=And my sorrow is even greater, believe me! But anyway, listen to the old man's advice: don't poke your heads into Charon. That's a well-organized MSF trap. But if those blockheads get you, send me a message. I think I'll be able to get you both out. Good bye, Ternie, we might meet again.
+#L_D1_ans151=(Dalej)

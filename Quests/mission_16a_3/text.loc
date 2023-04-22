@@ -1,0 +1,43 @@
+;*****************************
+; mission_16a_3
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_16aS_01a=Approach the station.
+#L_Quest_16aS_01b=You must break through to the hyper catapult station.
+#L_Quest_16aS_02a=Get back to the station.
+#L_Quest_16aS_02b=The hyper catapult has limited range, so you need to get closer to the station.
+
+;*****************************
+;Speeches
+;*****************************
+#L_Viper_01=All right, boys and girls, listen close. Flower lovers laid a whole load of mines around here, so keep your eyes open. If at least one of those explodes - for any reason - we'll be in deep trouble and no changed ID will help us. All clear?
+
+#L_Viper_02=Damn, now they'll alert everyone for sure! Retreat to the Simeiz portal! Quickly!
+
+#L_Kalem_01=I think I found the mine control frequency.
+#L_Viper_03=Can you detonate them?
+#L_Kalem_02=Why would I mention it otherwise? Close your ears, it's going to boom.
+
+#L_Hero_01=That's strange. It's like they are hiding or something.
+#L_Viper_04=Perhaps, they wanted to surprise us nicely and be off, huh?
+
+#L_Kalem_03=The station is barely emitting anything. It's abandoned.
+#L_Sedoy_01=I knew it would be like this. Too easy.
+#L_Kalem_04=Give me a few minutes, I'll try to activate the station in the automatic mode.
+
+#L_Viper_05=Ah, there they are. Do the job, smart guy, we'll keep the visitors at bay.
+
+#L_Kalem_05=Wow, that piece of junk has gone live! The warehouse at least.
+
+#L_Kalem_06=Done! The catapult is working! How nice of them was to leave the batteries charged. Now we won't have to wait.
+#L_Viper_06=But we'll have to break through to the station again.
+#L_Viper_07=Then start is up and let's hit it!
+#L_Kalem_07=Initiating jump.
+
+#L_sys_01=That was your biggest mistake. Whatever happens next, you won't be a part of it.

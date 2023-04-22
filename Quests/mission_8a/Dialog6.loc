@@ -1,0 +1,10 @@
+;*****************************
+;Dialog6.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D6_msg00=She's such a moron. Probably got poison up her brain or something. What next, partner?
+#L_D6_ans00=Let's pause on the investigation and improve our financial status. My friend Alex is offering a one-time well-paid mission. Let's go to XT-54.
+#L_D6_ans01=We should see what InoCo wants from us. Let's go to Lidau.

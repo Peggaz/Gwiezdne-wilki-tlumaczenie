@@ -1,0 +1,26 @@
+;*****************************
+; mission_16c
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_16ñ_01a=Reach the NESF station.
+#L_Quest_16ñ_01b=Corsair isn't going to converse long-distance, as it greatly increases chances of eavesdropping. You have to come close to the station to get into a safer communication network.
+#L_Quest_16ñ_02a=Dock to the trade station.
+#L_Quest_16ñ_02b=Dock to the Treasure Island Station to replenish ammo.
+
+;*****************************
+;Speeches
+;*****************************
+#L_Alex_01=I have preliminary intel on-
+#L_Corsair_01=Seems like we won't be needing it. Attention, all teams! General alert! Activate jammers!
+
+#L_Corsair_02=What the... Alexandra, is your friend insane?
+#L_sys_01=Main character died.
+#L_sys_02=Game over.
+
+#L_sys_03=You fled from combat. Mission failed.

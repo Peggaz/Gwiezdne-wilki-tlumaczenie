@@ -1,0 +1,15 @@
+;*****************************
+;Dialog3.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Validol
+#L_D3_msg00=Where to now? Lead the way.
+#L_D3_ans00=Kharkov Cargo Terminal in New Donbass.
+#L_D3_msg10=Oh really... New Donbass, huh? You're here not for nothing it seems. The sin is haunting.
+#L_D3_ans10=We stumbled upon a problem there. That guy at the station, I don't really know who he is, refuses to give us the cargo we're to deliver to the rightful owner.
+#L_D3_msg20=A guy? Not Beekeeper by any chance?
+#L_D3_ans20=Exactly.
+#L_D3_msg30=That's surely his way of doing things. He decided to misappropriate your cargo. Heh, at least something in this universe remains unchanged. I'll crack him in a second, no biggie.
+#L_D3_ans30=(Dalej)

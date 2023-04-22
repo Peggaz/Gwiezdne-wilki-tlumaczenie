@@ -1,0 +1,33 @@
+;*****************************
+;Dialog4.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;GreenRecruitOfficer
+#L_D4_msg00=Sorry, ladies and gentlemen, but right now this system is off limits.
+#L_D4_ans00=Why is that so? And just who are you?
+#L_D4_msg10=On request of the local inhabitants that are tired of pirates. We are a team of mercenaries, temporary under command of the local patrol. As for our name, you don't need it, as it will tell you nothing.
+#L_D4_ans10=Since when mercenaries have the right to open and close systems? I have a contract here and I'm not going to lose it. Let's settle this peacefully and I won't report you at the Exchange.
+#L_D4_ans11=I'm here to trade, not fight. You have goods I'm interested in.
+#L_D4_ans14=Oh, don't bother already. We've been looking for you. Lieutenant Ternie, call in the reinforcements. Corporal Greyhair, get the handcuffs ready. Gentlemen, you are under arrest in the name of the Empire. And don't try to resist.
+#L_D4_msg20= Sorry, pal, you had a chance to settle this quietly, but you wasted it. Attack!
+#L_D4_ans20=(Dalej)
+#L_D4_msg21=What goods are you talking about?
+#L_D4_ans21=I'm talking about the mothership you've stolen from the MSF. I'd like to buy it.
+#L_D4_msg31=Well, we spent some funds on getting this birdie... Plus the risk... I think 300,000 credits is a fair price.
+#L_D4_ans31=It's just ridiculous. I'm not paying you anything.
+#L_D4_msg41=You made your choice, so it's nothing personal. Attack!
+#L_D4_ans41=(Dalej)
+#L_D4_msg24=Sir, yes, sir!
+#L_D4_ans24=(Dalej)
+#L_D4_msg34=Too bad, skipper!
+#L_D4_ans34=(Dalej)
+#L_D4_msg44=What the hell?! Who are you?
+#L_D4_ans44=Military Intelligence, Special Unit. You shouldn't have stolen something as noticeable as an experimental mothership from the MSF. You've trapped yourselves. Lieutenant, what's the reinforcements status?
+#L_D4_msg54=Yes sir! Five strike teams and a transport of space marines! Sir!
+#L_D4_ans54=Fine. So, gentlemen? We're all peaceful people here, right? Should we stay this way?
+#L_D4_msg64=Peace would be better for sure... But you threw this ship out by yourselves and then lost the junkyard along with the whole system. From the legal angle, the base is our trophy. You can't just arrive and claim it back.
+#L_D4_ans64=But we're here, claiming it, as you can see.
+#L_D4_msg74=I see, but I generally don't care. And don't try to threaten me with your goons that side of the portal. We don't want any trouble with the MSF, but we won't give you the base just like that as well.
+#L_D4_ans74=What do you want, may I wonder?

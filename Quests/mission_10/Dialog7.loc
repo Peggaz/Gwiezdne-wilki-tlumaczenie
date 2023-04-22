@@ -1,0 +1,13 @@
+;*****************************
+;Dialog7.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Heretic
+#L_D7_msg00=Finally. What took you so long?
+#L_D7_ans00=We got here as fast as we could.
+#L_D7_msg10=All right, let's not waste time now. I managed to get a diary of Jacob Cust. It's full of uninteresting details, but the last recording is what we need. "I can't sleep. I'm rechecking my calculations over and over. Joseph laughs, saying that I'll have a heart attack because of this and won't need to fly anywhere. Hah, dream on, Joseph! Tomorrow we'll set out to X213 where I believe the Precursor portal is to be found." No need to continue, I believe you get the idea.
+#L_D7_ans10=What about portal coordinates?
+#L_D7_msg20=Nothing. But I've stolen a smart device from some old crackpot. It detects hyperspace hardware emission, so we'll have no problems finding the portal ourselves. But enough talking, let's set out to X213.
+#L_D7_ans20=(Dalej)

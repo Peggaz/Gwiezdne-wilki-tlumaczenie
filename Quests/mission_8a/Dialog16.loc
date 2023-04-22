@@ -1,0 +1,15 @@
+;*****************************
+;Dialog16.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Noise_Station
+#L_D16_msg00=It's you! Those fighters Aylon has mentioned, right? Thank you from all of us, from the entire system! You did a great job dealing with those bastards! Top-notch!
+#L_D16_ans00=Glad to be of help.
+#L_D16_msg10=As soon as you were done with Marco's jackals, we returned to the station. We found nearly everything the pirates had stolen from us. And freed Marco's hostages. Unfortunately, the maggots had killed a few poor souls already... We should have listened to Aylon and fight back at once!
+#L_D16_ans10=I'm sorry to hear that. Tell me, did you see a certain container among other findings? It should be labelled as medicines and rations.
+#L_D16_msg20=Just a sec, I'll tell them to check the docks... Yes, there is one! It must be yours, actually it's the only thing left in the cargo bay. Marco's thugs have taken everything else to warehouses.
+#L_D16_ans20=Excellent. Then load it onboard. And good luck.
+#L_D16_msg30=It was easier than I thought.
+#L_D16_ans30=This isn't over yet. We should find Viper as soon as we're in Endoria. I'm eager to hear what she has to say now.

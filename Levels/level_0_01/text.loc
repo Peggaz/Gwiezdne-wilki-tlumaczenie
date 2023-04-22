@@ -1,0 +1,99 @@
+;*****************************
+;text.script
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;UWAGI
+;*****************************
+;1.Do przet³umaczenia pozosta³o: #L_Msg_15
+
+;*****************************
+;MessageBox
+;*****************************
+#L_Msg_01=Misja nie powiod³a siê.
+#L_Msg_02=Twój instruktor zosta³ zestrzelony. Misja nie powiod³a siê.
+#L_Msg_03a=Misja nie powiod³a siê. 
+#L_Msg_04a=Twój bohater nie ¿yje. Misja nie powiod³a siê.
+#L_Msg_07=Informacja
+#L_Msg_08=Gratulacje!|Ukoñczy³eœ pierwsz¹ czêœæ samouczka.
+#L_Hint=Wskazówka
+
+;*****************************
+;Hints (Pilot Hint, sounding)
+;*****************************
+#L_Msg_03=Informacje o aktualnych misjach mo¿na znaleŸæ w Dzienniku Misji. Mo¿na go otworzyæ, naciskaj¹c "Q" lub odpowiedni przycisk w prawym dolnym panelu.
+#L_Msg_09=Kamera pod¹¿aj¹ca jest domyœlnie w³¹czona. Mo¿na obracaæ kamerê, przesuwaj¹c kursor myszy do krawêdzi ekranu lub naciskaj¹c, i przytrzymuj¹c prawy przycisk myszy.
+#L_Msg_10=Aby powiêkszyæ lub pomniejszyæ, u¿yj kó³ka myszy lub jednoczeœnie przytrzymaj lewy i prawy przycisk myszy.
+#L_Msg_11=Kamera swobodna. Kamera wycentrowana.
+#L_Msg_12=Kamera poœcigowa znajduje siê za statkiem. Kamera pod¹¿aj¹ca (zwi¹zana z obiektem) jest domyœlnie u¿ywana.
+#L_Msg_13=Gdy nieznany statek pojawia siê w zasiêgu twojego radaru, pojawi siê specjalna zak³adka na panelu kontaktów. Jej kolor wskazuje czy statek jest wrogi (czerwony) lub neutralny (¿ó³ty).
+#L_Msg_14=Aby wybraæ statek, kliknij na nim dwukrotnie, lub na jego panel pilota w dolnej czêœci ekranu. Dwukrotne klikniecie na portrecie pilota równie¿ wycentruje kamerê na jego statku.
+#L_Msg_15=To order a ship to move on the vertical axis, hold Shift + right mouse button and move the mouse up or down. Press Capslock to reveal object altitudes relative to your ship.
+#L_Msg_16=Aby rozkazaæ statkowi, aby zaatakowa³ wroga, kliknij prawym przyciskiem myszy na statek wroga lub jego zak³adkê. Klikniêcie prawym przyciskiem myszy na przyjaznym lub neutralnym statku, rozka¿e twojemu statkowi eskortowaæ go.
+#L_Msg_17=Aby zaatakowaæ neutralny obiekt, przytrzymaj Ctrl + prawy przycisk myszy, i trzymaj¹c klawisz Ctrl narysuj wokó³ niego ramkê.
+#L_Msg_18=Twoje statki mog¹ lataæ w trybie agresywnym, atakuj¹c ka¿dy wrogi obiekt na swej drodze. Aby przejœæ do tego trybu, naciœnij Ctrl + prawy przycisk myszy.
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_1a=Obracanie w poziomie
+#L_Quest_1b=Porusz kamer¹ wokó³ statku w p³aszczyŸnie poziomej kilka razy, przytrzymuj¹c prawy przycisk myszy i przesuwaj¹c mysz w lewo lub w prawo.
+#L_Quest_2a=Obracanie w pionie
+#L_Quest_2b=Porusz kamer¹ wokó³ statku w p³aszczyŸnie pionowej kilka razy, przytrzymuj¹c prawy przycisk myszy i przesuwaj¹c mysz w górê lub w dó³.
+#L_Quest_3a=Oddalanie
+#L_Quest_3b=Oddal kamerê tak daleko, jak to mo¿liwe, za pomoc¹ kó³ka myszy lub trzymaj¹c lewy i prawy przycisk myszy, i przesuwaj¹c mysz w górê lub w dó³. 
+#L_Quest_4a=Przybli¿anie
+#L_Quest_4b=Teraz przybli¿ kamerê tak blisko, jak to mo¿liwe.
+#L_Quest_5a=Skupianie
+#L_Quest_5b=Skup siê na statku instruktora, dwukrotnie klikaj¹c lewym przyciskiem jego kartê w panelu kontaktów, lub rysuj¹c ramkê wokó³ niego, trzymaj¹c Alt.
+#L_Quest_6a=Poruszanie
+#L_Quest_6b=Wybierz swój statek poprzez klikniêcie na panel pilota lub rysuj¹c ramkê wokó³ niego. Spróbuj podlecieæ do instruktora klikaj¹c prawym przyciskiem myszy w miejsce w pobli¿u. Aby poruszaæ siê pionowo, przytrzymaj Shift + lewy przycisk myszy. Dla wygody mo¿na w³¹czyæ wskaŸnik wysokoœci przez naciœniêcie Caps Lock.
+#L_Quest_7a=Ruch w stronê obiektu
+#L_Quest_7b=Kliknij prawym przyciskiem myszy na boi nawigacyjnej.
+#L_Quest_8a=Tryb agresywny
+#L_Quest_8b=Naciœnij Ctrl + prawy przycisk myszy.
+#L_Quest_9a=Latanie do instruktora
+#L_Quest_9b=Leæ do instruktora.
+#L_Quest_10a=Pod¹¿aj za instruktorem
+#L_Quest_10b=Pod¹¿aj za instruktorem do strzelnicy.
+#L_Quest_11a=Atakowanie
+#L_Quest_11b=Zniszcz 6 celów.
+#L_Quest_12a=Atakowanie obiektów neutralnych
+#L_Quest_12b=Kiedy trzymasz klawisz Ctrl, wskaŸnik myszy nad neutralnym obiektem zmieni kolor na czerwony. Kliknij prawym przyciskiem myszy na ten neutralny obiekt, aby go zaatakowaæ. Mo¿esz równie¿ wybraæ obiekt jako cel trzymaj¹c Ctrl i rysuj¹c wokó³ niego ramkê.
+#L_Quest_13a=Mapa
+#L_Quest_13b=Wybierz swój statek na mapie i kliknij prawym przyciskiem myszy na celu podró¿y.
+
+;*****************************
+;Pilot messages
+;*****************************
+#L_Ace_01=Zostañ tam, gdzie jesteœ, dogoniê Ciê.
+#L_Ace_02=Na pocz¹tek: ¿adnych imion. Mów do mnie instruktorze. Nie mam pojêcia czego szukasz w dzisiejszym niespokojnym kosmosie, i nie chcê tego wiedzieæ. Nie jesteœ piratem - wyczuwam ich z daleka - wiêc nie troszczê siê o to czy do³¹czysz do najemników, korporacji czy si³ imperialnych.
+#L_Ace_03=Mówisz, ¿e mo¿esz lataæ transportowcem? W tym przypadku, umiejêtnoœci pilotowania myœliwcem bêd¹ mi³ym dodatkiem. Wiêc zacznijmy taktyczne i bojowe podstawy pilota¿u.
+#L_Ace_04=Twoje umiejêtnoœci nawigacyjne wp³yn¹ zarówno na twoj¹ misjê i twoje ¿ycie. Wiêc zacznijmy od kamer zewnêtrznych. Spróbuj rozejrzeæ siê, obracaj¹c kamerê wokó³ statku poziomo.
+#L_Ace_06=Teraz obróæ kamerê w pionie.
+#L_Ace_07=Doskona³e. Jednak, aby w pe³ni zrozumieæ, co siê dzieje trzeba wiedzieæ, jak j¹ powiêkszaæ i pomniejszaæ.
+#L_Ace_08=Po pierwsze, oddal kamerê tak daleko, jak mo¿esz.
+#L_Ace_09=Teraz powiêksz tak blisko, jak to mo¿liwe.
+#L_Ace_10=Œwietnie. W prawym górnym rogu jest panel sterowania kamer¹. Jeœli masz chwilê, nale¿y zapoznaæ siê z wszystkimi rodzajami kamer.
+#L_Ace_13=Od czasu do czasu trzeba bêdzie skupiæ kamerê na obiekcie. Spróbuj koncentruj¹c siê na moim myœliwcu.
+#L_Ace_14=Tu¿ obok panelu sterowania kamera jest panel kontaktów. Jak tylko statek pojawia siê w zasiêgu twojego skanera, jego karta jest dodawana do tego panelu. Mo¿esz u¿yæ jej do skupienia siê na statku i wystawiania stosownych rozkazów.
+#L_Ace_17=Rozkazy ruchu wydawane s¹ przez klikniêcie prawym przyciskiem myszy. Statki w tym trybie bêd¹ poruszaæ siê w ich aktualnej p³aszczyŸnie.
+#L_Ace_18=Teraz ¿ebyœ to poczu³, spróbuj do mnie przylecieæ.
+#L_Ace_21=Dobrze. Mo¿esz równie¿ lecieæ do obiektów, a nie tylko w puste miejsca. Wybierz swój statek i kliknij prawym przyciskiem myszy na boi nawigacyjnej.
+#L_Ace_23=Wróæ do mnie i bêdziemy kontynuowaæ.
+#L_Ace_24=W pobli¿u istniej¹ cele szkoleniowe, czas aby sprawdziæ twoje umiejêtnoœci obs³ugiwania broni. Pod¹¿aj za mn¹.
+#L_Ace_26=Twoim zadaniem jest zniszczenie tych celów.
+#L_Ace_27=Doskonale! Nale¿y pamiêtaæ, ¿e w czasie, gdy atakujesz wszystkich przeciwników w trybie agresywnym, musisz jeszcze wydaæ rozkaz do ataku na neutralne obiekty.
+#L_Ace_28=Teraz wróæmy do boi nawigacyjnej, która jest neutralnym obiektem. Postaraj siê j¹ zniszczyæ.
+#L_Ace_30=Teraz nadszed³ najwy¿szy czas aby opanowaæ mapê. Mo¿na j¹ otworzyæ, naciskaj¹c klawisz Tab lub klikaj¹c przycisk Mapa w prawym dolnym rogu.
+#L_Ace_31=Mapa pokazuje ca³y system gwiezdny i pozwala na ustawienie celów podró¿y o du¿ym zasiêgu i zaatakowaæ odleg³e cele. Pokazuje te¿ wszystkie kluczowe miejsca.
+#L_Ace_32=Mam oznaczone miejsce, musimy siê do niego dostaæ. Ruszajmy.
+
+;*****************************
+;NavPoints
+;*****************************
+#L_nav_01=Strzelnica
+#L_nav_02=Punkt Alfa
+#L_nav_03=Cel podró¿y

@@ -1,0 +1,17 @@
+;*****************************
+;Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Alex
+#L_D2_msg00=Are you mad?
+#L_D2_ans00=Come on, it was just a joke.
+#L_D2_msg10=That was awkward. Everyone, attack.
+#L_D2_ans10=(Dalej)
+#L_D2_msg20=Wait, we'll handle that dolt ourselves.
+#L_D2_ans20=(Dalej)
+#L_D2_msg30=That was very stupid! Not only you set us up, you flushed everything we had fought and hoped for down the drain!
+#L_D2_ans30=(Dalej)
+#L_D2_msg40=I couldn't agree more.
+#L_D2_ans40=(Dalej)

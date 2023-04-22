@@ -1,0 +1,13 @@
+;*****************************
+;Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Dispetcher
+#L_D2_msg00=Hey there, it's Taihon Station. Don't miss our store with a fine assortment of goods and great prices!
+#L_D2_ans00=As a matter of fact, USS representatives should be waiting for us here. By or at the station.
+#L_D2_msg10=Oh... Of all the corporators only Triada had been here, but they packed up and left a while ago. But I've never seen any puffer toads at this station.
+#L_D2_ans10=That's strange. USS doesn't like to be late. Well, then we'll wait, if you don't mind.
+#L_D2_msg20=Me? Why the hell should I mind? Wait, if you have nothing else to do. Hey, care to visit our store while you're here? I'll tell the manager to give you a discount. Oh, wait, incoming call. Over and out.
+#L_D2_ans20=(Dalej)

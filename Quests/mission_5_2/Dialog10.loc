@@ -1,0 +1,13 @@
+;*****************************
+;Dialog10.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;RecruitOfficer
+#L_D10_msg00=Boss, you should've told us there would be a whole gang of pirates involved. Instead, you tricked us with nonsense about debts of honor.
+#L_D10_ans00=Sorry, but I couldn't reveal everything back then.
+#L_D10_msg10=I don't care. Formally, we've executed our contract. We can take you to the portal, if you wish.
+#L_D10_ans10=Hey, wait, I have another small mission to offer you. I'll pay!
+#L_D10_msg20=I'm sure you do, But we don't work with customers who treat us like tin soldiers. So right after the portal we split. Daredevils out.
+#L_D10_ans20=(Dalej)

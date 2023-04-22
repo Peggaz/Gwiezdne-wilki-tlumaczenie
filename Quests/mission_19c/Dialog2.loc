@@ -1,0 +1,41 @@
+;*****************************
+;Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Alex
+#L_D2_msg00=Don't bother hiding. We've detected you.
+#L_D2_ans00=Hey, Alex. I'm not sure I'm glad to see you here.
+#L_D2_msg10=You, friend? My... Life is surprising at times, isn't it?
+#L_D2_ans10=Damn right.
+#L_D2_msg20=What a sweet conversation. If I knew that Greys were your friends, I would be more cautious letting you into this operation!
+#L_D2_ans20=(Dalej)
+#L_D2_msg30=Friends?! Those bastards kidnapped and got me loaded with drugs in some back of beyond! Those "friends" are so dead!
+#L_D2_ans30=(Dalej)
+#L_D2_msg40=Boss, this is becoming tense.
+#L_D2_ans40=Ternie, Alexandra, wait. Haste makes waste. Alex, don't you want to explain anything to me? Starting from the beginning, who are you? I thought I knew you well, but now I see that my information is kind of outdated.
+#L_D2_msg50=This will take time...
+#L_D2_ans50=Don't you worry, I have it now. Greyhair, do we have time?
+#L_D2_msg60=All the time in the world, boss! No one since the Big Bang has ever had as much time as we have now.
+#L_D2_ans60=(Dalej)
+#L_D2_msg70=I'm the same Alex Koshevoy you had traveled around the Outer Worlds with before you decided to change a cockpit to an office on some ball of dust. But I'm not into trade anymore. I lead an organization that protects traders both legally and physically. The former is provided by the FTU, the latter is carried out by our combat fleet - grey fighters you've already encountered. Before you ask me, no, I have nothing to do whatsoever with Ternie's abduction or the incident with your convoy.
+#L_D2_ans70=What do you have to do with then? Why do I get to know about your hobby of assembling combat fleets only now?
+#L_D2_msg80=Don't try to be sarcastic, you're not too good at it. As for our organization and fleet... For how long haven't you been in space? For about three years, am I right? It has changed a lot. Berserks and aliens had given the Outer Worlds a hard time, but the real troubles started along with the cursed civil war. Turned out there was too many weaponry around and enough people eager to use it. Power brokers had no resources to provide safety of traders. We pestered imperial bureaucrats, corporation directors. We told them the Outer Worlds would cease to exist, if we didn't establish reliable trade routes. Many systems were on the brink already, without necessary resources and equipment. Bureaucrats agreed, but held up hands, as if they were doing their best already. I guess only InoCo's CEO Oliver Reynolds and patrolmen promised to actually help us. But Reynolds was bound by the board of directors, while most patrolmen were poor as cargo bay rats. So we had to equip the fleet meant to protect traders and fight pirates all by ourselves.
+#L_D2_ans80=But why all the secrecy? You weren't doing anything wrong, were you?
+#L_D2_msg90=You see... The FTU only had money for a few up-to-date fighters. It would be unreal to collect the necessary funds by increasing union taxes, as most traders live by contracts and spend spare money on repairs and maintenance. So we had to infiltrate imperial governments and corporation managements to organize a small but steady leak of funds and equipment. After all, if governments don’t care about ordinary people, let them at least pay to those who does. Many a little makes a fighter.
+#L_D2_ans90=(Dalej)
+#L_D2_msg100=I'm sure that neither Corsair, nor Astra would have refused to provide you with equipment.
+#L_D2_ans100=(Dalej)
+#L_D2_msg110=Save your assuredness to better days. We've repeatedly offered to launch a large-scale campaign against pirates. At least in the New Empire. And each time we got the gate from your bureaucrats.
+#L_D2_ans110=(Dalej)
+#L_D2_msg120=The fleet has no manpower for such a campaign, you know it.
+#L_D2_ans120=(Dalej)
+#L_D2_msg130=Yeah, they told us the same. And we had no money. While they were citing what they hadn't, pirates were killing traders - in corporation systems, in the space of the NESF and the MSF. Or should we have turned our backs to that and wait until you were finished playing your war?
+#L_D2_ans130=Alex, who kidnapped Ternie?
+#L_D2_msg140=Harry Cayer. He was the one of FTU founders and coordinated the Capricorn Sector. But then... You see, we have completely forgotten about one thing. The level we operated on not only allowed access to other somebody else's funds, but also gave real power to those who controlled agents. Just one order and they would left their workplaces, destroyed all the data, compromised management chains and documents circulation. No empire or corporation would pick up after such a blow. Most likely, Cayer considered that a chance to establish his own empire or something. When we got to know that, it was already too late. As a result, we lost all agents in the Capricorn, Centaur and Sagittarius sectors. But worst of all was that Cayer befriended Min Imu, the current Triada leader, and Kane, USS top manager. It seems Emperor Azar joined their gang as well. Who knows what that alliance is capable of.
+#L_D2_ans140=My, you sure have had many nice people around you recently! I could even feel envious. I wish I knew all this before - I'd applied for a job! I hope you know what's happened to my pilots?
+#L_D2_msg150=I'm very sorry, but your pilots are dead... They were shot down by Min Imu's goons who also murdered my investigators. We had to force nearly all agents to work like mad, but we found the cargo. It is stored at the FTU headquarters in New Kyoto. And this is our very problem. Neurochips. Devices meant to connect people to a unified network and, as you have probably guessed already, control them. The idea belongs to InoCo's new artificial intelligence or SAM - Advanced Artificial Personality - as they call it. This time InoCo really exceeded themselves and SAM turned out to be more powerful than any previous models. But, unfortunately, as mad. It wants to build a society of the future, using us as building blocks. And, naturally, it's ready for certain sacrifices, if some don't agree. My hacker friend has got information that in the recent months SAM has been secretly - but none the less actively - building a whole Berserk fleet. And it's ready to attack at any moment.
+#L_D2_ans150=I believe at this moment I have to burst into tears and hug you, promising to give my life to foil somebody's evil plans? Alex, don't you think you've been hiding too much from me?
+#L_D2_msg160=I got to know about the cargo and its fate not long ago. As for SAM's plans and actual cargo contents, I got to know this just an hour ago, when Cleric - that hacker - broke into SAM's database.
+#L_D2_ans160=(Dalej)

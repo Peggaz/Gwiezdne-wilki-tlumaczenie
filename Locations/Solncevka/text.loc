@@ -1,0 +1,12 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#L_nav_Trade=Stacja Handlowa "Solncevka"
+#L_Cop=Stacja Patrolu "Gliniarz"
+#L_pirate_station=Stacja Piratów "Yo-Breda"
+#L_Motel=Kompleks motelowy
+#L_Kasino=Kasyno "Z³oty Buck"
+#L_Rec=Centrum rozrywkowe Joego

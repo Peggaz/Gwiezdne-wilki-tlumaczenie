@@ -1,0 +1,14 @@
+;*****************************
+;Dialog3.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m8d_Shinji
+#L_D3_msg00=Did you reconsider?
+#L_D3_ans00=I did. And I repeat that the contract unambiguously specifies the destination and real cargo owner. Also, don't try to frighten me, I'm not a rookie.
+#L_D3_ans01=All right, we'll come along. I don't need another litigation.
+#L_D3_msg10=It's a pity. I tried appealing to reason, but apparently you disregarded it.
+#L_D3_ans10=(Dalej)
+#L_D3_msg11=Right choice. Proceed to the designated coordinates, we shall escort you.
+#L_D3_ans11=(Dalej)

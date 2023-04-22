@@ -1,0 +1,23 @@
+;*****************************
+;Dialog7.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Alisa
+#L_D7_msg00=Are your ears clogged or what?! I told you to defend the satellite!
+#L_D7_ans00=(Dalej)
+#L_D7_msg10=Hey, our business was more important than defending your satellite.
+#L_D7_ans10=(Dalej)
+#L_D7_msg20=That satellite is vital right now. We could fix it, send to a new orbit and track Kane's every move!
+#L_D7_ans20=(Dalej)
+#L_D7_msg30=What's done is done. We should focus on the current matters.
+#L_D7_ans30=(Dalej)
+#L_D7_msg40=Speaking of those, we can try and pull the information out of the satellite database. But I need time and mothership equipment. The bots didn't have time to fix the communications, so I'll have to route it via a laser modulator.
+#L_D7_ans40=Our base is at your service.
+#L_D7_msg50=Thanks, I'm docking. There's another thing: until the transmission is over, the mothership must stay put. Otherwise I'll have to re-calibrate the emitter to new coordinates. Can you manage it?
+#L_D7_ans50=(Dalej)
+#L_D7_msg60=Piece of cake. Let me just draw targets all over the place, make some coffee and put a chair on a missile pylon. You know, not to miss a thing. Partner, is everyone insane around here? Not only that we have to stay here as decoy ducks, we have to do it unsupported!
+#L_D7_ans60=We'll manage. The main thing is to allocate our forces right.
+#L_D7_msg70=I'm on it.
+#L_D7_ans70=(Dalej)

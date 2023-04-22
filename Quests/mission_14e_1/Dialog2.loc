@@ -1,0 +1,13 @@
+;*****************************
+;Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Uel
+#L_D2_msg00=I can see you're ready. I have other news for you. Despite the body of your friend Ternie died, I managed to make an electronic copy of her mind. It's currently inactive in the data bank.
+#L_D2_ans00=So she's alive?!
+#L_D2_msg10=Strictly speaking, she isn't. I wouldn't risk activating her mind, as it may seriously damage the integrity of her psyche. Perhaps, in the future, we will be able to create an android body to bear Ternie's mind. Then you will be able to communicate again.
+#L_D2_ans10=Why didn't you tell me you managed to save her personality?!
+#L_D2_msg20=I did not want this news to affect your choice. It is time. I shall activate the hyper engine. When you have the cargo onboard, a copy of mine will take you all to Zebos.
+#L_D2_ans20=(Dalej)

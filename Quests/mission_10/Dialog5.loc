@@ -1,0 +1,35 @@
+;*****************************
+;Dialog5.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Heretic
+#L_D5_msg00=Finally. What took you so long?
+#L_D5_ans00=We made a detour to pick up a guide. Meet Joseph.
+#L_D5_msg10=A guide? What for? I have the diary of Jacob Cust himself.
+#L_D5_ans10=(Dalej)
+#L_D5_msg20=Jacob's diary?! My, is he alive?
+#L_D5_ans20=(Dalej)
+#L_D5_msg30=I have no idea!
+#L_D5_ans30=(Dalej)
+#L_D5_msg40=But the last recording? What does it say?!
+#L_D5_ans40=(Dalej)
+#L_D5_msg50=Let me read it for you. "I can't sleep. I'm rechecking my calculations over and over. Joseph laughs, saying that I'll..." Is he talking about you?
+#L_D5_ans50=(Dalej)
+#L_D5_msg60=Yes, that's me! Do read on!
+#L_D5_ans60=(Dalej)
+#L_D5_msg70=As you say. But you should really take it easier, man. "...Saying that I'll have a heart attack because of this and won't need to fly anywhere. Hah, dream on, Joseph! Tomorrow we'll set out to X213 where I believe the Precursor portal is to be found."
+#L_D5_ans70=(Dalej)
+#L_D5_msg80=No need to continue. Oh well, it seems Jacob hasn't returned. He made this recording before our departure to the Precursor portal in which he vanished. Poor soul...
+#L_D5_ans80=(Dalej)
+#L_D5_msg90=Sorry, I didn't know that. I think we should set out to X213 immediately. I managed to get a device from some old crackpot that will open the portal for us. So let's not waste time.
+#L_D5_ans90=(Dalej)
+#L_D5_msg100=Not so fast. There's no portal in X213. It's located in X220.
+#L_D5_ans100=(Dalej)
+#L_D5_msg110=The diary-
+#L_D5_ans110=(Dalej)
+#L_D5_msg120=The diary has assumptions and guesses, while I have facts. The portal is located in X220. Tell me, can you really open it?
+#L_D5_ans120=(Dalej)
+#L_D5_msg130=Why would I drag myself into that back of beyond otherwise? So you're saying it's in X220. All right, I believe you. Let's set out to X220.
+#L_D5_ans130=(Dalej)

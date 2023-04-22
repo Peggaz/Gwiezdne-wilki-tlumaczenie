@@ -1,0 +1,10 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#L_universal_station=Stacja Handlowa "Walencja"
+#L_portal_to_AC=Portal do Alfa Centauri
+#L_living=Kompleks hotelowy "Bursztyn"
+#L_patrol=Stacja patrolu NESF

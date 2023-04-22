@@ -1,0 +1,14 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#L_basa=Baza wojskowa USS
+#L_control=Satajca Zarz¹dzania Stoczni
+#L_verf01=Stocznia 1
+#L_verf02=Stocznia 2
+#L_verf03=Stocznia 3
+#L_verf04=Stocznia 4
+#L_cargo=Magazyny
+#L_STO=Stacja konserwacyjna

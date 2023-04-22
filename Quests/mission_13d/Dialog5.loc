@@ -1,0 +1,15 @@
+;*****************************
+;Dialog5.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Sedoy
+#L_D5_msg00=This is their den. These bastards sure have serious defenses... I wish we had more people!
+#L_D5_ans00=There is no more.
+#L_D5_msg10=We can go back to XT-23 and look for mercenaries.
+#L_D5_ans10=We don't have time to fuss about. Let's try and get closer to the most effective fire range unnoticed.
+#L_D5_msg20=Attention, enemy ships detected! Transmitting data!
+#L_D5_ans20=(Dalej)
+#L_D5_msg30=That's it. We're out of choices.
+#L_D5_ans30=(Dalej)

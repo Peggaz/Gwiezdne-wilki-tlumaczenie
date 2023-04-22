@@ -1,0 +1,27 @@
+;*****************************
+;Dialog11.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m12_Jamshegi
+#L_D11_msg00=Did you forget something, gentlemen?
+#L_D11_ans00=We're Cleric's friends and would like to talk to him.
+#L_D11_msg10=Cleric's friends... This is a nice one! If I didn't know he couldn't have any, I would think you were serious. Anyway, you'll have to leave. He's too valuable a thing to let anyone else own it.
+#L_D11_ans10=(Dalej)
+#L_D11_msg20=What the hell, Jamshedji?! Don't call me that ever again!
+#L_D11_ans20=(Dalej)
+#L_D11_msg30=Shut up. I've grown tired of you recently, so I believe it's high time to stop making a fuss about you. Now, boy, you're in a different streak and you might not like it.
+#L_D11_ans30=Listen, you can decide on the streak later. What if I pay you for a conversation with him?
+#L_D11_msg40=Hmm... I don't really want to mess about with that brat... Oh, why not, have a talk. For, say, 500,000 credits. But don't try anything stupid, or your life's going to have a dark streak, too.
+#L_D11_ans40=Are you mental? I can chat with the emperor himself for that kind of money!
+#L_D11_msg50=Oh, shame on you, shame on you for haggling for a chance to talk to a friend. A friend! Men, let's teach these dolts to value friendship, shall we?
+#L_D11_ans50=(Dalej)
+#L_D11_msg60=I knew there was something fishy about you, trader. Jamshedji, is that you?
+#L_D11_ans60=(Dalej)
+#L_D11_msg70=Yes, captain. I hope you remember our deal: you mind your own business and we mind our own. So, this is our business.
+#L_D11_ans70=(Dalej)
+#L_D11_msg80=Shut your gob, my memory is fine. All right, boys, let's be on our way. Nothing interesting here.
+#L_D11_ans80=(Dalej)
+#L_D11_msg90=Pardon me for the distraction. Where did we leave off? Oh yes, you were getting ready to die.
+#L_D11_ans90=(Dalej)

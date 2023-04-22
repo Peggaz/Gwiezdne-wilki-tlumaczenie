@@ -1,0 +1,20 @@
+;*****************************
+;Dialog27.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Dispetcher
+#L_D27_msg00=Finally, you're here. What took you so long?! We're nervious because of those thick skulls, sniffing out and lurking around here. Load the cargo quickly and scram. We don't need trouble.
+#L_D27_ans00=What's he talking about?
+#L_D27_msg10=Nevermind, they are afraid of their own shadows here.
+#L_D27_ans10=(Dalej)
+#L_D27_msg20=I have a feeling there's more to it.
+#L_D27_ans20=(Dalej)
+#L_D27_msg30=Should I tell you where to shove that feeling? You've been hired to transport a cargo, so do that. If you want to break off, pay a penalty of 5 G's and get out.
+#L_D27_ans30=Hey, wait, we're loading it.
+#L_D27_ans31=Then penalty is it. Our deal is cancelled. There's something fishy about that cargo.
+#L_D27_msg40=That's better. There's an intrasystem portal nearby, we'll make up for the time we've lost because of you. Catch the coordinates. And move it, move it!
+#L_D27_ans40=(Dalej)
+#L_D27_msg41=You shouldn't have done it, huckster. We can't let anyone outside this station find out about the cargo. Attack!
+#L_D27_ans41=(Dalej)

@@ -1,0 +1,13 @@
+;*****************************
+;Dialog12.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;VksOfficer
+#L_D12_msg00=Scorpions calling trader, what took you so long?
+#L_D12_ans00=How dare you criticize me?! Where the hell have you been? Haven't you heard the call?!
+#L_D12_msg10=We have and we've also assessed the enemy force. You were not in danger. Now there's a more important strategic task - to liquidate the pirate den. So, you distract them as a bait, we deal with the guards. Get moving. But we'll share the profit in addition to the payment!
+#L_D12_ans10=What payment?! After you've left us, I won't agree to any joint mission. Hell, I won't even take a leak in the same sector you're in!
+#L_D12_msg20=As you wish. With or without you, we'll clear this system of pirates. And you might as well forget about trophies!
+#L_D12_ans20=(Dalej)

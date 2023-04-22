@@ -1,0 +1,13 @@
+;*****************************
+;Dialog8.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D8_msg00=Jeez, no one forced me to talk.
+#L_D8_ans00=(Dalej)
+#L_D8_msg10=You made the right choice. It's a pity that only you were capable of following the pure logic.
+#L_D8_ans10=To hell with logic! How should we fight now?
+#L_D8_msg20=I will be glad to provide you with my mothership and copies that will follow your every order. Right now we need to break through to the portal to Proserpine. Unfortunately, the hacker had time to damage my communications and hyper engine.
+#L_D8_ans20=(Dalej)

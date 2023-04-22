@@ -1,0 +1,15 @@
+;*****************************
+;Dialog18.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;VksOfficer
+#L_D18_msg00=Attention, ships, state the purpose of your visit.
+#L_D18_ans00=We're mercs, officer. Looking for some decent work. Any chances we'll find it here?
+#L_D18_msg10=General alert! The intruding mothership has been detected! Detain all ships and question the pilots.
+#L_D18_ans10=(Dalej)
+#L_D18_msg20=Let's hit it!
+#L_D18_ans20=(Dalej)
+#L_D18_msg30=Stop right there! This is Team Zeta, our visitors are here. I repeat: our visitors are here! Engaging, send backup.
+#L_D18_ans30=(Dalej)

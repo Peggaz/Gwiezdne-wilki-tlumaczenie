@@ -1,0 +1,43 @@
+;*****************************
+;Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Cleric
+#L_D2_msg00=Finally, you're here. What took you so long?
+#L_D2_ans00=(Dalej)
+#L_D2_msg10=You have to thank us for coming arriving at all. What are you doing in InoCo's space?
+#L_D2_ans10=(Dalej)
+#L_D2_msg20=I had to hack a gate.
+#L_D2_ans20=(Dalej)
+#L_D2_msg30=Do what?
+#L_D2_ans30=(Dalej)
+#L_D2_msg40=I always forget who I have to talk to... Let me repeat for you, lamers: I needed to hack a gateway!
+#L_D2_ans40=(Dalej)
+#L_D2_msg50=Cleric, I'm very close to turning round and leaving. Perhaps, I should actually let you lie on a bed you've made.
+#L_D2_ans50=(Dalej)
+#L_D2_msg60=I meant no offence. Come on, it's a shame you don't know the basics. All right, I'll chew this over. All data that passes the Galanet is distributed between recipients by just a dozen of servers also called gateways. After the war, a few gateways passed under control of the Old Empire, a few other - under control of the New Empire, and the rest - under control of the corporations. Considering that it was InoCo that developed gateways in the first place, non-corporation ones have limited capabilities. Do you get it now?
+#L_D2_ans60=(Dalej)
+#L_D2_msg70=No. Why did you have to hack the gate at all?
+#L_D2_ans70=(Dalej)
+#L_D2_msg80=By Great ENIAC! To access the information that can't be reached from the Web! Oh, I've found lots of interesting things! Imperial administrators have depleted my accounts, but now they'll have to pay even more or I'll make certain things public! Besides, it's completely safe, just forge a passcode and voila. Also, InoCo doesn't guard server stations at all.
+#L_D2_ans80=Cleric, so you say those gateways accumulate all available data. Does this include information on ships jumping through portals? I was wondering if one could track a certain vessel, given its signature was known.
+#L_D2_msg90=Easy as pie!
+#L_D2_ans90=All right, I need you to track the route of a small group of ships. Alex, transfer your data.
+#L_D2_msg100=I got it. Let me feed it to the machine. Now we'll have to wait for a few seconds while it's polling relays. Hmm, what do we have here? Oh, it's encrypted, huh? Yeah, right, try and hide something from Cleric. Hah! You thought that would stop me? Come on, baby, crack. Don't be so touchy... Aha! No one rejects Cleric! Holy cr...
+#L_D2_ans100=What is that? Did you find where the ships went?
+#L_D2_msg110=What? Ships? Ah, those ships. I found it long ago. I meant that-
+#L_D2_ans110=(Dalej)
+#L_D2_msg120=We have no time for "that". Pack up and we'll leave the system before anyone starts wondering what we're doing on this station.
+#L_D2_ans120=(Dalej)
+#L_D2_msg130=Give me a few seconds to download the files. Man, it's the bomb! The huge bomb. Now InoCo will have to cough up so much for me keeping my trap shut, that I'll buy myself a whole system! No, a whole sector even! Cleric is unstoppable!
+#L_D2_ans130=(Dalej)
+#L_D2_msg140=Yeah, but anyone can still easily wallop you on the head. I told you to pack up and leave. Or should I drop you here?
+#L_D2_ans140=(Dalej)
+#L_D2_msg150=Sure, sure, I'm coming. Just let me plant a tiny trojan... And your "wallop" thing sounded very insulting. I'm not that harmless, you know. All right, I'm in my clunker, we're good to go.
+#L_D2_ans150=Hey, you still haven't told me where those ships went.
+#L_D2_msg160=Haven't I? That's strange, why would I... Oh, now I remember! I thought you'd get me out of the system first, and then I'd tell you. Perhaps...
+#L_D2_ans160=Why you!
+#L_D2_msg170=Calm down, don't be so nervous. Don't forget I'm the only one with the information you need. Hey, you have to admit Cleric is really cool! Cleric rules!
+#L_D2_ans170=To hell with you, it's a deal. But dare not trick me after that. Got it?

@@ -1,0 +1,16 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#M_pirate=Stacja Piratów
+#M_observ=Obserwatorium gwiazd
+#L_Name_Portal=Portal do Rakksla
+#L_STO=Stacja konserwacyjna
+#L_trade=Stacja Handlowa "Kitaro"
+#L_imu=Rezydencja KLanu Ymu
+#L_sci=Stacja naukowa "Ubi"
+#L_lab=Laboratorium "Tuvoo"
+#L_fact1=Zak³ad "Koso"
+#L_fact2=Zak³ad "Shoygun"

@@ -1,0 +1,13 @@
+;*****************************
+;Dialog19.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;VksAce
+#L_D19_msg00=Attention, pirate ships, stop your engines and prepare to surrender!
+#L_D19_ans00=(Dalej)
+#L_D19_msg10=Uh-oh.
+#L_D19_ans10=Hey, we're not pirates! We're escorting a transport convoy, it's right behind us.
+#L_D19_msg20=Yeah, sure. Fire at the pirates!
+#L_D19_ans20=(Dalej)

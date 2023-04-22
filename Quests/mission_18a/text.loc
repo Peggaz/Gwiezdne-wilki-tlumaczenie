@@ -1,0 +1,50 @@
+;*****************************
+; mission_18a
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_18a_01a=Reach the defensive perimeter.
+#L_Quest_18a_01b=Reach the defensive perimeter. Don't wander off the course or you might hit a mine.
+#L_Quest_18a_02a=Kill the emperor.
+#L_Quest_18a_02b=Kill the emperor before he escapes the system.
+
+;*****************************
+;Speeches
+;*****************************
+#L_vks_01=I knew you were lying! General alert!
+#L_Viper_01=Idiot! I told you to stay put!
+
+#L_vks_02=Major, your request has been granted. You will now contact His Imperial Majesty. Stay where you are.
+
+#L_vks_03=Major, my men will escort you to the destination. I hope I don't have to repeat that you must not wander off the course.
+#L_Viper_02=You don't. We are not here to kick up a fuss.
+
+#L_Viper_03=You can't get rid of us just like that, you bastards. Retreat to our forces!
+
+#L_emperor_01=Central, get the hyper catapult ready!
+#L_Viper_04=He must not escape!
+
+#L_emperor_02=Major, you're making a huge mistake! I am empire's only hope to survive!
+#L_Viper_05=I know that, but you see... Your idea of blood and chaos, I got too enthusiastic over that already!
+
+#L_vks_04=By Space, they killed the emperor himself!
+#L_vks_05=Run for it!
+#L_vks_06=Stop right there! On second thought... Aw, what the hell. Run for it!
+
+#L_disp_01=We're under attack!
+#L_emperor_03=Damn, change the course! Activate the portal!
+#L_Viper_06=The bastard is trying to reach the portal. Step on it!
+
+#L_vks_07=The emperor has escaped! Everyone, get to the rendezvous point!
+
+#L_disp_02=We're ready for a jump, Your Majesty!
+#L_emperor_04=Then initiate it! Are you trying to get us killed?!
+
+#L_sys_01=Main character died.
+#L_sys_02=Game over.
+#L_sys_03=You and Viper must visit the designated coordinates in your fighters.

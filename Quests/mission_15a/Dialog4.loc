@@ -1,0 +1,21 @@
+;*****************************
+;Dialog4.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Viper
+#L_D4_msg00=Fool! Damn fool! Why did he do this?!
+#L_D4_ans00=(Dalej)
+#L_D4_msg10=So he did, why should we care?
+#L_D4_ans10=(Dalej)
+#L_D4_msg20=He was my teacher, my friend... He gave me the second chance to get back in service after the wound and Wolves' betrayal... But he was wrong...
+#L_D4_ans20=(Dalej)
+#L_D4_msg30=Perhaps, he was right. Perhaps, we flopped.
+#L_D4_ans30=(Dalej)
+#L_D4_msg40=Don't be ridiculous, Bykov! You served the Empire, you provided law and order for its inhabitants. Yes, we had unpleasant and even tragic incidents, but in general we did our job well! But what can be offered by rebels led by a former pirate?!
+#L_D4_ans40=(Dalej)
+#L_D4_msg50=A former pirate may still be a decent person.
+#L_D4_ans50=(Dalej)
+#L_D4_msg60=Perhaps, but Corsair is different. All right, team, let's go. Thet lieutenant gave us some intel on Greys, let's take a look - at our HQ in New Jerusalem 2. Initiating jump.
+#L_D4_ans60=(Dalej)

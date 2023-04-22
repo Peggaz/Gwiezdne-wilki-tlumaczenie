@@ -1,0 +1,57 @@
+;*****************************
+; mission_9e
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_9e_01a=Reach the Hapha system.
+#L_Quest_9e_01b=A friend of Greyhair, who is a vessel engine expert, works at a maintenance station in Hapha. Tuning plasma invertor power units requires the highest standards of knowledge and nearly doubles the speed and maneuverability of large-capacity vessels.
+#L_Quest_9e_02a=Reach the maintenance station.
+#L_Quest_9e_02b=You must reach the maintenance station.
+#L_Quest_9e_03a=Get into Ashelon.
+#L_Quest_9e_03b=Somebody among InoCo employees garrisoned in Ashelon is bound to know what happened in Hapha.
+#L_Quest_9e_04a=Get into New Jerusalem 2.
+#L_Quest_9e_04b=Considering that the MSF attacked InoCo, it would be wise to leave corporation systems immediately.
+#L_Quest_9e_05a=Meet with Meier.
+#L_Quest_9e_05b=Claus Meier awaits either his cargo or news about it by the New Jerusalem 2 portal.
+
+;*****************************
+;Speeches
+;*****************************
+#L_Lastochka_01=You shouldn't have agreed, partner. A real hassle for such a meager reward.
+#L_Hero_01=Come on. I know what it feels like to invest everything into cargo only to see it getting stuck somewhere.
+#L_Lastochka_02=You have to have brains to provide for both purchase and transportation.
+#L_Hero_02=And he has brains all right. He offered us money - surely enough for this kind of transportation. Let's focus on scanners. He said something about an MSF team. I have no idea what they are doing here and like not finding out.
+
+#L_Sedoy_01=25 grands sure sounds nicer. Boss, we should pick that box up. It's easy as pie and the cash is good.
+#L_Hero_03=We'll see about that. Let's focus on scanners. He said something about an MSF team. I have no idea what they are doing here and like not finding out.
+
+#L_Meier_01=Hey, what are you doing?! Spare me, I beg you!
+#L_Lastochka_03=Partner, why the hell did you do that? That Meier was sure nervous and bothersome, but not to this extent.
+#L_Hero_04=I... You know... Damn, I have no explanation. Yes, it was stupid and irrational. But, Ternie, I'm so tired of making decisions, honoring requests, extricating, thinking non-stop... Can't I afford a stupid irrational action once in a while? One unexplainable by logic?
+#L_Sedoy_02=Well, you probably can, boss. We live in a free universe. But I wouldn't like it to become your habit.
+#L_Hero_05=Come on, take it easy. That Meier guy is now having a rest in our cargo bay. And we had some fun. Let's focus on scanners. He said something about an MSF team. I have no idea what they are doing here and like not finding out.
+
+#L_Sedoy_03=That's it, boss. My engine expert friend is now spread across a bulkhead at best.
+#L_vks_01=New targets acquired!
+#L_vks_02=Affirmative. Fire at will.
+#L_Lastochka_04=So much for tuning our engines...
+
+#L_vks_03=Teams Bravo and Charlie! We're in trouble, requesting backup!
+
+#L_Meier_02=So, did you get my cargo?
+#L_Hero_06=Sorry, pal, but the MSF blasted your box across the system. But we have a few questions to ask you.
+#L_Meier_03=Curses! Those bloody thick skulls reached the station first. Now I'll have to explain myself...
+#L_Hero_07=Huh?
+#L_Meier_04=Nevermind. Boys, you know the drill, no witnesses.
+
+#L_Lastochka_05=Partner, we have backup!
+#L_Hero_08=High time.
+
+#L_ino_01=Attention, ships, stop your engine and prepare to surrender!
+#L_Hero_09=Hey, slow down. We have a valid pass to the corporation space. Transmitting now.
+#L_ino_02=Hmm... Your pass is sure valid. Just a second. Got it... Yes, sir. Attention, ships, stop your engines. There's someone willing to talk to you. I repeat, don't try to move or it'll be considered as resistance.

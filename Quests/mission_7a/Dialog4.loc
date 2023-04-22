@@ -1,0 +1,34 @@
+;*****************************
+;Dialog4.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D4_msg00=Who are you and where have you come from? And what do you mean by "hacked"?
+#L_D4_ans00=(Dalej)
+#L_D4_msg10=Call me Cleric, baby. Cleric's my name that strikes terror into hearts of system administrators, awe into hearts of lamers and rapture into hearts of babes.
+#L_D4_ans10=(Dalej)
+#L_D4_msg20=Boy, if you don't start talking like a normal person, I'll beat those teenager mannerisms out of you with a missile, I promise. So, who are you, why were thick skulls pursuing you, and what have you done to their ships?
+#L_D4_ans20=(Dalej)
+#L_D4_msg30=I'm a hacker, you could've guessed. The best in the galaxy! For you to know, only I managed to break into InoCo's central server, but I-
+#L_D4_ans30=(Dalej)
+#L_D4_msg40=Cut to the chase.
+#L_D4_ans40=(Dalej)
+#L_D4_msg50=I wanted to specify who you met with. I had certain issues with the MSF and had to hide until things calm down. And what's the best place? Right among the enemy! It went good until some brass decided to organize physical, shooting and piloting qualifications for middle-rank officers.
+#L_D4_ans50=(Dalej)
+#L_D4_msg60=A middle-rank officer? You?
+#L_D4_ans60=(Dalej)
+#L_D4_msg70=I made myself first lieutenant papers. I had to eat something and live somewhere. These papers got me a table in the mess and a room! So, it happened so one thug nearly broke my arms at a physical tranining session. My shooting skills left much to be desired as well... But, according to papers, I was a natural born high achiever. So I had to run off - and there you were, right on time!
+#L_D4_ans70=Why do you need us, if you're that good?
+#L_D4_msg80=I need protection. You have decent ships and if you can help me get out of this system, we'll мы take both lame station admins and the MSF down a notch or two.
+#L_D4_ans80=(Dalej)
+#L_D4_msg90=Attention, civilians. Detain - I order you! - detain that fighter! If you help the Empire, we'll have things to discuss. Otherwise you'll add another firing squad to your list!
+#L_D4_ans90=(Dalej)
+#L_D4_msg100=So, hacker, not so good now, eh? Get yourself a striped jacket.
+#L_D4_ans100=(Dalej)
+#L_D4_msg110=Listen, don't hand me over to them! I'm begging you! I'll do anything. Hack a computer? Not a problem! Protect yours? Easy! Just help me! The MSF will trick you anyway!
+#L_D4_ans110=I doubt they'll let us leave.
+#L_D4_msg120=I've disabled their tracking system. And their main forces have to deal with my virus first. All we need to do is defeat a few guard ships, and that's not hard. Then I'm completely at your service! New papers, identities - you'll get it all!
+#L_D4_ans120=Sorry, man, but I'm not taking this risk. The MSF needs you, and in return I'm expecting to get something I need. Attack!
+#L_D4_ans121=I do know what it's like to negotiate with the MSF. So it seems we'll need your skills to get the information, boy. Consider yourself under our protection. Now let's scram.

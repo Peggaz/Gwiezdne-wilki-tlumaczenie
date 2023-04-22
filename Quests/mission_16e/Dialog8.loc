@@ -1,0 +1,12 @@
+;*****************************
+;Dialog8.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D8_msg00=SAM, can you call for backup now?
+#L_D8_ans00=(Dalej)
+#L_D8_msg10=Affirmative. But it will be heavily suppressed on entry. Many units will be destroyed.
+#L_D8_ans10=This won't do us any good. All right, let's continue on our own. But I'll tell you, when we need them.
+#L_D8_ans11=If you can't get us backup now, we're done for. Do it!

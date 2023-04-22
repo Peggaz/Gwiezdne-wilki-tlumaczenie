@@ -1,0 +1,12 @@
+LOCALE_FILE
+FILETYPE MODDING 
+
+;*****************************
+;NavPoints
+;*****************************
+#M_mini=Stacja wydobywcza
+#L_stat=Stacja USS "Strzelec-1"
+#L_USS=Baza wojskowa USS
+#L_ter=G³ówny Terminal
+#L_fact1=Zak³ad "KO-1"
+#L_fact2=Zak³ad "RO-3"

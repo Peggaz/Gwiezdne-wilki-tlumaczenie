@@ -1,0 +1,10 @@
+;*****************************
+;Dialog16.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D16_msg00=Partner, wait, I've detected pirates. There's really a whole gang! The scanner shows about twenty ships and a couple of corvettes. There are also three transports in the middle. Wait, I'll try to intercept their comm frequency. This will take time, but at least we'll get to know what they are talking about.
+#L_D16_ans00=Why? Obviously, this encounter will not do us any good. Let's turn back, I'll warn Alex, so he can change the convoy route.
+#L_D16_ans01=Do it. I wonder what are those transports. But I'll warn Alex anyway, so he can change the convoy route. Just in case.

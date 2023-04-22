@@ -1,0 +1,11 @@
+;*****************************
+;Dialog26.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D26_msg00=There's nothing here, partner. We've been cheated. Should we leave?
+#L_D26_ans00=Leave now? No way, that Quarter of yours owes me one. Let's get back to the station and put muscle on the old bastard. He might know something.
+#L_D26_msg10=Partner, I love adventuring, but there's a whole gang of pirates!
+#L_D26_ans10=Count again, Ternie. The station was guarded by only one team plus Squinty's men. Your Quarter seems to be a greedy bastard who saves on everything, including security. So let's pick up the trophies and pay him a return visit.

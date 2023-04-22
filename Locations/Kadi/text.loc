@@ -1,0 +1,23 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#L_nav_00=Portal do Nowego Jerusalem
+#L_nav_01=Portal Grot 1
+#L_nav_02=Portal Grot 2
+#L_nav_03=Portal Grot 3
+#L_nav_04=Portal orion 1
+#L_nav_05=Portal Orion 2
+#L_nav_10=Agent Triady
+#L_nav_99=Stacja centralna USS
+#L_portal_to_kadi=Portal wewnêtrzny
+#L_portal_to_kadi=Portal wewnêtrzny
+#L_portal_to_kadi=Portal wewnêtrzny
+#L_nav_06=Stacja Patrolu "Colm-14"
+#L_nav_09=Stacja Piratów "Martwy Jack"
+#L_nav_07=Stacja przetwórnicza "Inxel"
+#L_nav_08=Stacja zasilania "Stark"
+#L_STO=Stacja konserwacyjna
+#L_Base=Baza wojskowa MSF

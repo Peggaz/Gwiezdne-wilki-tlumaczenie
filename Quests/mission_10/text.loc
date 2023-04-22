@@ -1,0 +1,43 @@
+;*****************************
+; mission_10
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_10_01a=Reach X203.
+#L_Quest_10_01b=You have a meeting arranged in X203.
+#L_Quest_10_02a=Reach the Precursor portal.
+#L_Quest_10_02b=Reach the Precursor portal in X220.
+#L_Quest_10_03a=Find the Precursor portal.
+#L_Quest_10_03b=The Precursor portal is somewhere in X213. Find and activate it.
+#L_Quest_10_04a=Protect Phantom.
+#L_Quest_10_04b=Protect Phantom. He's the only one who can activate the Precursor portal.
+#L_Quest_10_05a=Protect Heretic.
+#L_Quest_10_05b=Protect Heretic. He's the only one who can activate the Precursor portal.
+
+;*****************************
+;Speeches
+;*****************************
+#L_Hero_01=All right. We're one dash away from the portal.
+
+#L_Sedoy_01=What the hell? Berserks!
+
+#L_Sedoy_02=What the... They were eliminated!
+#L_Lastochka_01=Seems like they weren't.
+#L_Sedoy_03=We drove them into a dead-end system and killed everyone. Every freaking one of them! I remember how-
+#L_Lastochka_02=Greyhair, stop reminiscencing! We have new visitors!
+#L_Hero_02=Oh, dammit.
+
+#L_Lastochka_03=What a smart kid. Hey, partner, let's visit that station, perhaps? I wonder what ships they have.
+#L_Hero_03=Later. We don't have much time.
+
+#L_Lastochka_04=Come on, partner. We'll manage without this crackpot. Let's pay Phantom a visit.
+#L_Lastochka_05=Come on, partner. We'll manage without this crackpot. Let's pay Heretic a visit.
+
+#L_sys_01=This game is obviously not for you. Try playing Doom, Quake or Lineage. You might like them better.
+#L_sys_02=Phantom is dead, you failed to protect him. That was a fatal mistake.
+#L_sys_03=Heretic is dead, you failed to protect him. That was a fatal mistake.

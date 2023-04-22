@@ -1,0 +1,15 @@
+;*****************************
+;Dialog20.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Trader
+#L_D20_msg00=The best guards ever, I don't think.
+#L_D20_ans00=How's Alex?
+#L_D20_msg10=Alex is dead... Please do us a favor, get the hell out, I despise you.
+#L_D20_ans10=(Dalej)
+#L_D20_msg20=Hey, it's impolite!
+#L_D20_ans20=(Dalej)
+#L_D20_msg30=Stuff it, will you... It's too late for politeness. We're going back to the station, the contract is cancelled.
+#L_D20_ans30=(Dalej)

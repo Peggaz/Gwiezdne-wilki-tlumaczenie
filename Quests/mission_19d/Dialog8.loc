@@ -1,0 +1,17 @@
+;*****************************
+;Dialog8.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;USSOfficer
+#L_D8_msg00=Central, send backup! Send everyone! We're in deep trouble!
+#L_D8_ans00=(Dalej)
+#L_D8_msg10=Backup sent, hold on there.
+#L_D8_ans10=(Dalej)
+#L_D8_msg20=Min, Azar, don't you want to join in?
+#L_D8_ans20=(Dalej)
+#L_D8_msg30=Err, my men are rearming now. Maybe later.
+#L_D8_ans30=(Dalej)
+#L_D8_msg40=And we don't have enough soldiers to guard His Imperial Majesty. Kane, just tell your men to make no bones of those smart alecs. The empire will make up for lost trophies.
+#L_D8_ans40=(Dalej)

@@ -1,0 +1,13 @@
+;*****************************
+;Dialog9.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Sedoy
+#L_D9_msg00=That's it, boss. We don't have a base anymore, which means we can't cover our rear. I suggest we get back to XT-23 and look for help.
+#L_D9_ans00=I don't think we'll find any other teams. That's not the Cassilian Exchange. Let's hit them with what we have.
+#L_D9_msg10=Attention, enemy ships detected! Transmitting data!
+#L_D9_ans10=(Dalej)
+#L_D9_msg20=That's it. We're out of choices.
+#L_D9_ans20=(Dalej)

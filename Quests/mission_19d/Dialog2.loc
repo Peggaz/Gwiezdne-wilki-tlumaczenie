@@ -1,0 +1,19 @@
+;*****************************
+;Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Alex
+#L_D2_msg00=Well, I take it you're all done.
+#L_D2_ans00=(Dalej)
+#L_D2_msg10=No, we're still alive. But when they crush us, we'll be done for sure.
+#L_D2_ans10=(Dalej)
+#L_D2_msg20=As you know, there's many a slip between the cup and the lip. This is what we have on Vaudille: there are a few large objects, including a regional USS HQ and a dockyard. We don't know Azar's location, but will be able to find out as he's guarded by elite MSF forces. Those guys are dangerous, so hit them first and ask questions later. Besides, there is also Min Imu with a Triada escort and USS security teams. We're not interested in those, but they may still cause a nuisance, if we turn in the wrong direction. As soon as the emperor has been dealt with, we shall leave the USS space. The job will have been done and we need no unnecessary casualties. Nataly you said there were hyperspace jammers in Vaudille?
+#L_D2_ans20=(Dalej)
+#L_D2_msg30=Yes, we launched a Lion to gather intel and it detected at least one jammer buoy. It barely escaped back to Prien. Now only our ship has a charged hyper spring.
+#L_D2_ans30=(Dalej)
+#L_D2_msg40=Too bad. Then we'll have to pass through Ergelan. We'll try to jump into the middle and clear the way for others. Then we'll have to act fast and think even faster. I doubt that USS soldiers in Sunji will stand idly by, while we'll be having fun in adjacent systems. So-
+#L_D2_ans40=(Dalej)
+#L_D2_msg50=Alex, trouble. Two large ships are approaching our positions. USS transports, judging by engines emission.
+#L_D2_ans50=(Dalej)

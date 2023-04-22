@@ -1,0 +1,9 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#L_trade=Stacja Handlowa "Baika³"
+#L_kfni=Baza wojskowa NESF w Angarsk
+#L_patrol=Stacja Patrolu "Bratsk"

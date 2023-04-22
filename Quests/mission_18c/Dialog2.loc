@@ -1,0 +1,85 @@
+;*****************************
+;Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Corsair
+#L_D2_msg00=Since we're all in the space of the New Empire, I hope you don't mind if I chair our small meeting. We know each other, though we've never met in person. Still, for the sake of politeness, let's get introduced. You don't mind, do you? Fine. I am Red Corsair, Chief of the New Empire Security Operations.
+#L_D2_ans00=(Dalej)
+#L_D2_msg10=Alex Trump, Admiral of the Military Space Forces.
+#L_D2_ans10=(Dalej)
+#L_D2_msg20=Aja Shumova, Triada Corporation. The real Triada, not that dump Imu is ruling.
+#L_D2_ans20=(Dalej)
+#L_D2_msg30=SAM, the artificial intelligence of the 3rd generation and the CEO of InoCo Corporation.
+#L_D2_ans30=(Dalej)
+#L_D2_msg40=Fine. It's been a minute and we still aren't at each other's throats. This gives hope for a fruitful conversation!
+#L_D2_ans40=(Dalej)
+#L_D2_msg50=I wish I could share your optimism.
+#L_D2_ans50=(Dalej)
+#L_D2_msg60=Aw, come on, admiral. While we were kicking each other's butts, some Greys blood sucked on our resources and used our own funds to assemble a force capable of giving all Outer Worlds hell. And the timing is just perfect. The MSF is disorganized by Azar's escape; the NESF has no forces to protect all systems; Triada, USS and InoCo are fighting each other. I guess we just have to laugh at ourselves for being tricked so cunningly.
+#L_D2_ans60=(Dalej)
+#L_D2_msg70=Do you have intel on enemy forces?
+#L_D2_ans70=(Dalej)
+#L_D2_msg80=Only rumors that a fleet of Greys was sighted in Prien. They have a few cruisers - your newest Lions, as far as I know - and decent support. We are trying to establish a buffer zone along the Shula-Tira-Corrino line, but to do that we have to pull all forces out of internal systems.
+#L_D2_ans80=(Dalej)
+#L_D2_msg90=How many large ships have been sighted?
+#L_D2_ans90=(Dalej)
+#L_D2_msg100=Three to five, this is unconfirmed. All are supported by fighters, which keep everyone out of effective scanner range. Moreover, your MSF guys wouldn't surrender, making all this even more complicated.
+#L_D2_ans100=(Dalej)
+#L_D2_msg110=They are following the last order they got - to defend the systems of the Old Empire.
+#L_D2_ans110=(Dalej)
+#L_D2_msg120=I can't argue with that. The emperor really did the dirty on us with his retreat.
+#L_D2_ans120=(Dalej)
+#L_D2_msg130=I would thank Imu for a dirty trick like that!
+#L_D2_ans130=(Dalej)
+#L_D2_msg140=Thank him for what? For getting away with his toadies and leaving the army uncontrolled? Yes, the MSF is our enemy, but at least they've maintained a kind of order in their systems. Admiral, if your people assume police functions and are not aggressive to NESF ships, Empress Astra will personally guarantee no persecution. Moreover, all willing will be able to continue serving in our fleet. Naturally, if they have no criminal records. Can you spread this message among MSF troops?
+#L_D2_ans140=(Dalej)
+#L_D2_msg150=I can't guarantee that everyone will get it. As far as I know, the command chain is as good as paralyzed. We have no people right now to replace those dropped out.
+#L_D2_ans150=(Dalej)
+#L_D2_msg160=That's all right anyway. We, in our turn, will stop all military operations against the MSF. Let your people focus on maintaining order in systems, as I've already suggested. 
+#L_D2_ans160=(Dalej)
+#L_D2_msg170=This is the least important goal right now. We can afford weakening the systems temporarily to free up resources for the main goal - the elimination of Greys' HQ.
+#L_D2_ans170=(Dalej)
+#L_D2_msg180=Temporarily, hah! As soon as pirates find out some places are defenseless, they won't miss a trick. It'll be a bloodshed to haunt our grandchildren's nightmares!
+#L_D2_ans180=(Dalej)
+#L_D2_msg190=My situation analysis indicates that damage that pirates might cause is nothing compared to what the Greys can do to humanity.
+#L_D2_ans190=(Dalej)
+#L_D2_msg200=And my experience indicates that Aja's right. So the NESF won't leave its systems without patrols. By the way, why can't InoCo help us?
+#L_D2_ans200=(Dalej)
+#L_D2_msg210=All corporate military resources are currently focused on protecting InoCo board of directors, research departments and data banks. We managed to prevent an act of sabotage organized by Greys to destroy the data vital for the civilization. However, there's a strong possibility that there might be another attack.
+#L_D2_ans210=(Dalej)
+#L_D2_msg220=I suggest that we get back to our top priority. Just who are those Greys? Where did the come from? I only have bits of information from Major Viper, the former chief of MSF Security, and it confirms your intel. The Greys have infiltrated the management of empires and corporations. But what are they after?
+#L_D2_ans220=(Dalej)
+#L_D2_msg230=I don't know, admiral. The Greys have not only infiltrated us, they have also robbed us of funds, ships and equipment. We found a few of their agents, which, unfortunately, had managed to escape before we could detain them.
+#L_D2_ans230=(Dalej)
+#L_D2_msg240=They robbed Triada as well by negotiating with Min Imu. That bastard let them into the best black market of guns and equipment.
+#L_D2_ans240=(Dalej)
+#L_D2_msg250=InoCo Security has also managed to find Greys' agent network that was on a lookout for innovations. As for the structure, the intel I have allows me to suggest with the probability of 92% that the Greys have been divided into two conflicting parties.
+#L_D2_ans250=So maybe that fleet is Prien is one of the parties looking to deal with the other?
+#L_D2_msg260=Negative. According to my intel, the second party was almost completely eliminated. So the Greys have again become a unified and well-managed organization. That fleet is heading for their HQ, at which they are also keeping the valuable cargo of neural interfaces - InoCo's latest development stolen by the Greys.
+#L_D2_ans260=(Dalej)
+#L_D2_msg270=Neural what now?
+#L_D2_ans270=(Dalej)
+#L_D2_msg280=Interfaces. SAM told us about them a bit. Basically, it's a cargo of chips that will let us control computers and equipment directly, without the need for buttons, switches and whatnot. Those chips will also let us receive data directly. I can't tell you more as I'm not much into all that highbrow stuff. Besides, we have more important things to do - destroy Greys' HQ before they escape with all the valuables.
+#L_D2_ans280=(Dalej)
+#L_D2_msg290=We sure don't have many options, I agree. But I haven't yet heard where that HQ is located.
+#L_D2_ans290=(Dalej)
+#L_D2_msg300=Hah, admiral, hold on to your chair, you'll like what I'm going to say. The Greys are operating under the cover of the FTU, meaning we must strike New Kyoto.
+#L_D2_ans300=(Dalej)
+#L_D2_msg310=Traders?
+#L_D2_ans310=(Dalej)
+#L_D2_msg320=Exactly! Damn, it's a perfect cover. Go wherever you want, deliver whatever you want, and no one will ask you too many questions. This also allows them to recruit agents, conduct recon and exchange information easily.
+#L_D2_ans320=(Dalej)
+#L_D2_msg330=Los hijos de perra! I have to admit, they are smart.
+#L_D2_ans330=(Dalej)
+#L_D2_msg340=No one is arguing with that. That's why we cannot waste time, it's either them or us. Admiral, Aja, SAM, what do you say?
+#L_D2_ans340=(Dalej)
+#L_D2_msg350=You can count on me. I'd like to ask the Greys a few questions.
+#L_D2_ans350=(Dalej)
+#L_D2_msg360=I'm in and I don't care which party was connected with Imu. They are all the same.
+#L_D2_ans360=(Dalej)
+#L_D2_msg370=You can rely on fire support my ship can provide.
+#L_D2_ans370=(Dalej)
+#L_D2_msg380=Great. Then dock with the station. I have some equipment you will find useful.
+#L_D2_ans380=(Dalej)

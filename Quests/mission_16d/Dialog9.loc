@@ -1,0 +1,25 @@
+;*****************************
+;Dialog9.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Cleric
+#L_D9_msg00=Damn, we lost it!
+#L_D9_ans00=(Dalej)
+#L_D9_msg10=What was that?
+#L_D9_ans10=(Dalej)
+#L_D9_msg20=A powerful data impulse - SAM escaped. Too bad, but... Now we'll be able to track it. Hmm, let me connect to the portal network... All right, what do we have here? Oh really, I say... I have good news and bad news. Let me start with the former: it seems SAM only had one backup to which it uploaded everything. Now the bad news is that it's located in Zebos.
+#L_D9_ans20=(Dalej)
+#L_D9_msg30=At Triada's? That's interesting. By the way, you were really quick with tracing it and whatnot. Nice work.
+#L_D9_ans30=(Dalej)
+#L_D9_msg40=Hah, piece of cake. Even a lamer would do it just like that. Portals are still sending reports on passing data streams. So I only had to poll a few gates and voila. What should we do next?
+#L_D9_ans40=(Dalej)
+#L_D9_msg50=We must destroy SAM. But we can't do this unaided. I'm afraid our grey brotherhood will have to step out of shadows, because we'll need all the help we can get. Damn, I hate explanations. As my friend Watchmaker says, "Oh woe ".
+#L_D9_ans50=What help are you talking about?
+#L_D9_msg60=I'm talking about the New Empire and other fine parties, which are gathering in Eridan. You will laugh, but if our agents have got it right, our future allies are now discussing ways to blow up the FTU headquarters.
+#L_D9_ans60=(Dalej)
+#L_D9_msg70=You're definitely cracked. They will start firing as soon as they see us in Eridan!
+#L_D9_ans70=(Dalej)
+#L_D9_msg80=Who said we'll be there alone? Start up the hyper engine, Cleric, we're leaving.
+#L_D9_ans80=(Dalej)

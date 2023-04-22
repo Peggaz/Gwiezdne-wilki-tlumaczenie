@@ -1,0 +1,36 @@
+;*****************************
+; mission_16b_2
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_16b_05a=Wait for a message from Fry.
+#L_Quest_16b_05b=Stay in the system and wait for a message from Ethan Fry regarding Min Imu's route. Keep your eyes open, you might encounter the convoy earlier.
+#L_Quest_16b_06a=Eliminate Tan Imu.
+#L_Quest_16b_06b=Destroy Tan Imu's ship.
+#L_Quest_16b_07a=Eliminate the escort.
+#L_Quest_16b_07b=Destroy all enemy ships.
+
+;*****************************
+;Speeches
+;*****************************
+#L_Sedoy_01=Now it's gotten serious.
+#L_Aia_01=Don't let Tan get away. We'll deal with those later!
+
+#L_Aia_02=Savay, Tan's trying to get away. Intercept her!
+#L_Tanaka_01=I see. What about you?
+#L_Aia_03=We'll manage! Just don't let that bastard escape!
+
+#L_Tanaka_02=Hey, I told you to wait for me.
+#L_Aia_04=Calm down, there are enough targets for everyone!
+
+#L_Tanaka_03=Aja, it's done.
+#L_Medish_01=May curses fall on you! Burn in hell!
+#L_Aia_05=Sure thing! Just go there first and get the fire burning!
+
+#L_sys_01=Min Imu reached the destination. Mission failed.
+#L_sys_02=You fled from combat. Mission failed.

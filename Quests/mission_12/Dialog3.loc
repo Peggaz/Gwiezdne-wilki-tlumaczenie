@@ -1,0 +1,11 @@
+;*****************************
+;Dialog3.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Sedoy
+#L_D3_msg00=What's next, boss?
+#L_D3_ans00=We'll search for Ternie.
+#L_D3_msg10=Sure thing, but where exactly?
+#L_D3_ans10=I wish I knew, Greyhair. I wish I knew... My only clue so far is Alexandra Sukhova from the NESF. I sent her a message and she asked to meet her in Cadi. So, we have us a destination.

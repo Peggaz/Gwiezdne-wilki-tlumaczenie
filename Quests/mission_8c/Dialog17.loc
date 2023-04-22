@@ -1,0 +1,19 @@
+;*****************************
+;Dialog17.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Trader
+#L_D17_msg00=Stop firing, damn you! We surrender!
+#L_D17_ans00=(Dalej)
+#L_D17_msg10=You should've thought before, when you were ordered to heave aback. We don't need your clunkers now, and you're going to the station in escape pods, peaceful and tractable.
+#L_D17_ans10=(Dalej)
+#L_D17_msg20=It seems those guys are in trouble. Should we join in, boss?
+#L_D17_ans20=Why? That's not our problem. Let's go our way and not attract attention.
+#L_D17_ans21=Let's help them!
+#L_D17_msg30=As you say. But we could whack those thick skulls easily.
+#L_D17_ans30=And get a bounty on our heads in all imperial systems? No thanks, we have another goal right now - to reach Aurora without getting into trouble.
+#L_D17_msg31=Boss, my telepathy unit is off today. Them who?
+#L_D17_ans31=Traders, who else?!
+#L_D17_ans32=The MSF, naturally! Let's get us some legal support.

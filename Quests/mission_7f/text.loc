@@ -1,0 +1,23 @@
+;*****************************
+; mission_7f
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_7f_01a=Leave InoCo space.
+#L_Quest_7f_01b=You haven't come to an agreement with InoCo and must leave the corporation space immediately.
+
+;*****************************
+;Speeches
+;*****************************
+#L_Hero_01=What was that?!
+#L_Lastochka_01=I don't know. But I hit my head against the dashboard. There's going to be a bump now.
+#L_Sedoy_01=It seems your bump is the smallest of our problems.
+
+#L_Lastochka_02=Oh, not again!
+
+#L_ino_01=You had only one chance and you wasted it. Good bye.

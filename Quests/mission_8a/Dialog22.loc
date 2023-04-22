@@ -1,0 +1,16 @@
+;*****************************
+;Dialog22.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m8a_Marko
+#L_D22_msg00=Well, friend, bravery is something that has a price and inspires respect.
+#L_D22_ans00=For a moment I thought you were throwing dust in my eyes to save your sorry butt.
+#L_D22_msg10=Pal, if you haven't noticed, you've got no chances here. But I'm a businessman, so here's my final offer. You pay me 25 grands, take your container, and leave peacefully.
+#L_D22_ans10=And here's my final answer. I take the container free of charge. What part of it don't you get?
+#L_D22_ans11=Well, the price is all right. Let me transfer the money.
+#L_D22_msg21=Great! Businessmen can always come to an agreement. The container is onboard of your ship. We hope to see you again in this land of stability, democracy and justice of the Phoenix Sector.
+#L_D22_ans21=(Dalej)
+#L_D22_msg31=Partner, I can't believe it. You gave them money so easily! There was my share as well. And Greyhair's! It was Greyhair's share too!
+#L_D22_ans31=Calm down, Ternie. It was easier that way. Now we should head for Endoria and ask Viper a few questions.

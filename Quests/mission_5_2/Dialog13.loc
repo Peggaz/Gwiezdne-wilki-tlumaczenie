@@ -1,0 +1,27 @@
+;*****************************
+;Dialog13.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D13_msg00=Hey, you're going to let him go. He ran this place!
+#L_D13_ans00=(Dalej)
+#L_D13_msg10=We don't care about him. But what were you doing by a pirate station?
+#L_D13_ans10=We are free traders and those pirates robbed us. We just want our cargo back!
+#L_D13_msg20=I can explain!
+#L_D13_ans20=(Dalej)
+#L_D13_msg30=A patrol team? What the hell are you doing here?!
+#L_D13_ans30=(Dalej)
+#L_D13_msg40=Second Lieutenant Rookie Elm Easter, sir! Assigned to the Patrol Base Z-18 for practical training. In my free time I analyzed police protocols of smuggler arrests to determine their key traffic routes. It led us to the Achilles system, where we wanted to conduct recon and confirm our assumptions. Suddenly we received a mayday signal from this trader, hurried to the rescue and helped fight off the pirates, sir! For some reason, the trader rushed into this system, urging us to avenge on the pirates. And though we hadn't planned to get this deep into enemy space, we followed the trader, hoping to save his life.
+#L_D13_ans40=Great Space, this is ridiculous!
+#L_D13_msg50=What's he talking about, lieutenant?
+#L_D13_ans50=(Dalej)
+#L_D13_msg60=I have no idea, sir! Could be a concussion - he believes we are some kind of special forces.
+#L_D13_ans60=This young boy will go a long way!
+#L_D13_msg70=All right, rookie, your story sounds like truth. Trader, I suggest you visit a medical center, as combat injuries can be very serious. And you should leave this system as soon as possible. I'll let the portal patrol know to let you through. Over and out.
+#L_D13_ans70=(Dalej)
+#L_D13_msg80=Boss, we have a problem! Station reactor is going to explode any minute!
+#L_D13_ans80=(Dalej)
+#L_D13_msg90=All ships, get away from the station immediately! Move it!
+#L_D13_ans90=That's it, kiss our loot goodbye...

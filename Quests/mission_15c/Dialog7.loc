@@ -1,0 +1,17 @@
+;*****************************
+;Dialog7.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;VksAce
+#L_D7_msg00=Central, enemy contact! Send backup!
+#L_D7_ans00=(Dalej)
+#L_D7_msg10=Got you. General alert! Transmitting target coordinates!
+#L_D7_ans10=(Dalej)
+#L_D7_msg20=Moscow has confirmed the general alert. Moving out to position. Central, fire up additional scanners, we must not lose the target.
+#L_D7_ans20=(Dalej)
+#L_D7_msg30=Activating scanners.
+#L_D7_ans30=(Dalej)
+#L_D7_msg40=So much for being unnoticed...
+#L_D7_ans40=(Dalej)

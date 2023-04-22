@@ -1,0 +1,17 @@
+;*****************************
+;Dialog15.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D15_msg00=What about Ternie? Is she alive?
+#L_D15_ans00=(Dalej)
+#L_D15_msg10=I can't determine that. I have no vital data. We need to hurry up to Lidau, let paramedics take care of Ternie.
+#L_D15_ans10=Lidau is quite a long way from here. Perhaps, there's a medical station nearby?
+#L_D15_msg20=We'll cover it in one jump. Get ready, opening the hyperspace tunnel.
+#L_D15_ans20=Kalem, are you with us?
+#L_D15_msg30=No, dammit, I'm going to stay here, wait for more Greys to come and paint a target on my forehead. Of course, I'm with you!
+#L_D15_ans30=(Dalej)
+#L_D15_msg40=The tunnel is open. Jump.
+#L_D15_ans40=(Dalej)

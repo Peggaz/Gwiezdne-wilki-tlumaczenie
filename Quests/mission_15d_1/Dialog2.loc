@@ -1,0 +1,17 @@
+;*****************************
+;Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Natali
+#L_D2_msg00=Alex? What are you piloting? I've never seen a ship like this.
+#L_D2_ans00=(Dalej)
+#L_D2_msg10=It's a long story, I'll tell you later.
+#L_D2_ans10=Your ship is none the worse.
+#L_D2_msg20=Even better. And this girl's name is Nataly.
+#L_D2_ans20=(Dalej)
+#L_D2_msg30=Oh yes, we've met before. In Gredos, right before a good man named Ray was killed.
+#L_D2_ans30=Yeah, I remember... Many good people have died since that day.
+#L_D2_msg40=Let's hope their deaths were not in vain. Nataly will join us as a team member. She's a great pilot with a fine sense of strategy. I hope no one minds. By the way, you'll find some interesting and useful appliances in the cargo bay. In the meantime, I'll instruct our fleet on the coming mission.
+#L_D2_ans40=(Dalej)

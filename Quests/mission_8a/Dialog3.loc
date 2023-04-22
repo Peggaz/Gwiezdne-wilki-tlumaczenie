@@ -1,0 +1,11 @@
+;*****************************
+;Dialog3.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D3_msg00=She's such a moron. Probably got poison up her brain or something. What next, partner?
+#L_D3_ans00=Greyhair, you mentioned the Mercenary Market in Cassily. We're going there. Might as well find something out about those fighter remains we've found.
+#L_D3_ans01=Let's pause on the investigation and improve our financial status. My friend Alex is offering a one-time well-paid mission. Let's go to XT-54.
+#L_D3_ans02=I think we should check what InoCo wanted from us. We're going to Lidau.

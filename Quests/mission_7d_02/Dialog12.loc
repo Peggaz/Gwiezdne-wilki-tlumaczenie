@@ -1,0 +1,17 @@
+;*****************************
+;Dialog12.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D12_msg00=Partner, I've got a message from your friend.
+#L_D12_ans00=(Dalej)
+#L_D12_msg10=Listen, if you didn't need this job, you could just tell me. But running away like this, hoping you wouldn't be noticed... It's not serious. But I took your hint, thanks. I'll manage on my own. Bye.
+#L_D12_ans10=(Dalej)
+#L_D12_msg20=Seems like we flushed the contract down the drain. Sorry for saying this, boss.
+#L_D12_ans20=Well, it's not the first and won't be the last. Let's move on.
+#L_D12_msg30=Where to, partner?
+#L_D12_ans30=No idea. Somewhere. Boy I'm feeling drowsy.
+#L_D12_msg40=Oh, don't you worry. We've already noticed.
+#L_D12_ans40=(Dalej)

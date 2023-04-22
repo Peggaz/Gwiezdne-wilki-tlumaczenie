@@ -1,0 +1,15 @@
+;*****************************
+;Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Alex
+#L_D2_msg00=I started thinking you weren't coming.
+#L_D2_ans00=You shouldn't. What about your investigation?
+#L_D2_msg10=No luck so far. The ships vanished into thin vacuum. I asked a few people to watch the rumors and other information. Something might come to light. For now I only know that both empires, mercenaries and corporations have nothing to do with the disappearance.
+#L_D2_ans10=Pirates?
+#L_D2_msg20=I don't know. They've had a beating recently. Rumor has it they have even lost a treasury in Pegasus. Perhaps, they are making up for the losses right now. Hey, you have a decent ship and a good team! How?
+#L_D2_ans20=It's a long story, I'll tell you some time. Where shall we go?
+#L_D2_msg30=First, we need to pick up the cargo at the Atoll Trade Station. I didn't risk keeping it in the transports, wanted to meet with you first. Then we'll go to XT-41 and stay away from any trouble. Should we lose even a single transport, we wouldn't be paid.
+#L_D2_ans30=(Dalej)

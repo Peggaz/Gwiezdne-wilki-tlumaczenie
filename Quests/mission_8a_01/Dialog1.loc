@@ -1,0 +1,11 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;VksAce
+#L_D1_msg00=Major Viper sent us. I hope the cargo is safe.
+#L_D1_ans00=It isn't. Tell Viper this is no deal.
+#L_D1_msg10=Well, we have definite orders about it.
+#L_D1_ans10=(Dalej)

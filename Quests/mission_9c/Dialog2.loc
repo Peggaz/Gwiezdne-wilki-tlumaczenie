@@ -1,0 +1,15 @@
+;*****************************
+;Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;KfniAce
+#L_D2_msg00=Attention, ships, stop your engines and get ready to examination! There will be no second warning!
+#L_D2_ans00=(Dalej)
+#L_D2_msg10=Easy, easy, we're not enemies. Just a special fiber convoy from Elio. They should have told you about our arrival. Here are the authorization codes.
+#L_D2_ans10=(Dalej)
+#L_D2_msg20=It's none of your concern who should have told us what. Anyway, the scan results and your codes prove you can be in this system. I'll upload your destination coordinates. Stick to the route, and I mean it. Otherwise your actions will be considered hostile. I'll assigned a couple of fighter teams to escort you and make sure you don't wander off. I have to repeat this again: don't even try to deviate from the course. That would be considered an act of hostility.
+#L_D2_ans20=(Dalej)
+#L_D2_msg30=Sheesh, take it easy, officer. We'll stick to the route.
+#L_D2_ans30=(Dalej)

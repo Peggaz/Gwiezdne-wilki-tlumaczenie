@@ -1,0 +1,17 @@
+;*****************************
+;Dialog6.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Sedoy
+#L_D6_msg00=What a fight!
+#L_D6_ans00=(Dalej)
+#L_D6_msg10=I guess. But I don't want another.
+#L_D6_ans10=(Dalej)
+#L_D6_msg20=There won't be another - like this. Because every time it gets worse. You'll see.
+#L_D6_ans20=(Dalej)
+#L_D6_msg30=I liked it! You can't get this amount of adrenaline even if you're hacking MSF Security's central server right under thick skulls' noses!
+#L_D6_ans30=(Dalej)
+#L_D6_msg40=I wouldn't be so overjoyed, if I were you. There's still a station to deal with.
+#L_D6_ans40=(Dalej)

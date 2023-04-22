@@ -1,0 +1,23 @@
+;*****************************
+;Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D2_msg00=Good time of the day or night, gentlemen. Are you here on business or to see what the local cuisine can offer?
+#L_D2_ans00=(Dalej)
+#L_D2_msg10=Whoa! Man, I wasn't expecting to see you here!
+#L_D2_ans10=Have we met before?
+#L_D2_msg20=You bet! Remember Gredos? You had a merchant clunker back then.
+#L_D2_ans20=Right. Nice to meet you. I didn't recognize you with all these new ships.
+#L_D2_msg30=Well, we picked up the pieces after that order. Got us new hardware. But what are you doing here?
+#L_D2_ans30=(Dalej)
+#L_D2_msg40=Looking for more firepower against bad guys, bro.
+#L_D2_ans40=(Dalej)
+#L_D2_msg50=Oh, really? One of our mercenaries is here! You have just found yourself that firepower. We don't have much to do right now. And you, man, brought us luck back then. So we're at your service. Free of charge, as a token of gratitude.
+#L_D2_ans50=I'm glad to hear that, but fights will be very tough where we're going.
+#L_D2_msg60=If I need something easy, I'll visit that mudfight bar. So we're in. By the way, send us the operations estimate, will you?
+#L_D2_ans60=(Dalej)
+#L_D2_msg70=Sure thing.
+#L_D2_ans70=(Dalej)

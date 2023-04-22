@@ -1,0 +1,15 @@
+;*****************************
+;Dialog23.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;VksOfficer
+#L_D23_msg00=Hah! Did you see that? We showed them! Now let's get that pirate stash! But we want a half of it!
+#L_D23_ans00=(Dalej)
+#L_D23_msg10=A big fat zero is what we all are going to get now. If a certain lamebrain didn't fire untimely, we would have a chance to find the stash. But now... Before Squinty's old tub collapsed, he had had time to send a distress signal. Which means Quarter would steal our stuff, while we would be combing the system.
+#L_D23_ans10=(Dalej)
+#L_D23_msg20=Is that so? Oh, it actually is... Whatever, we did our job and got paid for it. Attention, Scorpions, return to base! And be quick about it or they might change the shift.
+#L_D23_ans20=(Dalej)
+#L_D23_msg30=I can't believe it, so much loot down the drain... I got involved with a dolt... Let's hit it before Squinty's friends arrive.
+#L_D23_ans30=(Dalej)

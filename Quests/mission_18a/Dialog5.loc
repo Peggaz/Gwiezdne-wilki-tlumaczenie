@@ -1,0 +1,17 @@
+;*****************************
+;Dialog5.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Emperor
+#L_D5_msg00=What's the status? Is it ready?
+#L_D5_ans00=(Dalej)
+#L_D5_msg10=Almost ready, Your Majesty!
+#L_D5_ans10=(Dalej)
+#L_D5_msg20=Almost? What the hell! Enemies are approaching!
+#L_D5_ans20=(Dalej)
+#L_D5_msg30=We shall keep them at bay, Your Majesty!
+#L_D5_ans30=(Dalej)
+#L_D5_msg40=If we don't deal with that station, Azar will escape! Come on, team, we must get him!
+#L_D5_ans40=(Dalej)

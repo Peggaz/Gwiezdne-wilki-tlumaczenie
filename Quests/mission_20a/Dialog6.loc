@@ -1,0 +1,17 @@
+;*****************************
+;Dialog6.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Corsair
+#L_D6_msg00=I can't believe my eyes! Tincans!
+#L_D6_ans00=(Dalej)
+#L_D6_msg10=What did you expect from a computer? A bunch of fairies?
+#L_D6_ans10=(Dalej)
+#L_D6_msg20=Calling all NESF units, stop the attack. Let's hit the Berserks! Admiral and, umm, Alex. Peace, people! I was wrong!
+#L_D6_ans20=(Dalej)
+#L_D6_msg30=Later! Let's deal with the routine first!
+#L_D6_ans30=(Dalej)
+#L_D6_msg40=Triada, attack! Let's show those tincans they are not a marker to Triada pilots!
+#L_D6_ans40=(Dalej)

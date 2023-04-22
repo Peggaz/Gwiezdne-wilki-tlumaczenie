@@ -1,0 +1,19 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#L_nav_pirs=Baza "Dzikich Kotów"
+#L_nav_merc=Baza najemników
+#L_nav_DogsBase=Baza "Dzikich Psów"
+#L_nav_Lastochka=Nadszarpniête miejsce spotkania
+#L_nav_transport=Transporter Heretyka
+#L_nav_Heretic=Punkt spotkania z Heretykiem
+#L_nav_War=Potyczka z piratami
+#L_nav_WildCat=Punkt spotkania: "Dzikich Kotów"
+#L_nav_first=Punkt 1
+#L_nav_second=Punkt 2
+#L_nav_third=Punkt 3
+#L_nav_Phantom=Atak piratów na transporter
+#L_nav_trades=Stacja "Achilles"

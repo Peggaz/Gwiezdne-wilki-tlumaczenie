@@ -1,0 +1,17 @@
+;*****************************
+; mission_16b_3
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_16b_04a=Get to Cadenoa.
+#L_Quest_16b_04b=Chances are that Min Imu's convoy will pass through the Cadenoa system. Go there and find a good spot for attack.
+
+;*****************************
+;Speeches
+;*****************************
+#L_sys_01=Min Imu reached the destination. Mission failed.

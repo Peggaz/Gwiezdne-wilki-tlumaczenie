@@ -1,0 +1,13 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#M_pstation=Stacja Patrolu
+#M_observ1=Stacja wsparcia
+#L_pstation=Stacja patrolu InoCo
+#L_UZL=Skrzy¿owanie "Galanet-4"
+#L_fact1=Stacja przetwarzania rudy
+#L_fact2=Stacja przetwarzania kryszta³u
+#L_trade=Stacja Handlowa w Gaoba

@@ -1,0 +1,15 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#L_uss_live=Centrum biznesowe USS
+#L_triada=Stacja "Scien" Triady
+#L_STO=Stacja konserwacyjna
+#L_tri_trade=Stacja "Cade" Triady
+#L_uss_trade=Stacja Handlowa USS "Usland"
+#L_living=Kompleks hotelowy "Wenecja"
+#L_patrol_uss=Stacja patrolu USS
+#L_tri_patrol=Stacja patrolu Triady
+#L_ter=Terminal centralny

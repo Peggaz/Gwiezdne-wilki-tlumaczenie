@@ -1,0 +1,16 @@
+;*****************************
+;Dialog7.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D7_msg00=This place is crowded.
+#L_D7_ans00=We need to help the traders, otherwise they're not going to make it.
+#L_D7_msg10=This isn't our problem. Besides, our ship is nearly falling apart, it might not survive another skirmish.
+#L_D7_ans10=Should I remind you of mutual assistance adopted by the FTU? We shall help them and that's it.
+#L_D7_ans11=Hmm, you're right about the ship. The trader might think we're pirates' reinforcements. And I wouldn't like to get my butt kicked by a colleague. Let's visit your friend in Elio.
+#L_D7_msg20=Fighting for free... The dumbest and most suicidal idea ever.
+#L_D7_ans20=(Dalej)
+#L_D7_msg21=I'm glad you've listened to reason. Let's jump into the portal.
+#L_D7_ans21=(Dalej)

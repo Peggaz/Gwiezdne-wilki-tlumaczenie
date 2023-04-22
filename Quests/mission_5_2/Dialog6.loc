@@ -1,0 +1,17 @@
+;*****************************
+;Dialog6.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Treasurer
+#L_D6_msg00=Oh, Ternie, you bring bad news, you do. Squinty has told me everything. So it seems our Breakneck has been nailed and jailed. Quite a pity, he was such a good customer, always paid his union dues in time. Well, let's hope they'll release him soon. I hate to lose customers.
+#L_D6_ans00=(Dalej)
+#L_D6_msg10=We have the codes and account numbers for a wire transfer. Besides, we'd like to take Breakneck's stuff.
+#L_D6_ans10=(Dalej)
+#L_D6_msg20=Oh yes, I see, I do. You'll have to wait for the wire, but feel free to pick up his things from the stash. Return, when you have them, and I'll prepare everything.
+#L_D6_ans20=(Dalej)
+#L_D6_msg30=I thought his stuff was at the station...
+#L_D6_ans30=(Dalej)
+#L_D6_msg40=Oh, it shouldn't be here, my dear. No one would like to keep stolen things at home. I'm all legal and clear. All right, let's not waste time. Transferring Breakneck's stash coordinates now.
+#L_D6_ans40=(Dalej)

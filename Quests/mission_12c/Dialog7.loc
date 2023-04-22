@@ -1,0 +1,23 @@
+;*****************************
+;Dialog7.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;VksAce
+#L_D7_msg00=Hey, Theta team, I've just come from the battle cruiser Moscow. You have a new order: patrol the New Jerusalem 1 portal. Make sure no one gets in without a special pass. Sounds the alarm, if anything happens. Oh, and Admiral Trump says if you fail once again, you're going to spend the rest of your lives cleaning latrines.
+#L_D7_ans00=(Dalej)
+#L_D7_msg10=It wasn't our fault!
+#L_D7_ans10=(Dalej)
+#L_D7_msg20=Why should I care? I'm just passing admiral's words on to you.
+#L_D7_ans20=(Dalej)
+#L_D7_msg30=Who's that with you?
+#L_D7_ans30=(Dalej)
+#L_D7_msg40=Listen, rookie, stay close to caboose and away from trouble. And mind your own business. Or should I tell the admiral you are too dumb to get a simple order? Eh, Second Lieutenant Elm Easter?
+#L_D7_ans40=(Dalej)
+#L_D7_msg50=We got it. Moving out.
+#L_D7_ans50=(Dalej)
+#L_D7_msg60=Yeah, you do that. And hurry up. Sheesh, where does the academy find dunces like that?
+#L_D7_ans60=Amusing.
+#L_D7_msg70=Nothing special, it's just that some people have vacuum instead of brains. Only to be assigned to where they can't do much harm. All right, jump into the portal and we'll stay for a moment. Don't linger, we all must leave before the next shift.
+#L_D7_ans70=(Dalej)

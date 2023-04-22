@@ -1,0 +1,13 @@
+;*****************************
+;Dialog5.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;RecruitOfficer
+#L_D5_msg00=Oh, you again. Where's your escort?
+#L_D5_ans00=Let's just say that a USS escort causes discomfort, and I wouldn't mind if you covered our rear all the way to Debris 4. Given you can do it secretly.
+#L_D5_msg10=Oh, it's not a problem. Let's do it this way: we'll cover you all the way to the destination. If you need our fighting skills, the price will rise to 10,000. If you don't, it'll be just 5 G's.
+#L_D5_ans10=Deal.
+#L_D5_msg20=Great, boss. We'll be nearby, cloaked and unnoticed, as you need. If you smell trouble, call us.
+#L_D5_ans20=(Dalej)

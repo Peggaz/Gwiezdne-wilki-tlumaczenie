@@ -1,0 +1,17 @@
+;*****************************
+;Dialog3.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m51_USSAgent
+#L_D3_msg00=Are you the gang of transporters we've been told about? Fine, follow us.
+#L_D3_ans00=Did you have any trouble? You're late.
+#L_D3_msg10=It's none of your business. Follow us and keep your mouths shut, if you meet anyone. This is the primary contract term. Do I make myself clear?
+#L_D3_ans10=(Dalej)
+#L_D3_msg20=What's wrong, partner?
+#L_D3_ans20=Everything. I used to work with USS. They are all about punctuality and overdone civility. So this is more than just strange.
+#L_D3_msg30=Nevermind. Perhaps, they employ even riffraff like that now.
+#L_D3_ans30=(Dalej)
+#L_D3_msg40=Where the hell are you? Trader, if we're late, there's no money for you!
+#L_D3_ans40=Check the scanner, we're following as you've said. Over and out.|All right, let's follow them for now. I'll talk to their higher-ups in due time.

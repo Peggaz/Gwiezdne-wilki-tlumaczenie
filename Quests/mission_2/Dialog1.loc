@@ -1,0 +1,29 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Alice
+#L_D1_msg00=Welcome to the Prometeus Trade Station. Alice speaking, how can I help you?
+#L_D1_ans00=Good day, I need to talk to Pablo Filine.
+#L_D1_msg10=Sure, just a second.
+#L_D1_ans10=(Dalej)
+#L_D1_msg20=Hola, senor! My name is Pablo Filine. Are you selling? Or buying? Only Pablo Filine can offer best prices in this system!
+#L_D1_ans20=Actually I'm here for the transportation contract.
+#L_D1_msg30=Oh, the contract. Does senor know he's late? Or does Pablo Filine have to wait for an eternity before someone deigns to pick his cargo up?
+#L_D1_ans30=I'm just five minutes late - because of the MSF!
+#L_D1_msg40=Does senor think Pablo Filine cares about his excuses? You're late. And every minute of idle waiting means loss of money, comprende? Now please excuse me, I'm very, very busy.
+#L_D1_ans40=(Dalej)
+#L_D1_msg50=I see your meeting didn't go as you had expected.
+#L_D1_ans50=I lost the contract. Because of a 5-minute delay.
+#L_D1_msg60=Did he say that? Never you mind. Most likely, that was just an excuse, as the contract had been resold already. Filine just wanted to get rid of you. And he would - by means of another excuse.
+#L_D1_ans60=The bastard. He deserves a good kick in the butt.
+#L_D1_msg70=You shouldn't do that, might get arrested. Do you think you're the first one to have issues with Filine?
+#L_D1_ans70=I think I've lost a chance to buy a decent ship. I shouldn't have visited this place at all. Just a waste of time.
+#L_D1_msg80=Perhaps, it isn't. My friend from the neighboring Typhoon Station was looking for someone to do a one-time contract. Some delivery or something. I don't know the details, so you should talk to her in person.
+#L_D1_ans80=Great! I'll visit her immediately.
+#L_D1_msg90=Since you're going there anyway, can you take a small package along? I'll pay, of course. 50 credits.
+#L_D1_ans90=Oh, this isn't a sum to worry about.
+#L_D1_msg100=All work must be paid for, this is a principle. When you're there, ask for dispatcher Nataly. She'll pay you for the delivery, by the way. Good luck, drop by again.
+#L_D1_ans100=(Dalej)

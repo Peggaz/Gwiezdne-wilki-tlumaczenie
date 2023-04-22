@@ -1,0 +1,15 @@
+;*****************************
+;Dialog15.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D15_msg00=I wonder what they really prepared for us.
+#L_D15_ans00=(Dalej)
+#L_D15_msg10=What do you mean, partner?
+#L_D15_ans10=This mission. Didn't it look strange to you? No one knows us in the entire New Empire, but what do you think, we got a secret mission just like that.
+#L_D15_msg20=It's a test. They want to see if we are to be trusted at all.
+#L_D15_ans20=I wish it was just a test. But what if we are just decoys to draw fire upon ourselves, while someone does his job unnoticed?
+#L_D15_msg30=Maybe we should just jettison that storage drive into space and call it a day?
+#L_D15_ans30=Not now. We'll visit Endoria 1 first, then we'll see what to do next.

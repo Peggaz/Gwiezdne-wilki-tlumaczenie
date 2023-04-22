@@ -1,0 +1,13 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D1_msg00=Sheesh, that was hot! It's a pity they haven't had time to verify our license plate. How do you think, have they calmed down?
+#L_D1_ans00=I highly doubt that.
+#L_D1_msg10=Should we go another way - through Hephaestus?
+#L_D1_ans10=Or maybe we should return to your friend Carl? He could clean our license once more.
+#L_D1_msg20=I think his hands are full right now. Besides, our license plate is fine. It's the MSF we have problems with. But it's up to you.
+#L_D1_ans20=(Dalej)

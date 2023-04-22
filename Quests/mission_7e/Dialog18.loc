@@ -1,0 +1,9 @@
+;*****************************
+;Dialog18.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D18_msg00=Where to now, partner?
+#L_D18_ans00=Let's try to get some information from the MSF. Let's head for New Jerusalem 2.

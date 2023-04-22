@@ -1,0 +1,13 @@
+;*****************************
+;Dialog18.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D18_msg00=Partner, are you out of your mind? Why the hell did you start firing?!
+#L_D18_ans00=Calm down. They were luring us into a trap, haven't you noticed? But I wonder where are those morons we've hired to protect us?
+#L_D18_msg10=They've probably hit it, and so should we. What do you say?
+#L_D18_ans10=Leave now? No way, that Quarter of yours owes me one. Let's get back to the station and put muscle on the old bastard. He might know something.
+#L_D18_msg20=Partner, I love adventuring, but there's a whole gang of pirates!
+#L_D18_ans20=Count again, Ternie. The station was guarded by only one team plus Squinty's men. Your Quarter seems to be a greedy bastard who saves on everything, including security. So let's pick up the trophies and pay him a return visit. Besides, we need money badly right now - I'm not vindictive, but I'll gladly put a bounty on those Scorpions!

@@ -1,0 +1,13 @@
+;*****************************
+;Dialog16.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;USSOperative
+#L_D16_msg00=On behalf of our corporation allow me to thank you for effective cargo protection. I've heard about the ambush already. I hope you're all right.
+#L_D16_ans00=Could be worse.
+#L_D16_msg10=You did a flawless job! And I'm especially glad to reward you with the promised 250,000 credits.
+#L_D16_ans10=Great!
+#L_D16_msg20=USS Corporation is in your debt. We'll be glad, if our cooperation continues. Now please excuse me, I have other business to attend to. Thanks again, over and out.
+#L_D16_ans20=(Dalej)

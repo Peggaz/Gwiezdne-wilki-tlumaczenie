@@ -1,0 +1,11 @@
+;*****************************
+;Dialog11.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;PirateTough
+#L_D11_msg00=Eric, what's taking you so long? Hey, what the... Where's Eric?
+#L_D11_ans00=Oh, you'll meet him soon enough, if that's the same Eric I'm thinking about.
+#L_D11_msg10=Why, he should be on a corporate fighter, escorting some trader.
+#L_D11_ans10=Bad news, pal. Eric is no more. And so are you.

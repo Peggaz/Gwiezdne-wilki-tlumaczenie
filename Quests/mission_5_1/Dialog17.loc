@@ -1,0 +1,13 @@
+;*****************************
+;Dialog17.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;USSOfficer
+#L_D17_msg00=You seem to be the ones we're expecting. I hope the cargo is safe and sound.
+#L_D17_ans00=I don't have it. I got into trouble on the way here.
+#L_D17_msg10=May I wonder what's happened to our convoy? It would also be nice to explain why the cargo is missing.
+#L_D17_ans10=Your convoy was the source of trouble. First, your people were seriously past the deadline. Then they left us unprotected. Finally, it turned out they had been working along with pirates.
+#L_D17_msg20=All our employees are carefully selected and thoroughly trained. Cooperation with pirates is out of the question. Thus, I have to ask you once again: what's happened to our convoy?
+#L_D17_ans20=They forced us to follow them to a pirate base, where they remained. So I have no idea what happened to them next. As for "out of the question", here's a recording of a conversation with your employees. I'm sure you'll find it very informative.

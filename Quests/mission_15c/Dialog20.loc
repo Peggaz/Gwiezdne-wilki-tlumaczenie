@@ -1,0 +1,15 @@
+;*****************************
+;Dialog20.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;DispetcherVKS
+#L_D20_msg00=Please, spare our lives! We're just technicians, we don't pose a threat to you.
+#L_D20_ans00=(Dalej)
+#L_D20_msg10=We need to get to Eridan. But don't try anything stupid, or there won't be any escape pods left to tell your sad story.
+#L_D20_ans10=(Dalej)
+#L_D20_msg20=Sure, sure! Here you go. I've input the coordinates, let me copy them to the shared channel. The hyper catapult is ready.
+#L_D20_ans20=(Dalej)
+#L_D20_msg30=Let's go then.
+#L_D20_ans30=(Dalej)

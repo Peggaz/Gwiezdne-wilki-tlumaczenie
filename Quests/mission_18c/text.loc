@@ -1,0 +1,23 @@
+;*****************************
+; mission_18c
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_18ñ_02a=Reach the NESF station.
+#L_Quest_18ñ_02b=Corsair isn't going to converse long-distance, as it greatly increases chances of eavesdropping. You have to come close to the station to get into a safer communication network.
+#L_Quest_18ñ_03a=Dock to the trade station.
+#L_Quest_18ñ_03b=Dock to the Treasure Island Station to replenish ammo.
+
+;*****************************
+;Speeches
+;*****************************
+#L_Corsair_02=What the... Alexandra, is your friend insane?
+#L_sys_01=Main character died.
+#L_sys_02=Game over.
+
+#L_sys_03=You fled from combat. Mission failed.

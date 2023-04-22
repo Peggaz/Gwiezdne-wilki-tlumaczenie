@@ -1,0 +1,10 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#L_Name_ModuleStation_Universal=Stacja "41 parsec"
+#L_uni=Stacja uniwersalna "Aszur"
+#L_live=Centrum UchodŸców Starego Imperium
+#L_dest=Zniszczona stacja

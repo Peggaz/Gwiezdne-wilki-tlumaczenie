@@ -1,0 +1,15 @@
+;*****************************
+;Dialog23.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Rey
+#L_D23_msg00=Oh, you're back. Have you found your magnum contractus?
+#L_D23_ans00=Nah, it's desolate.
+#L_D23_msg10=What about my cargo then? But I'm late with the delivery already, so the penalty is in action. Now it's 40,000 credits total.
+#L_D23_ans10=That's harsh! All right, I'll take it.
+#L_D23_msg20=Great! Here are the ship access codes and station coordinates. Meanwhile, I shall drift in your clunker. But be careful, rumor has it there's a gang of crazy brutes lurking around. A few traders have already gone missing. Just stick to the route and try to get to the scientific station as soon as possible. Just don't delay, if we miss another deadline, his lawyers will rip us off.
+#L_D23_ans20=Don't worry, this is not my first day in open space. Aren't you afraid to let a stranger take your ship just like that?
+#L_D23_msg30=There is certain risk, but is anything safe these days? Besides, one shouldn't try to leave the system on my old tub. As soon as he would enter the portal, the onboard computer would signal me and I, in turn, would initiate a self-destruct sequence. You're asking out of curiosity, aren't you?
+#L_D23_ans30=Solely out of curiosity, I assure you.

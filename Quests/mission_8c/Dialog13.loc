@@ -1,0 +1,9 @@
+;*****************************
+;Dialog13.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D13_msg00=What's our plan?
+#L_D13_ans00=InoCo wants something from us. We should find out what exactly. Let's go to Lidau.

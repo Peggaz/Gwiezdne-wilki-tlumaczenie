@@ -1,0 +1,83 @@
+;*****************************
+; mission_11_2
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_11_2_01a=Inspect the points.
+#L_Quest_11_2_01b=Check emission sources found by Heretic.
+#L_Quest_11_2_02a=Return to the portal.
+#L_Quest_11_2_02b=Things are getting hotter in this system. We'd better return to the portal.
+#L_Quest_11_2_03a=Protect Heretic.
+#L_Quest_11_2_03b=Protect Heretic. He is the only one who knows how to use the hyperspace node scanner and how to get out of this system.
+#L_Quest_11_2_04a=Jump through the portal.
+#L_Quest_11_2_04b=You need to jump through the portal to leave the system.
+#L_Quest_11_2_05a=Return to X220.
+#L_Quest_11_2_05b=Aliens are showing patience, but you'd better return to the border systems.
+#L_Quest_11_2_06a=Escort Heretic.
+#L_Quest_11_2_06b=Take Heretic to inhabited systems.
+#L_Quest_11_2_07a=Leave for Al-Ariash.
+#L_Quest_11_2_07b=Zurab promises to ransack the entire systems in search of the grey ships, but they doesn't seem to be planning to stay here. We'd better leave far borders and find an ally who can help you track Ternie's kidnappers down.
+
+;*****************************
+;Speeches
+;*****************************
+#L_Lastochka_01=My god...
+#L_Heretic_01=Here it is, our artifact.
+#L_Hero_01=Putting this on board will be problematic.
+#L_Heretic_02=All right, I have to admit it's a bit bigger than I thought.
+#L_Lastochka_02=But what's this? Seems like a huge vessel.
+#L_Heretic_03=Let's cudgel our brains later. The preliminary scan indicated three emission sources. I suggest that we split: I'll visit the strongest, you examine the remaining two. Contact me immediately, if you find anything interesting. Put smaller things on board right away.
+#L_Hero_02=All right.
+
+#L_Hero_03=Let's collect everything we can. Auctioneer will sort them out.
+#L_Hero_04=Great, we're done here. Let's head for the second point.
+
+#L_Sedoy_01=Hey, where did these come from?
+#L_Lastochka_03=I have no idea, but it seems we're not their first contact. Partner, let's scram out of harm's way. We have so many artifacts - enough for our grandchildren to be rich.
+#L_Hero_05=I'm afraid we can't. I've got weird radar readings.
+#L_Sedoy_02=Curses! Aliens!
+
+#L_Heretic_04=...hear me? Aliens are attacking me.
+#L_Hero_06=We can hear you. And we're also under attack.
+#L_Heretic_05=I see where you are. Stay there, I'll try to break through to you.
+
+#L_Heretic_06=It's good I've loaded a few MIRVs on board before the flight. Today is not our day. We need to get back to the portal while we're alive.
+
+#L_Heretic_07=These bastards are surely aggressive! Hey, we've just snatched a bit for some pocket money! Come on!
+
+#L_Sedoy_03=We shouldn't stay here. Where was that signal you mentioned?
+#L_Heretic_08=Look at your map. It's all there.
+#L_Hero_07=Let's check it. It won't do us any harm.
+
+#L_Sedoy_04=So? Where is it?
+#L_Heretic_09=I said these were the probable coordinates. Let me scan it again. Aha! Got it.
+
+#L_Sedoy_05=That's all we need. Get torpedoes ready. If we don't wreck the frigate quickly, we're doomed!
+#L_Heretic_10=Move it, move it!
+
+#L_Heretic_11=That's it. Let's scram!
+
+#L_Sedoy_06=I wouldn't bluff these guys, boss.
+#L_Hero_08=And I won't. Let's scram.
+
+#L_alien_01=You have what's not yours. Give our legacy back.
+#L_Lastochka_04=How I hate you, bastards...
+
+#L_alien_02=The gates will close. Leave.
+#L_Lastochka_05=A fortune! They cost me a freaking fortune!
+#L_Sedoy_07=Be glad you're still alive.
+#L_Hero_09=Greyhair's right. Let's get out of here before someone else arrives to snatch us.
+
+#L_grey_01=It's them.
+#L_hunter_01=Need help?
+#L_Hero_10=You bet!
+
+#L_sys_01=This game is obviously not for you. Try playing Doom, Quake or Lineage. You might like them better.
+#L_sys_02=Land one of your team members at the base to unload the artifacts.
+#L_sys_03=The portal is open.
+#L_sys_04=Heretic is dead, you failed to protect him. That was a fatal mistake.

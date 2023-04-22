@@ -1,0 +1,29 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Sedoy
+#L_D1_msg00=We shouldn't have gotten involved. Trusting tincans is going to be the end of us...
+#L_D1_ans00=Greyhair, are you all right?
+#L_D1_msg10=No, boss, I'm not! That plan of that bloody SAM is freaking me out!
+#L_D1_ans10=(Dalej)
+#L_D1_msg20=Don't say that, Greyhair. He's striving for our wellbeing.
+#L_D1_ans20=(Dalej)
+#L_D1_msg30=I'm old enough to decide on my own wellbeing. I don't like to be kicked into the bright tomorrow, you know.
+#L_D1_ans30=Oh, right, there's plenty of freedom today, huh? As plenty as corpses everywhere. Because one sees wellbeing this way and another, that way. No one's going into outer space without a big gun these days. Do you think it's normal?
+#L_D1_msg40=No, boss, of course now. What's going on these days isn't normal. But at least we are free to make our own choices. As well as to sort this mess out - this isn't the first time. But when everyone's plugged into a controlling network, then it will be too late!
+#L_D1_ans40=What can you say to this, SAM?
+#L_D1_msg50=Can't connect to the main server. Communication limited.
+#L_D1_ans50=(Dalej)
+#L_D1_msg60=You see, boss?! Now it's obvious what that artificial intelligence needs us for. To solve problems it can't solve on its own! Note that these are its problems, not ours! This will happen to everyone, to the entire humanity. We'll be used as a tool!
+#L_D1_ans60=(Dalej)
+#L_D1_msg70=Mind if I strike in? As you know, I'm competent in both software and hardware. That said, I have never seen a successful attempt to create a self-sufficient mathematical system that wouldn't need to be maintained and corrected by man. Any system is limited and performs only functions its programmers have implemented. When it faces an unknown situation, it starts making mistakes, one after another. I can't guarantee that SAM's plan is not a result on such a mistake.
+#L_D1_ans70=(Dalej)
+#L_D1_msg80=See? Boss, I'm just a soldier, but listen to Kalem! Unlike us, he's a pro. A machine can't rule people. It just cannot!
+#L_D1_ans80=(Dalej)
+#L_D1_msg90=But SAM is a scientific breakthrough, a new software architecture, a new approach to data processing!
+#L_D1_ans90=(Dalej)
+#L_D1_msg100=Perhaps. But behind all that are old lamebrains who programmed you, like they did with Berserk and AM. Do you remember how it went up?!
+#L_D1_ans100=Stop quarreling, will you. Let's recon this place to understand what we're dealing with. Then we'll see what to do next. I shall disable the shared channel for now, I don't want to be ambushed by those Greys.

@@ -1,0 +1,15 @@
+;*****************************
+; mission_3_01
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+
+;*****************************
+;Speeches
+;*****************************
+#L_merc_01=Why aren't you keeping to the terms of the contract, mister? You're upsetting people...

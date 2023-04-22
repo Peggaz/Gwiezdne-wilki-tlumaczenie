@@ -1,0 +1,19 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Alexandra
+#L_D1_msg00=Fine, there you are. I'm afraid I don't have any good news about your friend, but we have managed to locate systems with the highest grey activity. The problem is that if you start combing them one by one, you'll alert them. I won't be surprised if Greys kill your friend in that case. For this reason I've sent my agents to recon without arousing suspicion. It won't take long. Meanwhile, I have a mission for you. You must take civilians, mostly women and children, out of Al-Zed to XT-93.
+#L_D1_ans00=(Dalej)
+#L_D1_msg10=Right into Triada's clutches?
+#L_D1_ans10=(Dalej)
+#L_D1_msg20=Of course not. I have a loyal agent in Triada. She's honest, but somewhat too emotional. You will pass the refugees on to her and she will settle them around peaceful systems. Your task is to get those people through imperial sectors. Safe and sound!
+#L_D1_ans20=Will you tag along?
+#L_D1_msg30=I will. Al-Zed inhabitants do not trust anyone, seeing a potential spy or saboteur in every visitor. I understand it, because things are bad in that locality. They need me as a confirmation that you're working for the New Empire. Don't worry, I won't bother you. I'm a decent pilot and gunner.
+#L_D1_ans30=All right, we agree.
+#L_D1_msg40=I haven't expected a different answer. You will be a leader until we leave the space of the Old Empire. The MSF must not detect me or the whole operation will go down the drain. That said, I will be keeping radio silence.
+#L_D1_ans40=Deal.
+#L_D1_msg50=Oh yes, there's another thing. I'll have them load a few torpedoes on board your ship. They are powerful enough to seriously damage a large military vessel. I couldn't take along a lot, so use them wisely. And there will also be supply and medical containers so the MSF is sure of our peaceful intentions. Now let's move.
+#L_D1_ans50=(Dalej)

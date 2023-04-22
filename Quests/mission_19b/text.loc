@@ -1,0 +1,40 @@
+;*****************************
+; mission_19b
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_19b_01a=Wait for Aja.
+#L_Quest_19b_01b=Wait until Aja returns and tells you the latest news.
+#L_Quest_19b_02a=Reach the Riyadh Commerce Station.
+#L_Quest_19b_02b=Refugee transports are expecting you by the Riyadh Commerce Station. Hurry up, the enemy may attack any time.
+#L_Quest_19b_03a=Escort the transports to the portal.
+#L_Quest_19b_03b=Defend refugee transports until they jump into the Dalled portal.
+#L_Quest_19b_04a=Leave the system.
+#L_Quest_19b_04b=The Berserks are going to block all system exits. Don't waste time, run for it!
+
+;*****************************
+;Speeches
+;*****************************
+#L_Aia_01=Well, boys and girls, I have bad news. Very bad news. Let's head for the X297 portal, I'll explain everything on the way. These news are not for our ears only.
+
+#L_uss_01=General alert! Damn, they're everywhere!
+#L_Kalem_01=Oh, here goes the second wave I didn't want to see.
+#L_Aia_02=Defend the transports at any cost!
+
+#L_Aia_03=Step on it, dammit! Transports, can't you move faster?!
+#L_uss_02=We're at the top speed.
+#L_Aia_04=Then stick to the route!
+
+#L_Lastochka_01=The bastards are trying to cut us off!
+#L_Blade_01=I'll take care of them!
+#L_Aia_05=Wait, you fool! Keep the dense formation and stay focused. This way we might just make it!
+
+#L_Aia_06=That's it, jump to Dalled! I hope Savay will cover us there!
+
+#L_sys_01=You fled from combat. Mission failed.
+#L_sys_02=Let Aja go to a meeting with Ethan Fry.

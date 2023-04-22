@@ -1,0 +1,15 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Sedoy
+#L_D1_msg00=That New Empire sure has a decent fleet. I thought all they had were old tubs or captured MSF clunkers.
+#L_D1_ans00=(Dalej)
+#L_D1_msg10=The result of InoCo's tender care. Their CEO is a stepbrother of the empress.
+#L_D1_ans10=(Dalej)
+#L_D1_msg20=Is he really? This explains a lot, but not everything. Assembling a fleet requires huge sums of money and serious manufacturing capabilities.
+#L_D1_ans20=(Dalej)
+#L_D1_msg30=Don't you worry about that, Greyhair. Many systems are joining the New Empire, bringing in their money, experts and industries.
+#L_D1_ans30=But there's little sense in it, because the NESF - as well as the MSF - isn't capable of establishing safe trade and freight traffic. Considering that industries are highly tailored in most systems, they cannot even meet domestic requirements. So they join in, hoping to put things to rights together, hoping for a miracle. But there are no miracles in economy, and so far the fleet has been built by means of pre-war reserves, which are limited. Anyway, we're getting close to the station, and I'm tired of lecturing you.

@@ -1,0 +1,10 @@
+;*****************************
+;Dialog3.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Sedoy
+#L_D3_msg00=Whoa! That was quite impressive! It's a pity we can't buy at InoCo stations anymore. Where to now, boss?
+#L_D3_ans00=I wonder why the MSF attacked the station my transports had been delivering the damned cargo to. Let's visit the MSF HQ in New Jerusalem 2 and try to find something out there.
+#L_D3_ans01=Let's try to find something out about those fighter remains we've found. Greyhair, you mentioned the Mercenary Market. Is it in Cassily? We're going there.

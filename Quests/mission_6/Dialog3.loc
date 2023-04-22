@@ -1,0 +1,13 @@
+;*****************************
+;Dialog3.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;VksOfficer
+#L_D3_msg00=Ah, we do have visitors. Boys, it seems we haven't been hanging around in vain. Attention, everyone, full alert. Intruder ships prepare to surrender.
+#L_D3_ans00=Listen, officer, we don't need any trouble. I don't know what's going on here, and I like not knowing it. But my convoy and cargo vanished here a while ago, so I'm searching for my employees.
+#L_D3_msg10=Isn't that sweet. The big daddy is willing to poke his head into a hornet's nest to find his stray children. We could even believe in such selflessness. Not free, of course. We're sick and tired of dawdling by this portal and we could use a little vacation for, like, 50,000 credits. But where are all the sponsors these days? Getting my drift, trader?
+#L_D3_ans10=Some vacation you've planned! With such an approach you need a psychiatrist, not a sponsor.
+#L_D3_msg20=A pity, but that's blatant arrest resistance.
+#L_D3_ans20=(Dalej)

@@ -1,0 +1,117 @@
+;*****************************
+; mission_1
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;MessageBox
+;*****************************
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_1_01a=Reach the Aurora portal.
+#L_Quest_1_01b=Alex, an old friend, awaits at the Placid Docks Station in the Aurora system. It's just a passage away - through the peaceful and quiet Corrino system.
+#L_Quest_1_02a=Deliver the prisoners to the MSF headquarters.
+#L_Quest_1_02b=Deliver the imprisoned Triada agents to the MSF headquarters.
+#L_Quest_1_03a=Deliver the agents to the neutral station.
+#L_Quest_1_03b=Deliver the Triada agents to the Taihon Trade Station.
+#L_Quest_1_04a=Deliver the documents to the neutral station.
+#L_Quest_1_04b=The MSF can stumble upon Triada's "lost" documents at any moment. Pick them up as soon as possible and deliver to the Taihon Trade Station.
+#L_Quest_1_05a=Meet with Viper.
+#L_Quest_1_05b=Viper awaits near Triada's transport wreck location. Step on it, the major is not a person to vex.
+#L_Quest_1_06a=Lure Triada into a trap.
+#L_Quest_1_06b=Viper needs prisoners to interrogate. Visit the Taihon Trade Station and persuade Triada to assign a convoy to help you pick up documents drifting in space.
+#L_Quest_1_07a=Deliver the documents to the MSF headquarters.
+#L_Quest_1_07b=Reach Triada's transport wreck location, pick up document containers and deliver them to the MSF base.
+#L_Quest_1_08a=Reach the Placid Docks Station.
+#L_Quest_1_08b=Alex, an old friend, awaits at the Placid Docks Station in the Aurora system. He may be worrying already.
+
+;*****************************
+;Speeches
+;*****************************
+#L_Vks_01=What the?.. The portal has gone down again! It's the third time this week!
+
+#L_Viper_01=Triada vessels, surrender immediately. Resistance is futile.
+#L_Tri_01=Attack! We must break through!
+#L_Viper_02=All teams, attack the fighters and don't let the transport escape!
+#L_Viper_12=Detain the transport. I need its cargo.
+
+#L_Hero_01=My, this is one hell of a system you have here. Are the other ones like this?
+#L_Hero_16=Hey, can anyone hear me?
+#L_Hero_17=What's happened? Has your transmitter malfunctioned?
+#L_Vks_02=Shut up. We've got an order to keep radio silence.
+#L_Hero_02=Sheesh, I was just asking.
+
+#L_Hero_03=Hey, I'm at the destination. Where's everyone?
+
+#L_Viper_03=Corporate fighters, give up. You're surrounded!
+#L_Tri_02=It's a trap! You'll pay for this, huckster!
+#L_Hero_04=But I had no idea! I swear!
+#L_Viper_04=Attack the fighters, protect the transport!
+#L_Viper_05=Easy as pie. Hey, trader, pick up the pods and let's head for the HQ.
+#L_Hero_18=You could've thanked me at least...
+#L_Viper_11=Listen, dealer, don't push your luck. You'll find plenty of polite desk jockeys at the station. Now pick up the pods and move it!
+
+#L_Tri_03=I thought we had a deal you wouldn't touch our ships?
+#L_Pir_01=Hey, but he's not-
+#L_Tri_04=And that is our ship. I believe it's just a misunderstanding that has already been settled.
+#L_Pir_02=Yeah, sure... It is... We need no problems with Triada.
+
+#L_Viper_06=I thought I gave you a clear order to bring Triada men here.
+
+#L_Viper_07=Where are the corporators?
+#L_Hero_05=Why didn't you help, when they were threatening me? I thought we worked together.
+#L_Viper_08=Oh yeah? To disclose our location? You're really dumb. Now answer me or be tried by a tribunal.
+
+#L_Viper_09=Fighters, attack. Protect the transport.
+#L_Viper_10=Who do you think you've brought here? Didn't I tell you I needed Triada men, not pirate riffraff?
+
+#L_Hero_06=Look out! Behind you!
+#L_Pir_03=Bastards! Just look how close they have got! Thanks, pal, I won't forget this...
+#L_Hero_07=We'd better hit it before more guests arrive.
+#L_Pir_04=Hey pal, my name's Hank and my partner's is Paul. Thanks again for saving our hides. Who threatened to get yours, by the way?
+#L_Hero_08=Some Major Viper.
+#L_Pir_05=Oh, she can do it. That swine condemned us to death - for desertion. Those bastards from the MSF HQ, first they throw you into the midst of a massacre and then think how good their plan of operation is. I liked being a soldier and such. But to die for nothing... No sir.
+#L_Pir_08=Hank.
+#L_Pir_09=Yes Paul?
+#L_Pir_10=Shut up.
+#L_Pir_11=Oh, come on. That trader is a grand chap. We're together now, eh, pal?
+#L_Hero_09=So you've served in the MSF?
+#L_Pir_06=That's what I'm talking about! How else could we find you then, man? We've eavesdropped on soldiers.
+#L_Pir_12=Hank, shut your gob or I'll do it.
+#L_Pir_13=All right, all right. Paul, you could be more grateful, you know. If paranoia brought bats to your belfry, it's your problem. Don't poison others' existence because of that!
+#L_Pir_14=Hank...
+#L_Pir_15=Yeah, yeah, I'm shutting up! Satisfied?!
+
+#L_Hero_10=I wonder who would pay more for the cargo: Triada or the MSF?
+#L_Tri_05=Attention, traders, we're got an urgent call! This place seems to be quiet. We've warned the pirates to leave you alone. Will you get to the station on your own?
+#L_Hero_20=Sure. Go answer your call, I'm all right.
+#L_Hero_11=Hmm, so corporators were right. There is a bunch of containers full of papers here. I think Triada will pay handsomely for them.
+
+#L_Tri_06=Pilot, we're eternally indebted to you. Please accept these humble 2,000 credits as a token of our gratitude. If you ever need a corporate job, do tell. A man of your talent and loyalty to customers is bound to succeed in Triada.
+#L_Hero_12=Thanks, I'll think about your offer.
+
+#L_Hero_13=Mayday! Mayday! I'm under attack! Need help!
+#L_Kfni_01=That's it, guys, the deed is done. Proceeding to the next stage. Receive the coordinates.
+#L_Hero_14=Hey, what was that?
+#L_Kfni_02=None of your business. Continue moving to your destination. Over and out.
+#L_Hero_15=You could've hinted at least...
+
+#L_Vks_03=Hey, where do you think you're going? It seems you're trying to betray us!
+#L_Pir_07=Yes, I'm talking to you, huckster! Are you trying to cheat us? Let's teach the dolt a lesson, guys!
+#L_Vks_04=Hey, what do you think you're doing?
+#L_Vks_05=Citizen, where the hell have you been? You had a clear order. Now move to the destination, we'll escort you.
+#L_Vks_06=He's a traitor, I knew that! Shoot him down!
+#L_Tri_07=Trying to cheat us, eh?
+#L_Vks_07=The major was right not to trust you!
+#L_Tri_08=The boss was right: a traitor once is a traitor forever.
+#L_Vks_08=What the hell are you doing?
+#L_Vks_09=Attention, trader, the station is off-limits, docking is prohibited. We insist that you leave.
+#L_Vks_10=Pilot, leave this area immediately or we'll have to use force.
+
+#L_Alex_01=You're late. I've already started worrying if something bad happened. No trouble getting here?
+#L_Hero_19=Getting here was such fun that I haven't completely recovered yet.
+#L_Alex_02=That's something I do believe. All right, dock. We'll wet our whistles and hear your story.

@@ -1,0 +1,80 @@
+;*****************************
+; mission_9a_p2
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_9a_01a=Deliver the cargo.
+#L_Quest_9a_01b=You need to deliver the cargo stored at the Kharkov Cargo Terminal in New Donbass to the MSF Main Headquarters in New Jerusalem 2.
+#L_Quest_9a_03a=Find Aylon's friend.
+#L_Quest_9a_03b=Aylon asked to find and help his old friend, who's been frequenting the Golden Buck Casino in Solncevka of late.
+#L_Quest_9a_04a=Pick up the cargo.
+#L_Quest_9a_04b=Pick up the equipment from the Kharkov Cargo Terminal in New Donbass.
+#L_Quest_9a_05a=Track down the transport.
+#L_Quest_9a_05b=Locate the transport smuggling weapons to Muscovy and locate the station it unloads at.
+#L_Quest_9a_06a=Get to the Angarsk Station.
+#L_Quest_9a_06b=If the weapons-smuggling transport is masked as a trader, it will be loaded at the Angarsk Station. Cargo ships departing from military bases to head for enemy space may arouse suspicion.
+#L_Quest_9a_07a=Leave the system.
+#L_Quest_9a_07b=You didn't find out anything about the transport. Mission failed. Leave the system.
+#L_Quest_9a_08a=Leave the system.
+#L_Quest_9a_08b=You've been uncovered. Mission failed. Leave the system.
+#L_Quest_9a_09a=Leave the system.
+#L_Quest_9a_09b=You might have located the transport you need. Leave the system and wait for it in Muscovy.
+#L_Quest_9a_10a=Get to observation spots.
+#L_Quest_9a_10b=To track transport routes in the system, get your ships to spots providing the maximum observation range.
+#L_Quest_9a_11a=Get ships away from the portal.
+#L_Quest_9a_11b=Observing a portal requires a single ship. Such tactics would be wise to locate the transport. But don't forget that even one vessel, not to mention a team, located closer than 300 clicks from the portal will surely arouse suspicion. But getting farther than 400 clicks from the portal won't let you observe passing transports sufficiently.
+#L_Quest_9a_12a=Observe the portal.
+#L_Quest_9a_12b=To perform the task, you need to register when the targeted vessel enters the system. Either a single ship or a team will suffice for observation.
+#L_Quest_9a_13a=Shadow the transport.
+#L_Quest_9a_13b=The destination of the targeted vessel is unknown, so you will need to shadow it. Either a single ship or a team will suffice. But don't forget that getting closer than 250 clicks will arouse target's suspicion. And getting farther than 450 clicks from the target will prevent you from tracking its route sufficiently.
+
+;*****************************
+;Speeches
+;*****************************
+#L_patrol_01=Attention, ships. This system is under martial law. State the purpose of your visit.
+#L_Hero_01=Take it easy, friend. We're just looking for work, not trouble.
+#L_patrol_02=We've checked your IDs, you may pass. Inquire about work at the central station. Don't hang around the portal.
+#L_Hero_02=Sure, sure, leaving already.
+
+#L_Lastochka_01=All right, partner. This idea was bad from the beginning. I suggest we get back to our business.
+
+#L_Lastochka_02=I think we shouldn't let the governor see us again.
+#L_Sedoy_01=I couldn't agree more.
+
+#L_Sedoy_02=The locals are credulity itself.
+#L_Hero_03=Haven't you got used to that yet? Ternie, have you scanned what we have in the cargo bay?
+#L_Lastochka_03=Equipment of all kinds. Seem like fighter parts.
+#L_Hero_04=Fine, we've come upon the tracks. Let's head for Bratsk, shall we?
+
+#L_kfni_01=Hey there, full speed astern! Back off, I say!
+
+#L_Hero_05=Now I'm perfectly sure it's the ship we need. Ternie, did you get its record?
+#L_Lastochka_04=Up to scratch, partner. I have all the telemetry there is.
+#L_Hero_06=Fine, then let's wait for it in Muscovy.
+
+#L_Hero_07=Fine, then let's wait.
+
+#L_Sedoy_03=The base is not detecting any new transports.
+#L_Hero_08=Damn, we lost it.
+
+#L_Sedoy_04=Boss, if I know something about shadowing, we need to keep our distance. Also, a cloaking device would come in handy.
+#L_Hero_09=True enough. We'll see what we can do.
+
+#L_Lastochka_05=I knew all this locate and track down thing was a waste of time. Partner, let the local security handle it, we have enough pressing matters already.
+
+#L_Lastochka_06=Damn, partner, it's a wrong ship!
+#L_Hero_10=Curses. I think we shouldn't return to that station anymore. Let's get away while it's still quiet.
+
+#L_Hero_11=Easy now, don't spoil the whole thing.
+#L_Lastochka_07=Who?
+#L_Hero_12=Later. Keep radio silence.
+
+#L_Hero_13=I don't know if that team the governor has mentioned is here, but we've sure located somebody. I'm calling in the cavalry.
+
+#L_sys_01=You're too close to the transport and may be spotted.
+#L_sys_02=You're too far from the transport and may lose the traces of it.

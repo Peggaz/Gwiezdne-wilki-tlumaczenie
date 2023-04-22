@@ -1,0 +1,21 @@
+;*****************************
+;Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Phantom
+#L_D2_msg00=You won't get our equipment, vultures. I, Phantom, say so!
+#L_D2_ans00=(Dalej)
+#L_D2_msg10=Don't overdo it, gramps. We don't need your junk. Besides, you could thank us for saving your butt.
+#L_D2_ans10=Are you all right?
+#L_D2_msg20=Yes, I am, youngsters. Thank you so much for helping me out, and sorry for misunderstanding. Oh, I wish you arrived a few minutes earlier so we could save our main transport. We lost a lot of precious equipment.
+#L_D2_ans20=You still have your life, which is more precious. It's strange that an FTU convoy was unescorted.
+#L_D2_msg30=You see, I'm not a member of the FTU. I'm a scientist specializing in alien artifacts and the head of the recently established Academy of Sciences of the New Empire. I expected certain cargo to be delivered to Achilles, but to get here I had to go through the Old Empire. So I had to finagle a bit, with FTU permission, of course. You know, I'm currently researching the problem of relativistic space compaction and the samples I've expected so much are essential for my work. Vital even!
+#L_D2_ans30=Why haven't you provided for a decent escort, if they are so vital?
+#L_D2_msg40=There was a good team of veteran mercenaries, but bureaucrats from the state apparatus decided not to prolong the contract. "We exceeded the expedition limit", they said. If it weren't for you...
+#L_D2_ans40=Well, I was glad to help.
+#L_D2_msg50=There's only one thing now: what should I do without a transport? I hate to sound impudent, youngsters, but could I please borrow your transport? Unfortunately, I can't afford it at the moment. But I will give you some experimental equipment in exchange. I don't need it right now, but you will find it very useful! It's not as expensive as a transport, but I shall make up for it in the future, I promise.
+#L_D2_ans50=All right, take it.
+#L_D2_msg60=Oh, thank you! Thank you very much! Science will not forgive you, my friends. If you ever visit the central systems of the New Empire, be sure to find me!
+#L_D2_ans60=Good luck and take care.

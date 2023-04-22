@@ -1,0 +1,29 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D1_msg00=Fine!
+#L_D1_ans00=(Dalej)
+#L_D1_msg10=It's the least I could do to thank you.
+#L_D1_ans10=Now let's talk about that information I need.
+#L_D1_msg20=You see... I lied a bit to get out of the station. Not even lied, but colored the situation a bit. Being the chief of station security, I surely knew who visited the system and when. Besides, those MSF guys dropped on us during my shift. But nobody informed me about their intentions and cargo...
+#L_D1_ans20=All right, tell me what you know. It's better than nothing.
+#L_D1_msg30=True enough, but it still seems like I've muddled your brains with promises and now I can't keep. It's kinda awkward, so please forgive me. Anyway, that is what happened. About a week before thick skulls wrecked Beta Lethera, our higher-ups tasked us to clear the system of pirates. That was quite interesting, given that pirates frequented Beta Lethera like your favorite bar. They had ships repaired, goods sold, missions given, you name it. Like in almost any other Triada system. The brass explained told us that a private convoy with a mercenary escort was soon to arrive. And no one should even look, not to mention fire, at them. Also, we were ordered to clear a warehouse at the station and weld all its doors shut, except for the airlock leading straight to the dockyard. The latter had security tightened, by the way. When I hinted, like, what we were to guard, with all that fuss, I was told to either shut the hell up or take a walk in open space with no suit on. Anyway, we did what we had been told to, but... What I'm going to tell you now will look like total gibberish, but I swear I hadn't been drinking for a week by that time!
+#L_D1_ans30=Oh, I believe you.
+#L_D1_msg40=Thanks, but first listen to what I'll say. So, we spent the whole week, chasing pirates around the system and fixing the station. When suddenly, not long before the attack, a couple of motherships arrived to Beta Lethera. Turned out it was Lee Imu, the son of our Big Boss and a nasty bastard, accompanied by his personal army of butchers. And it seemed like they had arrived from nowhere! They haven't passed through the portal, that's for sure. One moment the space was empty and then bam!, here they are. Ignoring all our questions, they ordered to call every patrol ship back to the station, then headed for the portal and turned cloaking on. In a couple of minutes we picked up another signal that looked like a very serious mercenary formation. Also from nowhere. These guys didn't even bother to answer, enabled cloaking and headed somewhere. Finally, we received a signal from the portal that the expected convoy had arrived. But at this moment MSF attacked and we had no time to look at scanners again. By the way, the thick skulls also appeared from nowhere, like Imu's son and the mercenaries. That's why I told you I hadn't been drinking - it was all too strange. So there. The thick skulls salvoed us with missiles and I didn't even have time to get out of the hangar. Then I conked out for a few hours, so I have no idea what happened to Imu, the mercenaries, the convoy, the cargo and everything else.
+#L_D1_ans40=But Triada surely knows it. Beta Lethera survivors, perhaps.
+#L_D1_msg50=They probably do, but I wouldn't set much hopes on that. I doubt that corporators will open to you. Besides, thick skulls are not talkative either. For so many times I've asked them to pick me up from the station debris! But those bastards only laughed, like, "You're a Triada guard, so keep on guarding what's left of it". Anyway, I've told you all I know. I hope this information is at least of some value.
+#L_D1_ans50=It's of more value than you could expect. Thanks a lot. Now, Greyhair, tell me where do you want me to drop you off? And don't worry, you've earned your freedom.
+#L_D1_msg60=Er... You see... I don't have a place to go actually. So I'd like to join the team. I'm a good fighter and today even a trader needs guns and people who know how to handle them. Well, I can also try and reach the Mercenary Market in Cassily, if you don't need me.
+#L_D1_ans60=Ternie?
+#L_D1_msg70=What? I'd prefer to wander in space with you alone, as you're the only man I trust. But he's right, the more guns we have now the better.
+#L_D1_ans70=Then, Greyhair, consider yourself a part of the team.
+#L_D1_msg80=Great, boss! You won't regret it!
+#L_D1_ans80=(Dalej)
+#L_D1_msg90=We hope so. Partner, do you remember my friend Watchmaker?
+#L_D1_ans90=How could I forget him...
+#L_D1_msg100=I've just received a message, he's offering a good job. Wait, I'll copy it to the shared mailbox.
+#L_D1_ans100=(Dalej)

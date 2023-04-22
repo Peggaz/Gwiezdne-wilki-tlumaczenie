@@ -1,0 +1,44 @@
+;*****************************
+;Dialog18.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Noise_Station
+#L_D18_msg00=We don't deal with strangers. Please leave us alone.
+#L_D18_ans00=Hey, I just need to talk to Aylon.
+#L_D18_msg10=Aylon? Who are you?
+#L_D18_ans10=Is he here?
+#L_D18_msg20=Who are you?
+#L_D18_ans20=(Dalej)
+#L_D18_msg30=Aylon, stop fooling around!
+#L_D18_ans30=(Dalej)
+#L_D18_msg40=Ternie! I haven't expected to see you here. What brings you here?
+#L_D18_ans40=(Dalej)
+#L_D18_msg50=We are to pick up the container for a certain client of yours.
+#L_D18_ans50=(Dalej)
+#L_D18_msg60=I know what you're talking about. Well, I did a good job - it will be detected as medicines and rations by any scanner. The client will be pleased. The labels also correspond. This is none of my business, but who needs such a powerful charge? Don't give me the geoexploration baloney. Besides, hyper-activated military detonators speak for themselves.
+#L_D18_ans60=What charge, what detonators are you talking about?
+#L_D18_msg70=I see... So you're being used. Well, it's convenient. It's your client, so it's really none of my business. But be very careful with this thing. It can rip a medium asteroid apart.
+#L_D18_ans70=Thanks for the warning. We'll talk to our client for sure. Load the box.
+#L_D18_msg80=And here we have a problem. Not long before your arrival, pirates, who claim to be the local government, took it from me along with an old transport. As a penalty for instigation to uprising, as Marco put it. The bastard thinks he's the local treasury secretary.
+#L_D18_ans80=(Dalej)
+#L_D18_msg90=Did you instigate?
+#L_D18_ans90=(Dalej)
+#L_D18_msg100=Well... I hate it that honest people are being bled white.
+#L_D18_ans100=(Dalej)
+#L_D18_msg110=It's strange they've only taken the junk instead of punching another hole in your skin.
+#L_D18_ans110=(Dalej)
+#L_D18_msg120=They had nothing but rumors, so they didn't dare mess with me. I'm too well-known in this system to vanish into thin air. A lot of people have disappeared already, so if it goes even further beyond endurance, the inhabitants will revolt. Pirates know that.
+#L_D18_ans120=Do they also know about the bomb?
+#L_D18_msg130=I have no idea. Marco resides at a former trade station, usually guarded by a large gang. But he has just sent his thugs away to collect "taxes".
+#L_D18_ans130=So Marco is unguarded now?
+#L_D18_msg140=That guy is never unguarded. But right now the security is not as tight. However, if you attack the station, other teams will move in quickly. So the plan of action is up to you.
+#L_D18_ans140=Thanks, it's something at least.
+#L_D18_msg150=Good luck. Ternie, I hope we'll meet again.
+#L_D18_ans150=(Dalej)
+#L_D18_msg160=So what should we do, boss? Negotiate or attack without further ado?
+#L_D18_ans160=(Dalej)
+#L_D18_msg170=I'd stay away from this at all. Let Viper sort this out herself, if she needs that container so bad.
+#L_D18_ans170=Let's go on a recon for starters. Perhaps, we'll be able to negotiate with that Marco. But have your guns ready.
+#L_D18_ans171=Ternie's right. All this working for the MSF has been a bad idea since the very beginning. Let's get away and try to get the information some other way.

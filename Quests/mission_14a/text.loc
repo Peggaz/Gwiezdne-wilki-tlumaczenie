@@ -1,0 +1,37 @@
+;*****************************
+; mission_14a
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_14a_01a=Meet with Trump.
+#L_Quest_14a_01b=Meet with Admiral Trump by the Solncevka station.
+
+;*****************************
+;Speeches
+;*****************************
+#L_Viper_01=Fine. Now we have to meet with Admiral Trump who is arriving shortly along with his strike force. Transmitting rendezvous location coordinates. Meanwhile, I shall fill you in on the coming mission.
+
+#L_Viper_02=Don't touch the bastard. He's mine!
+#L_Validol_01=You have to share the fun.
+
+#L_Gray_01=Dammit! They've killed Cayer!
+#L_Viper_03=You will join him soon enough.
+
+#L_Kair_01=Curses! Don't dawdle over that huckster, you lame dogs! Whack him already!
+
+#L_Kair_02=Idiots! Can't you handle a bunch of surface rats?! I'm calling in backup!
+#L_Sedoy_01=Now we're done for, boss.
+
+#L_unknown_01=Mission accomplished. Return to the HQ.
+#L_Sedoy_02=That's some ending. What was that?
+#L_Validol_02=Seems like a quarrel within the gang. Still, I think we should ponder on this far from here. Before another gang of Greys we've offended comes to get us.
+#L_Sedoy_03=Boss, if I ever talk much before starting a fight, do stop me, all right? That's a typical cliche that always ends bad for the talker.
+#L_Lastochka_01=Another cliche is to hang around a battlefield, being a nice target for more grey lamebrains. It's high time to hit it, partner.
+#L_Viper_04=Sounds reasonable. Let's withdraw to join Admiral Trump's strike force.
+
+#L_sys_01=That was your biggest mistake. Whatever happens next, you won't be a part of it.

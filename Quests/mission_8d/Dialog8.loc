@@ -1,0 +1,55 @@
+;*****************************
+;Dialog8.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Dispetcher
+#L_D8_msg00=We are glad to see you, brother, at the Knights of Light Cathedral.
+#L_D8_ans00=I need to talk to Alex Koshevoy. Tell him, a friend is looking for him.
+#L_D8_msg10=Why did you get here?!
+#L_D8_ans10=Now that's funny. You sent me a message yourself!
+#L_D8_msg20=I didn't know the MSF would close this system completely only because someone said "Templars". You could get killed easily, I just don't get it how you made it here!
+#L_D8_ans20=Am I bothering you or something?
+#L_D8_msg30=Curse that tongue of yours! I just imagined what you had to endure to get here.
+#L_D8_ans30=Aw, come on, it wasn't that bad. But tell me, for heaven's sake, what are you doing here, in this temple? Are you into religion now?
+#L_D8_msg40=The strategy is working! See? You shouldn't have doubted, Alex. No, my friend, this is not about religion, fanaticism, ideology or anything like that, so don't worry.
+#L_D8_ans40=(Dalej)
+#L_D8_msg50=Let me introduce my good friend now known as the Patriarch of Knights Templar.
+#L_D8_ans50=(Dalej)
+#L_D8_msg60=Nevermind the title, it's just for publicity.
+#L_D8_ans60=Publicity? Are you selling something?
+#L_D8_msg70=You can tell him...
+#L_D8_ans70=(Dalej)
+#L_D8_msg80=I got it already. We, my friend, are selling the most important thing in this world: protection, stability and hopes for a peaceful future.
+#L_D8_ans80=(Dalej)
+#L_D8_msg90=The Patriarch and his men are putting independent systems to rights, clearing out pirates, slavers and other riffraff.
+#L_D8_ans90=(Dalej)
+#L_D8_msg100=Not for free, of course, but in the long run our customers get more than they could hope for. When people stop trusting authorities, law, army, they begin trusting all sorts of mystic nonsense. You just have to accentuate key points that produce right associations.
+#L_D8_ans100=I can see you've done a great job accentuating, given the MSF has closed your system completely.
+#L_D8_msg110=Well, that was our little mistake, I admit. Who could have imagined that an idea of a secret society of knights would be taken so seriously by imperial goons? This is the first time in my long advertising career that I'm achieving such en effect. And believe me, I created a lot of large-scale ad campaigns.
+#L_D8_ans110=Why do you need it all?
+#L_D8_msg120=Money, safety, publicity, respect - you name it. We almost don't have to fight anymore. Most pirates get out of a system as soon as we announce the intention to establish a cathedral there. As wise men say, the best victory is the one that has been won without a single shot. Which suits us fine. Frankly speaking, we have more peaceful workers in the Order than fighters.
+#L_D8_ans120=(Dalej)
+#L_D8_msg130=Which, my friend, brings us to our missing convoys problem. A young boy named Cleric has recently joined the Order.
+#L_D8_ans130=(Dalej)
+#L_D8_msg140=He's a good hacker, but in my personality rating he's somewhere between a slug and a bloated toad.
+#L_D8_ans140=Spare your words, I know him.
+#L_D8_msg150=Yeah, he's unpleasant for sure. It took me just an hour to start willing to give him a thick ear. But he has valuable information about the missing transports. Unfortunately, he's only going to share it, when I, a member of the FTU, provide him with protection and a bank account. So far he's just been talking a lot of punk.
+#L_D8_ans150=(Dalej)
+#L_D8_msg160=This is not punk at all! Your friend is underestimating the danger for some reason. Cleric says it's related to the so-called Grey Brotherhood. And those guys are very dangerous. We're just clowning about, enjoying the show. But the Grey Brotherhood is a large and serious organization that is doing its best to remain unseen.
+#L_D8_ans160=(Dalej)
+#L_D8_msg170=Yeah, right, a couple of grey ships seen by a few hicks that couldn't even say anything worthy. So serious!
+#L_D8_ans170=Do you know anything about them, Alex?
+#L_D8_msg180=Not much, just rumors. But if Cleric can confirm or refute them, he's a valuable asset. I'm going to take him to my station, so he can mine the Galanet for data.
+#L_D8_ans180=(Dalej)
+#L_D8_msg190=Oh, please be so kind as to take him away from here, or I'll have him thrown into waste disposal. We don't like brutality, but this time we might just make an exception.
+#L_D8_ans190=All we have to do now is get out of here someway.
+#L_D8_msg200=This is a real problem and I'm glad you're not alone, but with a team. Now we have more chances to break through. Anyway, we need to leave quickly before the MSF pulls in more forces and launches an assault.
+#L_D8_ans200=And that Cleric, where is he?
+#L_D8_msg210=We got him loaded with soporifics and put into an escape pod.
+#L_D8_ans210=(Dalej)
+#L_D8_msg220=This way he won't play any dirty tricks on us. He doesn't have enough brains yet to get the idea of teamwork.
+#L_D8_ans220=Then let's do it. It was nice meeting you, Patriarch. Very educational.
+#L_D8_msg230=Same here. Call me if you need something advertised, I'll give you a discount. As for quality, you're seeing it yourself. Good luck.
+#L_D8_ans230=(Dalej)

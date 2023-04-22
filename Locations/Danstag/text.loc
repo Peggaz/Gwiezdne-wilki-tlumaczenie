@@ -1,0 +1,14 @@
+LOCALE_FILE
+FILETYPE MODDING 
+
+;*****************************
+;NavPoints
+;*****************************
+#M_pirate=Stacja Piratów
+#M_trade_station=Stacja Handlowa
+#L_trade_station=Stacja Handlowa "Denstag"
+#L_base=Baza wojskowa InoCo
+#L_uzl=Skrzy¿owanie Galanet-7
+#L_fact1=Zak³ad FAB-ST378
+#L_fact2=Zak³ad FAB-OP12L 
+#L_fact3=Zak³ad FAB-KK95I 

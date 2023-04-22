@@ -1,0 +1,35 @@
+;*****************************
+;Dialog3.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m6c_GuardVKS
+#L_D3_msg00=All ships, stop!
+#L_D3_ans00=(Dalej)
+#L_D3_msg10=What's happened, officer?
+#L_D3_ans10=(Dalej)
+#L_D3_msg20=It seems our trader friend was right. There may be an ambush here. Someone has just disabled the portal.
+#L_D3_ans20=(Dalej)
+#L_D3_msg30=Bad news... I've warned you about backup.
+#L_D3_ans30=(Dalej)
+#L_D3_msg40=I couldn't do it with nothing but unconfirmed rumors on my hands. That was against every regulation.
+#L_D3_ans40=(Dalej)
+#L_D3_msg50=I'm glad the regulations are met now. But what should we do?
+#L_D3_ans50=(Dalej)
+#L_D3_msg60=We can conduct recon to assess enemy forces and prepare to repel the attack. But each of my ships counts and I can't assign any fighters to this mission.
+#L_D3_ans60=Don't look at us! I've warned you, but you preferred to watch your shoulder straps instead. These transports are my primary concern. And I'm not sure you can protect them. So you're on your own.
+#L_D3_ans61=You should've unplugged your ears and listen to what others were saying! All right, we'll conduct recon, but promise you'll look after our transports.
+#L_D3_ans62=If we split, we'd only reduce convoy defense. I think we should move combat ships to the front. And you can count on our guns.
+#L_D3_msg70=I've expected nothing less from a money-hungry merc.
+#L_D3_ans70=(Dalej)
+#L_D3_msg80=It's a pity that you don't want to understand the key principle of convoy formation - mutual support. I'm afraid you're not welcome here anymore. What now, officer?
+#L_D3_ans80=(Dalej)
+#L_D3_msg90=We're too far from the nearest patrol stations and long-distance communication is jammed. Which means we don't know when the reinforcements arrive. But we can't retreat either, so there's only one thing left: attack with what we have.|And you stay out of my way.
+#L_D3_ans90=(Dalej)
+#L_D3_msg71=As if there are your own children! I haven't expected such bravery from you. Remember, we only need recon. Don't engage into a full-scale war. We'll be a bit behind you and join in as soon as we get a report on the enemy.
+#L_D3_ans71=(Dalej)
+#L_D3_msg81=We're in trouble.
+#L_D3_ans81=We'd be in it anyway, but now we at least have a small advantage.
+#L_D3_msg72=Well, there's some logic in this. Attention, convoy, continue movement. Combat ships to the front.
+#L_D3_ans72=(Dalej)

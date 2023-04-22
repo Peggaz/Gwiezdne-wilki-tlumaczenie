@@ -1,0 +1,10 @@
+;*****************************
+;Dialog4.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D4_msg00=I think I'm detecting something.
+#L_D4_ans00=No, that's not the one. Let's wait.
+#L_D4_ans01=That's the one. Let's get back to Muscovy and wait for it that side of the portal.

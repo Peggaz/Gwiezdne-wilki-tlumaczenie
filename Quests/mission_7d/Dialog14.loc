@@ -1,0 +1,11 @@
+;*****************************
+;Dialog14.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Alex
+#L_D14_msg00=What goes?
+#L_D14_ans00=Nothing special.
+#L_D14_msg10=Oh really? That's fun. I received a black box transmission from the trader you've attacked. What, was the piracy more profitable? And I thought you were a friend.
+#L_D14_ans10=(Dalej)

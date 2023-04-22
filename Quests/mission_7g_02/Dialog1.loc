@@ -1,0 +1,12 @@
+;*****************************
+;Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D1_msg00=Fine. Where to now, partner?
+#L_D1_ans00=To the MSF HQ in New Jerusalem 2. Our license plates are clean, so they should have nothing against us. I'd very much like to know about all that fuss in Beta Lethera.
+#L_D1_ans01=To Triada's main HQ in Candela. Let's see what they have to say about special units, which had arrived before the attack.
+#L_D1_ans02=The MSF and Triada will wait. I'd like to know what a mercenary was doing among the debris of my convoy. And on such a fancy fighter at that. Greyhair, you said there was some Mercenary Market in Cassily? Let's try to find something out there.
+#L_D1_ans03=The investigation will wait. We have to make some money and get better hardware. I suspect our future will not be without difficult situations. I got a message from my friend Alex. He claims he has a good mission, right for a team like ours. We're heading for XT-54.

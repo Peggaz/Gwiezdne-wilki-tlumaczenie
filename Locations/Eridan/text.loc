@@ -1,0 +1,16 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#L_nav_01=Portal do Shula
+#L_nav_02=Portal do Hapha
+#L_nav_03=Portal Prekursorów
+#L_nav_04=Zniszczona stacja Patrolu
+#L_nav_07=Stacja naukowa "Horyzont"
+#L_trade=Stacja "Wyspa Skarbów"
+#L_KFNI=Kwatera g³ówna NESF, Sektor Centaur
+#L_lab=Laboratorium Widma
+#L_comm=Zag³uszacz sygna³u
+#L_hyper=Zag³uszacz hiperprzestrzeni

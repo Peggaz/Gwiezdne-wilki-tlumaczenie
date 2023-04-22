@@ -1,0 +1,14 @@
+;*****************************
+;Dialog5.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Sedoy
+#L_D5_msg00=It seems they've run out of soldiers.
+#L_D5_ans00=(Dalej)
+#L_D5_msg10=We have a problem. A large Triada formation is approaching from the portal!
+#L_D5_ans10=(Dalej)
+#L_D5_msg20=Take care of the guards and we'll meet the unwanted guests.
+#L_D5_ans20=Agreed. We can deal with these.
+#L_D5_ans21=We had a deal to assault the system together!

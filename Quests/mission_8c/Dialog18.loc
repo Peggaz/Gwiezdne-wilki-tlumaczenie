@@ -1,0 +1,17 @@
+;*****************************
+;Dialog18.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Trader
+#L_D18_msg00=Thank you, friends!
+#L_D18_ans00=What did you do to them?
+#L_D18_msg10=They said we were smuggling. I don't care if we are, we're delivering things people are ready to pay for. We haven't check local laws and, besides, it's a free market!
+#L_D18_ans10=(Dalej)
+#L_D18_msg20=I don't believe my ears, we got us into trouble because of some petty smugglers who couldn't even hide their goods properly! Partner, let me shoot them down.
+#L_D18_ans20=(Dalej)
+#L_D18_msg30=Don't do that. We never wanted to cause any trouble. Listen, we have a stash full of decent equipment. And I can also tell you the coordinates of uncharted portals. Rumor has it one can jump a dozen systems by means of those. But sometimes it ends bad.
+#L_D18_ans30=Portals you say? What systems do they connect?
+#L_D18_msg40=Boss, I hate to interrupt, but we have visitors! Lots of them!
+#L_D18_ans40=Damn! All right, step on it. But don't get in our way ever again.

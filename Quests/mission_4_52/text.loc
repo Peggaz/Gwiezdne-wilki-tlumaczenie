@@ -1,0 +1,32 @@
+;*****************************
+; mission_4_52
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_4_5_01a=Reach the Grid Station in Elio.
+#L_Quest_4_5_01b=A friend of Ternie, who resides at the Grid Station in Elio, can fix pirate mothership's license plates. If it's not done, any patrol or military force will consider it an honor to disintegrate you.
+#L_Quest_4_5_05a=Find Matt Hander.
+#L_Quest_4_5_05b=Carl Hander asked you to find his son Matt who hadn't arrived to the Hope Mine on time.
+#L_Quest_4_5_06a=Pick up the escape pod.
+#L_Quest_4_5_06b=Pick up the escape pod at the wreck site and deliver it to the Grid Station.
+#L_Quest_4_5_07a=Dock to the station.
+#L_Quest_4_5_07b=Dock to the Grid Station so Carl Hander can do everything necessary.
+#L_Quest_5_01a=Return to Alex's station.
+#L_Quest_5_01b=A former pirate base is a nice thing to have, all the more so it's probably not on the wanted list anymore. But equipping it will require lots of money, so you should return to Placid Docks in Aurora. Alex must have a few serious and well-paying contracts.
+
+;*****************************
+;Speeches
+;*****************************
+#L_Hero_01=Whoever that was, let's scram before someone else arrives.
+
+#L_Lastochka_01=Carl, we found someone, but he's in a bad shape. He needs a doctor, right now.
+#L_Karl_01=Unload the pod. It's Matt! Thanks be, he's alive! Wait a second!
+#L_disp_01=You did great.
+#L_Hero_02=Who is that Curtis?
+#L_disp_02=Some bandit. First, he tried to take over our stations by threatening us, then he started attacking trade ships. But Carl and Matt Hander are not easily frightened, so the boy decided to lead the convoy himself. I hope he lives.
+#L_Karl_02=Matt is in resuscitation now. The doctor says he'll be all right. I'm forever in your debt! You said something about fixing mothership IDs? I'll get down to it right away. Thank you again for saving my son!

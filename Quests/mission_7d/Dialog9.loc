@@ -1,0 +1,13 @@
+;*****************************
+;Dialog9.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Sedoy
+#L_D9_msg00=Well, those morons were easy to deal with. I haven't expected that.
+#L_D9_ans00=(Dalej)
+#L_D9_msg10=Attention, everyone, fighters incoming. At least three teams.
+#L_D9_ans10=(Dalej)
+#L_D9_msg20=It's probably the backup we've pretended to be. So, let's welcome the dear guests properly, shall we?
+#L_D9_ans20=(Dalej)

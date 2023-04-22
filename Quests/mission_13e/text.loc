@@ -1,0 +1,64 @@
+;*****************************
+; mission_13e
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_13e_01a=Reach the MSF station.
+#L_Quest_13e_01b=Reach the abandoned MSF station in XT-24, where Greys are supposedly located.
+#L_Quest_13e_02a=Reach the pirate station.
+#L_Quest_13e_02b=Reach the pirate station that Ternie has been transported to.
+#L_Quest_13e_03a=Eliminate the guards.
+#L_Quest_13e_03b=Eliminate the pirate station guards.
+
+;*****************************
+;Speeches
+;*****************************
+#L_Sedoy_01=I knew it. The scanner's a total mess.
+#L_Hero_01=Then we'll be very careful. I marked the approximate coordinates of that MSF base we had been told about on the map.
+
+#L_gray_01=General alarm! Orderly, to the radio!
+#L_Sedoy_02=Don't let their courier get away, boss! Or this place will soon be in a flap!
+
+#L_Yana_01=Hooray! We won! But I bet this place is crawling with other patrols.
+#L_Sedoy_03=I couldn't agree more. Boss, let's advance slowly and quietly.
+
+#L_Sedoy_04=There's more...
+
+#L_base_01=Reactor damage critical, emergency state initiated. Engine damage critical, systems disabled. Hull damage critical.
+#L_Sedoy_05=May plasma burn your eyes, damn you!
+
+#L_Yana_02=Are those transports firing at us like that?! They'll destroy the base!
+
+#L_Yana_04=Ternie! No!
+#L_Hero_07=Fight back, fight back! SAM, check everything! Ternie had to have time to escape in a pod! Find and protect it!
+#L_UelD_01=Affirmative. Scanners initializing.
+
+#L_Sedoy_06=Boss, we need to deal with the last one before there's more!
+#L_Lastochka_01=Don't shoot... We're here... Fix this cursed radio, Kalem!
+#L_Kalem_01=Don't panic, I'm on it.
+#L_Hero_02=Ternie?! Hold on, we're approaching!
+
+#L_Hero_03=Our next target is the station! Come on, people, we don't have much time!
+
+#L_Yana_03=Do we have an attack plan?
+#L_Hero_04=We kill all the pirates and stay alive ourselves. Isn't this obvious?
+
+#L_pirate_01=Look out, brothers! We're busted!
+#L_pirate_02=But the client...
+#L_pirate_03=Pays us too little for all the fuss! But you can stay here, if you want.
+#L_Sedoy_07=That's what I call a victory!
+
+#L_Sedoy_08=The cavalry's here... It won't be easy without a base.
+#L_Kalem_02=I can help you fight back.
+#L_pirate_04=Oh, dammit, they wrecked the place! And the client hasn't yet paid us for the month! Come on, boys, they'll pay us with their meager lives!
+
+#L_Uel_01=Hold on, I'm coming to help you.
+
+#L_sysmsg_01=Ternie is dead. Your life has become empty and meaningless.
+
+#L_sys_01=That was your biggest mistake. Whatever happens next, you won't be a part of it.

@@ -1,0 +1,42 @@
+;*****************************
+;Dialog3.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Uel
+#L_D3_msg00=The plan of humanity evolution created by the Future Projects department will allow to reorganize the human society, maximize its structure efficiency, end the ongoing civil war, eliminate reasons for future wars, eradicate crime and start a new era.
+#L_D3_ans00=(Dalej)
+#L_D3_msg10=De nuevo? How many of such plans were there? And how did they all end? No, amigos, fighting for the dreams of a machine is not for me.
+#L_D3_ans10=(Dalej)
+#L_D3_msg20=The probability of success is 98%. Thanks to the technology created before the war, the humanity will be able to live in a unified society based on collective consciousness. Each part it will be constantly connected with the rest, but will have enough personal freedom for the ability to create, the independence of thought and the desire for self-actualization.
+#L_D3_ans20=(Dalej)
+#L_D3_msg30=Yeah, and you will be poking at everyone's brain and push buttons you need. Been there, done that!
+#L_D3_ans30=(Dalej)
+#L_D3_msg40=My primary task is effective resource management. I have no ambitions, I am self-sufficient and unaffected by emotions. I will be an auxiliary for this is my software architecture. An attempt to change it will result in my death. People will be the ones fully responsible for social development, scientific and cultural progress. As for the forced forming of world-view, today's propaganda and mass media have a far more destructive effect on the freedom of thought than will ever be possible in a collective consciousness society.
+#L_D3_ans40=(Dalej)
+#L_D3_msg50=Mind if I strike in? As you know, I'm competent in both software and hardware. That said, I have never seen a successful attempt to create a self-sufficient mathematical system that wouldn't need to be maintained and corrected by man. Any system is limited and performs only functions its programmers have implemented. When it faces an unknown situation, it starts making mistakes, one after another. I can't guarantee that SAM's plan is not a result on such a mistake.
+#L_D3_ans50=(Dalej)
+#L_D3_msg60=See? Boss, I'm just a soldier, but listen to Kalem! Unlike us, he's a pro. A machine can't rule people. It just cannot!
+#L_D3_ans60=(Dalej)
+#L_D3_msg70=I didn't say that. I just pointed out that so far no one has succeeded in creating a self-sufficient machine.
+#L_D3_ans70=(Dalej)
+#L_D3_msg80=I am based on new principles of data processing and a new software architecture.
+#L_D3_ans80=(Dalej)
+#L_D3_msg90=Perhaps. But behind all that are old lamebrains who programmed you, like they did with Berserk and AM. Do you remember how it went up?!
+#L_D3_ans90=(Dalej)
+#L_D3_msg100=I'll be damned, if I ever change freedom to a chip inside my head! If any of my men becomes a computer's puppet! SAM, you're dead. You may not feel pain, but I'll do my best to fry your electronic brain.
+#L_D3_ans100=(Dalej)
+#L_D3_msg110=So, boss, shall we dismantle the tincan? Others seem to agree.
+#L_D3_ans110=(Dalej)
+#L_D3_msg120=I couldn't agree more.
+#L_D3_ans120=(Dalej)
+#L_D3_msg130=Me too, amigos! Cubriremos con la gloria nuestros nombres!
+#L_D3_ans130=(Dalej)
+#L_D3_msg140=Partner, what do you say?
+#L_D3_ans140=Do I really have to say anything? SAM has to pay for Alex's death!
+#L_D3_ans141=Enough bloodshed... People, look what we are doing - conspiring, killing friends. This can go on forever. We need to stop the bloodshed once and for all, even if it means liminations to personal freedom. I think SAM's plan is a good one and will fight for it.
+#L_D3_msg150=You preferred prejudice and emotions to pure logic. I'm sorry, but you mustn't interfere with the humanity evolution plan.
+#L_D3_ans150=(Dalej)
+#L_D3_msg151=Sorry, boss, you leave us no other choice.
+#L_D3_ans151=(Dalej)

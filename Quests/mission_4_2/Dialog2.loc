@@ -1,0 +1,19 @@
+;*****************************
+;Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;PirateRookie
+#L_D2_msg00=Thanks again! This is not a trick, the stash exists and the coordinates are right! Besides, now you can enable the upgraded equipment. Good bye!
+#L_D2_ans00=Now we're done...
+#L_D2_msg10=Yes, the ship is clear. I'm not sure I would've had guts to open the airlock though. I'm not sure at all... Anyway, they really said the truth about the stash! While you were getting to the cockpit, I checked the coordinates against the onboard database. Almost all data on those has been deleted, as if there is actually something worthy of hiding.
+#L_D2_ans10=We'll check it, but not right now. Now I'll try to enable the upgraded units they've mentioned. They might come in handy.
+#L_D2_msg20=Speaking of the database, there is one problem. We need to fix its ID, otherwise it will be attracting all sorts of patrols anywhere.
+#L_D2_ans20=Does it require some special tools?
+#L_D2_msg30=It requires a special technician. I know one, he lives in Elio.
+#L_D2_ans30=That's far.
+#L_D2_msg40=Oh, partner, it will seem much longer, given that every patrol will try to bash your brains out. By the way, is it all right if I call you partner?
+#L_D2_ans40=It's not all right that our brains may be bashed out.
+#L_D2_msg50=Aw, nevermind that. If you're not bashing out somebody's brains, that somebody is bashing out yours. This game is thousands of years old and we can't change its rules. Let's head for Argon and then see what to do next. Oh, and remember: we should stay away from patrols, trade routes and stations.
+#L_D2_ans50=(Dalej)

@@ -1,0 +1,10 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#L_portal_1=Portal intrasystemowy
+#L_portal_2=Portal intrasystemowy
+#L_miners=Stacja "Raj Górników"
+#L_trade2=Stacja Handlowa "Dolny Otwór" 

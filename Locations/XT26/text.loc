@@ -1,0 +1,10 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#L_nav_01=Portal do XT-93
+#L_nav_02=Nieznany portal
+#L_nav_03=Pancernik
+#L_trade=Botik Skavaliniego

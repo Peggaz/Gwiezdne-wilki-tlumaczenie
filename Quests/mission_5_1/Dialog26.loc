@@ -1,0 +1,11 @@
+;*****************************
+;Dialog26.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;USSDispetcher
+#L_D26_msg00=Cargo unloaded, thank you for cooperation.
+#L_D26_ans00=(Dalej)
+#L_D26_msg10=See, partner? It went off without a hitch.
+#L_D26_ans10=It sure did. All right, let's visit local stores and then see what to do next. Perhaps, Alex will message us.

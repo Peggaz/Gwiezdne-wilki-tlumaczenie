@@ -1,0 +1,15 @@
+;*****************************
+;Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D2_msg00=All right, we're here. I know the frequency to contact the man we need.
+#L_D2_ans00=(Dalej)
+#L_D2_msg10=Should we mess with the military channels, boss? It makes them nervous.
+#L_D2_ans10=We have to risk it, otherwise it'll take us an eternity to find him. Besides, I don't think they'll start shooting without getting to know how we've got their frequencies first.
+#L_D2_msg20=As you say, boss. Who's the contact, by the way?
+#L_D2_ans20=Let's try to contact Alexandra Sukhova. The commander said she was the person we needed. Sending the signal now.
+#L_D2_msg30=Can we have some pizza while we wait?
+#L_D2_ans30=(Dalej)

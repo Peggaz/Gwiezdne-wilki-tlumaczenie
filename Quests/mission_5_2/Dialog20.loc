@@ -1,0 +1,13 @@
+;*****************************
+;Dialog20.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D20_msg00=Partner, are you out of your mind? Why the hell did you start firing?!
+#L_D20_ans00=Calm down. They were luring us into a trap, haven't you noticed?
+#L_D20_msg10=Boss, it's good that you had warned us beforehand and we had a chance to prepare. What now?
+#L_D20_ans10=Now? I think we should visit Quarter and thank him for being so caring.
+#L_D20_msg20=Fine! All right, boys, let's shake that pirate hive!
+#L_D20_ans20=(Dalej)

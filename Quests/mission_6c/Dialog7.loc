@@ -1,0 +1,12 @@
+;*****************************
+;Dialog7.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D7_msg00=My, aren't USS employees loyal.
+#L_D7_ans00=Heh, yeah. All right, we need to pick up the pod and let corporators deal with it.
+#L_D7_msg10=Where to now?
+#L_D7_ans10=Straight to Al-Ariash. I'm tired of all these adventures.
+#L_D7_ans11=We should warn the convoy. All the more, if our cargo is really that valuable, there might be a whole gang of other claimants looking for it.

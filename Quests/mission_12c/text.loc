@@ -1,0 +1,93 @@
+;*****************************
+; mission_12c
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_12c_01a=Meet with Alexandra Sukhova.
+#L_Quest_12c_01b=Alexandra's department has been searching for grey ships for some time. Perhaps, she managed to locate the gang's base. Alexandra will await you in the Cadi system.
+#L_Quest_12c_02a=Get to Al-Trabon.
+#L_Quest_12c_02b=You need to get to Al-Trabon to lead the refugee convoy.
+#L_Quest_12c_03a=Get to Al-Zed.
+#L_Quest_12c_03b=You need to get to Al-Zed.
+#L_Quest_12c_04a=Get to the portal in Al-Zed.
+#L_Quest_12c_04b=Get to the portal in Al-Zed. The patrol promised to help you enter the system without too much noise.
+#L_Quest_12c_05a=Rendezvous with the transports.
+#L_Quest_12c_05b=Rendezvous with the refugee transports by the Jordan Warehouses.
+#L_Quest_12c_06a=Escort the transports.
+#L_Quest_12c_06b=Escort the transports to XT-93. You can't afford to lose a single ship!
+#L_Quest_12c_07a=Wait until Aja Shumova arrives.
+#L_Quest_12c_07b=The mission is accomplished and the refugees are safe. Wait until Aja Shumova arrives to hand them over to her.
+
+;*****************************
+;Speeches
+;*****************************
+#L_Sedoy_01=Boss, I looked through the news and contacted a few guys from the mercenary brotherhood. I'd like to say we have a difficult mission to accomplish. Not only Al-Trabon is full of thick skulls that have the Al-Zed portal under control, but they even got a cruiser and a couple MSF special units. It will be one hell of a fight.
+#L_Hero_01=Greyhair, remember at least one day when it was easy for us. We'll improvise. If the worst comes to the worst, we have torpedoes.
+#L_Sedoy_02=Those toys are only good against large targets. Besides, one will have to get close to hit one. Fighters are much more dangerous.
+#L_Che_01=Torpedoes, hah! Amigos, you won't even get as close as a line of sight to a large target. This requires a more subtle approach.
+#L_Hero_02=Let's see how it turns out on the spot. There's such thing as luck.
+#L_Sedoy_03=There probably is, boss, there probably is... All right, I'm out.
+
+#L_patrol_01=General alert! Intruders!
+
+#L_Sedoy_04=Aren't you a subtle one, boss!
+#L_Hero_03=They wouldn't let us pass through the portal anyway. It makes no difference to fight now or later. We need to reach Al-Zed, so let's focus on that.
+
+#L_Hero_04=We'll jump first to recon. You jump in half a minute.
+#L_liner_01=Got you. Good luck to you!
+#L_Hero_05=Good luck to all of us. Otherwise we might not survive this scrape.
+
+#L_Hero_06=Attention, transports, start moving to the XT-81 portal! We'll clear the way!
+
+#L_liner_02=We're at the portal, awaiting orders.
+#L_Hero_07=Jump, we'll catch up!
+
+#L_Sedoy_05=Boss, we should stay away from them!
+
+#L_Sedoy_06=That was quite a fight!
+#L_Che_02=Amigos, you're scaring me. I don't have enough paint to draw a mark of such a leviathan on my ship!
+#L_Hero_08=That's more like it! Now let's leave for XT-81.
+
+#L_patrol_02=Moscow, we're in deep trouble. Mayday!
+#L_vks_01=Affirmative, moving on to your location.
+#L_Sedoy_07=Now that is truly bad.
+#L_Hero_09=Stay focused and cover the transports!
+
+#L_patrol_03=General alert! We have visitors!
+
+#L_patrol_04=That's it, I've kept my word. Get lost and don't let me notice you. If you return, I'll put everyone on alert. I hope I've made myself clear. Over and out.
+
+#L_Hero_10=Head for the next portal, we'll cover you.
+
+#L_Sedoy_08=Boss, we have a problem. There's a team of fighters approaching from XT-86.
+#L_Hero_11=Have we time to leave?
+#L_Sedoy_09=We can try.
+#L_Hero_12=Then let's hit it.
+
+#L_Hero_13=Everyone all right? Fine! A change of tactics: follow us closely after you've passed the portal. Got it? Ok, let's jump to XT-41.
+
+#L_Sedoy_10=So far so good, boss. Let's try to keep it this way.
+
+#L_patrol_05=General alert! Refugees!
+
+#L_patrol_06=I have a visual of refugees! General alert!
+
+#L_Hero_14=Damn, it's bad. They had time to put the whole system on alert.
+#L_Alexandra_02=I'll try to get us a reinforcement, but I wouldn't hope for anything serious.
+#L_Hero_15=We can use any help now.
+
+#L_triada_01=Aja sent us. Hurry up!
+#L_Hero_16=Transports, get into the portal.
+
+#L_Che_03=Yahoo! One hell of a flight that was, amigos!
+
+#L_liner_03=We're under attack! Mayday! Where's our escort?! No!
+#L_Alexandra_01=You bastards, I trusted you!
+#L_sys_01=You can't accomplish this mission with a negative standing with Triada.
+
+#L_sys_02=That was your biggest mistake. Whatever happens next, you won't be a part of it.

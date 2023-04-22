@@ -1,0 +1,27 @@
+;*****************************
+;Dialog20.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m7b_8b_Roem
+#L_D20_msg00=I can see you did great. Now you have to-
+#L_D20_ans00=Oh, just don't start on that track again! The deal was to place satellites.
+#L_D20_msg10=Listen, we'll pay you 250,000 credits. You will just have to go a short way round and photograph an object of our interest. Or it's no deal!
+#L_D20_ans10=Sure, fine, then it's no deal. We're leaving this system for it's too hot here - one detail you've forgotten to tell us about.
+#L_D20_ans11=Well, it's ok as long as you pay. What's the object?
+#L_D20_msg20=You wouldn't want to be on bad terms with our corporation.
+#L_D20_ans20=I'm willing to risk it.
+#L_D20_msg21=Actually we don't know it ourselves. The satellite has just detected it. Wait, here are the coordinates. We're waiting for intel. Good luck.
+#L_D20_ans21=(Dalej)
+#L_D20_msg31=I can't believe my ears, you bought it and agreed to run on another errand.
+#L_D20_ans31=Ternie, 250 G's for a detour - this sounds like fine compensation.
+#L_D20_msg41=Oh, partner, are you going to grow wiser? Look at the map. To get to the spot, we'll have to go a crazy way round patrols. Or fight every one of them.
+#L_D20_ans41=(Dalej)
+#L_D20_msg51=I vote for a fight. At least, they won't stab us in the back, if we're detected.
+#L_D20_ans51=You may be right. But I vote for a safe journey.
+#L_D20_ans52=I vote for fighting too.
+#L_D20_msg61=Let me lay a course. Done!
+#L_D20_ans61=(Dalej)
+#L_D20_msg62=Then let's rush in headlong like space cowboys, which we are.
+#L_D20_ans62=(Dalej)

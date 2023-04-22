@@ -1,0 +1,15 @@
+;*****************************
+;Dialog11.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_D11_msg00=We should have shaken that bastard out of his ship right away! Where should we look for him now?
+#L_D11_ans00=(Dalej)
+#L_D11_msg10=Don't worry about "where", boss. I tagged him with a bug as Ternie had taught me. But "how" is still going to be a problem. I have a feeling the pursuit will be very hot.
+#L_D11_ans10=(Dalej)
+#L_D11_msg20=You mean that scoundrel might surprise us a few times?
+#L_D11_ans20=(Dalej)
+#L_D11_msg30=Do you doubt it? Boss, the sooner we catch him, the safer we will be. I think we shouldn't engage in combat and get the guy in the first place.
+#L_D11_ans30=I agree, but we'll have to act according to circumstances.

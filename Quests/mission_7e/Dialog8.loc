@@ -1,0 +1,26 @@
+;*****************************
+;Dialog8.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Alexandra
+#L_D8_msg00=Well, well, well. Aren't these those stranger who like to use secret frequencies. I have good news for you: you're in deep, deep trouble.
+#L_D8_ans00=For real? That's fun, because Samuel Fletcher, Mercenary Market Commander, assured us you would be glad if I used this frequency. He said that my case would interest you as well.
+#L_D8_msg10= Fletcher you say... Samuel doesn't do things just for fun. All right, how can I help you? But please give me only the facts.
+#L_D8_ans10=About a year ago, I lost my transport convoy when the MSF attacked a Triada station in Beta Lethera 1. I managed to sneak into that system and found the remains of a fighter. We thoroughly examined it - let me share the data - but found nothing about its owners.
+#L_D8_msg20=Oh my, another one... Your case is truly interesting. You know, I have seen messages about those ships before. But I've never seen any actual ships. These vessels have excellent cloaking devices, weaponry, speed and maneuverability, but nothing else is known. There are a few more mysteries, which I'm not going to tell you this time. Let me underline one thing though: these ships do not seem to belong to a corporation or the MSF.
+#L_D8_ans20=Not much. I hoped for something more significant.
+#L_D8_msg30=I'm sorry for not justifying your expectations. But there's that will suit us both - a joint investigation. You have a ship with clean FTU license plates, so you can get to places that are off-limits for me.
+#L_D8_ans30=In other words, you need us as office boys, am I right?
+#L_D8_msg40=You are not. The term "field agent" is way better. In return, I guarantee you the complete access to information about this case.
+#L_D8_ans40=I have a strange feeling that now you're going to say, "And to make sure I can trust you, you must..."
+#L_D8_msg50=Well, the wording is slightly different, but you get the idea. I'm glad your mind is so acute.
+#L_D8_ans50=Let's omit the unnecessary flattery. What do we need to do?
+#L_D8_msg60=You must pick up a package from a certain person in the Torr system and take it to the space of the Old Empire. The package is a usual storage device with data that is related to our case as well. Can you handle this?
+#L_D8_ans60=Ok, Alexandra, we have a deal.
+#L_D8_ans61=Thanks but no thanks. What you're asking me to do is called espionage with all the ensuing consequences. And I greatly doubt that the information you have is worth the risk.
+#L_D8_msg70=I'm sure our cooperation will benefit both of us! You need to get to the Oxygen Station in Torr. There my agent will give you the storage device and further instructions. Now I'll give you a map with a safe route through Gideon to the Solpugae portal. Try not to wander off the route. Patrols won't hurt you, but we also have many surprises for unwanted guests. Good luck.
+#L_D8_ans70=(Dalej)
+#L_D8_msg71=Well, it's your call. Patrols will take you to the portal. Be sure not to wander off or I won't be able to guarantee your safety. Over and out.
+#L_D8_ans71=(Dalej)

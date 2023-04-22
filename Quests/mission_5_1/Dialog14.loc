@@ -1,0 +1,13 @@
+;*****************************
+;Dialog14.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;USSOfficer
+#L_D14_msg00=This is really strange. But I have to check every detail out. Send me the coordinates of the skirmish. Perhaps, we'll find the black boxes. I'm afraid you will have to tag along.
+#L_D14_ans00=Do I really have to? I could go pick up the cargo in the meantime.
+#L_D14_msg10=The cargo will remain at the station where you've left it for some more time. I have to say your presence at the crime scene is compulsory, as you're one of the conflicting parties. So this is out of the question. Besides, you should really let your guards go. We can protect you ourselves.
+#L_D14_ans10=All right, just let me pay them. Thanks for your help, Daredevils. Here are your money, like I promised.
+#L_D14_msg20=Boss, are you sure you don't need us anymore? Formally, we haven't completed the contract, so we can cover you, if anything happens.
+#L_D14_ans20=Now I'm pretty sure I'm dealing with the real customer.

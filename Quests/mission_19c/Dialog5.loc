@@ -1,0 +1,25 @@
+;*****************************
+;Dialog5.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Corsair
+#L_D5_msg00=Surprise, surprise! I told you there would be more guests.
+#L_D5_ans00=(Dalej)
+#L_D5_msg10=That's something new. Why do you think Triada is a problem?
+#L_D5_ans10=(Dalej)
+#L_D5_msg20=Aside from things I've already mentioned, they supply pirates with guns and missions and launder their money. I think it's enough.
+#L_D5_ans20=(Dalej)
+#L_D5_msg30=You know what, friend. Stay away from Triada and don't lump the blame of a single bastard onto the whole corporation. So, if you need someone's skin on your fighter's fuselage, it should be Min Imu's skin only. I will even help you get it. But don't you ever think of touching Triada!
+#L_D5_ans30=(Dalej)
+#L_D5_msg40=What will change, Aja? Will your men suddenly become goody-goody?
+#L_D5_ans40=(Dalej)
+#L_D5_msg50=My father prepared a trap for Imu, but had no time to catch him. I swear that if you help me deal with the bastard, any pirate Triada pilots will see will be as good as dead!
+#L_D5_ans50=(Dalej)
+#L_D5_msg60=I heard about Kim Shumov and goals he had tried to achieve. The FTU has nothing against that kind of Triada. If the corporation can be that way, of course.
+#L_D5_ans60=(Dalej)
+#L_D5_msg70=Hey you, on the grey fighter! Aren't you forgetting something? You're still at gunpoint, so it doesn't matter much what FTU has or hasn't. What are you going to do in the future yourselves, may I wonder?
+#L_D5_ans70=(Dalej)
+#L_D5_msg80=Same old. We will transfer our combat fleet to system patrols and withdraw our people from your management structures. The FTU will go on as an organization, acting within the law.
+#L_D5_ans80=(Dalej)

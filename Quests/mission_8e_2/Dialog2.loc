@@ -1,0 +1,21 @@
+;*****************************
+;Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Noise_Station
+#L_D2_msg00=Whatcha need?
+#L_D2_ans00=(Dalej)
+#L_D2_msg10=Slippy, is that you? That's surely your style of welcoming people.
+#L_D2_ans10=(Dalej)
+#L_D2_msg20=Oh, wow! I thought you, like, kicked the bucket.
+#L_D2_ans20=(Dalej)
+#L_D2_msg30=Not on your life. Slippy, we need license plates cleared up.
+#L_D2_ans30=(Dalej)
+#L_D2_msg40=Oh, that's easy as pie. Pay me 850 grands and become sinless like lambs again. And no haggling.
+#L_D2_ans41=How much?! 850 thousand?! You're insane.
+#L_D2_msg51=You're the boss. I'm here, if you change you mind.
+#L_D2_ans51=(Dalej)
+#L_D2_msg61=Where shall we go now, given our license plates have been spotted?
+#L_D2_ans61=No idea. But I'll come up with something.

@@ -1,0 +1,55 @@
+;*****************************
+; mission_6
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_6M_a=Reach Beta Lethera 1.
+#L_Quest_6M_b=The last signal from the convoy came from Beta Lethera 1. It was a mayday. The ships were most likely destroyed, cargo stolen. But there's still a chance that some of the pilots have survived. Besides, an examination of the wreck site can shed light on what's happened.
+#L_Quest_6K_a=Escort the transports to Al-Ariash.
+#L_Quest_6K_b=100,000 credits is a good pay for escorting a couple of ships to Al-Ariash. Still, the route goes through a few tumultuous areas, so additional help might come in handy.
+#L_Quest_6_01a=Meet Ternie's friend.
+#L_Quest_6_01b=A friend of Ternie who lives in New Jerusalem 3 might have heard something about the missing convoy.
+#L_Quest_6_02a=Leave the system.
+#L_Quest_6_02b=You should hurry up to jump through the New Jerusalem 3 portal before the MSF convoy does.
+#L_Quest_6_03a=Get to the designated coordinates.
+#L_Quest_6_03b=Greyhair managed to determine approximate coordinates, at which the UniTrans convoy had been attacked. Perhaps, a look at the debris will shed some time on the attackers and pilots' fate.
+
+;*****************************
+;Speeches
+;*****************************
+#L_Lastochka_01=Excellent. The man I've told you about lives here. Sending out station coordinates.
+#L_Hero_01=Just who is he?
+#L_Lastochka_02=Oh, Watchmaker is a really unique guy.
+#L_Hero_11=Watchmaker? That's original. What does he do?
+#L_Lastochka_13=Why, he repairs watches of course. And also gathers all kinds of information. He lives by the latter actually and has got a rather extensive spy ring. But I shouldn't talk much about that in a live broadcast.
+
+#L_Lastochka_03=It's good you've agreed. I have a feeling any information will come in handy.
+#L_Lastochka_04=You shouldn't have refused. We could use that information. All right, let's head for Beta Lethera 1. We'll see, when we get there.
+
+#L_Lastochka_05=Where to now, partner?
+#L_Hero_02=To the Triada station. My ships were attacked not far from it and my people probably had time to evac.
+#L_Lastochka_11=What cargo were you delivering?
+#L_Hero_09=I have no idea, some electronics. All legit and well-paid for. Containers were sealed and we didn't poke in.
+#L_Lastochka_12=I bet Triada has stolen someone's technologies again. If that's so, the list of potential attackers can be very long.
+
+#L_Hero_03=Gentlemen, it's good you have arrive! I'd like to speak to one of your senior officers. Hey, what the?..
+#L_Hero_04=Have they lost their minds?!
+#L_Lastochka_06=We'll find out soon. I'm picking up an escafe pod signal. Let's head for it.
+
+#L_Hero_05=Empty...
+#L_Sedoy_01=I told you my calculations were approximate. And the remains might have drifted away. Sorry.
+#L_Lastochka_07=Wait, partner, I'm picking up a weak energy emission. Designating the location.
+
+#L_Hero_06=So that is where our friends have found their last refuge.
+#L_Sedoy_02=Attackers were firing for effect. Damn bastards!
+#L_Lastochka_08=That's strange. Partner, look at the fragments of that Gunslinger. Its color differs from those of all other ships. Besides, its wrecked guns and equipment are different as well. I see this for the first time, and I've seen a lot.
+#L_Sedoy_03=You're right. That was quite a ship. All that equipment must have cost a fortune.
+#L_Hero_07=I doubt it's worth a credit now. Scan that Gunslinger and I'll examine the debris.
+
+#L_Hero_10=All right, let's head for the portal.
+#L_pirate_01=Guys, I told you there would be something to plunder. Look at that nice catch!

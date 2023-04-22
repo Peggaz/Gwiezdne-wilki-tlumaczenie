@@ -1,0 +1,15 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#L_nav_01=Stacja Handlowa "Coriolisa"
+#L_nav_02=Stacja Patrolu
+#L_nav_04=Portal do Endoria
+#L_nav_05=Punkt Gamma
+#L_nav_06=Miejsce bitwy
+#L_nav_07=G³owica Raymonda
+#L_nav_02=Stacja Patrolu
+#L_nav_01=Stacja Handlowa "Coriolisa"
+#L_nav_03=Kopalnia "MS-1301"

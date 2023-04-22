@@ -1,0 +1,13 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#M_pirate=Stacja Piratów
+#M_berserk=Stacja automatyczna
+#L_radio=Stacja nadawcza USS
+#L_trade=Stacja Handlowa "Dalled" 
+#L_living=Lazurowe Siedlisko
+#L_patrol=Stacja patrolu USS
+#L_relay=Warsztat Kosma

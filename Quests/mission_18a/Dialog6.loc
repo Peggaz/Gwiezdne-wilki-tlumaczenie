@@ -1,0 +1,15 @@
+;*****************************
+;Dialog6.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Emperor
+#L_D6_msg00=They are here! Here! Station, what's taking you so long?
+#L_D6_ans00=(Dalej)
+#L_D6_msg10=We are replacing a burnt out capacitor bridge! Give us just a few moments, Your Majesty!
+#L_D6_ans10=(Dalej)
+#L_D6_msg20=I don't have any! Activate the portal!
+#L_D6_ans20=(Dalej)
+#L_D6_msg30=The bastard is trying to reach the portal. Step on it!
+#L_D6_ans30=(Dalej)

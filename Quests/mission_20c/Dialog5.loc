@@ -1,0 +1,11 @@
+;*****************************
+;Dialog5.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Uel
+#L_D5_msg00=You should realize the obvious. Your disconnection prevented you from protecting a single system. How are you going to protect the entire humanity?
+#L_D5_ans00=You're quite a philosopher, aren't you?
+#L_D5_msg10=And you're hopeless in your obstinacy. I'm sorry, but personal flaws prevent you from joining the society of the future.
+#L_D5_ans10=(Dalej)

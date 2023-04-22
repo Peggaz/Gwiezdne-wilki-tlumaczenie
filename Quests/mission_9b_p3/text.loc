@@ -1,0 +1,21 @@
+;*****************************
+; mission_9b_p3
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_9b_06a=Escort Alice and Ethan.
+#L_Quest_9b_06b=Escort Alice and Ethan back to Al-Ariash.
+
+;*****************************
+;Speeches
+;*****************************
+#L_vks_01=Leaving already, gentlemen?
+#L_uss_01=Curses, an ambush!
+#L_vks_02=Not an ambush, but an arrest. Let's make it a peaceful one to avoid bloodshed.
+#L_uss_02=Break through, break through!
+#L_Sedoy_01=Boss, it's high time to scram.

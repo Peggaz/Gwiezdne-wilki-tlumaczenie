@@ -1,0 +1,67 @@
+;*****************************
+;Dialog4.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Emperor
+#L_D4_msg00=So, major, what do you want to tell me?
+#L_D4_ans00=(Dalej)
+#L_D4_msg10=Your Imperial Majesty, pardon me for taking these liberties, but-
+#L_D4_ans10=(Dalej)
+#L_D4_msg20=Spare me your curtseys, major, we don't have time for that now. State the facts.
+#L_D4_ans20=(Dalej)
+#L_D4_msg30=Of course. Your Majesty, I'm afraid there are conspirators in your retinue, endangering both your life and empire's wellbeing.
+#L_D4_ans30=(Dalej)
+#L_D4_msg40=Everything that endangers our life also endangers empire's wellbeing. But what makes you think you're right?
+#L_D4_ans40=(Dalej)
+#L_D4_msg50=Your Majesty, I'm sorry, but your Flag Admiral James Hader, using your order as a cover, tried to destroy the MSF Security HQ in the Capricorn Sector. Moreover, he tried to steal our intel databases and sow defeatist lies.
+#L_D4_ans50=(Dalej)
+#L_D4_msg60=Is Hader alive?
+#L_D4_ans60=(Dalej)
+#L_D4_msg70=Unfortunately, he managed to escape.
+#L_D4_ans70=(Dalej)
+#L_D4_msg80=Thanks Space! Major, you scared me to death.
+#L_D4_ans80=(Dalej)
+#L_D4_msg90=I beg your pardon... Your Majesty, I must have failed to take something into account, but-
+#L_D4_ans90=(Dalej)
+#L_D4_msg100=As a matter of fact, you failed to take everything into account! I had time to look through your personal record, while you were talking about traitors and whatnot. You're an excellent officer, loyal to the empire. You're stern and sometimes even brutal, if it's needed to accomplish your mission. I like that. But, major, you're very short-sighted. Tell me, what do you think about the situation the empire is in - about the war? Answer me.
+#L_D4_ans100=(Dalej)
+#L_D4_msg110=Your Majesty, with all due respect, I must say our situation is very gloomy. I'm not only talking about the full-scale attack of the renegades. MSF soldiers have been deserting, morale is unacceptably low in many squads. But if we purge personnel and conduct a few show trials, we'll be able to-
+#L_D4_ans110=(Dalej)
+#L_D4_msg120=No purges are needed, major. We lost this battle, so our goal is to win the war.
+#L_D4_ans120=(Dalej)
+#L_D4_msg130=I beg your pardon, Your Majesty, I don't quite get it...
+#L_D4_ans130=(Dalej)
+#L_D4_msg140=But this is so obvious! Major, it's not guns that win wars, it's public opinion. You can disintegrate your enemy, but if people like him, you'll be considered an usurper and a bloody murderer. Vice versa, if the crowd is on your side, even an incompetent retreat will make you look like a martyr. Earth is obviously on Astra's side now. Ravings of that romantic cow about the new age of prosperity, equal rights and freedom are roaming the Galanet, being spread around by petty newspapers and quietly discussed on every corner. Whatever we do, whatever battles we win, it will all be in vain.
+#L_D4_ans140=(Dalej)
+#L_D4_msg150=Your Majesty, we'll put this to rights, we'll seize control of mass media!
+#L_D4_ans150=(Dalej)
+#L_D4_msg160=Oh, major... Why invent difficulties like that? For what reason? No, we'll go an easier way - we'll just leave the stage for the time being. There is a comfortable network of star systems with lots of resources and manufacturing capabilities. We shall move there and leave the universe to my stupid niece. Let her deal with the jumble that - mark my words - is bound to happen!
+#L_D4_ans160=(Dalej)
+#L_D4_msg170=I beg your pardon, Your Majesty, but... Providing your safety will be very hard.
+#L_D4_ans170=(Dalej)
+#L_D4_msg180=Don't lecture me, major, on how to choose my retinue and conduct long-range planning. That voyage, 10 to 15 years long, is top-secret. I shall be guarded by both trusted MSF officers and trusted allies. Though trust is wavering, that's why, major, I'm talking to you right now. I need you. Your persistence and grip, not to mention your reputation, will be the best curb for everyone who might want to change loyalty preferences so to say.
+#L_D4_ans180=(Dalej)
+#L_D4_msg190=What about the rest? What about the inhabitants of Earth and Outer Worlds?
+#L_D4_ans190=(Dalej)
+#L_D4_msg200=Oh, that will be a drama I'll watch from a secure balcony. Major, it's their fault. They wanted Astra? Here they go. I know what my niece is capable of - nothing. She won't have enough strength or funds to provide at least some law and order. The outer space will be crawling with pirates, butchering whole planets and even whole systems. In just a few years, people will forget about serenity, peace and safety. They will be enveloped in fear. And Astra, with all her stooges, won't be able to prevent that. She'll just have to admit she has flopped.
+#L_D4_ans200=(Dalej)
+#L_D4_msg210=I see...
+#L_D4_ans210=(Dalej)
+#L_D4_msg220=I knew you'd understand! Major, we shall have to make sure that a wave of chaos and violence keeps the mob stressed. A little, but very unpleasant surprise for the NESF here, a sad accident at a station there... Pirates will have to be focused on targets we need. You will manage it easily. And when people are fed up with freedom, we shall return. As saviors! As gods! As the only legal heirs of the empire that has used to provide law and order! And then, my dear major, people will give us the heads of our enemies and traitors who have cried freedom on plates! So what do you say?
+#L_D4_ans220=(Dalej)
+#L_D4_msg230=That you're a bastard and a freaking louse who forced me to kill a man I greatly admired.
+#L_D4_ans230=(Dalej)
+#L_D4_msg240=How dare you talk to your emperor like that!
+#L_D4_ans240=(Dalej)
+#L_D4_msg250=I'm talking to someone who is as good as dead. Pray, if you know how, because no forces of hell will prevent me from taking your life now.
+#L_D4_ans250=(Dalej)
+#L_D4_msg260=Kill her! Kill them all!
+#L_D4_ans260=(Dalej)
+#L_D4_msg270=Partner, we're surely done for, but that was definitely a laugh of my life! Thanks!
+#L_D4_ans270=(Dalej)
+#L_D4_msg280=I have to disagree with the "done for" part. I've located the source of emperor's transmission, it's one of those cruisers.
+#L_D4_ans280=(Dalej)
+#L_D4_msg290=Great! That scoundrel wanted blood? He'll shed it!
+#L_D4_ans290=(Dalej)

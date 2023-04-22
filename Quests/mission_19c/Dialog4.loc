@@ -1,0 +1,23 @@
+;*****************************
+;Dialog4.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Tramp
+#L_D4_msg00=I agree with Corsair, these high-tech communication devices provide wonderful recon capabilities.
+#L_D4_ans00=(Dalej)
+#L_D4_msg10=Admiral, what do you think about the confession of our Grey friend?
+#L_D4_ans10=(Dalej)
+#L_D4_msg20=Well, I can say we blew it - I mean the Old and New Empires. It's not about overlooking an organization that have managed to infiltrate our institutions, but about being incapable of protecting trade routes. This is true. It is also true that our inertness cost civilians dear.
+#L_D4_ans20=(Dalej)
+#L_D4_msg30=It may cost even dearer, if we continue to ignore obvious facts and butcher each other.
+#L_D4_ans30=(Dalej)
+#L_D4_msg40=And by facts you mean that bogeyman story, in which InoCo is an evil demon striving to devour the entire humanity?
+#L_D4_ans40=(Dalej)
+#L_D4_msg50=Not InoCo, but SAM. Triada - or rather the alliance of Imu, Kane and Azar - can't be disregarded too. If they join imperial funds with USS manufacturing capacities, they will build a fleet capable of crushing any resistance. And Imu will provide it with crew hired from pirates.
+#L_D4_ans50=(Dalej)
+#L_D4_msg60=Man, aren't you a smooth talker, I'm spellbound. But let's ask people who have a more direct interest in it.
+#L_D4_ans60=(Dalej)
+#L_D4_msg70=Did you bring Triada goons here?!
+#L_D4_ans70=(Dalej)

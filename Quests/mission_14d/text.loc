@@ -1,0 +1,40 @@
+;*****************************
+; mission_14d
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+
+;*****************************
+;Speeches
+;*****************************
+#L_Cleric_01=I tuned the hyperengine! Attaboy! In a few minutes we'll be able to jump wherever we want.
+#L_Alex_01=There's still a small piece of this jigsaw lacking, so I'd rather stay alert.
+
+#L_Alex_02=Get ready to fight!
+#L_Cleric_02=Damn! I can't hack them all!
+#L_Alex_03=Hold on, the help is on its way!
+
+#L_Gray_01=Dammit! They've killed Cayer!
+#L_Alex_04=Resistance is futile!
+
+#L_Kair_01=Curses! Don't dawdle over that huckster, you lame dogs! Whack him already!
+
+#L_Kair_02=Idiots! Can't you handle a bunch of surface rats?! I'm calling in backup!
+#L_Sedoy_01=Now we're done for, boss.
+
+#L_unknown_01=Mission accomplished. Alex, are you all right?
+#L_Alex_05=Sure, you can return to the HQ.
+#L_unknown_02=Got you. Bye.
+#L_Sedoy_03=Boss, if I ever talk much before starting a fight, do stop me, all right? That's a typical cliche that always ends bad for the talker.
+#L_Lastochka_01=Another cliche is to hang around a battlefield, being a nice target for more grey lamebrains.
+#L_Hero_01=Now I think is the right time to hear explanations you, Alex, were refusing to say on the way here.
+#L_Alex_06=Yes, I guess it is. But let's leave this place first. I have no idea how many men Cayer had. They could be approaching our location right now. I'll explain everything along the way.
+
+#L_Cleric_03=That's it. I've finished digging the databases. But let me fill you in along the way, I wouldn't want the previous owner of the base to arrive here with an army of goons. Get ready to jump.
+
+#L_sys_01=That was your biggest mistake. Whatever happens next, you won't be a part of it.

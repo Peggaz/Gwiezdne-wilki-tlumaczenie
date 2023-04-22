@@ -1,0 +1,17 @@
+;*****************************
+;Dialog17.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Sedoy
+#L_D17_msg00=This girl must have serious issues with Triada. She talked about Min Imu, the Chairman of the Corporation Triumvirate, didn't she?
+#L_D17_ans00=(Dalej)
+#L_D17_msg10=She did. Aja has got into her head that she is bound to eliminate the whole Imu Clan. And though I don't like such methods, I have to admit this will do everyone a lot of good.
+#L_D17_ans10=Alexandra, please excuse me, but I don't care about Triada right now. Did you men get to know anything about Ternie?
+#L_D17_msg20=No, but they found the grey's base location. It's not far, in XT-24.
+#L_D17_ans20=Excellent! Let's go there right now!
+#L_D17_msg30=Wait. I need to leave you for the time being and see that the refugees are all right. I trust Aja, but we have different views on "quiet stations", for example. Note that XT-24 is a very unpleasant system and we know nothing about the size of enemy forces. The MSF once built a military base there. But I don't know its coordinates, so you better get yourself a decent scanner. And one more thing. You did a great job today, so I think you should accept the reward of 1,250,000 credits.
+#L_D17_ans30=This wasn't about money.
+#L_D17_msg40=I know, but you can use some cash right now. Good luck.
+#L_D17_ans40=(Dalej)

@@ -1,0 +1,19 @@
+;*****************************
+;Dialog8.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;m12_Rebel
+#L_D8_msg00=Oh, we have visitors! Well, stop your engines, end of the line.
+#L_D8_ans00=(Dalej)
+#L_D8_msg10=Calm down, mister. Samir is expecting us. Here's the confirmation code.
+#L_D8_ans10=(Dalej)
+#L_D8_msg20=The code is valid. Sorry, it's just that thick skulls tried sending saboteurs here a couple of times. Now we have to rush at almost every ship leaving Al-Trabon.
+#L_D8_ans20=(Dalej)
+#L_D8_msg30=Oh, you don't have to explain, I understand. Please tell Samir we've arrived.
+#L_D8_ans30=(Dalej)
+#L_D8_msg40=Sure thing. Do you want me to escort you to the station?
+#L_D8_ans40=(Dalej)
+#L_D8_msg50=I don't think we'll get lost. Besides, you're needed here. Good luck.
+#L_D8_ans50=(Dalej)

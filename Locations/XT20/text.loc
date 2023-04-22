@@ -1,0 +1,14 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#L_nav_00=Portal do XT-45
+#L_nav_01=Stalingrad
+#L_nav_02=Pu³apka
+#L_nav_03=Stacja "Creteus"
+#L_nav_04=Portal Obcych
+#L_nav_05=Strefa wysokiej aktywnoœci Obcych
+#L_rep=Stacja wojskowa "Kamczatka"
+#L_trade=Stacja Handlowa "Sachalin"

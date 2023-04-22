@@ -1,0 +1,21 @@
+;*****************************
+; mission_15d_2
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_15d_01a=Reach the rendezvous point.
+#L_Quest_15d_01b=Reach the rendezvous point to join the force that is going to attack Vulcan.
+
+;*****************************
+;Speeches
+;*****************************
+#L_Cleric_01=Here we are.
+#L_Alex_01=So where's that help you've promised?
+#L_Cleric_02=They will be waiting at the Vulcan portal, I'll mark it on the map. I just thought... There's a pirate station along the way. We could buy some equipment there.
+
+#L_sys_01=That was your biggest mistake. Whatever happens next, you won't be a part of it.

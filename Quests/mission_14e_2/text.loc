@@ -1,0 +1,18 @@
+;*****************************
+; mission_14e_2
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_14e_06a=Reach New Kyoto.
+#L_Quest_14e_06b=Alex Koshevoy is expecting you in New Kyoto. Try not to delay.
+
+;*****************************
+;Speeches
+;*****************************
+#L_Sedoy_01=Boss, we got ourselves into a fine mess. We were lucky to escape at all.
+#L_Hero_01=Let's head for New Kyoto. If Alex tries to pull my leg and not explain what's going on, I swear I'll beat the answers out of him.

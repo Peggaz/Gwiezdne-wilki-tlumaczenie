@@ -1,0 +1,45 @@
+;*****************************
+; mission_7e
+;*****************************
+
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;QuestLog
+;*****************************
+#L_Quest_7a_a=Reach the MSF headquarters.
+#L_Quest_7a_b=MSF Security has to know everything about what happened in Beta Lethera 1. You just have to reach New Jerusalem 2 and find someone who would be willing to share this information.
+#L_Quest_7b_a=Reach Triada headquarters.
+#L_Quest_7b_b=Triada has to know everything about what happened in Beta Lethera 1. You just have to reach their main headquarters in Candela and find someone who would be willing to share this information.
+#L_Quest_7d_a=Meet with Alex.
+#L_Quest_7d_b=Alex needs help in escorting a convoy, and his client is willing to pay good money. Alex will be waiting in XT-54. There's some free time to spend, but not much.
+#L_Quest_7e_a=Meet with Alexandra Sukhova.
+#L_Quest_7e_b=Lieutenant Alexandra Sukhova, NESF, was on cases related to grey ships. Right now she in the Gideon system.
+#L_Quest_7e_01a=Follow the patrol.
+#L_Quest_7e_01b=Don't lag behind the NESF patrol or they might consider it an act of hostility.
+#L_Quest_7e_02a=Get to the rendezvous point.
+#L_Quest_7e_02b=You must reach the place at the coordinates given by Corsair. Stick to the route to avoid trouble.
+#L_Quest_7e_03a=Leave the system.
+#L_Quest_7e_03b=You haven't come to an agreement with Sukhova and must leave the system immediately. Follow the patrol and don't lag behind or they might consider it an act of hostility.
+#L_Quest_7e_04a=Reach the Solpugae portal.
+#L_Quest_7e_04b=You must get to the Solpugae portal. Stick to the route to avoid trouble.
+#L_Quest_7e_05a=Follow the escort team.
+#L_Quest_7e_05b=Follow the escort team. Don't lag behind or wander off or they might consider it an act of hostility.
+#L_Quest_8c_01a=Reach the Oxygen Station.
+#L_Quest_8c_01b=Alexandra's agent will expect you at the Oxygen Station in Torr.
+
+;*****************************
+;Speeches
+;*****************************
+#L_kfni_01=They're spies! I knew it!
+
+#L_kfni_02=Excellent. I have an order regarding you. Follow us, transmitting the map now. And don't even think about wandering off!
+
+#L_kfni_03=Please follow us. Try not to wander off the route.
+
+#L_Hero_01=Hey, where are they? Ternie, what's on your scanner?
+#L_Lastochka_01=Still nothing.
+#L_Sedoy_01=It seems our rendezvois is not going to happen...
+
+#L_grey_01=I have a visual, attacking. Where are the reinforcements?!

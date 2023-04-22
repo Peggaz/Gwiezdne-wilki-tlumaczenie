@@ -1,0 +1,11 @@
+;*****************************
+;Dialog3.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D3_msg00=We made it! I knew we would!
+#L_D3_ans00=Wait, can't they shoot us in the back?
+#L_D3_msg10=No, they are aimed at approaching ships only. Just a second, I've got another signal. Fighters, closing in on us!
+#L_D3_ans10=(Dalej)

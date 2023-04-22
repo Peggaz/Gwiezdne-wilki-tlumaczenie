@@ -1,0 +1,12 @@
+LOCALE_FILE
+FILETYPE MODDING
+
+;*****************************
+;NavPoints
+;*****************************
+#L_nav_01=Zasadzka piratów
+#L_nav_02=Objazd 1
+#L_nav_03=Objazd 2
+#L_nav_04=Objazd 3
+#L_trade=Stacja Handlowa "Sapporo"
+#L_patrol=Stacja patrolu Triady

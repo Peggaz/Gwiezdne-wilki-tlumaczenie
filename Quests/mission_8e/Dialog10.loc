@@ -1,0 +1,11 @@
+;*****************************
+;Dialog10.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_D10_msg00=Partner, where should we go? I need to set the route. Quickly!
+#L_D10_ans00=To the X93 portal, let's try to get to the Imperial space!
+#L_D10_ans01=Damn, I won't risk poking into a Triada's system. Let's jump into XT-20 and see how it goes.
+#L_D10_ans02=Let's leave through the same portal - to XT-54!

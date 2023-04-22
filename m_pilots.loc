@@ -1,107 +1,379 @@
-;***********************************
-; pilots XML
-;***********************************
 LOCALE_FILE
 FILETYPE STANDART
 
-#M_pilot_Name_Hero	= Hero
-#M_pilot_FName_Hero	= Hero
-#M_pilot_Back_Hero	= Just recently the Galaxy has seemed a wonderful place to him. Own flourishing business, excellent business reputations, considerable bank account, tidy office and women - what else there is to wish to be happy? But sometimes happiness can be so fragile. His transport convoy that had been transferring cargo belonging to Triada came to be at the station that was to become the first target in the new war. Both ships and cargo was scattered across space by attacking fighters. War is war, but business is business, and even the loss of a convoy doesn't erase this paragraph: "The Carrier bears full responsibility for Cargo safety, from the moment of its loading, right up to its delivery. If the Cargo is damaged or lost, the Carrier makes amends for the Cargo". So, the bank account, the company, the luxurious apartment, and the office - everything was sold to pay off the debts. All that is left is an old transport, and a burning desire to expose the truth and find out what has happened to the employees, and who is responsible for this mishap.
+;****************************
+; UWAGI
+;****************************
+;1.PRZET£UMACZYÆ OPISY POSTACI:		Jana, Joseph
+;2.PRZET£UMACZYÆ WSZYSTKO CO POMINIÊTO
+;3.NIE T£UMACZYÆ NAZW SYSTEMÓW ORAZ SEKTORÓW
+;4.NIE T£UMACZYÆ NAZW STACJI
 
-#M_pilot_Name_Lastochka	= Ternie
-#M_pilot_FName_Lastochka	= Ternie
-#M_pilot_Back_Lastochka	= She was a stewardess on board a small liner Pearl. An excellent job, especially if you're into some smuggling. However, three years ago Pearl was attacked by pirates of the Wild Dogs clan. Instead of grabbing an improvised weapon and fight back, she hid in the cargo bay. When the pirates were sated with killing and marauding, she left her hideaway and offered her smuggling connections in exchange for her safety and freedom. So, Ternie became a Wild Dog pirate - undoubtedly valuable for the clan, but too strange from a usual pirate's point of view. Ternie became a first-class pilot, but she hated violence and kept her distance from other brothers in trade, not without reason expecting a stab in the back. True enough, pirates tolerated her, because she helped double the income - her contacts helped sell loot on the open market instead of dumping it to fences. However, Breakneck, the clan leader, knew that some day pirates' dissatisfaction with Ternie would surely result in bloodshed. Ternie realized that as well...
+#M_pilot_Name_Hero			= Bohater
+#M_pilot_FName_Hero			= Bohater
+#M_pilot_Back_Hero			= Droga Mleczna wydawa³a siê byæ wspania³ym miejscem dla niego. W³asny kwitn¹cy interes, doskona³a reputacja, znaczne konto bankowe, schludne biuro i kobiety - co jeszcze mo¿e brakowaæ do szczêœcia? Ale czasami jest ono bardzo kruche. Jego konwój transportowy, zosta³ wyznaczony do przenoszenia ³adunków nale¿¹cych do Triady. Skierowa³ siê on na stacjê, która mia³a staæ siê pierwszym celem w nowej wojnie. Statki wraz z ³adunkiem zosta³y zniszczone przez atak myœliwców. Wojna to wojna, ale biznes to biznes. "PrzewoŸnik ponosi pe³n¹ odpowiedzialnoœæ za bezpieczeñstwo ³adunku, od chwili jego za³adunku, a¿ do jego dostarczenia. Jeœli ³adunek jest uszkodzony lub utracony, przewoŸnik p³aci odszkodowanie". Tak wiêc, konto bankowe, firma i biuro - wszystko zosta³o sprzedane w celu sp³acenia d³ugów. Wszystko, co pozosta³o, to stary transporter i gor¹ce pragnienie, aby ods³oniæ prawdê, i dowiedzieæ siê, co sta³o siê z pracownikami, i kto jest odpowiedzialny za to nieszczêœcie.
 
-#M_pilot_Name_Sedoy	= Greyhair
-#M_pilot_FName_Sedoy	= Greyhair
-#M_pilot_Back_Sedoy	= In due time Greyhair was the leader of the Swordsmen, one of the most renowned mercenary units. He was tough, resolute and incredibly lucky. However, fame turned his head and made him value flattery and money higher than lives of his comrades and mercenary code. For that he had to pay. He was left on some station, while his team, now leaderless, was eliminated during the very next mission. Sobered up by guilt, he joined Triada as a security guard, hoping to take his revenge on the Swordsmen, who he thought had betrayed him. In the beginning of the way the station he was guarding was attacked and all guards killed. Only a miracle helped Greyhair survive and seal a few bays, turning them into his prison for the next year. This forced reclusion made Greyhair to take a new look at himself and reconsider his life and deeds. From a hothead Swordsman amenable to fame he turned into a humble philosopher, but kept his fighting skills nevertheless.
+#M_pilot_Name_Lastochka			= Ternie
+#M_pilot_FName_Lastochka		= Ternie
+#M_pilot_Back_Lastochka			= By³a stewardess¹ na pok³adzie ma³ego liniowca "Per³a". Doskona³a praca, zw³aszcza jeœli jesteœ zamieszany w jakiœ przemyt. Jednak trzy lata temu "Per³a" zosta³a zaatakowana przez piratów z klanu "Dzikie Psy". Zamiast chwytaj¹c zaimprowizowan¹ broñ i walczyæ, ukry³a siê w ³adowni. Kiedy piraci byli poch³oniêci grasowaniem i zabijaniem, opuœci³a kryjówkê i zaproponowano jej bezpieczeñstwo i wolnoœæ, w zamian za jej kontakty przemytnicze. Tak Ternie zosta³a piratem "Dzikich Psów" - niew¹tpliwie cennym dla klanu, ale te¿ dziwnym z punktu widzenia zwyk³ego pirata. Ternie by³a pilotem pierwszej klasy, ale nie znosi³a przemocy, i utrzymywa³a dystans od innych braci w handlu, i nie bez powodu spodziewa³a siê sztyletu w plecy. To prawda, piraci tolerowali j¹, bo pomaga³a podwoiæ dochody - jej kontakty pomog³y sprzedaæ ³up na wolnym rynku, zamiast przerzuciæ go przez ogrodzenie. Jednak "Karko³omny", przywódca klanu wiedzia³, ¿e kiedyœ niezadowolenie piratów z Ternie z pewnoœci¹ przyczyni siê do rozlewu krwi.
 
-#M_pilot_Name_Viper	= Viper
-#M_pilot_FName_Viper	= Viper
-#M_pilot_Back_Viper	= In Viper the Empire has clearly found a loyal, incorruptible, skilful and very intelligent officer. Her life changed radically, when Star Wolves mercenaries she was a leader of disregarded an order of the MSF high command and followed their own way. For Viper this was equal to a personal insult, so she tried to eliminate the Wolves. In that fight Viper was badly wounded and had to spend much time in a hospital. After discharging she had to learn everything anew. This also included talking, as her vocal cords were damaged by a shell splinter and were thus replaced by implants. Then Viper was offered to retire honorably due to health issues and only the intervention of Admiral Trump allowed her to continue service. Since that time Viper's loyalty has become fanatical and she has nearly turned into a maniac fighting enemies of the Empire.
+#M_pilot_Name_Sedoy			= Siwow³osy
+#M_pilot_FName_Sedoy			= Siwow³osy
+#M_pilot_Back_Sedoy			= W swoim czasie Siwow³osy by³ dowódc¹ "Szermierzy", jednej z najbardziej znanych i wyrachowanych jednostek najemników. By³ nieustêpliwy, zdecydowany i niewiarygodnie szczêœliwy. Jednak¿e, s³awa zawróci³a mu w g³owie, i zrobi³a z niego cz³owieka, który postawi³ wartoœci pochlebstwa i pieni¹dze wy¿ej, ni¿ ¿ycia jego towarzyszów i kodeks najemników. Dla tego musia³ za to zap³aciæ. Pozosta³ on na jakiejœ stacji, podczas gdy jego zespó³, teraz mniej znacz¹cy, zosta³ wyeliminowany podczas misji. OtrzeŸwiony przez winê, do³¹czy³ do Triady jako stra¿nik, maj¹c nadziejê wzi¹æ zemstê na Szermierach, myœl¹c, ¿e go zdradzili. Na pocz¹tku drogi, stacja któr¹ broni³ zosta³a zaatakowana, i zgineli wszyscy stra¿nicy. Tylko cud pomóg³ Siwow³osemu przetrwaæ, i uszczelniæ kilka wnêk zamieniaj¹c je, w wiêzienie na nastêpny rok. To zmusi³o samotnika Siwow³osego, do podjêcia nowego spojrzenia na siebie, i przemyœlenia swojego ¿ycia i czynów. Szermierz o gor¹cej g³owie, uleg³y wobec s³awy zmieni³ siê w pokornego filozofa, ale jednak zachowa³ swoje umiejêtnoœci walki.
 
-#M_pilot_Name_Cleric	= Cleric
-#M_pilot_FName_Cleric	= Cleric
-#M_pilot_Back_Cleric	= "The best hacker in the Galaxy", that's how Cleric introduces himself, adding that his purpose in life is to "hack the universe". He's a good hacker indeed, but self-conceit, intolerance to criticism and incapability to assess consequences of his actions prevent him from becoming the best. He likes hacking into state databases and servers just to please himself and to prove he's better than the rest. For this reason, he is often on the run. He also hacks for money, often turning his customers into victims the very next day. When the war started, Cleric turned into a threat to all sides of the conflict. It was clear that the best way to keep one's secrets safe would be to eliminate the man who could easily bypass their protection. Thus Cleric's photos with a bounty note were spread among mercenaries, pirates and special forces alike.
+#M_pilot_Name_Viper			= ¯mija
+#M_pilot_FName_Viper			= ¯mija
+#M_pilot_Back_Viper			= W ¯mii Imperium najwyraŸniej znalaz³o lojalnego, nieprzekupnego, sprawnego i bardzo inteligentnego oficera. Jej ¿ycie zmieni³o siê radykalnie, kiedy najemnicy "Gwiezdne Wilki" zlekcewa¿yli rozkaz naczelnego dowództwa MSF którego by³a przywódc¹, i poszli ich w³asn¹ drog¹. Dla ¯mii równa³o siê to z osobist¹ zniewag¹, dla tego spróbowa³a wyeliminowaæ Wilki. W tej walce ¯mija zosta³a powa¿nie zraniona, i musia³a spêdziæ du¿o czasu w szpitalu. Po zwolnieniu musia³a uczyæ siê wszystkiego jeszcze raz. To równie¿ obejmowa³o rozmawianie poniewa¿ jej struny g³osowe zosta³y uszkodzone przez od³amek naboju, i zosta³y zast¹pione przez implanty. Po tym wypadku, ¯mii zaproponowano by przesz³a na emeryturê, z powodu kwestii zdrowotnych, a jedynie interwencja Admira³a Trumpa pozwoli³a jej kontynuowaæ s³u¿bê. Od tego czasu lojalnoœæ ¯mii sta³a siê fanatyczna i niemal zmieni³a siê w szaleñca walcz¹cego z wrogami Imperium.
 
-#M_pilot_Name_Aia	= Aja
-#M_pilot_FName_Aia	= Aja
-#M_pilot_Back_Aia	= Kim Shumov would be proud of his daughter. Smart, committed and educated, Aja was expected to raise to the top of Triada. However, the death of her father changed everything. Aja vowed vengeance and abandoned administrator's career, having become an agent. Though vendetta perfectly aligned with the rules of corporation's clan hierarchy going back to the traditions of ancient criminal groups. Being iron-willed, capable to stand pain and hardships, smart, endowed with keen intuition, an ace pilot and a martial artist, Aja became the best assassin in Triada. Using the funds of the Shumovs Clan, Aja started tracking down everyone she suspected of complicity in father's death, be it Old Empire agents, pirates or her colleagues. If she couldn't take revenge at some moment, she waited for a better chance to get square and never denied herself the pleasure of watching enemy writhing in fear.
+#M_pilot_Name_Cleric			= Kleryk
+#M_pilot_FName_Cleric			= Kleryk
+#M_pilot_Back_Cleric			= "Najlepszy haker w Galaktyce", tak siê przedstawia Kleryk, dodaj¹c, ¿e jego celem w ¿yciu jest "zhakowanie wszechœwiata". To rzeczywiœcie dobry haker, ale zarozumia³oœæ, nietolerancja na krytykê i niezdolnoœæ do oceny skutków swoich dzia³añ uniemo¿liwiaj¹ mu bycie najlepszym. Lubi on w³amywaæ siê do tylko pañstwowych baz danych i serwerów, aby podobaæ siê i udowodniæ, ¿e jest lepszy ni¿ reszta. Z tego powodu, czêsto jest w biegu. Robi on "hacki" równie¿ w celu zarobku, robi¹c z jego klientów ofiary, ju¿ nastepnego dnia. Kiedy zaczê³a siê wojna, Kleryk zmieni³ siê w zagro¿enie dla wszystkich stron konfliktu. By³o jasne, ¿e najlepszym sposobem na bezpieczne utrzymanie swoich tajemnic, by³oby wyeliminowaæ cz³owieka, który móg³by ³atwo omin¹æ ich zabezpieczenia. W ten sposób zdjêcia Kleryka z dopiskiem nagrody by³y rozprowadzane wœród najemników, piratów i podobnych si³ specjalnych.
 
-#M_pilot_Name_Alex	= Alex
-#M_pilot_FName_Alex	= Alex
-#M_pilot_Back_Alex	= Experienced space dog, Alex spent most of his life piloting his old reliable transport. He took more pleasure in flying and talking to all kinds of people than in money he was making, though he could make it well. Outer space is his motherland, his transport, his home. During travels he found many friends on a multitude of planets, not to mention women, many of which dreamed of marrying the impetuous romantic. Alex carries much authority in the Free Traders Union, so his opinions are often decisive in all sorts of conflicts. He is also a true friend and wise mentor, always ready to help by means of money, contacts, guns or fists without asking too many questions. However, one shouldn't betray his friendship, for Alex make short work of unprincipled men.
+#M_pilot_Name_Aia			= Aja
+#M_pilot_FName_Aia			= Aja
+#M_pilot_Back_Aia			= Kim Shumov by³by dumny ze swojej córki. Bystra, oddana i wykszta³cona, Aja by³a wyczekiwana, jako droga do osi¹gniêcia szczytu przez Triadê. Jednak¿e, œmieræ jej ojca zmieni³a wszystko. Aja poprzysiêg³a zemstê i przerwa³a karierê administratora, zostawszy agentem. Chocia¿ wendeta by³a idealnie dopasowana z zasadami klanu korporacji, powrócono do tradycji dawnych grup przestêpczych. Maj¹c ¿elazn¹ wolê, zdoln¹ znieœæ ból i trudnoœci, bystroœæ, obdarzona gor¹c¹ intuicj¹, bêd¹c pilotem asem oraz wojennym artyst¹, Aja zosta³a najlepszym zabójc¹ w Triadzie. U¿ywaj¹c funduszów Klanu Shumov, Aja zaczê³a tropienie wszystkich których podejrzewa³a o wspó³udzia³ w œmierci ojca, czy to agentów Starego Imperium, piratów, i jej kolegów. Jeœli nie mog³a wzi¹œæ odwetu w jakimœ momencie, czeka³a na lepsz¹ szansê, aby wyrównaæ rachunki, i nigdy nie odmawia³a sobie przyjemnoœci obserwowania, jak wróg zwija³ siê w strachu.
 
-#M_pilot_Name_Alexandra	= Alexandra
-#M_pilot_FName_Alexandra	= Alexandra
-#M_pilot_Back_Alexandra	= Once she was expected to make a brilliant career in the bon ton of the Old Empire. Endowed with keen mind and eloquence, talented actress, beautiful, Alexandra Sukhova could easily marry some well-known businessman, politic or aristocrat. However, she didn't want to be an expensive trifle, so she became a constitutional right lawyer. The backstage life of the Old Empire turned out to be depressing: laws were trampled on to please political and financial interests everywhere, and all branches of power were corrupt. Being an idealist believing in honor and justice, Alexandra started her own crusade against illnesses of power that nearly cost her life. During one of the investigations she obtained documents leading to murderers of the previous emperor and his family. From an inconvenient lawyer Alexandra turned into a real threat for power brokers. Only with the help of her friends she managed to avoid hired assassins and escape to the New Empire. Sukhova's professional skills were appreciated in Llanowar and she was offered a choice: empress's secretariat, Constitutional Court or prosecutor's office. However, she followed her own way and chose a military career.
+#M_pilot_Name_Alex			= Alex
+#M_pilot_FName_Alex			= Alex
+#M_pilot_Back_Alex			= Doœwiadczony pies kosmiczny, Alex spêdzi³ wiêksz¹ czêœæ swojego ¿ycia przy pilotowaniu jego starego niezawodnego transportowca. Mia³ on wiêcej przyjemnoœci z latania i rozmawiania ze wszystkimi rodzajami ludzi ni¿ z zarabiania pieniêdzy, chocia¿ móg³ to nieŸle robiæ. Przestrzeñ kosmiczna jest jego ojczyzn¹, jego transportowcem, jego domem. Podczas podró¿y znalaz³ wielu przyjació³ na mnóstwie planet, nie wspominaj¹c o kobietach, z których wiele œni³o, o poœlubieniu porywczego romantyka. Alex wnosi du¿o w³adzy w Unii zwolenników wolnego handlu, wiêc jego opinie s¹ czêsto decyduj¹ce we wszystkich rodzajach konfliktów. Jest on równie¿ prawdziwym przyjacielem i rozs¹dnym mentorem, zawsze gotowym by pomóc za pomoc¹ pieniêdzy, kontaktów, broni albo piêœci bez proszenia o zbyt wiele pytañ. Jednak¿e, nikt nie powinien zdradzaæ jego przyjaŸni, bowiem Alex szybko staje siê pozbawionym skrupu³ów mê¿czyzn¹.
 
-#M_pilot_Name_Tramp	= Adm.Trump
-#M_pilot_FName_Tramp	= Admiral Trump
-#M_pilot_Back_Tramp	= Admiral Alex Trump is an old-school officer who values esprit de corps. Officers like him created the Old Empire in due time and became its foundation. They made people proud of their military. For Trump army is a delicate surgical tool that allows to maintain law and order shedding little blood and avoiding heavy casualties. During his long career, Trump won brilliant victories and faced defeats. Then the MSF Main Headquarters started replacing experienced veterans with proteges and favorites. The HQ chose another doctrine. For them army was a steel fist to brutally enforce any law advantageous for the emperor and his retinue. Later military operations were planned by armchair tacticians without real combat experience, which often resulted in unnecessary casualties and collateral damage. Admiral, who keenly criticized these "victorious" campaigns, got in wrong with his high command and was relocated to border words of the Old Empire.
+#M_pilot_Name_Alexandra			= Alexandra
+#M_pilot_FName_Alexandra		= Alexandra
+#M_pilot_Back_Alexandra			= Oczekiwa³o siê po niej, ¿e zrobi olœniewaj¹c¹ karierê w œwiecie mody Starego Imperium. Obdarzona bystrym umys³em i elokwencj¹, utalentowana aktorka, piêkna, Aleksandra Sukhova ³atwo mog³a poœlubiæ jakiegoœ s³ynnego biznesmena, albo rozs¹dnego arystokratê. Jednak¿e, nie chcia³a byæ drogim drobiazgiem, wiêc zosta³a prawnie konstytucyjnym prawnikiem. Zakulisowa historia ¿ycia Starego Imperium okaza³a siê byæ przygnêbiaj¹ca: Prawa zosta³y podeptane na rzecz interesów politycznych i finansowych na ca³ym œwiecie, a wszystkie ga³êzie w³adzy by³y skorumpowane. Bêd¹c idealist¹ wierz¹cym w honor i sprawiedliwoœæ, Aleksandra zaczê³a swoj¹ w³asn¹ krucjatê przeciwko chorobami w³adzy, która niemal kosztowa³a j¹ ¿ycie. Podczas jednego ze œledztw uzyska³a dokumenty prowadz¹ce do morderców poprzedniego cesarza i jego rodziny. Od k³opotliwego prawnika, Aleksandra zmieni³a siê w prawdziwe zagro¿enie dla szarych eminencji. Tylko przy pomocy jej przyjació³ uda³o jej siê unikn¹æ siepaczy i uciec do Nowego Imperium. Zawodowe umiejêtnoœci Sukuhovej zosta³y docenione w Llanowar i zaproponowano jej wybór: sekretariat cesarzowej, Trybuna³ Konstytucyjny albo biuro oskar¿yciela. Jednak¿e, posz³a w swoj¹ w³asn¹ drogê i wybra³a karierê militarn¹.
 
-#M_pilot_Name_Kalem	= Kalem
-#M_pilot_FName_Kalem	= Kalem
-#M_pilot_Back_Kalem	= Though he was born in a remote agricultural colony of the Old Empire, Kalem liked electronics from childhood. Soldering irons and microchips attracted him much more than noisy games, petty thefts from neighbors' gardens and other funny things. His hobby, once misunderstood by others of the same age, later made him respected and admired. He could fix any equipment, which made him the best electronics expert and Jack of all trades in the colony. However, Kalem didn't share the view of the locals and dreamed of escaping his home planet to study in a technical university of the Old Empire. The war put paid to his hopes. When MSF forces were redeployed beyond the front line, the colony was left unprotected and fell to pirates. A good electronics expert was always a valuable addition to any pirate clan, and a gun put against the head is very stimulating. Being almost a slave with no right to leave the pirate base, Kalem fixed broken onboard computers, fine-tuned missile warheads, perfected scanners and automatic repair systems, invented new guns. Just one thing made him tick: he was waiting for a chance to escape. If he was lucky, he would also arrange a farewell surprise they would never forget.
+#M_pilot_Name_Tramp			= Admiral Trump
+#M_pilot_FName_Tramp			= Admiral Trump
+#M_pilot_Back_Tramp			= Admira³ Aleksander Trump jest staro-szkolnym oficerem  który ceni "esprit de corps" czyli poczucie solidarnoœci. Oficerowie tacy jak on stworzyli w swoim czasie Stare Imperium i stali siê jego fundamentem. Uczynili ludzi dumnych z ich wojska. Dla Trumpa wojsko jest delikatnym chirurgicznym narzêdziem, które pozwala utrzymaæ ³ad i porz¹dek publiczny przelewaj¹c ma³o krwi i unikaj¹c du¿ych ofiar w ludziach. Podczas jego d³ugiej kariery, Trump wygrywa³ b³yskotliwe zwyciêstwa i stawa³ w obliczu pora¿ek. Wtedy G³ówna Centrala MSF zaczê³a wymieniaæ doœwiadczonych weteranów na protegowanych i ulubieñców. Kwatera g³ówna wybra³a inn¹ doktrynê. Dla nich wojsko by³o stalow¹ piêœci¹ brutalnie wprowadzajac¹ w ¿ycie, jakiekolwiek prawo korzystne dla cesarza i jego œwity. PóŸniej militarne operacje by³y planowane przez kanapowych taktyków bez prawdziwego doœwiadczenia bojowego, którzy czêsto prowadzili do niepotrzebnych ofiar i dodatkowych szkód. Admira³, który ¿ywo skrytykowa³ te  "zwyciêskie" kampanie, ale nie z jego dowództwem, zosta³ z rozkazu przeniesiony do granic Starego Imperium.
 
-#M_pilot_Name_Natali	= Nataly
-#M_pilot_FName_Natali	= Nataly
-#M_pilot_Back_Natali	= Nataly was born on a safe planet of the Old Empire. Since childhood she had dreamt of outer space, though her only knowledge of it originated in soap operas. Having graduated from college with a communication technologies diploma, Nataly seized the first job offer that would let her escape the home planet and became a trade station dispatcher. As it often happens, reality was baffling. Instead of a firework of adventures and impressions, she fell into a rut of duty in a somewhat unpleasant company arrived from other systems. One day during her shift the Amazons mercenary team requested to dock with their mothership was badly damaged and wouldn't get to another station. Nataly thought this was her chance and asked the Amazons if she could join. The mercenaries agreed and with time the former dispatcher turned into a skilled warrior. Nataly spent three years with the mercenaries and realized that reality wasn't a soap opera. Her life made another turn, when the Amazons were hired to protect trader Ray Thorsson. Not only Ray won the heart of Nataly, but he also persuaded her to abandon her dangerous profession, all the more so the civil war had started and outer space had become even more threatening. With great regret Nataly parted with sisters-in-arms and again became a dispatcher in Gredos. Ray wanted to make a few deliveries to earn enough money for a wedding and a small island on Nataly's home planet...
+#M_pilot_Name_Kalem			= Kalem
+#M_pilot_FName_Kalem			= Kalem
+#M_pilot_Back_Kalem			= Choæ urodzi³ siê w odleg³ej kolonii rolniczej Starego Imperium, Kalem lubi³ elektronikê od dzieciñstwa. Lutownice i mikroczipy przyci¹ga³y go znacznie bardziej, ni¿ g³oœne gry, drobne kradzie¿e z ogrodów s¹siadów i inne zabawne rzeczy. Jego hobby, raz Ÿle zrozumiane przez innych w tym samym wieku, póŸniej uczyni³o go szanowanym i podziwianym. Móg³ naprawiæ ka¿dy sprzêt, co czyni³o go najlepszym ekspertem od elektroniki i "DŸwigiem" wszystkich bran¿ w kolonii. Jednak Kalem nie podziela³ pogl¹du mieszkañców i marzy³ o ucieczce z jego rodzinnej planety, aby studiowaæ na uniwersytecie technicznym Starego Imperium. Wojna zniweczy³a nadzieje na to. Kiedy si³y MSF zosta³y przesuniête poza liniê frontu, kolonia pozosta³a bez ochrony i wpad³a w rêce piratów. Dobry ekspert od elektroniki by³ zawsze cennym dodatkiem do ka¿dego klanu pirackiego, a pistolet trzymany naprzeciw g³owy jest bardzo stymuluj¹cy. Bêd¹c prawie niewolnikiem bez prawa do opuszczenia bazy piratów, Kalem naprawia³ uszkodzone komputery pok³adowe, œwietnie dostraja³ g³owice rakiet, do perfekcji udoskonala³ skanery i automatyczne systemy naprawcze, oraz wynalaz³ nowe bronie. Tylko jedna rzecz sprawi³a, ¿e jeszcze tyka³: czeka³ na szansê ucieczki. Jeœli bêdzie mia³ szczêœcie, to on równie¿ zorganizuje niespodziankê po¿egnaln¹, której nigdy nie zapomn¹.
 
-#M_pilot_Name_Blade	= Blade
-#M_pilot_FName_Blade	= Blade
-#M_pilot_Back_Blade	= Blade is a man that will stab or disintegrate anyone who dares threaten him or his friends. It's not that he isn't afraid of death, he just doesn't think about it. Blade could be considered fanatical, but he's too reasonable and cold-blooded to be obsessed. Obviously, he has a purpose in life, some inner pain that has made him what he is. However, even Aja Shumova, for whom Blade is a true friend and a companion-in-arms in her fight against the Imu Clan, has no idea what that pain is about. She also doesn't know Blade's home clan or real name. She just met this excellent fighter and pilot, psychologist and friend that will never betray or retreat. Blade has another quality that Aja likes: he hates the Imus as furiously as she does.
+#M_pilot_Name_Natali			= Natalia
+#M_pilot_FName_Natali			= Natalia
+#M_pilot_Back_Natali			= Natalia urodzi³a siê na bezpiecznej planecie Starego Imperium. Od dzieciñstwa marzy³a o kosmosie, choæ jej wiedza o tym, pochodzi³a tylko z oper mydlanych. Po ukoñczeniu college'u z technologii komunikacyjnych z dyplomem, Natalia chwyci³a pierwsz¹ ofertê pracy, która pozwoli³a by jej uciec z rodzinnej planety, i sta³a siê dyspozytorem na stacji handlowej. Jak to czêsto bywa, rzeczywistoœæ by³a k³opotliwa. Zamiast fajerwerków przygód i wra¿eñ, wpad³a w rutynê obowi¹zków w doœæ nieprzyjemnej firmie, która przyby³a z innych systemów. Pewnego dnia w trakcie jej zmiany, zespó³ najemników "Amazonki" by³ zmuszony do dokowania ich statku-bazy z powodu uszkodzeñ, i nie móg³ dostaæ siê do innej stacji. Najemnicy zgodzili siê i z czasem dawny dyspozytor zmieni³ siê w zrêcznego wojownika. Natalia spêdzi³a trzy lata z najemnikami i zda³a sobie sprawê, ¿e rzeczywistoœæ nie jest oper¹ mydlan¹. Jej ¿ycie wykona³o obrót, gdy Amazonki zosta³y zatrudnione do ochrony przedsiêbiorcy, Raya Thorssona. Ray nie tylko zdoby³ serce Natalii, ale równie¿ przekona³ j¹ do porzucenia jej niebezpiecznego zawodu, tym bardziej, ¿e zaczê³a siê wojna domowa i kosmos sta³ siê jeszcze bardziej groŸny. Z wielkim ¿alem Natalia rozsta³a siê z siostrami-w-uzbrojeniu, i ponownie sta³a siê dyspozytorem w Gredos. Ray chcia³ zrobiæ kilka dostaw, aby zarobiæ pieni¹dze na œlub i ma³¹ wyspê na rodzinnej planecie Natalii...
 
-#M_pilot_Name_Uel		= SAM 
-#M_pilot_FName_Uel		= SAM 
-#M_pilot_Back_Uel		= Developed by InoCo's innovations lab a few months prior to the war, SAM - Superior Artificial Mind – is the third attempt to create artificial intelligence. Unlike the previous AIs of the corporation, SAM was only intended to solve scientific and managerial issues. InoCo believed that the use of expertise in management, centralized administration of stations, fleet and other corporation assets would result in bloodless but still absolute financial domination of the known universe. The war, however, dictated its own will, so SAM's software architecture was upgraded with combat algorithms. Scientist made sure that SAM, unlike its predecessors, wouldn't rebel. Though blocking and controlling algorithms slowed down SAM's training and general performance, it was a reasonable price for security.
+#M_pilot_Name_Blade			= Ostrze
+#M_pilot_FName_Blade			= Ostrze
+#M_pilot_Back_Blade			= Ostrze jest cz³owiekiem, który pchnie no¿em lub potnie na kawa³ki ka¿dego, kto odwa¿y siê mu groziæ lub jego przyjació³. To nie jest tak, ¿e nie boi siê œmierci, on po prostu nie myœli o tym. Ostrze mo¿na uznaæ za fanatycznego, ale on jest zbyt rozs¹dny i zimnokrwisty by byæ przeœladowanym. Oczywiœcie, ma cel w ¿yciu, jakiœ wewnêtrzny ból, który uczyni³ go tym, kim jest. Jednak nawet Aja Shumova, dla której Ostrze jest prawdziwym przyjacielem i towarzyszem broni w jej walce z Klanem Imu, nie ma pojêcia, co to za ból. Nie zna ona te¿ rodzinnego klanu ostrza, ani prawdziwego imienia. Ona po prostu spotka³a tego doskona³ego wojownika i pilota, psychologa i przyjaciela, który nigdy nie zdradzi lub siê odwróci. Ostrze ma jeszcze jedn¹ cechê, któr¹ lubi Aja: nienawidzi Imu tak zaciekle, jak ona.
 
-#M_pilot_Name_Uel2		= SAM copy
-#M_pilot_FName_Uel2		= SAM copy - gunner
-#M_pilot_Back_Uel2		= Local copies of SAM can perform a wide range of tasks - from combat to maintenance. However, no copy is universal, so each one is tailored for certain kind of work. These limitations are mostly dictated by insufficient performance of hardware the copy runs on. Fighter's onboard computer is so underperforming that almost the entire vocal unit of a copy has to be removed, so it can only say a few typical phrases to reply to a request. Nevertheless, a copy does its primary job very well.
+#M_pilot_Name_Uel			= SAM 
+#M_pilot_FName_Uel			= SAM 
+#M_pilot_Back_Uel			= Opracowany przez laboratorium innowacji InoCo, w kilka miesiecy przed wojn¹, SAM - (Superior Artificial Mind) Lepszy Sztuczny System - to trzecia próba stworzenia sztucznej inteligencji. W przeciwieñstwie do poprzednich AI korporacji, SAM zosta³ przeznaczony tylko do rozwi¹zywania problemów naukowych i mened¿erskich. InoCo uwa¿a, ¿e wykorzystanie wiedzy specjalistycznej w zakresie zarz¹dzania, scentralizowania zarz¹dzania stacjami, flot¹ i innymi wp³ywami korporacji spowoduje bezkrwaw¹, ale absolutn¹ dominacjê finansow¹ w znanym wszechœwiecie. Wojna jednak podyktowa³a w³asn¹ wolê, przez co, oprogramowanie architektury SAM'a zosta³o uaktualniono z algorytmami bojowymi. Naukowcy upewnili siê, ¿e SAM, w przeciwieñstwie do swoich poprzedników, nie zbuntuje siê. Chocia¿ algorytmy blokowania i kontroli szkolenia zwolni³y SAM'a i jego ogóln¹ wydajnoœæ, to rozs¹dna cena za bezpieczeñstwo.
 
-#M_pilot_Name_Uel3		= SAM copy
-#M_pilot_FName_Uel3		= SAM copy - rocketeer
-#M_pilot_Back_Uel3		= Local copies of SAM can perform a wide range of tasks - from combat to maintenance. However, no copy is universal, so each one is tailored for certain kind of work. These limitations are mostly dictated by insufficient performance of hardware the copy runs on. Fighter's onboard computer is so underperforming that almost the entire vocal unit of a copy has to be removed, so it can only say a few typical phrases to reply to a request. Nevertheless, a copy does its primary job very well.
+#M_pilot_Name_Uel2			= SAM kopia
+#M_pilot_FName_Uel2			= SAM kopia - strzelec
+#M_pilot_Back_Uel2			= Lokalne kopie SAM'a mog¹ wykonaæ szereg zadañ - od walki do konserwacji. Jednak¿e nie ka¿da kopia jest uniwersalna, dla tego ka¿da z nich jest dostosowana do pewnego rodzaju pracy. Ograniczenia te podyktowane s¹ g³ównie niewystarczaj¹c¹ wydajnoœci¹ sprzêtu na którym dzia³a kopia. Komputer pok³adowy mysliwca jest tak ma³o skuteczny, ¿e prawie ca³y zespó³ lokalny kopii musia³ byæ usuniêty, przez co mo¿e powiedzieæ tylko kilka typowych zwrotów, aby odpowiedzieæ na zapytanie. Niemniej jednak, kopia spe³nia podstawow¹ pracê bardzo dobrze.
+	
+#M_pilot_Name_Uel3			= SAM kopia
+#M_pilot_FName_Uel3			= SAM kopia - rakietowiec
+#M_pilot_Back_Uel3			= Lokalne kopie SAM'a mog¹ wykonaæ szereg zadañ - od walki do konserwacji. Jednak¿e nie ka¿da kopia jest uniwersalna, dla tego ka¿da z nich jest dostosowana do pewnego rodzaju pracy. Ograniczenia te podyktowane s¹ g³ównie niewystarczaj¹c¹ wydajnoœci¹ sprzêtu na którym dzia³a kopia. Komputer pok³adowy mysliwca jest tak ma³o skuteczny, ¿e prawie ca³y zespó³ lokalny kopii musia³ byæ usuniêty, przez co mo¿e powiedzieæ tylko kilka typowych zwrotów, aby odpowiedzieæ na zapytanie. Niemniej jednak, kopia spe³nia podstawow¹ pracê bardzo dobrze.
 
-#M_pilot_Name_Uel4		= SAM copy
-#M_pilot_FName_Uel4		= SAM copy - systems expert
-#M_pilot_Back_Uel4		= Local copies of SAM can perform a wide range of tasks - from combat to maintenance. However, no copy is universal, so each one is tailored for certain kind of work. These limitations are mostly dictated by insufficient performance of hardware the copy runs on. Fighter's onboard computer is so underperforming that almost the entire vocal unit of a copy has to be removed, so it can only say a few typical phrases to reply to a request. Nevertheless, a copy does its primary job very well.
+#M_pilot_Name_Uel4			= SAM kopia
+#M_pilot_FName_Uel4			= SAM kopia - ekspert systemów
+#M_pilot_Back_Uel4			= Lokalne kopie SAM'a mog¹ wykonaæ szereg zadañ - od walki do konserwacji. Jednak¿e nie ka¿da kopia jest uniwersalna, dla tego ka¿da z nich jest dostosowana do pewnego rodzaju pracy. Ograniczenia te podyktowane s¹ g³ównie niewystarczaj¹c¹ wydajnoœci¹ sprzêtu na którym dzia³a kopia. Komputer pok³adowy mysliwca jest tak ma³o skuteczny, ¿e prawie ca³y zespó³ lokalny kopii musia³ byæ usuniêty, przez co mo¿e powiedzieæ tylko kilka typowych zwrotów, aby odpowiedzieæ na zapytanie. Niemniej jednak, kopia spe³nia podstawow¹ pracê bardzo dobrze.
+	
+#M_pilot_Name_Validol			= W³adimir
+#M_pilot_FName_Validol			= W³adimir
+#M_pilot_Back_Validol			= W³adimir Bykow by³ kiedyœ dowódc¹ patrolu w Solncevka - niezbyt bezpieczne miejsce w galaktyce. Jednak ca³kiem agresywny, W³adimir nie by³ zbyt otwarty. Jego wrodzona przebieg³oœæ i umiejêtnoœci negocjacyjne, pozwala³y mu wygadaæ woln¹ drogê w jakimkolwiek konflikcie. Czasami Bykow, przymyka³ oczy na ma³ostkowe, nielegalne dzia³ania mieszkañców w Solncevka. Jednak¿e wiedzieli oni, ¿e jeœli zdarzy³o by siê coœ powa¿nego, W³adimir ka¿demu da³by siê we znaki. Gdy rozpoczê³a siê wojna domowa, Bykow i jego specjalny zespó³ patrolowy zosta³ wys³any do New Donbass, aby powstrzymaæ bunt górników. Jego rol¹ by³o "wspieranie rozwi¹zywania konfliktów", co oznacza³o chronienie transportów morskich w hangarze, podczas gdy ciê¿ko uzbrojeni, elitarni ¿o³nierze uspokajali górników. Jednak¿e, po zignorowaniu swojego rozkazu i opuszczeniu hangaru, Bykow dowiedzia³ siê ¿e uspokajanie zamieni³o siê w masakrê, w której nie prze¿yli ¿adni cywile. Rz¹d Starego Imperium zaproponowa³ W³adimirowi wysok¹ pozycjê w organach ochrony porz¹dku publicznego Ziemi w zamian za jego ciszê, ale odmówi³ i przeszed³ na emeryturê.
 
-#M_pilot_Name_Validol	= Validol
-#M_pilot_FName_Validol	= Validol
-#M_pilot_Back_Validol	= Vladimir "Validol" Bykov was once a patrol leader in Solncevka - not the safest place in the galaxy. Though quite aggressive, Bykov wasn't straightforward at all. His natural cunning and negotiation skills allowed him to talk his way out of any conflict. At times Bykov shut his eyes to petty illegal activities of Solncevka's inhabitants. However, they knew that if something serious happened, Validol would give everyone hell. When the civil war started, Bykov and his special patrol team was sent to New Donbass to suppress miners' rebellion. His role was "conflict resolution support", which meant guarding marine transports in a hangar, while heavily armed elite soldiers were pacifying the miners. However, having disregarded his order and left the hangar, Bykov found out that pacifying turned into a massacre, in which no civilians survived. The government of the Old Empire offered Vladimir a high position in Earth's law enforcement in exchange for his silence, but he refused and retired.
+#M_pilot_Name_Alisa			= Alicja
+#M_pilot_FName_Alisa			= Alicja
+#M_pilot_Back_Alisa			= Alicja Grant by³a kiedyœ wysok¹ rang¹ menad¿erem w USS. Sroga i wyrachowana, Zosta³a nazwana przez kolegów "buldogiem". Chêæ zdobycia stanowiska za wszelk¹ cenê s³ynê³a w ca³ej korporacji, a najlepsze zarz¹dzanie by³o cenn¹ umiejêtnoœci¹, która pozwala³a jej uzyskaæ najlepsze warunki kontraktów z wszystkich. Nikt nie móg³ wyobraziæ sobie, ¿e ten zimnokrwisty rekin jest s³odkim, towarzyskim i romantycznym studentem. Jednak¿e, ¿ycie nauczy³o j¹ kilku okrutnych lekcji i zmusi³o j¹ do zmiany. Jedyn¹ osob¹, która zobaczy³a zdemaskowan¹ Alicjê, by³a jej córka Marika, któr¹ gor¹co kocha³a. W dniu, kiedy nieznane statki zaatakowa³y liniowiec na którym by³a Marika, sta³ siê dla Alicji szalon¹ katastrof¹. Po tym zdarzeniu ogarnê³y j¹ obsesyjne myœli, ¿e jej córka mog³a ocaleæ z wybuchu w kapsule ratunkowej. St¹d, przerwa³a swoj¹ karierê i zaczê³a szukaæ Marikê.
 
-#M_pilot_Name_Alisa	= Alice
-#M_pilot_FName_Alisa	= Alice
-#M_pilot_Back_Alisa	= Alice Grant was once a high-ranking manager in USS. Stern and calculating, she was called "bulldog" by colleagues. Alice's careerism was famous throughout the corporation, and top management valued her for the ability to get best contracts terms out of everyone. No one could imagine that this cold-blooded shark was a sweet, sociable and romantic student. However, life taught her a few cruel lessons and forced her to change. The only human being that saw Alice unmasked was her daughter Marika that she doted. The day when unknown ships attacked the passenger liner Marika was on became a maddening catastrophe for Alice. She became obsessed with a thought that her daughter could survive the explosion in an escape pod. Thus, she abandoned her career and started searching for Marika.
+#M_pilot_Name_Che			= Che
+#M_pilot_FName_Che			= Che
+#M_pilot_Back_Che			= Fidel Carlos urodzi³ siê, i dorasta³ w biednej stacji kosmicznej na jakimœ koñcu wszechœwiata. Fidel nie zna³ swojego ojca, a jego matka zmar³a, gdy mia³ osiem lat. ¯ycie na stacji by³o trudne, i Fidel zacz¹³ pracê jeszcze, kiedy by³ dzieckiem. Choc dzieci pracuj¹ce przy œmierdz¹cych kadziach z bioplastikiem nie by³y dla stacji niczym niezwyk³ym. Gdy Fidel mia³ czternaœcie lat zda³ sobie sprawê, ¿e bez wzglêdu na to, jak ciê¿ko bêdzie pracowa³, to nigdy nie dosiêgnie górnych pok³adów, gdzie powietrze by³o uwarunkowane przez grono w³aœcicieli stacji, którzy ¿yli w luksusie. Aby wydostaæ siê z brudu, biedy, chorób i smrodu na ni¿szych pok³adach, bêdzie musia³ pokonaæ w³aœcicieli. Tak wiêc, Fidel rozpocz¹³ organizowanie buntu robotników, którzy zaczêli nazywaæ go "Che". Ale jego plany zawiod³y i Fidel ledwo uciek³ ochronie stacji ukrywaj¹c siê w transporcie tworzyw sztucznych. Od tego dnia by³ przemytnikiem, szanta¿yst¹ i oszustem. Jednak, gdy go z³apali, sêdzia okaza³ siê byæ jednym z osobistych wrogów Fidela. Policzy³ siê z Fidelem i skaza³ go na dwie dekady. Nied³ugo potem, system przekszta³ci³ siê w Nowe Imperium. Nowy s¹d podda³ rewizji przypadek Fidela i wypuœci³ go. Na wolnoœci Che zda³ sobie sprawê, ¿e wiele siê zmieni³o w ci¹gu tych trzech lat, kiedy by³ w wiêzieniu. I do tej pory nie znalaz³ swojego miejsca.
 
-#M_pilot_Name_Che	= Che
-#M_pilot_FName_Che	= Che
-#M_pilot_Back_Che	= Fidel Carlos was born and grew up at a poor space station in some back of beyond. Fidel didn't know his father and his mother died when he was eight. The life at the station was hard and Fidel had started working since he was a child. Though children working by stinking vats of bioplastics were not unusual for stations like that. When he was fourteen, Fidel realized that no matter how hard he worked, he would never reach upper decks, where air was conditioned for a bunch of station owners who lived in luxury. To get out of dirt, poverty, sicknesses and stench of lower decks, he would have to overcome the owners. Thus, Fidel started organizing the rebellion of workers who started calling him "Che". But his plans failed and Fidel barely escaped station security hidden in a plastics transport. Since that day he had been a smuggler, a blackmailer, a swindler. However, once he got caught and the judge turned out to be one of Fidel's personal enemies. He got even with Fidel and sent him up for two decades. After a while, the system converted to the New Empire. The new court reviewed Fidel's case and let him go. At large, Che found out that much had changed in three years he was in jail. And so far he hasn't found his level.
+#M_pilot_Name_Yana			= Jana
+#M_pilot_FName_Yana			= Jana
+#M_pilot_Back_Yana			= Jana Kaushansky is a graduate of InoCo's High Technical Academy who was expected to make a great scientific career. The corporation has always been on a lookout for talented students, so Jana counted on a place in a major scientific center in Heos or Gaeon. Instead, she was sent to Hapha and assigned to what seemed to be a totally useless and uninteresting job. She was to track signatures of ships passing through intersystems portals. This data was then encrypted and sent to Lidau. Though Jana quickly understood the purpose of the data, knowing that she was a part of InoCo's ambitious project didn't make her life less boring. Working with statistics, Jana found out that engine emission could be affected by other ship equipment. Thus, she unexpectedly found herself interested in circuit technology. In just a year, Jana expanded her systems analyst skills with those of ship engineer and mechanic. And thanks to regular training conducted by InoCo's security, she became a decent pilot, though she had never piloted anything before the academy.
 
-#M_pilot_Name_Yana	= Jana
-#M_pilot_FName_Yana	= Jana
-#M_pilot_Back_Yana	= Jana Kaushansky is a graduate of InoCo's High Technical Academy who was expected to make a great scientific career. The corporation has always been on a lookout for talented students, so Jana counted on a place in a major scientific center in Heos or Gaeon. Instead, she was sent to Hapha and assigned to what seemed to be a totally useless and uninteresting job. She was to track signatures of ships passing through intersystems portals. This data was then encrypted and sent to Lidau. Though Jana quickly understood the purpose of the data, knowing that she was a part of InoCo's ambitious project didn't make her life less boring. Working with statistics, Jana found out that engine emission could be affected by other ship equipment. Thus, she unexpectedly found herself interested in circuit technology. In just a year, Jana expanded her systems analyst skills with those of ship engineer and mechanic. And thanks to regular training conducted by InoCo's security, she became a decent pilot, though she had never piloted anything before the academy.
+#M_pilot_Name_Josef			= Joseph
+#M_pilot_FName_Josef			= Joseph
+#M_pilot_Back_Josef			= Joseph came to the Border Sector looking for tracks of other races. Abandoned Alien worlds, mysterious artifacts and technologies - all that turned into his passion. When examining one of border systems, he met an expedition organized by the famous adventurer Jacob Cust. Having same goals and aspirations, they quickly became friends and started organizing expeditions together. In a few years, they had managed to comb tens of star systems and find hundreds of ancient artifacts. However, a real answer to their prayers was the discovery of Precursor Gates. Without a second thought, Jacob jumped into that energy vortex and the Gates closed immediately, so Joseph couldn't follow his companion. For ten years, Joseph had been looking for his friend in a multitude of uncharted systems. At the same he had been looking for a way to open the Gates, but had no luck. Eventually, Joseph gave up and settled down at an old mining station. From a daring explorer he turned into a hermit who voluntarily isolated himself from the outside world.
 
-#M_pilot_Name_Josef	= Joseph
-#M_pilot_FName_Josef	= Joseph
-#M_pilot_Back_Josef	= Joseph came to the Border Sector looking for tracks of other races. Abandoned Alien worlds, mysterious artifacts and technologies - all that turned into his passion. When examining one of border systems, he met an expedition organized by the famous adventurer Jacob Cust. Having same goals and aspirations, they quickly became friends and started organizing expeditions together. In a few years, they had managed to comb tens of star systems and find hundreds of ancient artifacts. However, a real answer to their prayers was the discovery of Precursor Gates. Without a second thought, Jacob jumped into that energy vortex and the Gates closed immediately, so Joseph couldn't follow his companion. For ten years, Joseph had been looking for his friend in a multitude of uncharted systems. At the same he had been looking for a way to open the Gates, but had no luck. Eventually, Joseph gave up and settled down at an old mining station. From a daring explorer he turned into a hermit who voluntarily isolated himself from the outside world.
+#M_pilot_Name_Heretic			= Heretyk
+#M_pilot_FName_Heretic			= Heretyk
+#M_pilot_Back_Heretic			= Heretyk jest oszustem, przemytnikiem i ³owc¹ artefaktów. Urodzi³ siê samotnikiem, dla tego nie mo¿e zbyt d³ugo pracowaæ w zespole.
 
-#M_pilot_Name_Heretic	= Heretic
-#M_pilot_FName_Heretic	= Heretic
-#M_pilot_Back_Heretic	= Heretic is a swindler, smuggler and artifact hunter. Natural born lone wolf, he cannot work in a team for long.
+#M_pilot_Name_Phantom			= Widmo
+#M_pilot_FName_Phantom			= Widmo
+#M_pilot_Back_Phantom			= Widmo jest pustelnikiem i wariatem, ale jest tak¿e genialnym naukowcem. Przez przypadek wst¹pi³ do zespo³u najemników Gwiezdne Wilki - tylko po to, aby kontynuowaæ swoje badania na pok³adzie ich statku-bazy. Obdarzony zwinnym umys³em i niesamowitymi zdolnoœciami uczenia siê, Widmowi ³atwo jest odzyskaæ swoje umiejêtnoœci pilota¿u i nauczyæ siê obs³ugi systemów okrêtowych. Jego badania ogólnej teorii pola s¹ czasami realizowane w praktyce, co zapewnia pomoc w walce.
 
-#M_pilot_Name_Phantom	= Phantom
-#M_pilot_FName_Phantom	= Phantom
-#M_pilot_Back_Phantom	= Phantom may be a crackpot hermit, but he's also a scientist of genius. By chance he joined the Star Wolves mercenary team - only to continue his research on board their mothership. Endowed with an agile mind and incredible learning abilities, Phantom is easily recovering his piloting skills and learning how to handle ship systems. His research of the general field theory is occasionally realized in practice and provides help in combat.
+#M_pilot_Name_Corsair			= Korsarz
+#M_pilot_FName_Corsair			= Korsarz
+#M_pilot_Back_Corsair			= Czerwony Korsarz jest legendarnym piratem, który zjednoczy³ wiele klanów pirackich, i prowadzi³ wojnê przeciwko patrolowi. Znikn¹³ wiele lat temu, ale wtedy znów siê pojawi³, i ponownie sta³ siê piratem. Nikt nie wiedzia³, czy rzeczywiœcie by³ tym samym Korsarzem który wtedy znikn¹³, ale ten mê¿czyzna nie mia³ sobie równych w walce pociskami. Kiedy zosta³ z³apany, przekona³ Gwiezdne Wilki, aby przyjêli go do swojego zespo³u. Korsarz oficjalnie zosta³ uznany za zabitego, lub zaginionego w akcji. Poniewa¿ nikomu nie uda³o siê potwierdziæ jego œmierci, nagroda 50,000 tysiêcy kredytów nigdy nie zosta³a wyp³acona. Pog³oski, ¿e Gwiezdne Wilki by³y zaanga¿owane w znikniêcie Korsarza, by³y dobr¹ reklam¹ dla ich dru¿yny.
 
-#M_pilot_Name_Corsair	= Corsair
-#M_pilot_FName_Corsair	= Corsair
-#M_pilot_Back_Corsair	= Red Corsair is the legendary pirate who united lots of feuding pirate clans and waged war on patrol. He vanished many years ago, but then appeared and became a pirate again. No one actually knew if he was the same Corsair who vanished back then, but the man was unsurpassed in missile combat. When caught, Corsair persuaded Star Wolves to let him into the team. Officially Corsair is considered killed or missed in action. Since no one had managed to confirm his death, the reward of 50,000 credits was never paid. Rumors that Star Wolves were involved in Corsair's disappearance served as good advertising for their team.
+#M_pilot_Name_BasePilot			= Statek-baza
+#M_pilot_BasePilot 			= Sztuczna inteligencja która kontroluje wszystkie systemy uzbrojenia i statek-bazê.|Dziêki wiedzy InoCo na temat AI, umiejêtnoœci pilota¿u statku-bazy s¹ lepsze ni¿ u debiutanta. Ma tak¿e tendencjê do omijania du¿ych przeszkód i taranowania tych mniejszych.
 
-#M_pilot_Name_BasePilot	= Mothership
-#M_pilot_BasePilot = An artificial intelligence that controls all mothership's systems and weaponry.|Thanks to InoCo's AI expertise, mothership's piloting skills are better than those of a rookie. It also tends to ignore small obstacles and ram large ones.
+#M_pilot_Name_LlanowarRebel		= Pilot LS
+
+#M_pilot_Name_PatrolPilot		= Pilot Patrolu
+#M_pilot_Name_PatrolOfficer		= Oficer Patrolu
+#M_pilot_Name_PatrolAce			= Kapitan Patrolu
+
+#M_pilot_Name_PatrolPrivate		= Pilot Patrolu
+#M_pilot_Name_PatrolCorporal		= Patrol sergeant
+#M_pilot_Name_PatrolLeutinant		= Oficer Patrolu
+#M_pilot_Name_PatrolKaptain		= Kapitan Patrolu
+#M_pilot_Name_PatrolMajor		= Patrol major
+
+#M_pilot_Name_VksPilot			= Pilot MSF
+#M_pilot_Name_VksOfficer		= Oficer MSF
+#M_pilot_Name_VksAce			= Kapitan MSF
+#M_pilot_Name_VksISAce			= Security force captain
+
+#M_pilot_Name_VKSPrivate		= Pilot MSF 
+#M_pilot_Name_VKSCorporal		= MSF sergeant
+#M_pilot_Name_VKSLeutinant		= Oficer MSF
+#M_pilot_Name_VKSKaptain		= Kapitan MSF
+#M_pilot_Name_VKSMajor			= MSF major
+
+#M_pilot_Name_KfniPilot			= Pilot NESF
+#M_pilot_Name_KfniOfficer		= Oficer NESF
+#M_pilot_Name_KfniAce			= Kapitan NESF
+
+#M_pilot_Name_KFNIPrivate		= Pilot NESF
+#M_pilot_Name_KFNICorporal		= NESF sergeant
+#M_pilot_Name_KFNILeutinant		= Oficer NESF
+#M_pilot_Name_KFNIKaptain		= Kapitan NESF
+#M_pilot_Name_KFNIMajor			= NESF major
+
+#M_pilot_Name_RecruitPilot		= Najemnik
+#M_pilot_Name_RecruitOfficer		= Experienced mercenary
+#M_pilot_Name_RecruitAce		= Veteran mercenary
+
+#M_pilot_Name_RecruitNovice		= Rookie mercenary
+#M_pilot_Name_RecruitMan		= Najemnik
+#M_pilot_Name_RecruitExper		= Experienced mercenary
+#M_pilot_Name_RecruitProf		= Veteran mercenary
+#M_pilot_Name_RecruitHunter		= Bounty hunter
+	
+#M_pilot_Name_OthersPilot		= Pilot
+#M_pilot_Name_OthersOfficer		= Doœwiadczony pilot
+#M_pilot_Name_OthersAce			= Ace pilot
+
+#M_pilot_Name_OthersNovice		= Rookie
+#M_pilot_Name_OthersMan			= Pilot
+#M_pilot_Name_OthersExper		= Experienced pilot
+#M_pilot_Name_OthersMaster		= Ace pilot
+#M_pilot_Name_OthersElite		= Elite pilot
+
+#M_pilot_Name_LlanovarPilot		= Llanowarian
+#M_pilot_Name_LlanovarOfficer		= Llanowarian officer
+#M_pilot_Name_LlanovarAce		= Llanowarian ace
+
+#M_pilot_Name_PirateRookie		= Novice pirate
+#M_pilot_Name_PirateTough		= Pirat
+#M_pilot_Name_PirateCaptain		= Kapitan Piratów
+#M_pilot_Name_PirateMessanger		= Kurier
+
+#M_pilot_Name_Trader			= Kupiec
+#M_pilot_Name_TraderGuard		= Obroñca
+
+#M_pilot_Name_UFTTrader			= FTU pilot
+
+#M_pilot_Name_Autopilot			= Autopilot
+
+#M_pilot_Name_BerserkBot		= Berserk
+
+#M_pilot_Name_AlienStd			= Obcy
+
+#M_pilot_Name_Guardian			= Stra¿nik
+
+#M_pilot_Name_SH 			= Autopilot
+
+#M_pilot_Name_USSPilot			= Pilot USS 
+#M_pilot_Name_USSEnforcer		= USS enforcer
+#M_pilot_Name_USSOfficer		= Oficer USS
+#M_pilot_Name_USSOperative		= USS operative
+#M_pilot_Name_USSAgent			= Agent USS 
+
+#M_pilot_Name_InocoPilot		= Pilot InoCo 
+#M_pilot_Name_InocoEnforcer		= InoCo enforcer
+#M_pilot_Name_InocoOfficer		= Oficer InoCo 
+#M_pilot_Name_InocoOperative		= InoCo operative
+#M_pilot_Name_InocoAgent		= Agent InoCo 
+
+#M_pilot_Name_TriadaPilot		= Pilot Triady
+#M_pilot_Name_TriadaThug		= Triada enforcer
+#M_pilot_Name_TriadaYakuza		= Oficer Triady
+#M_pilot_Name_TriadaAgent		= Agent Triady
+#M_pilot_Name_TriadaManager		= Triada manager
+
+#M_pilot_Name_TemplPilot		= Templar pilot
+#M_pilot_Name_TemplOfficer		= Templar officer
+#M_pilot_Name_TemplAce			= Templar magister
+
+#M_pilot_Name_TemplSquire		= Templar squire
+#M_pilot_Name_TemplKnight		= Templar knight
+#M_pilot_Name_TemplCorporal		= Templar sergeant
+#M_pilot_Name_TemplCrusader		= Templar crusader
+#M_pilot_Name_TemplPaladin		= Templar paladin
+
+#M_pilot_Name_Miner			= Stacja wydobywcza
+
+#M_pilot_Abandoned_Factory		= Abandoned plant
+
+#M_pilot_Name_PirateTrader		= Czarny rynek
+
+#M_pilot_Name_PirateOutpost		= Stacja Piratów
+
+#M_pilot_Name_Hint			= Porada
+
+#M_pilot_Name_MercBasePilot		= Base
+
+#M_pilot_Name_LSPlant			= LS Proc. plant
+
+#M_pilot_Name_LSOffice			= Biuro LS
+
+#M_pilot_Name_SpaceLab			= Laboratorium
+
+#M_pilot_Automat			= Automation
+
+#M_pilot_Station			= Stacja
+
+#M_pilot_AutoGun			= Wie¿yczka automatyczna
+
+#M_pilot_Name_Trener			= Instruktor
+
+#M_pilot_Name_Attashe 			= Dyplomata
+
+#M_pilot_Name_Alice 			= Alicja
+
+#M_pilot_Name_Natalia 			= Natalia
+
+#M_pilot_Name_Filine 			= Filine
+
+#M_pilot_Name_Rey 			= Ray
+
+#M_pilot_Name_Dispetcher 		= Dyspozytor
+
+#M_pilot_Name_Donneli			= Donelly
+
+#M_pilot_Name_Trasher 			= Scavenger
+
+#M_pilot_Name_Matt 			= Matt Hander
+
+#M_pilot_Name_Karl 			= Carl Hander
+
+#M_pilot_Name_Kertis 			= Curtis
+
+#M_pilot_Name_Mechanic 			= Mechanik
+
+#M_pilot_Name_Shahter 			= Górnik
+
+#M_pilot_Name_Squint 			= Squinty
+
+#M_pilot_Name_Treasurer 		= Skarbnik
+
+#M_pilot_Name_Moisha 			= Zegarmistrz
+
+#M_pilot_Name_CaravanMaster 		= Convoy master
+
+#M_pilot_Name_Sedoy_no 			= Pilot
+
+#M_pilot_Name_ComplaintBureauVKS 	= MSF major
+#M_pilot_Name_BattleOperationVKS	= MSF colonel
+#M_pilot_Name_LegalDepartmentVKS 	= MSF commander
+#M_pilot_Name_ClippingServiceVKS 	= MSF lieutenant
+
+#M_pilot_Name_ClippingServiceTriada 	= Press center
+
+#M_pilot_Name_KfniCommander		= NESF commander
+
+#M_pilot_Name_InocoDikkens		= Charles Dickens
+
+#M_pilot_Name_SmugglerAlone		= Aylon
+
+#M_pilot_Name_Marko			= Marco
+
+#M_pilot_Name_President			= Prezydent
+
+#M_pilot_Name_SafetyOfficer		= Security officer
+
+#M_pilot_Name_AgentKFNI			= Sanchen
+
+#M_pilot_Name_Tito			= Tito
+
+#M_pilot_Name_Shinji			= Shinji
+
+#M_pilot_Name_Yanos			= Janosz
+
+#M_pilot_Name_SirAlfred			= Patriarch
+
+#M_pilot_Name_Unknown			= Stranger
+
+#M_pilot_Name_Shmyga			= Slippy
+
+#M_pilot_Name_Gorbatenko		= Gorbatenko
+
+#M_pilot_Name_Voronov			= Voronov
+
+#M_pilot_Name_9aManager			= Manager
+
+#M_pilot_Name_Pcholkin			= Pcholkin
+
+#M_pilot_Name_LiImu			= Lee Imu
+
+#M_pilot_Name_ItanFry			= Ethan Fry
+
+#M_pilot_Name_Kane			= Kane
+
+#M_pilot_Name_LaVerti			= La'Vertius
+
+#M_pilot_Name_Guard			= Guard captain
+
+#M_pilot_Name_Kruger			= Joe Kruger
+
+#M_pilot_Name_Meier			= Claus Meyer
+
+#M_pilot_Name_Kishimov			= Kishimov
+
+#M_pilot_Name_Samir			= Samir
+
+#M_pilot_Name_Jamshegi			= Jamshedji
+
+#M_pilot_Name_Kair			= Cayer
+
+#M_pilot_Name_Ranolds			= Reynolds
+
+#M_pilot_Name_Bates			= Gill Bates
+
+#M_pilot_Name_InoCo_SC			= InoCo Security chief
+
+#M_pilot_Name_mailer			= Mailer
+
+#M_pilot_Name_Tanaka			= Savay Tanaka
+
+#M_pilot_Name_simbiont			= Symbiont
+
+#M_pilot_Name_Heder			= Adm. Hader
+
+#M_pilot_Name_Emperor			= Emperor
+
+#M_pilot_Name_MinImu			= Min Imu
+
+#M_pilot_Name_TanImu			= Tan Imu
+
+#M_pilot_Name_Medish			= Marc Medisz
+
+#M_pilot_Name_Jah			= Jah
+
+#M_pilot_Name_Malal			= Mahlal
+
+#M_pilot_Name_Kuzmich			= Kuzmich
+
+#M_pilot_Name_ma_Spike			= Spike
+
+#M_pilot_Name_mb_Burlak 		= Burlak
+
+#M_pilot_Name_me_Merc2			= Baza
+
+#M_pilot_Name_Scientist			= Naukowiec
+
 #M_pilot_BasePilot_Engine1 = Flight Firmware Mk 1. Optimizes engines and navigation system.|Improves basic mothership specifications:|Maneuverability: 110%|Top speed: 120%|Weapon accuracy: 120%|Antimissile defense: 110%|Hull repair and shield recovery performance: 120%
 #M_pilot_BasePilot_Engine2 = Flight Firmware Mk 2. Optimizes engines and navigation system.|Improves basic mothership specifications:|Maneuverability: 135%|Top speed: 120%|Weapon accuracy: 120%|Antimissile defense: 110%|Hull repair and shield recovery performance: 120%
 #M_pilot_BasePilot_Engine3 = Flight Firmware Mk 3. Optimizes engines and navigation system.|Improves basic mothership specifications:|Maneuverability: 150%|Top speed: 135%|Weapon accuracy: 120%|Antimissile defense: 110%|Hull repair and shield recovery performance: 120%
@@ -111,328 +383,3 @@ FILETYPE STANDART
 #M_pilot_BasePilot_Weapon1 = Weapon Firmware Mk 1. Improves targeting performance and optimizes anti-missile defense.|Improves basic mothership specifications:|Maneuverability: 110%|Top speed: 110%|Weapon accuracy: 140%|Antimissile defense: 135%|Hull repair and shield recovery performance: 120%
 #M_pilot_BasePilot_Weapon2 = Weapon Firmware Mk 2. Improves targeting performance, increases lethal range, optimizes anti-missile defense.|Improves basic mothership specifications:|Maneuverability: 110%|Top speed: 110%|Weapon accuracy: 155%|Weapon range: 125%|Antimissile defense: 135%|Hull repair and shield recovery performance: 120%
 #M_pilot_BasePilot_Weapon3 = Weapon Firmware Mk 3. Maximizes targeting performance, increases lethal range, optimizes anti-missile defense.|Improves basic mothership specifications:|Maneuverability: 110%|Top speed: 110%|Weapon accuracy: maximum|Weapon range: 125%|Antimissile defense: 135%|Hull repair and shield recovery performance: 120%
-
-#M_pilot_Name_LlanowarRebel	= LS pilot
-
-#M_pilot_Name_PatrolPilot	= Patrol pilot
-
-#M_pilot_Name_PatrolOfficer	= Patrol lieutenant
-
-#M_pilot_Name_PatrolAce	= Patrol captain
-
-#M_pilot_Name_PatrolPrivate	= Patrol pilot
-
-#M_pilot_Name_PatrolCorporal	= Patrol sergeant
-
-#M_pilot_Name_PatrolLeutinant	= Patrol lieutenant
-
-#M_pilot_Name_PatrolKaptain	= Patrol captain
-
-#M_pilot_Name_PatrolMajor	= Patrol major
-
-#M_pilot_Name_VksPilot	= MSF pilot
-
-#M_pilot_Name_VksOfficer	= MSF lieutenant
-
-#M_pilot_Name_VksAce	= MSF captain
-
-#M_pilot_Name_VksISAce	= Security force captain
-
-#M_pilot_Name_VKSPrivate	= MSF pilot
-
-#M_pilot_Name_VKSCorporal	= MSF sergeant
-
-#M_pilot_Name_VKSLeutinant	= MSF lieutenant
-
-#M_pilot_Name_VKSKaptain	= MSF captain
-
-#M_pilot_Name_VKSMajor	= MSF major
-
-#M_pilot_Name_KfniPilot	= NESF pilot
-
-#M_pilot_Name_KfniOfficer	= NESF lieutenant
-
-#M_pilot_Name_KfniAce	= NESF captain
-
-#M_pilot_Name_KFNIPrivate	= NESF pilot
-
-#M_pilot_Name_KFNICorporal	= NESF sergeant
-
-#M_pilot_Name_KFNILeutinant	= NESF lieutenant
-
-#M_pilot_Name_KFNIKaptain	= NESF captain
-
-#M_pilot_Name_KFNIMajor	= NESF major
-
-#M_pilot_Name_RecruitPilot	= Mercenary
-
-#M_pilot_Name_RecruitOfficer	= Experienced mercenary
-
-#M_pilot_Name_RecruitAce	= Veteran mercenary
-
-#M_pilot_Name_RecruitNovice	= Rookie mercenary
-
-#M_pilot_Name_RecruitMan	= Mercenary
-
-#M_pilot_Name_RecruitExper	= Experienced mercenary
-
-#M_pilot_Name_RecruitProf	= Veteran mercenary
-
-#M_pilot_Name_RecruitHunter	= Bounty hunter
-
-#M_pilot_Name_OthersPilot	= Pilot
-
-#M_pilot_Name_OthersOfficer	= Experienced pilot
-
-#M_pilot_Name_OthersAce	= Ace pilot
-
-#M_pilot_Name_OthersNovice	= Rookie
-
-#M_pilot_Name_OthersMan	= Pilot
-
-#M_pilot_Name_OthersExper	= Experienced pilot
-
-#M_pilot_Name_OthersMaster	= Ace pilot
-
-#M_pilot_Name_OthersElite	= Elite pilot
-
-#M_pilot_Name_LlanovarPilot	= Llanowarian
-
-#M_pilot_Name_LlanovarOfficer	= Llanowarian officer
-
-#M_pilot_Name_LlanovarAce	= Llanowarian ace
-
-#M_pilot_Name_PirateRookie	= Novice pirate
-
-#M_pilot_Name_PirateTough	= Pirate
-
-#M_pilot_Name_PirateCaptain	= Pirate captain
-
-#M_pilot_Name_PirateMessanger	= Courier
-
-#M_pilot_Name_Trader	= Trader
-
-#M_pilot_Name_TraderGuard	= Guard
-
-#M_pilot_Name_UFTTrader	= FTU pilot
-
-#M_pilot_Name_Autopilot		= Autopilot
-
-#M_pilot_Name_BerserkBot	= Berserk
-
-#M_pilot_Name_AlienStd	= Alien
-
-#M_pilot_Name_Guardian	= Guardian
-
-#M_pilot_Name_SH = Autopilot
-
-#M_pilot_Name_USSPilot	= USS pilot
-
-#M_pilot_Name_USSEnforcer	= USS enforcer
-
-#M_pilot_Name_USSOfficer	= USS officer
-
-#M_pilot_Name_USSOperative	= USS operative
-
-#M_pilot_Name_USSAgent	= USS agent
-
-#M_pilot_Name_InocoPilot	= InoCo pilot
-
-#M_pilot_Name_InocoEnforcer	= InoCo enforcer
-
-#M_pilot_Name_InocoOfficer	= InoCo officer
-
-#M_pilot_Name_InocoOperative	= InoCo operative
-
-#M_pilot_Name_InocoAgent	= InoCo agent
-
-#M_pilot_Name_TriadaPilot	= Triada pilot
-
-#M_pilot_Name_TriadaThug	= Triada enforcer
-
-#M_pilot_Name_TriadaYakuza	= Triada officer
-
-#M_pilot_Name_TriadaAgent	= Triada agent
-
-#M_pilot_Name_TriadaManager	= Triada manager
-
-#M_pilot_Name_TemplPilot	= Templar pilot
-
-#M_pilot_Name_TemplOfficer	= Templar officer
-
-#M_pilot_Name_TemplAce	= Templar magister
-
-#M_pilot_Name_TemplSquire	= Templar squire
-
-#M_pilot_Name_TemplKnight	= Templar knight
-
-#M_pilot_Name_TemplCorporal	= Templar sergeant
-
-#M_pilot_Name_TemplCrusader	= Templar crusader
-
-#M_pilot_Name_TemplPaladin	= Templar paladin
-
-#M_pilot_Name_Miner	= Mining station
-
-#M_pilot_Abandoned_Factory	= Abandoned plant
-
-#M_pilot_Name_PirateTrader	= Black market
-
-#M_pilot_Name_PirateOutpost	= Pirate station
-
-#M_pilot_Name_Hint	= Hint
-
-#M_pilot_Name_MercBasePilot	= Base
-
-#M_pilot_Name_LSPlant	= LS Proc. plant
-
-#M_pilot_Name_LSOffice	= LS office
-
-#M_pilot_Name_SpaceLab	= Laboratory
-
-#M_pilot_Automat	= Automation
-
-#M_pilot_Station	= Station
-
-#M_pilot_AutoGun	= Automatic turret
-
-#M_pilot_Name_Trener	= Instructor
-
-#M_pilot_Name_Attashe = Triada attache
-
-#M_pilot_Name_Alice = Alice
-
-#M_pilot_Name_Natalia = Nataly
-
-#M_pilot_Name_Filine = Filine
-
-#M_pilot_Name_Rey = Ray
-
-#M_pilot_Name_Dispetcher = Dispatcher
-
-#M_pilot_Name_Donneli = Donelly
-
-#M_pilot_Name_Trasher = Scavenger
-
-#M_pilot_Name_Matt = Matt Hander
-
-#M_pilot_Name_Karl = Carl Hander
-
-#M_pilot_Name_Kertis = Curtis
-
-#M_pilot_Name_Mechanic = Mechanic
-
-#M_pilot_Name_Shahter = Miner
-
-#M_pilot_Name_Squint = Squinty
-
-#M_pilot_Name_Treasurer = Paymaster
-
-#M_pilot_Name_Moisha = Watchmaker
-
-#M_pilot_Name_CaravanMaster = Convoy master
-
-#M_pilot_Name_Sedoy_no = Pilot
-
-#M_pilot_Name_ComplaintBureauVKS = MSF major
-
-#M_pilot_Name_BattleOperationVKS = MSF colonel
-
-#M_pilot_Name_LegalDepartmentVKS = MSF commander
-
-#M_pilot_Name_ClippingServiceVKS = MSF lieutenant
-
-#M_pilot_Name_ClippingServiceTriada = Press center
-
-#M_pilot_Name_KfniCommander	= NESF commander
-
-#M_pilot_Name_InocoDikkens	= Charles Dickens
-
-#M_pilot_Name_SmugglerAlone	= Aylon
-
-#M_pilot_Name_Marko	= Marco
-
-#M_pilot_Name_President	= President
-
-#M_pilot_Name_SafetyOfficer	= Security officer
-
-#M_pilot_Name_AgentKFNI	= Sanchen
-
-#M_pilot_Name_Tito	= Tito
-
-#M_pilot_Name_Shinji	= Shinji
-
-#M_pilot_Name_Yanos	= Janosz
-
-#M_pilot_Name_SirAlfred	= Patriarch
-
-#M_pilot_Name_Unknown	= Stranger
-
-#M_pilot_Name_Shmyga	= Slippy
-
-#M_pilot_Name_Gorbatenko	= Gorbatenko
-
-#M_pilot_Name_Voronov	= Voronov
-
-#M_pilot_Name_9aManager	= Manager
-
-#M_pilot_Name_Pcholkin	= Pcholkin
-
-#M_pilot_Name_LiImu	= Lee Imu
-
-#M_pilot_Name_ItanFry	= Ethan Fry
-
-#M_pilot_Name_Kane	= Kane
-
-#M_pilot_Name_LaVerti	= La'Vertius
-
-#M_pilot_Name_Guard	= Guard captain
-
-#M_pilot_Name_Kruger	= Joe Kruger
-
-#M_pilot_Name_Meier	= Claus Meyer
-
-#M_pilot_Name_Kishimov	= Kishimov
-
-#M_pilot_Name_Samir	= Samir
-
-#M_pilot_Name_Jamshegi	= Jamshedji
-
-#M_pilot_Name_Kair	= Cayer
-
-#M_pilot_Name_Ranolds	= Reynolds
-
-#M_pilot_Name_Bates	= Gill Bates
-
-#M_pilot_Name_InoCo_SC	= InoCo Security chief
-
-#M_pilot_Name_mailer	= Mailer
-
-#M_pilot_Name_Tanaka	= Savay Tanaka
-
-#M_pilot_Name_simbiont	= Symbiont
-
-#M_pilot_Name_Heder	= Adm.Hader
-
-#M_pilot_Name_Emperor	= Emperor
-
-#M_pilot_Name_MinImu	= Min Imu
-
-#M_pilot_Name_TanImu	= Tan Imu
-
-#M_pilot_Name_Medish	= Marc Medisz
-
-#M_pilot_Name_Jah	= Jah
-
-#M_pilot_Name_Malal	= Mahlal
-
-#M_pilot_Name_Kuzmich	= Kuzmich
-
-#M_pilot_Name_ma_Spike	= Spike
-
-#M_pilot_Name_mb_Burlak = Burlak
-
-#M_pilot_Name_me_Merc2	= Base
-
-#M_pilot_Name_Scientist	= Scientist
-

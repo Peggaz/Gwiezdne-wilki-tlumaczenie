@@ -1,56 +1,55 @@
-;***********************************
-; Recruits descriptions XML
-;***********************************
-
 LOCALE_FILE
 FILETYPE STANDART
 
-#RC_FLIGHT_NAME1				= Jednostka najemnikÃ³w Morgenstern
-#RC_FLIGHT_SHORT_DESC1	= #COUNT# doÅ›wiadczeni wojownicy wykonajÄ… kaÅ¼dÄ… misjÄ™ bojowÄ… za #PRICE# kredyty.
-#RC_FLIGHT_FULL_DESC1		= Mamy doskonaÅ‚y bilans sÅ‚uÅ¼by i ogromne doÅ›wiadczenie bojowe. WalczyliÅ›my z Berserkami, Obcymi i klanami pirackimi. KaÅ¼dy z naszych #COUNT# wojownikÃ³w jest profesjonalistÄ… i genialnym taktykiem. Za #PRICE# kredytÃ³w wykonamy kaÅ¼dÄ… misjÄ™, ktÃ³ra nie jest sprzeczna z Kodeksem Najemnika. 
+;****************************
+; UWAGI
+;****************************
+;1.PRZET£UMACZYÆ: #RC_FLIGHT_FULL_DESC12
 
-#RC_FLIGHT_NAME2				= Jednostka najemnikÃ³w Avenging Angels
-#RC_FLIGHT_SHORT_DESC2	= #COUNT# mÅ‚odych, ale zaprawionych w bojach najemnikÃ³w oferuje swoje usÅ‚ugi za #PRICE# kredytÃ³w.
-#RC_FLIGHT_FULL_DESC2		= KaÅ¼dy z #COUNT# Avenging Angels posiada ogromne doÅ›wiadczenie bojowe i wiele chwalebnych zwyciÄ™stw pod swoim pasem. KaÅ¼da misja, od eskorty po prowadzenie dziaÅ‚aÅ„ bojowych, jest w zasiÄ™gu naszych moÅ¼liwoÅ›ci. Å»aden z naszych klientÃ³w, ktÃ³rzy zapÅ‚acili standardowÄ… cenÄ™ #PRICE# kredytÃ³w nie byÅ‚ zawiedziony!
+#RC_FLIGHT_NAME1	= Jednostka najemników "Morgensztern"
+#RC_FLIGHT_SHORT_DESC1	= #COUNT# doœwiadczonych wojowników bêdzie wykonywaæ ka¿d¹ zlecon¹ misjê bojow¹ za #PRICE# kredytów.
+#RC_FLIGHT_FULL_DESC1	= Mamy doskona³e wyniki us³ug i ogromne doœwiadczenie bojowe. Walczyliœmy z Berserkami, Obcymi i klanami pirackimi. Ka¿dy z naszych #COUNT# wojowników, jest profesjonalnym, i genialnym taktykiem. Za #PRICE# kredytów, bêdziemy wykonywaæ ka¿d¹ misjê, która nie jest sprzeczna z Kodeksem Najemników.
 
-#RC_FLIGHT_NAME3				= Jednostka najemnikÃ³w Poleaxes
-#RC_FLIGHT_SHORT_DESC3	= #COUNT# profesjonalistÃ³w sÄ… gotowi do podpisania umowy na #PRICE# kredytÃ³w.
-#RC_FLIGHT_FULL_DESC3		= Jak ciÄ™Å¼ki topÃ³r miaÅ¼dÅ¼y kaÅ¼dÄ… zbrojÄ™, tak nasz oddziaÅ‚ #COUNT# wojownikÃ³w zahartowanych w licznych potyczkach miaÅ¼dÅ¼y wrogÃ³w i nie pozostawia nic poza ogniem i czystÄ… przestrzeniÄ…. JesteÅ›my dokÅ‚adni, szybcy i odwaÅ¼ni. Cenimy honor i mÄ™stwo i rozprawimy siÄ™ ze wszystkimi twoimi wrogami za #PRICE# kredytÃ³w.
+#RC_FLIGHT_NAME2	= Jednostka najemników "Anio³y Zemsty"
+#RC_FLIGHT_SHORT_DESC2	= #COUNT# m³odych, ale zaprawionych w boju najemników oferuje swoje us³ugi, za #PRICE# kredytów.
+#RC_FLIGHT_FULL_DESC2	= Ka¿dy z #COUNT# Anio³ów Zemsty ma ogromne doœwiadczenie w walce, i wiele wspania³ych zwyciêstw za pasem. Wszelkie misje, od eskortowania, do prowadzenia dzia³añ bojowych s¹ w naszym zasiêgu. ¯aden z naszych klientów, który zap³aci³ standardow¹ cenê #PRICE# kredytów, nie zawiód³ siê!
 
-#RC_FLIGHT_NAME4				= Jednostka najemnikÃ³w Star Dragoons
-#RC_FLIGHT_SHORT_DESC4	= #COUNT# sprawnych wojownikÃ³w jest gotowych by pomÃ³c w rozwiÄ…zaniu twoich problemÃ³w za #PRICE# kredytÃ³w.
-#RC_FLIGHT_FULL_DESC4		= JesteÅ›my jednostkÄ… najemnikÃ³w, ktÃ³ra przeszÅ‚a elitarne szkolenie w najlepszych akademiach wojskowych WszechÅ›wiata. WalczyliÅ›my w najbardziej chwalebnych bitwach ostatnich lat. Honor i mÄ™stwo, odwaga i lojalnoÅ›Ä‡ - to nasze motto. Za #PRICE# kredytÃ³w otrzymasz druÅ¼ynÄ™ niedoÅ›cignionÄ… w znanym WszechÅ›wiecie. 
+#RC_FLIGHT_NAME3	= Jednostka najemników "Ogniste M³oty"
+#RC_FLIGHT_SHORT_DESC3	= #COUNT# profesjonalistów gotowych podpisaæ umowê za #PRICE# kredytów.
+#RC_FLIGHT_FULL_DESC3	= Jak ciê¿ki m³ot mia¿d¿y zbrojê, tak nasza jednostka #COUNT# bojowników utwardzonych w licznych potyczkach, mia¿d¿y wrogów, i nie pozostawia nic, poza ogniem i czyst¹ przestrzeni¹. Jesteœmy dok³adni, szybcy i odwa¿ni. Cenimy sobie honor oraz mêstwo, i zajmiemy siê wszystkimi twoimi wrogami za #PRICE# kredytów.
 
-#RC_FLIGHT_NAME5				= Jednostka najemnikÃ³w Cimmerians
-#RC_FLIGHT_SHORT_DESC5	= #COUNT# najemnikÃ³w pozbÄ™dzie siÄ™ kaÅ¼dego twojego bÃ³lu gÅ‚owy za #PRICE# kredytÃ³w.
-#RC_FLIGHT_FULL_DESC5		= JuÅ¼ sam nasz okrzyk wojenny sprawia, Å¼e piraci uciekajÄ… w popÅ‚ochu. Nasza jednostka to #COUNT# najlepszych myÅ›liwcÃ³w od Avalonu po Kitaro. Nasze statki sÄ… niezrÃ³wnane. Za #PRICE# kredytÃ³w Cimmerianie rozproszÄ… kaÅ¼dego, kto odwaÅ¼y siÄ™ stanÄ…Ä‡ na twojej drodze.
+#RC_FLIGHT_NAME4	= Jednostka najemników "Gwiezdne Smoki"
+#RC_FLIGHT_SHORT_DESC4	= #COUNT# doœwiadczonych wojowników, jest gotowych pomóc rozwi¹zaæ twoje problemy za #PRICE# kredytów.
+#RC_FLIGHT_FULL_DESC4	= Jesteœmy elitarn¹ jednostk¹ najemników, która przesz³a szkolenie w najlepszych akademiach wojskowych we Wszechœwiecie. Walczyliœmy w najwspanialszych walkach ostatnich lat. Honor i mêstwo, odwaga i lojalnoœæ - to nasze motto. Za #PRICE# kredytów otrzymasz niezrównany zespó³ w ca³ym Wszechœwiecie.
 
-#RC_FLIGHT_NAME6				= Jednostka najemnikÃ³w Fortune Favorites
-#RC_FLIGHT_SHORT_DESC6	= #COUNT# ulubieni bojownicy Lady Luck pomogÄ… Ci za #PRICE# kredyty.
-#RC_FLIGHT_FULL_DESC6		= GwarancjÄ… naszego szczÄ™Å›cia jest Å¼elazna dyscyplina, ogromne doÅ›wiadczenie bojowe i wyjÄ…tkowe wyszkolenie wszystkich #COUNT# wojownikÃ³w. Nasza reputacja jest nieskazitelna, a nasze czyny legendarne! Tylko za #PRICE# kredytÃ³w Fortuna Ulubiona podzieli siÄ™ z TobÄ… swoim szczÄ™Å›ciem, ktÃ³re bÄ™dzie CiÄ™ chroniÄ‡ jak nieprzekraczalna tarcza.
+#RC_FLIGHT_NAME5	= Jednostka najemników "Cymeryjczycy"
+#RC_FLIGHT_SHORT_DESC5	= #COUNT# najemników pozbêdzie siê twojego ka¿dego bólu g³owy za #PRICE# kredytów.
+#RC_FLIGHT_FULL_DESC5	= Nasz sam wojenny okrzyk sprawia, ¿e piraci uciekaj¹ w pop³ochu. Nasza jednostka sk³ada siê z #COUNT# najlepszych wojowników od Avalon do Kitaro. Nasze statki s¹ niezrównane. Za #PRICE# kredytów, Cymeryjczycy rozprosz¹ ka¿dego, kto oœmieli siê stan¹æ na twojej drodze.
+
+#RC_FLIGHT_NAME6	= Jednostka najemników "Ulubieñcy Fortuny"
+#RC_FLIGHT_SHORT_DESC6	= #COUNT# ulubionych wojowników pomo¿e Ci za #PRICE# kredytów.
+#RC_FLIGHT_FULL_DESC6	= Gwarancja naszego szczêœcia sk³ada siê z ¿elaznej dyscypliny, rozleg³ego doœwiadczenia bojowego, i wyj¹tkowego szkolenia wszystkich #COUNT# bojowników. Nasza reputacja jest nieskazitelna, a nasze czyny s¹ legendarne! Tylko za #PRICE# kredytów, Ulubieñcy Fortuny podziel¹ siê z tob¹ swoim szczêœciem, i bêd¹ ciê chroniæ jak tarcza nie do z³amania.
  
-#RC_FLIGHT_NAME7				= Jednostka najemnikÃ³w Nomads
-#RC_FLIGHT_SHORT_DESC7	= #COUNT# Zaprawieni w bojach profesjonaliÅ›ci rozwiÄ…Å¼Ä… kaÅ¼dy twÃ³j problem za #PRICE# credits.
-#RC_FLIGHT_FULL_DESC7		= Od czasu operacji Upadek Tytana nasze #COUNT# bezkompromisowe myÅ›liwce doprowadzajÄ… systemy gwiezdne do porzÄ…dku, oczyszczajÄ…c je z piratÃ³w, zÅ‚odziei i innych szumowin. Zapytajcie o NomadÃ³w w dowolnym zakÄ…tku kosmosu, a usÅ‚yszycie zachwyt i najgÅ‚Ä™bszy szacunek. W caÅ‚ej naszej karierze Å¼aden z naszych klientÃ³w nie zostaÅ‚ wykorzystany, a Å¼aden z naszych wrogÃ³w nie uniknÄ…Å‚ odpÅ‚aty. Dzisiaj, za #PRICE# kredytÃ³w, Nomadzi sÄ… gotowi pomÃ³c ci rozwiÄ…zaÄ‡ kaÅ¼dy problem.
-
-PrzetÅ‚umaczono z www.DeepL.com/Translator (wersja darmowa)
+#RC_FLIGHT_NAME7	= Jednostka najemników "Koczownicy"
+#RC_FLIGHT_SHORT_DESC7	= #COUNT# zaprawionych w boju profesjonalistów, rozwi¹¿e ka¿dy z twoich problemów za #PRICE# kredytów.
+#RC_FLIGHT_FULL_DESC7	= Od operacji "Upadek Tytana" nasza #COUNT# bezkompromisowych wojowników, zosta³a sprowadzona do systemów gwiezdnych na zamówienie, aby oczyœciæ je z piratów, rabusiów i innej ho³oty. zapytaj o Nomadów w dowolnej czêœci przestrzeni, a us³yszysz radoœæ i najg³êbszy szacunek. W ca³ej naszej karierze, ¿aden z naszych klientów nie zosta³ wykorzystany, a ¿aden z naszych wrogów nie unikn¹³ kary. Dziœ za #PRICE# kredytów, Nomadzi s¹ gotowi, aby pomóc Ci rozwi¹zaæ ka¿dy problem.
  
-#RC_FLIGHT_NAME8				= Jednostka najemnikÃ³w Black Legion
-#RC_FLIGHT_SHORT_DESC8	= #COUNT# prawdziwi legioniÅ›ci bÄ™dÄ… wykonywaÄ‡ twoje rozkazy za #PRICE# kredytÃ³w.
-#RC_FLIGHT_FULL_DESC8		= Ave! Historia naszej jednostki liczy eony, a nasze korzenie siÄ™gajÄ… gÅ‚Ä™boko w pradawnÄ… przeszÅ‚oÅ›Ä‡ Ziemi. Czarny Legion braÅ‚ udziaÅ‚ we wszystkich ludzkich wojnach i konfliktach zbrojnych, zbierajÄ…c ziarna doÅ›wiadczeÅ„, ktÃ³re pÃ³Åºniej przekazywane byÅ‚y z pokolenia na pokolenie. JesteÅ›my wojownikami z urodzenia i przysiÄ™gliÅ›my zachowaÄ‡ i zwiÄ™kszyÄ‡ chwaÅ‚Ä™, honor, mÄ™stwo i tradycje naszych przodkÃ³w. Za zwykÅ‚e #PRICE# kredyty nasi #COUNT# legioniÅ›ci sÄ… gotowi pokonaÄ‡ kaÅ¼dego wroga, czy to klan piratÃ³w, czy regularnÄ… armiÄ™.
+#RC_FLIGHT_NAME8	= Jednostka najemników "Czarny Legion"
+#RC_FLIGHT_SHORT_DESC8	= #COUNT# prawdziwych legionistów bêdzie œledziæ twoje zlecenie za #PRICE# kredytów. 
+#RC_FLIGHT_FULL_DESC8	= Historia naszego zespo³u liczy eony, a nasze korzenie siêgaj¹ g³êboko w zamierzch³¹ przesz³oœæ Ziemi. Czarny Legion wzi¹³ udzia³ we wszystkich ludzkich wojnach i konfliktach zbrojnych, zbieraj¹c ziarna doœwiadczenia, które póŸniej by³y przekazywane z pokolenia na pokolenie. Jesteœmy wojownikami z urodzenia i przysiêgliœmy zachowaæ oraz zwiêkszyæ chwa³ê, honor, mêstwo i tradycjê naszych przodków. Za zwyk³e #PRICE# kredytów #COUNT# naszych legionistów jest gotowych pozbyæ siê ka¿dego wroga, czy to klan piratów czy regularna armia.
 
-#RC_FLIGHT_NAME9				= Jednostka najemnikÃ³w Shining Guards
-#RC_FLIGHT_SHORT_DESC9	= #COUNT# najemnicy wyeliminujÄ… kaÅ¼de zagroÅ¼enie za #PRICE# kredytÃ³w.
-#RC_FLIGHT_FULL_DESC9		= KaÅ¼da czujÄ…ca istota w kosmosie przynajmniej raz sÅ‚yszaÅ‚a o naszych chwalebnych czynach. Klienci, ktÃ³rzy zgodzili siÄ™ zapÅ‚aciÄ‡ #PRICE# credits triumfalnie widzieli, jak ich wrogowie zostali rozgromieni, a ich statki spalone i zmiaÅ¼dÅ¼one. JesteÅ›my szybcy, odwaÅ¼ni i doÅ›wiadczeni, i jesteÅ›my gotowi zapewniÄ‡ ci bezpieczeÅ„stwo. 
+#RC_FLIGHT_NAME9	= Jednostka najemników "Stra¿nicy"
+#RC_FLIGHT_SHORT_DESC9	= #COUNT# najemników wyeliminuje zagro¿enie za #PRICE# kredytów.
+#RC_FLIGHT_FULL_DESC9	= Ka¿da coœ czuj¹ca istota w przestrzeni przynajmniej raz s³ysza³a o naszych chwalebnych czynach. Klienci, którzy zgodzili siê zap³aciæ #PRICE# kredytów, byli triumfalnymi œwiadkami jak ich wrogowie byli nawracani, a ich statki palone i zgniatane. Jesteœmy szybcy, odwa¿ni oraz doœwiadczeni, i jesteœmy gotowi zapewniæ Ci bezpieczeñstwo.
 
-#RC_FLIGHT_NAME10				= Jednostka najemnikÃ³w Stardust
-#RC_FLIGHT_SHORT_DESC10	= #COUNT# kosmiczne amazonki zredukujÄ… twoje problemy do pyÅ‚u za #PRICE# kredyty.
-#RC_FLIGHT_FULL_DESC10		= Tych, ktÃ³rzy nie docenili umiejÄ™tnoÅ›ci bojowych naszych #COUNT# amazonek, spotkaÅ‚y niemiÅ‚e i Å›miertelne niespodzianki. Tylko nieliczne renomowane wojowniczki sÄ… w stanie rzuciÄ‡ nam wyzwanie w celnoÅ›ci, filigranowoÅ›ci sterowania statkami i sprzÄ™tem, zaradnoÅ›ci i skutecznoÅ›ci naszej taktyki walki. Za #PRICE# credits kaÅ¼dy przekona siÄ™, Å¼e mÄ™skie lekcewaÅ¼Ä…ce yak o kobietach-bojowniczkach nie jest warte pyÅ‚u, w ktÃ³ry zmiaÅ¼dÅ¼ymy waszych wrogÃ³w.
+#RC_FLIGHT_NAME10	= Jednostka najemników "Gwiezdny Py³"
+#RC_FLIGHT_SHORT_DESC10	= #COUNT# amazonek przestrzeni obróci twoje problemy w py³ za #PRICE# kredytów.
+#RC_FLIGHT_FULL_DESC10	= Wszyscy, którzy nie docenili umiejêtnoœci bojowych naszych #COUNT# amazonek, zostali wziêci przez przykre i zabójcze niespodzianki. Tylko kilka znanych wojowników, mo¿e równaæ siê z nasz¹ dok³adnoœci¹, filigranowymi statkami i kontrol¹ sprzêtu, zaradnoœci¹ i skutecznoœci¹ naszych taktyk bojowych. Za #PRICE# kredytów, wszyscy zobacz¹, ¿e mê¿czyŸni lekcewa¿¹cy kobiety walcz¹ce, nie s¹ warci, a Gwiezdny Py³ zniszczy swoich wrogów.  
 
-#RC_FLIGHT_NAME11				= Jednostka najemnikÃ³w Horsemen of the Apocalypse
-#RC_FLIGHT_SHORT_DESC11	= Bojownicy #COUNT# urzÄ…dzÄ… apokalipsÄ™ w wybranym fragmencie przestrzeni za #PRICE# kredytÃ³w.
-#RC_FLIGHT_FULL_DESC11		= Kiedy trzeba zabiÄ‡, przechwyciÄ‡, eskortowaÄ‡, pomÅ›ciÄ‡, chroniÄ‡ lub ukaraÄ‡. Gdy huk armat staje siÄ™ jedynym argumentem. Wtedy wzywajÄ… JeÅºdÅºcÃ³w Apokalipsy! Za #PRICE# kredytÃ³w nasz oddziaÅ‚ #COUNT# myÅ›liwcÃ³w wykona kaÅ¼de zadanie, nie zadajÄ…c zbyt wielu pytaÅ„, ale zapewniajÄ…c najlepszÄ… ochronÄ™ i niezrÃ³wnanÄ… siÅ‚Ä™ ognia.
+#RC_FLIGHT_NAME11	= Jednostka najemników "JeŸdŸcy Apokalipsy"
+#RC_FLIGHT_SHORT_DESC11	= #COUNT# wojowników zorganizuje apokalipsê w wybranej czêœci przestrzeni za #PRICE# kredytów.
+#RC_FLIGHT_FULL_DESC11	= Gdy istnieje potrzeba aby zabiæ, przechwyciæ, eskortowaæ, pomœciæ, ochraniaæ lub ukaraæ. Gdy huk dzia³ staje siê jedynym argumentem. Zadzwoñ do JeŸdŸców Apokalipsy! Za #PRICE# kredytów, nasza jednostka #COUNT# wojowników, wype³ni zadania bez zadawania zbyt wielu pytañ, aby zapewniæ najlepsz¹ ochronê i niezrównan¹ si³ê ognia.
 
-#RC_FLIGHT_NAME12				= Jednostka najemnikÃ³w Golden Griffins
-#RC_FLIGHT_SHORT_DESC12	= ProfesjonaliÅ›ci z #COUNT# zapewniÄ… Ci bezpieczeÅ„stwo za kredyty #PRICE#.
-#RC_FLIGHT_FULL_DESC12		= W znanym WszechÅ›wiecie nie ma innych jednostek, ktÃ³rych piraci obawialiby siÄ™ i nienawidzili tak bardzo jak ZÅ‚otych GryfÃ³w! Nasz rekord sÅ‚uÅ¼by liczy dziesiÄ…tki klanÃ³w, ktÃ³re wyeliminowaliÅ›my, dziesiÄ…tki systemÃ³w gwiezdnych, ktÃ³re uwolniliÅ›my od pirackiej plagi, setki uratowanych przez nas istnieÅ„. JesteÅ›my najlepsi i nawet piraci to przyznajÄ…. Za #PRICE# kredyty #COUNT# Golden Griffins zagwarantuje Ci, Å¼e dotrzesz do celu caÅ‚y i zdrowy!
+#RC_FLIGHT_NAME12	= Jednostka najemników "Z³ote Gryfy"
+#RC_FLIGHT_SHORT_DESC12	= #COUNT# profesjonalistów zapewni ci bezpieczeñstwo za #PRICE# kredytów.
+#RC_FLIGHT_FULL_DESC12 	= In the known Universe there are no other units feared and hated by pirates as much as Golden Griffins! Our record of service counts tens of clans we've eliminated, tens of star systems we've freed from the pirate plague, hundreds of lives we've saved. We are the best and even pirates admit it. For #PRICE# credits #COUNT# Golden Griffins will guarantee that you reach your destination safe and sound!

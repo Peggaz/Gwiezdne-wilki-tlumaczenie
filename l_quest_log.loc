@@ -1,63 +1,99 @@
-;***********************************
-; QuestLog
-;***********************************
 LOCALE_FILE
 FILETYPE STANDART
 
-;mini mission
-#L_Quest_kill_pirate_1a=Eliminate the target.
-#L_Quest_kill_pirate_1b=The authorities entrusted you with eliminating the marked enemy team. You will be paid by the job.
+;-------------
+; Mini mission
+;-------------
 
-;free
-#L_Quest_help_a=Free time.
-#L_Quest_help_b=You don't have any missions at the moment and are free to do as you please.
+#L_Quest_kill_pirate_1a = Wyeliminowaæ cel.
+#L_Quest_kill_pirate_1b = W³adze powierzy³y Ci wyeliminowanie zaznaczonego wrogiego zespo³u.
 
-;7th missions
-#L_Quest_7f_a=Reach InoCo Headquarters.
-#L_Quest_7f_b=It turned out that the cargo from the wrecked convoy had belonged to InoCo. The corporators at their headquarters in Lidau might know more about this assault.
+;-----
+; Free
+;-----
 
-;mission_8a
-#L_Quest_8a_a=Leave the system.
-#L_Quest_8a_b=You are free to do as you please for now. Viper will contact you later.
+#L_Quest_help_a		= Czas wolny.
+#L_Quest_help_b		= Nie masz ¿adnych misji w tej chwili.
 
-;mission_8b
-#L_Quest_8b_a=Leave the system.
-#L_Quest_8b_b=You are free to do as you please for now. Roghem will contact you later. Don't fly too far from Candela and don't leave the Triada's space.
-#L_Quest_8b_01_a=Rendezvouz with Roghem.
-#L_Quest_8b_01_b=Rendezvouz with Roghem in Candela.
+;-------------
+; 7th missions
+;-------------
 
-;mission_8c
-#L_Quest_8c_02a=Deliver the storage device to Aurora.
-#L_Quest_8c_02b=Deliver the storage device to Alexandra's agent at the Placid Docks Station in Aurora.
+#L_Quest_7f_a		= Doleæ do siedziby g³ównej InoCo.
+#L_Quest_7f_b		= Okaza³o siê, ¿e ³adunek z rozbitego konwoju nale¿a³ do InoCo. Klienci korporacyjni w ich siedzibie w Lindau mog¹ wiedzieæ wiêcej na temat tego zamachu.
 
-;mission_8d
-#L_Quest_8d_a=Find a job.
-#L_Quest_8d_b=Look for a job in other systems. If you're lucky enough, you may find some information about the convoy wrecked in Beta Lethera.
-#L_Quest_8d_01a=Reach Charon.
-#L_Quest_8d_01b=You must reach the Charon system, where Alex awaits.
+;-----------
+; Mission 8a
+;-----------
 
-;mission_8e
-#L_Quest_8e_01_a=Reach Gaeon.
-#L_Quest_8e_01_b=Fly to the designated coordinates in Gaeon. Don't leave the InoCo's space.
+#L_Quest_8a_a		= Opuœæ system.
+#L_Quest_8a_b		= Jesteœ wolny. Mo¿esz teraz robiæ to co chcesz. ¯mija skontaktuje siê z tob¹ póŸniej.
 
-;mission_15e
-#L_Quest_15eA_01a=Reach Eridan.
-#L_Quest_15eA_01b=The united fleet led by Corsair is gathering in Eridan. You must visit Eridan, meet Corsair and persuade him to attack SAM's citadel.
+;-----------
+; Mission 8b
+;-----------
 
-;mission_16a
-#L_Quest_16aO_01a=Reach Simeiz.
-#L_Quest_16aO_01b=The hypercatapult in Simeiz can send you to Earth.
+#L_Quest_8b_a		= Opuœæ system.
+#L_Quest_8b_b		= Jesteœ wolny. Mo¿esz teraz robiæ to co chcesz. Roghem skontaktuje siê z tob¹ póŸniej. Nie lataj zbyt daleko od Candela i nie opuszczaj przestrzeni Triady.
+#L_Quest_8b_01_a	= Spotkanie z Roghem.
+#L_Quest_8b_01_b	= Spotkanie z Roghem w Candela.
 
-;mission_16c
-#L_Quest_16c_00a=Reach Eridan.
-#L_Quest_16c_00b=Corsair is expecting you in Eridan. Hurry up.
+;-----------
+; Mission 8c
+;-----------
 
-;mission_18c
-#L_Quest_18c_01a=Reach Eridan.
-#L_Quest_18c_01b=You and Admiral Trump are expected in Eridan. Hurry up.
+#L_Quest_8c_02a		= Dostarcz urz¹dzenie pamiêci masowej do Aurora.
+#L_Quest_8c_02b		= Dostarcz urz¹dzenie pamiêci masowej do agentki Aleksandry, w dokach stacji "Spokojne doki" w systemie Aurora.
 
-;mission_19a
-#L_Quest_19aO_01a=Reach Al Trabon.
-#L_Quest_19aO_01b=The nearest hypercatapult that can send you to New Kyoto is in Al Trabon.
-#L_Quest_19aO_02a=Reach New Kyoto.
-#L_Quest_19aO_02b=Trump claims that the FTU office in New Kyoto is also the headquarters of the Greys.
+;-----------
+; Mission 8d
+;-----------
+
+#L_Quest_8d_a		= ZnajdŸ pracê.
+#L_Quest_8d_b		= Poszukaj pracy w innych systemach. Jeœli bêdziesz mia³ szczêœcie, mo¿e znajdziesz informacje na temat konwoju rozbitego w Beta Lethera.
+#L_Quest_8d_01a		= Doleæ do Charon.
+#L_Quest_8d_01b		= Musisz dotrzeæ do systemu Charon, gdzie czeka Alex.
+
+;-----------
+; Mission 8e
+;-----------
+
+#L_Quest_8e_01_a	= Doleæ do Gaeon.
+#L_Quest_8e_01_b	= Leæ do wyznaczonych wspó³rzêdnych w Gaeon. Nie opuszczaj przestrzeni InoCo.
+
+;------------
+; Mission 15e
+;------------
+
+#L_Quest_15eA_01a	= Doleæ do Eridan.
+#L_Quest_15eA_01b	= Wielka flota prowadzona przez Korsarza jest zgromadzona w Eridan. Musisz odwiedziæ Eridan, spotkaæ Korsarza i przekonaæ go do ataku na cytadelê Uel.
+
+;------------
+; Mission 16a
+;------------
+
+#L_Quest_16aO_01a	= Doleæ do Simeiz.
+#L_Quest_16aO_01b	= Hiper katapulta w Simeiz mo¿e wys³aæ Ciê na Ziemiê.
+
+;------------
+; Mission 16c
+;------------
+
+#L_Quest_16c_00a	= Doleæ do Eridan.
+#L_Quest_16c_00b	= Korsarz oczekuje Ciê w Eridan. Pospiesz siê.
+
+;------------
+; Mission 18c
+;------------
+
+#L_Quest_18c_01a	= Doleæ do Eridan.
+#L_Quest_18c_01b	= Ty i Admira³ Trump jesteœcie oczekiwani w Eridan. Pospiesz siê.
+
+;------------
+; Mission 19a
+;------------
+
+#L_Quest_19aO_01a	= Doleæ do Al Trabon.
+#L_Quest_19aO_01b	= Najbli¿sza hiper katapulta, któr¹ mo¿na wys³aæ Ciê do New Kyoto, jest w Al Trabon.
+#L_Quest_19aO_02a	= Doleæ do New Kyoto.
+#L_Quest_19aO_02b	= Trump twierdzi, ¿e urz¹d Zwi¹zku Wolnych Kupców w New Kyoto, jest równie¿ siedzib¹ Szarych.

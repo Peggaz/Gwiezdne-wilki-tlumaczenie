@@ -1,6 +1,3 @@
-;************************************
-; interface windows
-;***********************************
 LOCALE_FILE
 FILETYPE STANDART
 
@@ -8,654 +5,665 @@ FILETYPE STANDART
 ; TradeStation
 ;*******************************************
 
-#UI_TradeStationWndCaption      = Trade station
-#UI_TradeStationDockRequest     = Initiate docking?
-#UI_TradeStationUnDockRequest	= Initiate undocking?
+#UI_TradeStationWndCaption      	= Stacja Handlowa
+#UI_TradeStationDockRequest     	= Initiate docking? 
+#UI_TradeStationUnDockRequest		= Initiate undocking?
 
-#UI_FTrader_confirm = Free trader
-#UI_FTrader_dock = The trader offers his goods.
-
+#UI_FTrader_confirm 			= Wolny kupiec
+#UI_FTrader_dock 			= The trader offers his goods.
 
 ;*******************************************
 ; PatrolStation
 ;*******************************************
 
-#UI_PatrolStationWndCaption      = Patrol station
-#UI_PatrolStationDockRequest     = Initiate docking?
+#UI_PatrolStationWndCaption      	= Stacja Patrolu
+#UI_PatrolStationDockRequest    	= Initiate docking?
 
 ;*******************************************
 ; STO Station
 ;*******************************************
 
-#UI_StationR_confirm = Docking
-#UI_StationR_dock = Dock with the maintenance station?
-#UI_StationR_nodock = Failed to dock with the maintenance station: insufficient credits.
-#UI_TradeStationNotChip     = Failed to upgrade firmware: insufficient credits.
-#UI_TradeStationOkChip     = Firmware upgraded.
-#UI_TradeStationNotRepair     = Failed to repair: insufficient credits.
-#UI_TradeStationOkRepair     = Repair completed.
+#UI_StationR_confirm = Dokowanie
+#UI_StationR_dock = Doki ze stacja obslugi technicznej?
+#UI_StationR_nodock = Nie udalo sie zadokowac do stacji serwisowej: niewystarczajaca ilosc kredytow.
+#UI_TradeStationNotChip     = Nie udalo sie uaktualnic firmware: niewystarczajaca ilosc kredytow.
+#UI_TradeStationOkChip     = Aktualizacja oprogramowania sprzetowego.
+#UI_TradeStationNotRepair     = Nie udalo sie naprawic: niewystarczajaca ilosc kredytow.
+#UI_TradeStationOkRepair     = Naprawa zakonczona.
 
-#UI_StationC_confirm=Docking
-#UI_StationC_dock=Dock with the station?
-#UI_StationC_nodock=Docking with the station prohibited.
-#UI_CStationOk = Relations with %s have been restored to normal.
-#UI_CStationNot = Failed to restore relations: insufficient credits.
+#UI_StationC_confirm =Dokowanie
+#UI_StationC_dock = Dokowanie na stacji?
+#UI_StationC_nodock = Dokowanie do stacji zabronione.
+#UI_CStationOk = Relacje z %s zostaly przywrocone do normy.
+#UI_CStationNot = Nie udalo sie przywrocic stosunkow: niewystarczajace srodki.
 
 ;*******************************************
 ; Recruits
 ;*******************************************
 
-#UI_RecruitsWndCaption      = Request from mercenaries
-#UI_RecruitsPayRequest     = Pay mercenaries %s?
+#UI_RecruitsWndCaption      = Prosba od najemnikow
+#UI_RecruitsPayRequest     = Zaplacic najemnikom %s?
 
-#UI_RecruitsNoCashWndCaption      = Request from mercenaries
-#UI_RecruitsNoCash		= Insufficient credits.
+#UI_RecruitsNoCashWndCaption      = Prosba od najemnikow
+#UI_RecruitsNoCash		= Niewystarczajace kredyty.
 
-#UI_Fmerc_confirm = Mercenaries
-#UI_Fmerc_join1 = Mercenaries are willing to join for|%d credits.|Do you agree to hire them?
+#UI_Fmerc_confirm = Najemnicy
+#UI_Fmerc_join1 = Najemnicy sa chetni do przylaczenia sie za|%d kredytow.|Czy zgadzasz sie na ich zatrudnienie?
 
-#UI_Fmerc_joined = Mercenaries have joined you.
-#UI_Fmerc_nojoined = Mercenaries haven't joined you.
-#UI_Fmerc_nojoined2 = Mercenaries have refused to join you.
-#UI_Fmerc_nojoined3 = Mercenaries have refused to join you: insufficient credits.
+#UI_Fmerc_joined = Przylaczyli sie do was najemnicy.
+#UI_Fmerc_nojoined = Najemnicy nie dolaczyli do was.
+#UI_Fmerc_nojoined2 = Najemnicy odmowili przylaczenia sie do was.
+#UI_Fmerc_nojoined3 = Najemnicy odmowili przylaczenia sie do ciebie: za malo kredytow.
 
 ;*******************************************
 ; Mini-quests
 ;*******************************************
 
-#UI_PatrolGIBDD_confirm = Patrol
-#UI_PatrolGIBDD_cost = Patrol has fined you %d credits.
+#UI_PatrolGIBDD_confirm 		= Informacja
+#UI_PatrolGIBDD_cost 			= Patrol ukara³ ciê grzywn¹ w wysokoœci %d kredytów.
 
-#UI_Pmoney_confirm = Pirate demands
-#UI_Pmoney_cost = Pirates demands %d credits.|Do you agree to pay?
+#UI_Pmoney_confirm 			= Pirate demands
+#UI_Pmoney_cost 			= Pirates demands %d credits.|Do you agree to pay?
 
-#UI_Special_Intuition_message = You used intuition.
+#UI_Special_Intuition_message 		= You used intuition.
 
 ;*******************************************
 ; Custom teleportation
 ;*******************************************
 
-#UI_TeleportWndCaption      = Long-range journey
-#UI_TeleportRequest     = You are about to begin a long-range journey.|Do you want to cover this distance in one jump?
-#UI_TeleportDecline      = You have decided to fly on your own.
+#UI_TeleportWndCaption      = Podroz dalekiego zasiegu
+#UI_TeleportRequest     = Masz zamiar rozpoczac daleka podroz.|Czy chcesz pokonac ten dystans jednym skokiem?
+#UI_TeleportDecline      = Zdecydowales sie na samodzielny lot.
 
 ;*******************************************
 ; main & ingame menu
 ;*******************************************
 
-#UI_MainMenu			= Main menu
+#UI_MainMenu				= Menu g³ówne
+#UI_Settings				= Ustawienia
 
-#UI_Settings			= Settings
+#UI_ResumeGame				= Kontynuuj
+#UI_ResumeGameHint			= Kontynuuj
 
-#UI_ResumeGame			= Continue playing
-#UI_ResumeGameHint		= Continue playing
-#UI_StartNewGame		= Start a new game
-#UI_StartNewGameHint		= Start a new game
+#UI_StartNewGame			= Rozpocznij now¹ grê
+#UI_StartNewGameHint			= Rozpocznij now¹ grê
 
-#UI_Tutorial			= Tutorial mission
-#UI_TutorialHint		= Run the tutorial
+#UI_Tutorial				= Szkolenie
+#UI_TutorialHint			= Szkolenie
 
-#UI_LoadGame			= Load game
-#UI_LoadGameHint		= Load game
+#UI_LoadGame				= Wczytaj grê
+#UI_LoadGameHint			= Wczytaj grê
 
-#UI_Credits			= Credits
-#UI_CreditsHint			= Game developers
+#UI_Credits				= Twórcy gry
+#UI_CreditsHint				= Twórcy gry
 
-#UI_Cinematics			= Cinematics
-#UI_CinematicsHint		= Available cinematics
+#UI_Cinematics				= Filmy
+#UI_CinematicsHint			= Filmy
 
-#UI_Quit			= Quit
-#UI_QuitHint			= Quit to desktop
+#UI_Quit				= Wyjœcie
+#UI_QuitHint				= Wyjœcie
 
-#UI_UserProfileChange		= Current profile: 
-#UI_UserProfileNone		= Current profile: <not selected>
-#UI_UserProfileSelect		= Profile selection
-#UI_UserProfileHint		= Select another profile
+#UI_UserProfileChange			= Aktualny u¿ytkownik:
+#UI_UserProfileNone			= Aktualny u¿ytkownik: <nie wybrano>
 
-#UI_Options			= Settings
-#UI_OptionsHint			= Game settings
+#UI_UserProfileSelect			= Wybierz profil u¿ytkownika
+#UI_UserProfileHint			= Wybierz profil u¿ytkownika
 
-#UI_GameControls		= Controls
-#UI_GameControlsHint		= Controls and hotkeys
+#UI_Options				= Ustawienia
+#UI_OptionsHint				= Ustawienia
 
-#UI_InGameMenu			= In-game menu
+#UI_GameControls			= Sterowanie
+#UI_GameControlsHint			= Sterowanie
 
-#UI_SaveGame			= Save game
-#UI_SaveGameHint		= Save single-player game
+#UI_InGameMenu				= 
 
-#UI_ReturnToGame		= Return to game
-#UI_ReturnToGameHint		= Return to the current game
+#UI_SaveGame				= Zapisz grê
+#UI_SaveGameHint			= Zapisz grê
 
-#UI_QuitToMenu			= Quit to main menu
-#UI_QuitToMenuHint		= Quit to main menu
+#UI_ReturnToGame			= Wróæ do gry
+#UI_ReturnToGameHint			= Wróæ do gry
 
-#UI_Version		= Version 1.12 (284.2331)
+#UI_QuitToMenu				= WyjdŸ do menu
+#UI_QuitToMenuHint			= WyjdŸ do menu
 
-#UI_MMenuDialog_Apply	= Apply changes?
-#UI_MMenuDialog_Reset	= Revert settings to default?
-#UI_MMenuDialog_NewGame	= Start a new game?
+#UI_Version				= Wersja 1.12 (284.2331)
+
+
+#UI_MMenuDialog_Apply			= Zastosowaæ zmiany?
+#UI_MMenuDialog_Reset			= Przywróciæ ustawienia domyœlne?
+#UI_MMenuDialog_NewGame			= Rozpocz¹æ now¹ grê?
 
 ;*******************************************
 ; help window
 ;*******************************************
-#UI_HelpWindow			= Controls
+#UI_HelpWindow				= Sterowanie
 
 ;*******************************************
 ; intermission menu
 ;*******************************************
-#UI_InterMissionMenu		= Intermission menu
+#UI_InterMissionMenu			= Menu przerwy
 
-#UI_IMSystemMenu		= System menu
-#UI_IMSystemMenuHint		= System menu
+#UI_IMSystemMenu			= Menu systemowe
+#UI_IMSystemMenuHint			= Menu systemowe
 
-#UI_IMNewsMissions		= News and missions
-#UI_IMNewsMissionsHint		= News and missions
+#UI_IMNewsMissions			= Wiadomoœci i misje
+#UI_IMNewsMissionsHint			= Wiadomoœci i misje
 
-#UI_IMTeam			= Team
-#UI_IMTeamHint			= Skill development of your teammates
+#UI_IMTeam				= Zespó³
+#UI_IMTeamHint				= Doœwiadczenie i rozwój zespo³u
 
-#UI_IMMothership		= Mothership
-#UI_IMMothershipHint		= Hangar for the mothership and B-class fighters.
+#UI_IMMothership			= Statek-baza
+#UI_IMMothershipHint			= Statek-baza i hangary "B"
 
-#UI_IMMothershipUpgrade		= Mothership upgrades
-#UI_IMMothershipUpgradeHint	= Mount turrets and install various systems onto the mothership.
+#UI_IMMothershipUpgrade			= Ulepszenia statku-bazy
+#UI_IMMothershipUpgradeHint		= Montowanie wie¿yczek i innych systemów
 
-#UI_IMShop			= Store
-#UI_IMShopHint			= Buy and sell fighters, armaments and systems.
+#UI_IMShop				= Sklep
+#UI_IMShopHint				= Kupowanie myœliwców, uzbrojenia i systemów
 
-#UI_IMBlackMarket		= FTU warehouse
-#UI_IMBlackMarketHint		= Rare goods shipped directly from the FTU warehouse.
+#UI_IMBlackMarket			= Czarny rynek
+#UI_IMBlackMarketHint			= Podobnie jak w sklepie, ale z bogatszym asortymentem i wy¿szymi cenami.
 
-#UI_IMAftermath			= Mission summary
-#UI_IMAftermathHint		= Information about gained experience and financial reward.
+#UI_IMAftermath				= Podsumowanie misji
+#UI_IMAftermathHint			= Informacje o nagrodzie i zdobytym doœwiadczeniu.
 
 ;*******************************************
 ; level up, pilot info, object info window
 ;*******************************************
-#UI_PilotInfoCaption		= Pilot
-#UI_TeamInfoCaption		= Team
-#UI_ShipInfoCaption		= Ship
-#UI_ShipEquipCaption	= Equipment
+#UI_PilotInfoCaption			= Pilot
+#UI_TeamInfoCaption			= Zespó³
+#UI_ShipInfoCaption			= Statek
+#UI_ShipEquipCaption			= Informacje
 
-#UI_LUTabStatstic		= Stats
-#UI_LUTabSpeciality		= Specialization
-#UI_LUTabPerks			= Perks
+#UI_LUTabStatstic			= Statystyka
+#UI_LUTabSpeciality			= Specjalnoœæ
+#UI_LUTabPerks				= Umiejêtnoœci
 
-#UI_Piloting			= Specialization: Pilot
-#UI_Gunnery			= Specialization: Gunner
-#UI_Missile			= Specialization: Missiles
-#UI_ElectronicWarfare		= Specialization: Systems
-#UI_UnspentPoints		= Unallocated experience
+#UI_Piloting				= Specjalizacja - pilota¿
+#UI_Gunnery				= Specjalizacja - strzelanie
+#UI_Missile				= Specjalizacja - pociski
+#UI_ElectronicWarfare			= Specjalizacja - systemy
+#UI_UnspentPoints			= Wolne punkty doœwiadczenia
 
-#UI_PilotingDesc		= Pilot description
-#UI_GunneryDesc			= Gunner description
-#UI_MissileDesc			= Missiles description
-#UI_ElectronicWarfareDesc	= Systems description
-#UI_UnspentPointsDesc		= Unallocated experience
+#UI_PilotingDesc			= Pilot description
+#UI_GunneryDesc				= Gunner description
+#UI_MissileDesc				= Missiles description
+#UI_ElectronicWarfareDesc		= Systems description
+#UI_UnspentPointsDesc			= Unallocated experience
 
-#UI_PilotInfoAbout		= Pilot info
-#UI_ShipInfoAbout		= Ship info
+#UI_PilotInfoAbout			= Informacje o pilocie
+#UI_ShipInfoAbout			=
 
-#UI_ShipInfo1Captions		= Shield|Max. speed|Maneuverability
-#UI_ShipInfo1Values		= %d/%d|%s|%s
-#UI_ShipInfo2Captions		= Armor|Scanner range
-#UI_ShipInfo2Values		= %d/%d|%d
+#UI_ShipInfo1Captions			= Os³ony|Prêdkoœæ|Zwrotnoœæ
+#UI_ShipInfo1Values			= %d/%d|%s|%s
+#UI_ShipInfo2Captions			= Pancerz|Czujniki
+#UI_ShipInfo2Values			= %d/%d|%d
 
-#UI_PrevPilot			= Previous pilot
-#UI_NextPilot			= Next pilot
-#UI_PrevShip			= Previous ship
-#UI_NextShip			= Next ship
+#UI_PrevPilot				= Poprzedni pilot
+#UI_NextPilot				= Nastêpny pilot
+#UI_PrevShip				= Poprzedni statek
+#UI_NextShip				= Nastêpny statek
 
-#UI_PilotInfoShowAbout		= Show information
-#UI_PilotInfoShowStatus		= Show status
+#UI_PilotInfoShowAbout			= Show information
+#UI_PilotInfoShowStatus			= Show status
 
-#UI_PerkListSpeciality		= Specialty
-#UI_PerkListPerks		= Perks
+#UI_PerkListSpeciality			= Specjalnoœæ
+#UI_PerkListPerks			= Umiejêtnoœci
 
-#UI_RestPoints			= Experience
+#UI_RestPoints				= Doœwiadczenie
 
-#UI_LevelUpHint			= Add
-#UI_LevelDownHint		= Remove
+#UI_LevelUpHint				= Dodaj
+#UI_LevelDownHint			= Usuñ
 
-#UI_I_CarcassNames1		= Shields|Armor|Max. speed|Maneuverability|Scanner range
-#UI_I_CarcassValues1		= %d/%d|%d/%d|%s|%s|%s
+#UI_I_CarcassNames1			= Os³ony|Pancerz|Prêdkoœæ|Zwrotnoœæ|Czujniki
+#UI_I_CarcassValues1			= %d/%d|%d/%d|%s|%s|%s
 
-#UI_I_GunNames1			= %s|Cannon type||Damage|Rate of fire
-#UI_I_GunValues1		= |%s||%s|%s
+#UI_I_GunNames1				= %s|Rodzaj dzia³a||Uszkodzenia|Szybkostrzelnoœæ
+#UI_I_GunValues1			= |%s||%s|%s
 
-#UI_I_GunNames2			= |||Range|Accuracy
-#UI_I_GunValues2		= |||%s|%s
+#UI_I_GunNames2				= |||Zasiêg|Celnoœæ
+#UI_I_GunValues2			= |||%s|%s
 
-#UI_I_TurretNames2		= |||Range|Accuracy
-#UI_I_TurretValues2		= |||%s|%s
-#UI_I_TurretNames1		= %s|Turret type||Damage|Rate of fire
-#UI_I_TurretValues1		= |%s||%s|%s
+#UI_I_TurretNames2			= |||Zasiêg|Celnoœæ
+#UI_I_TurretValues2			= |||%s|%s
+#UI_I_TurretNames1			= %s|Rodzaj dzia³a||Uszkodzenia|Szybkostrzelnoœæ
+#UI_I_TurretValues1			= |%s||%s|%s
 
-#UI_I_TypeGunBig		= Heavy
-#UI_I_TypeGunSmall		= Light
-#UI_I_TypeTurret		= Normal
-#UI_I_TypeGKGun			= Major caliber
-#UI_I_TypeTurretGK		= Major caliber turret
+#UI_I_TypeGunBig			= Ciê¿kie
+#UI_I_TypeGunSmall			= Lekkie
+#UI_I_TypeTurret			= Wie¿yczka
+#UI_I_TypeGKGun				= Bardzo ciê¿kie
+#UI_I_TypeTurretGK			= Wie¿yczka
+	
+#UI_I_MIRVNames1			= %s||G³owice|Uszkodzenia
+#UI_I_MIRVValues1			= ||%d|%s
 
-#UI_I_MIRVNames1		= %s||Number of warheads|Damage
-#UI_I_MIRVValues1		= ||%d|%s
+#UI_I_MIRVNames2			= ||Zasiêg|Iloœæ
+#UI_I_MIRVValues2			= ||%s|%d/%d
 
-#UI_I_MIRVNames2		= ||Range|Quantity
-#UI_I_MIRVValues2		= ||%s|%d/%d
+#UI_I_RocketNames1			= %s||Uszkodzenia|Anty-PRO
+#UI_I_RocketValues1			= ||%s|%s
 
-#UI_I_RocketNames1		= %s||Damage|Resistance
-#UI_I_RocketValues1		= ||%s|%s
+#UI_I_RocketNames2			= ||Zasiêg|Iloœæ
+#UI_I_RocketValues2			= ||%s|%d/%d
 
-#UI_I_RocketNames2		= ||Range|Quantity
-#UI_I_RocketValues2		= ||%s|%d/%d
+#UI_I_LevelInfo				=
+#UI_I_ShipIndex				=
 
-#UI_I_LevelInfo			= Ship generation: %d
-#UI_I_ShipIndex			= Ship #%d
+#UI_PilotPoints				= Punkty %.1f
+#UI_LU_ApplyChanges			= Zastosowaæ zmiany dla pilota: %s?
 
-#UI_PilotPoints			= Points %.1f
-#UI_LU_ApplyChanges		= Apply changes for pilot %s?
+#UI_RC_CONFIRMCONTRACT			= Sign contract costing %i?
 
-#UI_RC_CONFIRMCONTRACT		= Sign contract costing %i?
-
-#UI_SelectTreeNote		= Before you start playing, you must select the hero's specialty from the four available options:|piloting, gunnery, missiles, electronics
-#UI_SelectTree			= Confirm specialization?|(Cannot be changed.)
-#UI_SelectParams		= Now you can spend pilot's experience points
-#UI_StartGame			= Start a new game with parameters selected for pilot "%s"?|(Experience points can be spent later on the team screen.)
-#UI_NeedNameInput		= You must give the pilot a name!
-#UI_FirstRunPerkWindowInfo	= The perk screen is read-only in flight.|You can only change perks at stations.
+#UI_SelectTreeNote			= Musisz wybraæ schemat rozwoju swojego bohatera.| Do wyboru masz cztery specjalizacje:|pilota¿, strzelanie, pociski i systemy. 
+#UI_SelectTree				= Czy chcesz wybraæ ten schemat?
+#UI_SelectParams			= Now you can spend pilot's experience points
+#UI_StartGame				= Start a new game with parameters selected for pilot "%s"?|(Experience points can be spent later on the team screen.)
+#UI_NeedNameInput			= Wpisz imiê swojego pilota w puste pole!
+#UI_FirstRunPerkWindowInfo		= The perk screen is read-only in flight.|You can only change perks at stations.
 
 ;*******************************************
 ; quest log
 ;*******************************************
-#UI_QuestLog			= Mission log
-#UI_WorkLog			= Job log
+#UI_QuestLog				= Lista zadañ
+#UI_WorkLog				= Job log
 
-#UI_QuestCompleted		= Completed
-#UI_QuestFailed			= Failed
-#UI_QuestInProgress		= Active
+#UI_QuestCompleted			= Wykonane
+#UI_QuestFailed				= Zawalone
+#UI_QuestInProgress			= W trakcie
 
-#UI_QuestAddedStr		= Mission added: %s
-#UI_QuestCompletedStr		= Mission completed: %s
-#UI_QuestFailedStr		= Mission failed: %s
-#UI_PilotRankUp			= Rank up!
-#UI_PilotRankDown		= Rank down!
-#UI_PilotRankNew		= The pilot has obtained a new rank!
+#UI_QuestAddedStr			= DODANO ZADANIE: %s
+#UI_QuestCompletedStr			= WYKONANO ZADANIE: %s
+#UI_QuestFailedStr			= NIEPOWODZENIE: %s
+#UI_PilotRankUp				= Ranga zwiêkszona!
+#UI_PilotRankDown			= Ranga zmniejszona!
+#UI_PilotRankNew			= Pilot uzyska³ now¹ rangê!
 
-#UI_NewsNewMail			= You have new mail.
-#UI_NewsNewHeader		= Fresh news available.
+#UI_NewsNewMail				= You have new mail.
+#UI_NewsNewHeader			= Fresh news available.
 
-#UI_NewJournalEntry	= A new entry has been added to the journal.
-#UI_NewWorkAvaliable		= A new job is available.
+#UI_NewJournalEntry			= A new entry has been added to the journal.
+#UI_NewWorkAvaliable			= A new job is available.
 
 ;*******************************************
 ; base, shop & inventory
 ;*******************************************
-#UI_TradePost			= Store
-#UI_BlackMarket			= FTU warehouse
-#UI_Trader				= Trader
+#UI_TradePost				= Sklep
+#UI_BlackMarket				= Czarny rynek
+#UI_Trader				= Sklep
 
-#UI_B_Launch			= Launch the selected fighter
-#UI_B_ClearHangar		= Clear the selected hangar
+#UI_B_Launch				= Launch the selected fighter
+#UI_B_ClearHangar			= Clear the selected hangar
 
-#UI_HangarCaption		= Hangars
-#UI_TeamCaption			= Team
+#UI_HangarCaption			= Hangary
+#UI_TeamCaption				= Zespó³
 
-#UI_PilotInSpace		= (in space)
-#UI_PilotInRescue		= (in escape pod)
+#UI_PilotInSpace			= (w kosmosie)
+#UI_PilotInRescue			= (w kapsule ratunkowej)
 
-#UI_PilotNewbie		= Novice pilot
-#UI_PilotThrdClass	= Pilot 3rd grade
-#UI_PilotScndClass	= Pilot 2nd grade
-#UI_PilotFrstClass 	= Pilot 1st grade
-#UI_PilotMaster		= Ace pilot
+#UI_PilotNewbie				= Novice pilot
+#UI_PilotThrdClass			= Pilot 3rd grade
+#UI_PilotScndClass			= Pilot 2nd grade
+#UI_PilotFrstClass 			= Pilot 1st grade
+#UI_PilotMaster				= Ace pilot
 
-#UI_H_PilotNewbie		= (novice pilot)
-#UI_H_PilotThrdClass	= (pilot 3rd grade)
-#UI_H_PilotScndClass	= (pilot 2nd grade)
-#UI_H_PilotFrstClass 	= (pilot 1st grade)
-#UI_H_PilotMaster		= (ace pilot)
+#UI_H_PilotNewbie			= (novice pilot)
+#UI_H_PilotThrdClass			= (pilot 3rd grade)
+#UI_H_PilotScndClass			= (pilot 2nd grade)
+#UI_H_PilotFrstClass 			= (pilot 1st grade)
+#UI_H_PilotMaster			= (ace pilot)
 
-#UI_SHBuy			= Buy
-#UI_SHSell			= Sell
-#UI_SHTrade			= Trade
-#UI_SHBuyAll		= Buy all
-#UI_SHSellAll		= Sell all
+#UI_SHBuy				= Kup
+#UI_SHSell				= Sprzedaj
+#UI_SHTrade				= Handluj
+#UI_SHBuyAll				= Kup wszystko
+#UI_SHSellAll				= Sprzedaj wszystko
 
-#UI_InvTabAll			= All
-#UI_InvTabFighters		= Fighters
-#UI_InvTabGuns			= Guns
-#UI_InvTabMissiles		= Missiles
-#UI_InvTabSystems		= Systems
-#UI_InvTabCargo			= Cargo
-#UI_InvTabTurrets		= Turrets
+#UI_InvTabAll				= Wszystko
+#UI_InvTabFighters			= Myœliwce
+#UI_InvTabGuns				= Dzia³a
+#UI_InvTabMissiles			= Pociski
+#UI_InvTabSystems			= Systemy
+#UI_InvTabCargo				= £adunek
+#UI_InvTabTurrets			= Wie¿yczki
 
-#UI_TextTurrets			= Turret
-#UI_TextSmallGuns		= Light
-#UI_TextBigGuns			= Heavy
-#UI_TextRockets			= Missiles
-#UI_TextSystems			= System
+#UI_TextTurrets				= Wie¿yczka
+#UI_TextSmallGuns			= Lekkie dzia³ko
+#UI_TextBigGuns				= Cie¿kie dzia³o
+#UI_TextRockets				= Pociski
+#UI_TextSystems				= Systemy
 
-#UI_TextSystemModule		= System
-#UI_TextRocketModule		= Missiles
-#UI_TextTurretModule		= Turret
-#UI_TextSmallGun		= Light gun
-#UI_TextBigGun			= Heavy gun
-#UI_TextGK			= Major caliber gun
-#UI_TextTurretGK			= Major caliber turret
-#UI_TextGunModule		= Gun
-#UI_TextBaseCarcass		= Fighter
-#UI_TextQuestObject		= Object
-#UI_TextAbstractModule		= Module
-#UI_TextMovingForceModule 	= Engine
-#UI_TextTradeObject		= Goods
+#UI_TextSystemModule			= System
+#UI_TextRocketModule			= Pocisk
+#UI_TextTurretModule			= Wie¿yczka
+#UI_TextSmallGun			= Lekkie dzia³ko
+#UI_TextBigGun				= Cie¿kie dzia³o
+#UI_TextGK				=
+#UI_TextTurretGK			=
 
-#UI_B_ToggleHangars		= To hangars
-#UI_B_ToggleUpgrade		= Mothership upgrades
-#UI_B_ToggleShop		= Store
-#UI_B_ToggleBlackMarket		= FTU warehouse
+#UI_TextGunModule			= Dzia³o
+#UI_TextBaseCarcass			= Myœliwiec
+#UI_TextQuestObject			= Obiekt
+#UI_TextAbstractModule			= System
+#UI_TextMovingForceModule 		= Silniki
+#UI_TextTradeObject			= £adunek
 
-#UI_B_Information = Information
+#UI_B_ToggleHangars			= Do hangarów
+#UI_B_ToggleUpgrade			= Mothership upgrades
+#UI_B_ToggleShop			= Sklep
+#UI_B_ToggleBlackMarket			= Czarny rynek
 
-#UI_HDialogErrorFull	= The hangar is occupied by another fighter!
-#UI_HDialogErrorFree	= You cannot assign a pilot without a fighter!
-#UI_HDialogErrorAttach	= This device cannot be installed into this socket!
-#UI_HDialogErrorAttachUnknown	= This device cannot be installed into this socket for an unknown reason!
-#UI_HDialogErrorAttachAlien	= This device cannot be installed into this socket, that's an Alien technology!
-#UI_HDialogErrorAttachBerserk	= This device cannot be installed into this socket, that's a Berserk technology!
-#UI_HDialogErrorAttachPrecurser	= This device cannot be installed into this socket, that's a Precursor technology!
-#UI_HDialogErrorAttachAngor	= This device cannot be installed into this socket, that's an Angorian technology!
-#UI_HDialogErrorAutoDetach = You have to uninstall the old module first!
-#UI_HDialogErrorMissionMotherShipMount = You cannot install devices into the mothership during a mission!
-#UI_HDialogErrorMissionMotherShipUnMount = You cannot uninstall devices from the mothership during a mission!
-#UI_HDialogErrorNoRoomForShip =  Insufficient space in the cargo bay!
-#UI_HDialogErrorMotherShipMountInSpace = You cannot install devices into the mothership in the outer space!
-#UI_ModuleCost			= -Price-
-#UI_HDialogPilotCantMount = This pilot isn't skilled enough to fly|fighters of this type.
-#UI_HDialogBasePilotCantMount	= This pilot doesn't have the skill required to fly fighters of this type.|The pilot has been sent to the bay.
-#UI_HDialogOtherPilotCantMount	= This pilot doesn't have the skill required to fly fighters of this type.|Transfer is not possible. The pilot has been sent to the bay.
+#UI_B_Information 			= Informacje
 
-#UI_UseSystem			= Use
-#UI_UseSystemProgress		= Resource: %d%%
+#UI_UseSystem				= U¿yj systemu
+#UI_UseSystemProgress			= U¿ywane: %d%%
 
-#UI_GWF_Actions = Actions
-#UI_GWF_LeaveHangar = Leave hangar
+#UI_GWF_Actions 			= Dzia³ania
+#UI_GWF_LeaveHangar 			= Opuœæ hangar
 
 ;*******************************************
 ; profile, save, load, news window
 ;*******************************************
-#UI_PRDialogCreateNew		= Create a new profile?
-#UI_PRDialogDelete		= The profile will be deleted. Continue?
-#UI_PRUser_Name                 = Selected profile name
-#UI_PRUser_List                 = Profile list
+#UI_PRDialogCreateNew			= Utworzyæ nowy profil?
+#UI_PRDialogDelete			= Profil zostanie usuniêty. Kontynuowaæ?
+#UI_PRUser_Name                		= Nazwa u¿ytkownika
+#UI_PRUser_List                 	= Lista u¿ytkowników
 
-#UI_SaveName                    = Saved game name
-#UI_SaveList                    = Saved game list
+#UI_SaveName                    	= Nazwa zapisu gry
+#UI_SaveList                  		= Lista zapisów gry
 
-#UI_LDialogError		= Failed to load the game.
-#UI_LSDialogDelete		= Delete the selected saved game?
+#UI_LDialogError			= Failed to load the game.
+#UI_LSDialogDelete			= Usun¹æ wybrany zapis gry?
 
-#UI_News			= News
-#UI_Mail			= Messages
-#UI_Post			= Mail
-#UI_Messages			= Messages
-#UI_Mission			= Mission
-#UI_Missions			= Missions
-#UI_Work			= Office
-#UI_Recruits			= Mercenaries
-#UI_Journal			= Journal
+#UI_News				= Wiadomoœci
+#UI_Mail				= Listy
+#UI_Post				= Poczta
+#UI_Messages				= Messages
+#UI_Mission				= Mission
+#UI_Missions				= Missions
+#UI_Work				= Office
+#UI_Recruits				= Najemnicy
+#UI_Journal				= Dziennik
 
-#UI_StartMission		= -Start-
-#UI_StartMissionHint		= Start the mission
-#UI_SDialogOverwrite		= Overwrite the old saved game?
+#UI_StartMission			= Start
+#UI_StartMissionHint			= Rozpoczij misjê
+#UI_SDialogOverwrite			= Overwrite the old saved game?
 
-#UI_DeleteButtonHint		= Delete the saved game
+#UI_DeleteButtonHint			= Usuñ zapis gry
 
-#UI_SaveButtonHint		= Save game
-#UI_LoadButtonHint		= Load game
+#UI_SaveButtonHint			= Zapisz grê
+#UI_LoadButtonHint			= Wczytaj grê
 
-#UI_SelectProfileHint		= Select profile
-#UI_DeleteProfileHint		= Delete profile
+#UI_SelectProfileHint			= Wybierz profil
+#UI_DeleteProfileHint			= Skasuj profil
 
-#UI_DM_BreakMissionTitle	= Attention!
-#UI_DM_BreakMission		= Change mission?
+#UI_DM_BreakMissionTitle		= Uwaga!
+#UI_DM_BreakMission			= Zmieniæ misjê?
 
-#UI_DM_BreakRecruitTitle	= Attention!
-#UI_DM_BreakRecruit		= Change mercenaries?
-#UI_StartRecruitHint		= Confirm contract
+#UI_DM_BreakRecruitTitle		= Uwaga!
+#UI_DM_BreakRecruit			= Zmieniæ najemników?
+#UI_StartRecruitHint			= Potwierdzenie kontraktu
 
 ;*******************************************
 ; game screen
 ;*******************************************
-#UI_HintGamePaused		= Pause
-#UI_HintGameRealTime		= Real time
-#UI_HintGame2X			= 2x speed
-#UI_HintGame4X			= 4x speed
-#UI_HintGame8X			= 8x speed
-#UI_HintGameMATRIX		= The Matrix has you!
+#UI_HintGamePaused			= Gra zatrzymana
+#UI_HintGameRealTime			= Normalna prêdkoœæ
+#UI_HintGame2X				= Prêdkoœæ 2x
+#UI_HintGame4X				= Prêdkoœæ 4x
+#UI_HintGame8X				= Prêdkoœæ 8x
+#UI_HintGameMATRIX			= The Matrix has you!
 
-#UI_HintGameError8X		= Not enough resources for 8X speed|4X speed selected
+#UI_HintGameError8X			= 
 
-#UI_PM_Caption			= Mission
-#UI_PM_ToBase			= To base
-#UI_PM_CreateFlight		= Create team
-#UI_PM_Leader			= Team leader
-#UI_PM_Alone			= Alone in team
-#UI_PM_Attack			= Attack
-#UI_PM_Defend			= Defend
-#UI_PM_MissleDefence	= Missile defense
-#UI_PM_Cloacking		= Stealth
-#UI_PM_Repair			= Repairs
+#UI_PM_Caption				=
+#UI_PM_ToBase				= To base
+#UI_PM_CreateFlight			= Create team
 
-#UI_PM_Hint				= Current mission: %s
-#UI_PM_Launch 			= Launch
-#UI_PM_LeaveHangar		= Leave hangar
+#UI_PM_Leader				= Dowódca
+#UI_PM_Alone				= Bez wsparcia
+#UI_PM_Attack				= Atak
+#UI_PM_Defend				= Obrona
+#UI_PM_MissleDefence			= Obrona antyrakietowa
+#UI_PM_Cloacking			= Maskowanie
+#UI_PM_Repair				= Naprawa
 
-#UI_GS_DockAll			= Dock all fighters "Z"
-#UI_GS_LaunchAll		= Launch all fighters "CTRL+Z"
+#UI_PM_Hint				= Zadanie pilota: %s
+#UI_PM_Launch 				= Start
+#UI_PM_LeaveHangar			= Opuœæ hangar
 
-#UI_GS_ModuleOn			= on
-#UI_GS_ModuleOff		= off
 
-#UI_Camera			= camera
-#UI_CameraFree			= free
-#UI_CameraView			= view
-#UI_CameraChase			= chase
-#UI_CameraFollow		= follow
-#UI_CameraToEnemy		= to enemy
-#UI_CameraMap			= Map
+#UI_GS_DockAll				= Dokuj wszystkie myœliwce "Z"
+#UI_GS_LaunchAll			= Start wszystkich myœliwców "CTRL+Z"
 
-#UI_GS_MissileAttack		= Missile attack "R"
-#UI_GS_Stop			= Stop "S"
-#UI_GS_Escort			= Escort "E"
-#UI_GS_Talk			= Toggle messages "L"
-#UI_GS_SelectAll		= Select all "CTRL+A"
-#UI_GS_Specials			= Toggle special action panels "X"
-#UI_GS_Radar			= Map "TAB" 
-#UI_GS_QuestLog			= Mission log "Q"
-#UI_GS_NextTutorialStep		= Next step
-#UI_GS_Attack			= Attack "CTRL"
-#UI_GS_SendToBase		= Dock "D"
-#UI_GS_Move			= Move "M"
-#UI_GS_AgressiveMove            = Aggressive moving "CTRL+M"
-#UI_GS_Hold                     = Hold position "C"
+#UI_GS_ModuleOn				= w³.
+#UI_GS_ModuleOff			= wy³.
 
-#UI_GS_InGameMenu = Menu "Esc"
-#UI_GS_PostMail = Mail "I"
-#UI_GS_GlobalMap = Global map "Backspace"
-#UI_GS_WeightPointers = Altitude indicators "Caps Lock"
+#UI_Camera				= kamera
+#UI_CameraFree				= swobodna
+#UI_CameraView				= pod¹¿aj¹ca
+#UI_CameraChase				= poœcigowa
+#UI_CameraFollow			= wycentrowana
+#UI_CameraToEnemy			= to enemy
+#UI_CameraMap				= Map
+
+#UI_GS_MissileAttack			= Atak rakietowy "R"
+#UI_GS_Stop				= Stop "S"
+#UI_GS_Escort				= Eskorta "E"
+#UI_GS_Talk				= Dziennik rozmów "L"
+#UI_GS_SelectAll			= Zaznacz wszystko "CTRL+A"
+#UI_GS_Specials				= Panel dzia³añ specjalnych "X"
+#UI_GS_Radar				= Mapa "TAB" 
+#UI_GS_QuestLog				= Dziennik zadañ "Q"
+#UI_GS_NextTutorialStep			= Next step
+#UI_GS_Attack				= Atak "CTRL"
+#UI_GS_SendToBase			= Do bazy "D"
+#UI_GS_Move				= Ruch "M"
+#UI_GS_AgressiveMove            	= Ruch agresywny "CTRL+M"
+#UI_GS_Hold                   	 	= Utrzymywanie pozycji "C"
+
+#UI_GS_InGameMenu 			= Menu "Esc"
+#UI_GS_PostMail 			= Poczta "I"
+#UI_GS_GlobalMap 			= Mapa galaktyki "Backspace"
+#UI_GS_WeightPointers 			= Znaczniki wysokoœci "Caps Lock"
 
 ;*******************************************
 ; hint box
 ;*******************************************
-#UI_HB_DynWindowMission = Here you can hire a few helpers.
-#UI_HB_DynWindowRecruit = Here you can hire mercenaries.
+#UI_HB_DynWindowMission 		= Here you can hire a few helpers.
+#UI_HB_DynWindowRecruit 		= Here you can hire mercenaries.
 
-#UI_HB_GlobalMapWindow = The star system map provides descriptions of star systems and indicates your current location.
-#UI_HB_PostMail = You can browse incoming mail in the Mail section of the base menu.
+#UI_HB_GlobalMapWindow   		= The star system map provides descriptions of star systems and indicates your current location.
+#UI_HB_PostMail 	 		= You can browse incoming mail in the Mail section of the base menu.
 
-#UI_HB_Title = In-game hint
-#UI_HB_No_Hints = Disable hints
+#UI_HB_Title 		 		= In-game hint
+#UI_HB_No_Hints 	 		= Disable hints
 
-#UI_HB_Aftermath = This menu shows how much experience your pilots have gained and how much credits you have earned. It also provides information about pirates you have captured during the mission.
+#UI_HB_Aftermath 	 		= This menu shows how much experience your pilots have gained and how much credits you have earned. It also provides information about pirates you have captured during the mission.
 
-#UI_HB_BaseWindow2 = Here you can refit your mothership and fighters. In the bottom part of the screen you can see the contents of mothership cargo bays. To the left you can see hangars with fighters and pilots assigned to them.
-#UI_HB_StationWindow = From here you can go to the store or FTU warehouse to buy or sell weapons and systems. Or refit your mothership and fighters. In the bottom part of the screen you can see the contents of mothership cargo bays. To the left you can see hangars with fighters and pilots assigned to them.
+#UI_HB_BaseWindow2 	 		= Here you can refit your mothership and fighters. In the bottom part of the screen you can see the contents of mothership cargo bays. To the left you can see hangars with fighters and pilots assigned to them.
+#UI_HB_StationWindow 	 		= From here you can go to the store or FTU warehouse to buy or sell weapons and systems. Or refit your mothership and fighters. In the bottom part of the screen you can see the contents of mothership cargo bays. To the left you can see hangars with fighters and pilots assigned to them.
 
-#UI_HB_CharacterSelect = First you must choose hero's name and specialty. You choice will affect hero's perks. The perk tree shows you possible ways of hero development. For successful actions performed during missions pilots gain experience that can be spent on developing their skills.
-#UI_HB_GameWindow2 = The game screen is divided into three main zones: pilot panel, action panel and camera panel. The main interface elements allow you to control pilots, show character statuses, active missions and other important information.
-#UI_HB_HelpScreen = Here you can familiarize yourself with control keys. Use of hotkeys make the game a lot more easier.
-#UI_HB_Info = Info
-#UI_HB_InGameMenu = InGameMenu
-#UI_HB_InterMissionMenu2 = InterMissionMenu2
-#UI_HB_LevelUp2 = Perks can be changed only at universal stations. On this screen you can spend experience points to develop your characters. All characters have different perks, so heroes who join your team have their own perk trees. Perks you can develop are marked white. Right-click a perk to see its detailed description.
-#UI_HB_MainMenu2 = MainMenu2
-#UI_HB_ObjectInfo = Right-clicking any object you can see its detailed description and specifications.
-#UI_HB_PilotInfo2 = On this screen you can see the current pilot stats, specifications of the selected ship (shield power, armor, speed, maneuverability, etc.) as well as information about mounted weapons and installed equipment.
-#UI_HB_PMGame = PMGame
-#UI_HB_QuestLog = This list will show you which missions are completed and which are not.
-#UI_HB_ShopWindow = ShopWindow
-#UI_HB_SpinEditControls = SpinEditControls
-#UI_HB_TestWindow = TestWindow
-#UI_HB_TradeModuleWindow = TradeModuleWindow
-#UI_HB_WindowMission = Before you take on a new mission, be sure to carefully read its briefing, estimate the odds and prepare well.
-#UI_HB_WindowNews = News broadcasted on information channels can sometimes be very useful. These news may contain valuable hints for your future missions or can tell you about consequences of your actions performed in previous missions.
+#UI_HB_CharacterSelect   		= First you must choose hero's name and specialty. You choice will affect hero's perks. The perk tree shows you possible ways of hero development. For successful actions performed during missions pilots gain experience that can be spent on developing their skills.
+#UI_HB_GameWindow2 	 		= The game screen is divided into three main zones: pilot panel, action panel and camera panel. The main interface elements allow you to control pilots, show character statuses, active missions and other important information.
+#UI_HB_HelpScreen 	 		= Here you can familiarize yourself with control keys. Use of hotkeys make the game a lot more easier.
+#UI_HB_Info 		 		= Info
+#UI_HB_InGameMenu 	 		= InGameMenu
+#UI_HB_InterMissionMenu2 		= InterMissionMenu2
+#UI_HB_LevelUp2 	 		= Perks can be changed only at universal stations. On this screen you can spend experience points to develop your characters. All characters have different perks, so heroes who join your team have their own perk trees. Perks you can develop are marked white. Right-click a perk to see its detailed description.
+#UI_HB_MainMenu2 	 		= MainMenu2
+#UI_HB_ObjectInfo 	 		= Right-clicking any object you can see its detailed description and specifications.
+#UI_HB_PilotInfo2 	 		= On this screen you can see the current pilot stats, specifications of the selected ship (shield power, armor, speed, maneuverability, etc.) as well as information about mounted weapons and installed equipment.
+#UI_HB_PMGame 				= PMGame
+#UI_HB_QuestLog 	 		= This list will show you which missions are completed and which are not.
+#UI_HB_ShopWindow 	 		= ShopWindow
+#UI_HB_SpinEditControls 		= SpinEditControls
+#UI_HB_TestWindow 			= TestWindow
+#UI_HB_TradeModuleWindow 		= TradeModuleWindow
+#UI_HB_WindowMission 	 		= Before you take on a new mission, be sure to carefully read its briefing, estimate the odds and prepare well.
+#UI_HB_WindowNews 	 		= News broadcasted on information channels can sometimes be very useful. These news may contain valuable hints for your future missions or can tell you about consequences of your actions performed in previous missions.
 
-#UI_HB_WindowNewsMission = On this screen you can browse the flight log and read incoming mail. 
-#UI_HB_WindowWorkWindow = Here you can hire recruits and browse news.
-#UI_HB_ShipInfo = |This screen shows information about fighter equipment.|You can select one fighter, by holding CTRL+SHIFT and clicking it.|Or you can select several fighters by holding CTRL+SHIFT and drawing the rectangle over them.|If you select several fighters, you will see a hint with fighter list number in the upper right corner.
+#UI_HB_WindowNewsMission 		= On this screen you can browse the flight log and read incoming mail. 
+#UI_HB_WindowWorkWindow 		= Here you can hire recruits and browse news.
+#UI_HB_ShipInfo 	 		= |This screen shows information about fighter equipment.|You can select one fighter, by holding CTRL+SHIFT and clicking it.|Or you can select several fighters by holding CTRL+SHIFT and drawing the rectangle over them.|If you select several fighters, you will see a hint with fighter list number in the upper right corner.
 
 ;*******************************************
 ;Aftermath Window
 ;*******************************************
-#UI_AF_FINANCE_CAPTION=Finances
-#UI_AF_TEAM_CAPTION=Team
+#UI_AF_FINANCE_CAPTION			= Finanse
+#UI_AF_TEAM_CAPTION			= Zespó³
 
-#UI_AF_PREV_FINANCE=Before launch
-#UI_AF_ADD_FINANCE=Income
-#UI_AF_PIRATES_ADD_FINANCE=Pirate rewards
-#UI_AF_STOCKS_ADD_FINANCE=Dividends
-#UI_AF_CURRENT_FINANCE=Total
-#UI_AF_butMorePiratInfo=More about reward
+#UI_AF_PREV_FINANCE			= Przed misj¹
+#UI_AF_ADD_FINANCE			= Przychód
+#UI_AF_PIRATES_ADD_FINANCE		= Nagrody za piratów
+#UI_AF_STOCKS_ADD_FINANCE		= Dywidendy
+#UI_AF_CURRENT_FINANCE			= Suma
+#UI_AF_butMorePiratInfo			= O nagrodzie
 
-#UI_AF_toPatrol=Handed over to Patrol:
-#UI_AF_Count=Amount
-#UI_AF_Cost=Price
-#UI_AF_Summ=Total
+#UI_AF_toPatrol				= Handed over to Patrol:
+#UI_AF_Count				= Liczba
+#UI_AF_Cost				= Cena
+#UI_AF_Summ				= Suma
 
 ;*******************************************
 ;Options Window
 ;*******************************************
-#UI_OP_Screen_resolution	=Resolution
-#UI_OP_MipMap				=Mipmapping
-#UI_OP_MultiSam				=Multisampling
-#UI_OP_TexDetail			=Texture detail
-#UI_OP_Anisotropy			=Anisotropic filtering
-#UI_OP_FSAA					=Antialiasing
-#UI_OP_GamePlay				=Gameplay
-#UI_OP_Show_Hint_Boxes		=Show hints
-#UI_OP_Launch_Ships			=Launch fighters at mission start
-#UI_OP_ShowHelpers			=Show markers
-#UI_OP_SoundVolume			=Sound volume
-#UI_OP_MusicVolume			=Music volume
-#UI_OP_MouseSensitivity		=Mouse sensitivity
-#UI_OP_MouseScrolling		=Rotate camera with the mouse pointer
-#UI_OP_WheelSensitivity		=Mouse wheel sensitivity
-#UI_OP_InvertMouse			=Invert mouse
-#UI_OP_FullScreen			=Fullscreen
-#UI_OP_RocketsOn			=Enable missiles at mission start
-#UI_OP_HealthBarsOn	=Show health bars at hits
-#UI_OP_AutosaveOn =Enable autosaving
-#UI_OP_SaveCameraType =Save current camera mode
-#UI_OP_PilotIcons			=Show absent pilots on the mothership screen
-#UI_OP_ConfirmUnDock		=Confirm undocking
-#UI_OP_CamRock				=Enable/disable camera bobbing
-#UI_OP_Camera				=Camera
+#UI_OP_Screen_resolution		= Rozdzielczoœæ
+#UI_OP_MipMap				= Mipmapping
+#UI_OP_MultiSam				= Multisampling
+#UI_OP_TexDetail			= Szczegó³owoœæ tekstur
+#UI_OP_Anisotropy			= Filtrowanie anizotropowe
+#UI_OP_FSAA				= Wyg³adzenie krawêdzi
 
-#UI_OP_TexDetailVeryLow		=Lowest
-#UI_OP_TexDetailLow			=Low
-#UI_OP_TexDetailMedium		=Medium
-#UI_OP_TexDetailHigh		=High
+#UI_OP_GamePlay				= Gra
+#UI_OP_SoundVolume			= G³oœnoœæ dŸwiêków
+#UI_OP_MusicVolume			= G³oœnoœæ muzyki
+#UI_OP_MouseSensitivity			= Czu³oœæ myszy
+#UI_OP_WheelSensitivity			= Czu³oœæ kó³ka myszy
+#UI_OP_InvertMouse			= Odwrócenie osi myszy
+#UI_OP_FullScreen			= Tryb pe³noekranowy
 
-#UI_OP_Anisotropy_0			=Disabled
-#UI_OP_Anisotropy_1			=Low
-#UI_OP_Anisotropy_2			=Medium
-#UI_OP_Anisotropy_3			=High
-#UI_OP_Anisotropy_4			=Highest
+#UI_OP_Launch_Ships			= Automatyczny start myœliwców
+#UI_OP_ShowHelpers			= Poka¿ znaczniki
+#UI_OP_Show_Hint_Boxes			= Poka¿ wskazówki
+#UI_OP_MouseScrolling			= Obracaj kamerê za pomoc¹ kursora myszy
+#UI_OP_RocketsOn			= W³¹cz pociski na pocz¹tku misji
+#UI_OP_HealthBarsOn			= Poka¿ paski zdrowia
+#UI_OP_AutosaveOn 			= W³¹cz automatyczne zapisywanie
+#UI_OP_SaveCameraType 			= Zapisz aktualny tryb kamery
+#UI_OP_PilotIcons			= Poka¿ nieobecnych pilotów na ekranie statku bazy
+#UI_OP_ConfirmUnDock			= PotwierdŸ oddokowywanie
+#UI_OP_CamRock				= W³¹czanie/wy³¹czanie ko³ysania kamery
 
-#UI_OP_FSAA_0			=Disabled
-#UI_OP_FSAA_1			=Low
-#UI_OP_FSAA_2			=Medium
-#UI_OP_FSAA_3			=High
-#UI_OP_FSAA_4			=Highest
+#UI_OP_Camera				= Kamera
+
+#UI_OP_TexDetailVeryLow			= Bardzo niskia
+#UI_OP_TexDetailLow			= Niska
+#UI_OP_TexDetailMedium			= Œrednia
+#UI_OP_TexDetailHigh			= Wysoka
+
+#UI_OP_Anisotropy_0			= Wy³¹czone
+#UI_OP_Anisotropy_1			= Bardzo niskie
+#UI_OP_Anisotropy_2			= Niskie
+#UI_OP_Anisotropy_3			= Œrednie
+#UI_OP_Anisotropy_4			= Wysokie
+
+#UI_OP_FSAA_0				= Wy³¹czone
+#UI_OP_FSAA_1				= Bardzo niskie
+#UI_OP_FSAA_2				= Niskie
+#UI_OP_FSAA_3				= Œrednie
+#UI_OP_FSAA_4				= Wysokie
 
 
+#UI_OP_AddOptions 			= Dodatkowe ustawienia
+#UI_OP_SysOptions 			= Ustawienia systemowe
+#UI_OP_GraphOptions 			= Ustawienia graficzne
 
-#UI_OP_AddOptions = Additional settings
-#UI_OP_SysOptions = System settings
-#UI_OP_GraphOptions = Graphics settings
-
-#UI_OP_GamePause = Smart pause
-#UI_OP_Pause1 = Enemy detected
-#UI_OP_Pause2 = Target destroyed
-#UI_OP_Pause3 = Player's fighter armor below 50%
-#UI_OP_Pause4 = Mothership armor below 20%
-#UI_OP_Pause5 = Player's fighter destroyed
+#UI_OP_GamePause 			= Autopauza
+#UI_OP_Pause1 				= Wykryto wroga
+#UI_OP_Pause2 				= Zniszczono wroga
+#UI_OP_Pause3 				= Pancerz statku gracza poni¿ej 50%
+#UI_OP_Pause4 				= Pancerz statku-bazy poni¿ej 20%
+#UI_OP_Pause5 				= Statek gracza zniszczony
 
 ;*******************************************
 ;Object Info Window
 ;*******************************************
-#UI_OI_Slots				=Slots
+#UI_OI_Slots				= 
 
 ;*******************************************
 ;Perk Info Window
 ;*******************************************
 
-#UI_PI_Title				=Description
+#UI_PI_Title				=
 
 ;*******************************************
 ;Flight Control Component 
 ;*******************************************
 
-#UI_FCC_ARMOR = Armor
-#UI_FCC_SHIELDS = Shields
+#UI_FCC_ARMOR 				= Pancerz
+#UI_FCC_SHIELDS 			= Os³ony
 
 ;*******************************************
 ; Òåêñò íà êíîïêå âïåðåä/íàçàä
 ;*******************************************
-#UI_Prev  = Previous
-#UI_Next  = Next
+#UI_Prev  				= Wstecz
+#UI_Next  				= Dalej
 
-#UI_CargoOnBoard			= Picked up:
+#UI_CargoOnBoard			= £adunek na pok³adzie:
 
 ;*******************************************
 ; Ïðè÷èíû àâòîïàóçû
 ;*******************************************
-#UI_EnemyDetected     		= Enemy detected
-#UI_EnemyDestroyed			= Target destroyed
-#UI_ShipArmor50				= Player's fighter armor below 50%
-#UI_MotherShipArmor20		= Mothership armor below 20%
-#UI_PlayerShipDestroyed		= Player's ship exploded
+#UI_EnemyDetected     			= Wykryto wroga
+#UI_EnemyDestroyed			= Zniszczono wroga
+#UI_ShipArmor50				= Pancerz statku gracza poni¿ej 50%
+#UI_MotherShipArmor20			= Pancerz statku-bazy poni¿ej 20%
+#UI_PlayerShipDestroyed			= Statek gracza zniszczony
 
 ;*******************************************
 ; óðîâåíü ñëîæíîñòè
 ;*******************************************
-#UI_GameDifficulty              = Game difficulty
-#UI_Easy                        = Easy
-#UI_Normal                      = Normal
-#UI_Hard                        = Hard
-#UI_TitleQuery					= Query
+#UI_GameDifficulty              	= Poziom trudnoœci
+#UI_Easy                      		= £atwy
+#UI_Normal                      	= Normalny
+#UI_Hard                        	= Trudny
+#UI_TitleQuery				=
 
-;***********************************
+;*******************************************
 ; Ñèñòåìíûå ñîîáùåíèÿ
-;***********************************
+;*******************************************
 
-#SYS_Loading			= Loading...
-#SYS_LoadingLevel		= Loading level...|Please wait...
-#SYS_InitializingGame		= Initializing game...|Please wait...
 
-#SYS_FatalError			= Fatal error
-#SYS_ErrorLoadingLevel		= Failed to read the saved game file!|The file might be corrupted.
-#UI_SaveError		= Failed to write to the save game file!|No access to the file.
+#SYS_Loading				= Wczytywanie...
+#SYS_LoadingLevel			= £adowanie poziomu..|Proszê czekaæ...
+#SYS_InitializingGame			= Inicjalizacja gry...|Proszê czekaæ...
 
-#SYS_Profile			= Profile
-#SYS_ProfileNotCreated		= Failed to create profile!
+#SYS_FatalError				= B³¹d krytyczny
+#SYS_ErrorLoadingLevel			= Failed to read the saved game file!|Plik mo¿e byæ uszkodzony.
+#UI_SaveError				= Failed to write to the save game file!|Brak dostêpu do pliku.
+
+#SYS_Profile				= Profil
+#SYS_ProfileNotCreated			= Nie uda³o siê utworzyæ profilu!
+
+;*******************************************
+; Othersÿ
+;*******************************************
+
+#UI_HDialogErrorFull				= Hangar zajêty przez inny myœliwiec!
+#UI_HDialogErrorFree				= You cannot assign a pilot without a fighter!
+#UI_HDialogErrorAttach				= This device cannot be installed into this socket!
+#UI_HDialogErrorAttachUnknown			= This device cannot be installed into this socket for an unknown reason!
+#UI_HDialogErrorAttachAlien			= Nie mo¿na tu pod³¹czyæ modu³u - to technologia Obcych!!
+#UI_HDialogErrorAttachBerserk			= Nie mo¿na tu pod³¹czyæ modu³u - to technologia Berserków!
+#UI_HDialogErrorAttachPrecurser			= Nie mo¿na tu pod³¹czyæ modu³u - to technologia Prekursorów!
+#UI_HDialogErrorAttachAngor			= This device cannot be installed into this socket, that's an Angorian technology!
+#UI_HDialogErrorAutoDetach 			= Od³¹cz najpierw pierwszy modu³!
+#UI_ModuleCost					= -Koszt-
+#UI_HDialogPilotCantMount 			= This pilot isn't skilled enough to fly|fighters of this type.
+#UI_HDialogBasePilotCantMount			= This pilot doesn't have the skill required to fly fighters of this type.|The pilot has been sent to the bay.
+#UI_HDialogOtherPilotCantMount			= This pilot doesn't have the skill required to fly fighters of this type.|Transfer is not possible. The pilot has been sent to the bay.
+#UI_HDialogErrorMissionMotherShipMount 		= Nie mo¿na pod³¹czaæ modu³ów do statku-bazy podczas misji!
+#UI_HDialogErrorMissionMotherShipUnMount 	= Nie mo¿na od³¹czaæ modu³ów od statku-bazy podczas misji!
+#UI_HDialogErrorNoRoomForShip 			= Insufficient space in the cargo bay!
+#UI_HDialogErrorMotherShipMountInSpace 		= You cannot install devices into the mothership in the outer space!

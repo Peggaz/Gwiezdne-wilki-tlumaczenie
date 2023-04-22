@@ -1,567 +1,625 @@
-;***********************************
-; modules XML
-;***********************************
 LOCALE_FILE
 FILETYPE STANDART
 
-; year 2227
+;****************************
+; UWAGI
+;****************************
+;1.DZIA£A DZIEL¥ SIÊ NA CIÊ¯KIE, BARDZO CIE¯KIE
+;2.DZIA£KA DZIEL¥ SIÊ NA LEKKIE
+;3.AKTUALNIE NIE SPOLSZCZAÆ NAZW BRONI, RAKIET, SYSTEMÓW ITD - JESZCZE NIE ZDECYDOWA£EM CZY JE SPOLSZCZAC, CZY TE¯ NIE
+;4.NIE T£UMACZYÆ NAZW SYSTEMÓW ORAZ SEKTORÓW
+;5.NIE T£UMACZYÆ NAZW STACJI
 
-;----------
-; Big Guns
-;----------
+;---------
+; Big guns
+;---------
 
-#M_Name_HC1		= M-106 Bardiche
-#M_Hint_HC1		= M-106 Bardiche|Heavy kinetic cannon.
-#M_SDesc_HC1	= A heavy kinetic cannon.
-#M_LDesc_HC1	= A classic kinetic cannon equipped with symmetric recoil absorbers and muzzle brake. This cannon is a serious modification of M-105À Masakari, the first heavy cannon developed in 2177 for new fighters. It fires subcaliber sabot-discarding tungsten or ceramic projectiles. M-105 and M-106 series proved themselves as powerful and reliable cannons. For this reason they have been in firm demand for about fifty years.
+#M_Name_HC1		= Berdysz
+#M_Hint_HC1		= M-106 Berdysz|Ciê¿kie dzia³o kinetyczne.
+#M_SDesc_HC1		= Ciê¿kie dzia³o kinetyczne.
+#M_LDesc_HC1		= To standardowe dzia³o kinetyczne wyposa¿one jest w symetryczne stabilizatory odrzutu oraz hamulec wylotowy. Powsta³o w wyniku modernizacji, pierwszego dzia³a wyprodukowanego dla nowych myœliwców w roku 2177. Strzela amunicj¹ podkalibrow¹ z od³¹czan¹ palet¹ o rdzeniu wolframowym lub ceramicznym. Model M-106 uchodzi za bardzo skuteczne i potê¿ne narzêdzie walki. Od 50 lat jest na niego sta³y popyt.
 
-#M_Name_HC2		= M-110 Poleaxe
-#M_Hint_HC2		= M-110 Poleaxe|Advanced heavy kinetic cannon.
-#M_SDesc_HC2	= An advanced heavy kinetic cannon.
-#M_LDesc_HC2	= This is the last mass-produced classic kinetic cannon adopted by the MSF in 2198. Its key differences from the M-106 series include binary liquid explosive, new recoil absorbers and controls as well as depleted uranium projectiles. While this weapon is considered to be removed from the MSF inventory, it's still in mass production and in firm demand on the weaponry market.
+#M_Name_HC2		= Topór
+#M_Hint_HC2		= M-110 Topór|Ciê¿kie dzia³o kinetyczne.
+#M_SDesc_HC2		= Ciê¿kie dzia³o kinetyczne.
+#M_LDesc_HC2		= Jest to unowoczeœniona wersja dzia³a kinetycznego. Jego ostatni model, sprzedawany jeszcze z klasycznym mechanizmem kinetycznym, zosta³ w 2198 roku zaadaptowany na potrzeby MSF. Od serii M-106 ró¿ni siê przede wszystkim dwoistoœci¹ mieszaniny wchodz¹cej w sk³ad pocisku, nowymi stabilizatorami odrzutu, automatyk¹ procesów i amunicj¹, posiadaj¹c¹ rdzeñ ze zubo¿onego uranu. Co prawda oficjalnie flota nie korzysta ju¿ tej broni, ale ze wzglêdu na popyt nadal produkuje siê j¹ w du¿ych iloœciach.
 
-#M_Name_HC3		= M-113 Halberd
-#M_Hint_HC3		= M-113 Halberd|Heavy kinetic cannon of the 3rd generation.
-#M_SDesc_HC3	= A heavy kinetic cannon of the 3rd generation.
-#M_LDesc_HC3	= A deep modification of Poleaxe created by USS. Its key differences from the M-110 series include recoilless design, rotary loading mechanism, improved controls and fume extraction. This provides higher projectile speed, lower dispersion and increased damage. This cannon has been adopted by MSF special forces, but it occasionally leaks to the black market.
+#M_Name_HC3		= Halabarda
+#M_Hint_HC3		= M-113 Halabarda|Ciê¿kie dzia³o kinetyczne.
+#M_SDesc_HC3		= Ciê¿kie dzia³o kinetyczne.
+#M_LDesc_HC3		= Gruntownie zmodyfikowane dzia³o "Topór" stworzone przez USS. G³ówne ró¿nice miêdzy M-110, a Halabard¹ to bezodrzutowa konstrukcja, obrotowy mechanizm ³adowania, poprawiona kontrola i odprowadzanie oparów. To zapewnia wiêksz¹ prêdkoœæ pocisku, mniejszy rozrzut i zwiêkszone uszkodzenia. Dzia³o to zosta³o przyjête przez si³y specjalne MSF, ale od czasu do czasu przecieka na czarny rynek.
 
-#M_Name_HC4		= M-115 Yataghan
-#M_Hint_HC4		= M-115 Yataghan|Heavy kinetic cannon.
-#M_SDesc_HC4	= The newest heavy kinetic cannon.
-#M_LDesc_HC4	= The development of newer laser defenses resulted in a new round of artillery innovations. Yataghan is a dual kinetic cannon with symmetrical recoil absorbers developed especially for eliminating well-protected targets, like corvettes and heavy fighters. Its key differences from the M-113 series include improved targeting system and more powerful projectiles. This cannon entered mass production only in 2224 exclusively for use only by the corporation, so one shouldn't expect it to arrive to the open market in the near future.
+#M_Name_HC4		= Jatagan
+#M_Hint_HC4		= M-115 Jatagan|Ciê¿kie dzia³o kinetyczne.
+#M_SDesc_HC4		= Ciê¿kie dzia³o kinetyczne.
+#M_LDesc_HC4		= Rozwój nowych os³on laserowych, spowodowa³ powstanie nowego szczebla innowacji artyleryjskich. Jatagan jest podwójnym dzia³em kinetycznym z symetrycznymi amortyzatorami odrzutu, opracowanym specjalnie do eliminowania dobrze chronionych celów, takich jak korwety, czy ciê¿kie myœliwce. Jej g³ówne ró¿nice z serii M-113 to udoskonalony system naprowadzania, i potê¿niejsze pociski. To dzia³o wesz³o do seryjnej produkcji dopiero w roku 2224, wy³¹cznie do u¿ytku przez korporacjê, wiêc nie nale¿y siê spodziewaæ, ¿e pojawi siê na otwartym rynku w najbli¿szej przysz³oœci.
 
-#M_Name_VC1		= M-200E Vulcan
-#M_Hint_VC1		= M-200E Vulcan|Rapid-fire cannon.
-#M_SDesc_VC1	= A heavy rapid-fire cannon.
-#M_LDesc_VC1	= Gatling-style cannons were invented in the pre-space era and remained essentially the same. Their tremendous rate of fire allows even an inexperienced gunner to eliminate small targets. M-200 Vulcan was first used by the MSF during the Operation Phoenix, when two teams of rookies from the carrier Fearless destroyed more than twenty rebel fighters in one sortie.
+;--------------------
+; Big rapid-fire guns
+;--------------------
 
-#M_Name_VC2		= M-201 Gatling
-#M_Hint_VC2		= M-201 Gatling|Rapid-fire cannon of the 2nd generation.
-#M_SDesc_VC2	= A rapid-fire cannon of the 2nd generation.
-#M_LDesc_VC2	= A new series of rapid-fire cannons distinguished by increased rate of fire and more powerful projectiles. Many pilots prefer this reliable and well-proven cannon to newer means of destruction. According to Patrol pilots, a single burst fired from two Gatlings is enough to literally bisect any pirate fighter. However, some experts say that because M-201 is available on the open market, anyone, not only a pirate, might become its target.
+#M_Name_VC1		= Wulkan
+#M_Hint_VC1		= M-200E Wulkan|Ciê¿kie dzia³o szybkostrzelne.
+#M_SDesc_VC1		= Ciê¿kie dzia³o szybkostrzelne.
+#M_LDesc_VC1		= Dzia³a typu Gatling zosta³y wynalezione w epoce przed-kosmicznej i ich budowa pozosta³a w zasadzie taka sama. Ich ogromna szybkostrzelnoœæ pozwala nawet niedoœwiadczonym strzelcom wyeliminowaæ ma³e cele. Wulkan zosta³ po raz pierwszy u¿yty przez MSF podczas operacji "Feniks", w³aœnie wtedy dwa oddzia³y kadetów z kr¹¿ownika "Nieustraszony" zniszczy³y ponad dwadzieœcia rebelianckich myœliwców, i to w jednym podejœciu.
 
-#M_Name_VC3		= M-204 Avenger
-#M_Hint_VC3		= M-204 Avenger|Rapid-fire cannon of the 3rd generation.
-#M_SDesc_VC3	= A rapid-fire cannon of the 3rd generation.
-#M_LDesc_VC3	= Avenger heavy kinetic cannon was created on the basis of the well-established Ì-201 Gatling. The new cannon, offering faster rotating barrels and liquid nitrogen cooling, took rapid-fire cannons to a new level. It became a real death bringer that could literally shred its targets. Gun's high price is its only drawback.
+#M_Name_VC2		= Gatling
+#M_Hint_VC2		= M-201 Gatling|Ciê¿kie dzia³o szybkostrzelne.
+#M_SDesc_VC2		= Ciê¿kie dzia³o szybkostrzelne.
+#M_LDesc_VC2		= Model ten nale¿y do nowej serii dzia³, i jest jeszcze szybszy od swoich poprzedników, zasilany niezwykle wydajnymi taœmami nabojowymi. Wielu pilotów woli ten typ broni od innych, nowszych wynalazków. Wed³ug pracowników s³u¿b patrolowych, seria z dwóch "Gattlingów" wystarcza, ¿eby dos³ownie przeci¹æ na pó³ dowolny piracki myœliwiec. Zaœ dziêki temu, ¿e na rynku pojawi³ siê model M-201, teraz ka¿dy, nie tylko pirat, mo¿e staæ siê jego celem.
 
-#M_Name_VC4		= M-205 Vindicator
-#M_Hint_VC4		= M-205 Vindicator|Rapid-fire cannon.
-#M_SDesc_VC4	= The newest rapid-fire cannon.
-#M_LDesc_VC4	= Essentially, Vindicator is the same Avenger with a new case-free tungsten projectile loader and electric barrel rotator. This provides the cannon with its high fire density that allows even rookie pilots to use Vindicators effectively. At the same time, one drawback is unavailability of the cannon on the open market and its exorbitant price.
+#M_Name_VC3		= Mœciciel
+#M_Hint_VC3		= M-204 Mœciciel|Ciê¿kie dzia³o szybkostrzelne.
+#M_SDesc_VC3		= Ciê¿kie dzia³o szybkostrzelne.
+#M_LDesc_VC3		= Mœciciel, to ciê¿kie dzia³o kinetyczne. Zosta³o oparte na powszechnie renomowanym modelu Gatling M-201. Nowe dzia³o oferuje szybsze obracanie luf, i wystrzeliwanie pocisków wolframowych, co wynios³o dzia³a szybkiego ognia na nowy poziom. Sta³o siê realne, ¿e Mœciciel dos³ownie rozdrabnia swoje cele nios¹c œmieræ. Wygórowana cena jest jego jedyn¹ wad¹.
 
-#M_Name_PC1		= HCB-2 Melter
-#M_Hint_PC1		= HCB-2 Melter|Plasma cannon.
-#M_SDesc_PC1	= A plasma cannon.
-#M_LDesc_PC1	= A heavy plasma cannon for eliminating heavily armored targets, like corvettes or bombers. It fires high-temperature plasma blobs that deal massive damage to any vessel. Its drawbacks include relatively low rate of fire and projectile speed, which allow maneuverable targets to avoid hits. However, during Red Corsair's free rein, Imperial pilots preferred these very cannons, reasonably believing that one or two hits would be enough to disable any pirate fighter.
+#M_Name_VC4		= Obroñca
+#M_Hint_VC4		= M-205 Obroñca|Ciê¿kie dzia³o szybkostrzelne.
+#M_SDesc_VC4		= Ciê¿kie dzia³o szybkostrzelne.
+#M_LDesc_VC4		= Zasadniczo, Obroñca, to takie samo dzia³o co Mœciciel, ale posiada now¹ bez³uskow¹, ceramiczn¹, zamortyzowan¹ ³adowarkê pocisku i lepsze rotatory luf. Te innowacje zwiêkszy³y szybkostrzelnoœæ dzia³, dziêki czemu, dosta³o sie ono do najlepszych w swojej klasie. Wady to wysoka cena i niedostêpnoœæ na rynku otwartym.
 
-#M_Name_PC2		= XHCB-5 Inferno
-#M_Hint_PC2		= XHCB-5 Inferno|Plasma cannon of the 2nd generation.
-#M_SDesc_PC2	= A plasma cannon of the 2nd generation.
-#M_LDesc_PC2	= This plasma cannon has always been in firm demand. While it is generally similar to other plasma cannons, it significantly surpasses them in terms of projectile power. According to the cannon manual, its specifications are several times better than any other armaments. Since the announcement, the manufacturer has fixed cannon defects that could interfere with safety measures in the rapid-fire mode.
+;------------
+; Plasma guns
+;------------
 
-#M_Name_PC3		= HCB-8 Armageddon
-#M_Hint_PC3		= HCB-8 Armageddon|Newest plasma cannon.
-#M_SDesc_PC3	= The newest plasma cannon.
-#M_LDesc_PC3	= A plasma cannon sample developed by InoCo. Thanks to increased reactor power and upgraded cooling system, it significantly surpasses other plasma guns in terms of projectile power, meaning it offers longer lethal range and increased damage. Though this weapon had been intended for corporation's elite forces only, a successful pirate attack on a corporation transport resulted in the loss of the first batch of cannons, which later made their way to the black market.
+#M_Name_PC1		= P³omieñ
+#M_Hint_PC1		= HCB-2 P³omieñ|Ciê¿kie dzia³o plazmowe.
+#M_SDesc_PC1		= Ciê¿kie dzia³o plazmowe.
+#M_LDesc_PC1		= Dzia³o skonstruowane specjalnie do walki z dobrze opancerzonymi celami, tj. korwetami albo statkami szturmowymi. Strzela plazm¹ rozgrzan¹ do wysokiej temperatury, powa¿nie uszkadzaj¹c ka¿dy statek, jaki trafi. Wad¹ tej konstrukcji jest umiarkowana szybkostrzelnoœæ, zaœ niewielka prêdkoœæ wystrzelonej substancji pozwala zwrotnym statkom unikaæ trafieñ. Tym niemniej, za czasów Czerwonego Korsarza, imperialni piloci doœæ czêsto korzystali z tych dzia³. Swój wybór argumentowali tym, ¿e za pomoc¹ jednego, dwóch strza³ów mo¿na by³o unieszkodliwiæ praktycznie dowolny piracki statek.
 
-;--------
-; Lasers
-;--------
+#M_Name_PC2		= Piek³o
+#M_Hint_PC2		= XHCB-5 Piek³o|Ciê¿kie dzia³o plazmowe.
+#M_SDesc_PC2		= Ciê¿kie dzia³o plazmowe.
+#M_LDesc_PC2		= To dzia³o plazmowe ma zawsze du¿y popyt na rynku. Choæ jest podobne do innych dzia³ plazmowych, znacznie przewy¿sza je pod wzglêdem si³y pocisku. Wed³ug instrukcji dzia³a, jego specyfikacje kilkukrotnie przewy¿szaj¹ inne tego typu zbrojenia. Od momentu zapowiedzi, producent ustali³ wady tych dzia³, które mog³yby kolidowaæ z ochron¹ pracy, w trybie szybkiego prowadzenia ognia.
 
-#M_Name_LC1		= M-79 Scorcher
-#M_Hint_LC1		= M-79 Scorcher|Combat laser.
-#M_SDesc_LC1	= A combat laser.
-#M_LDesc_LC1	= A combat laser adopted by the MSF more than twenty years ago. It was developed to replace no less than all kinetic cannons in the MSF inventory. However, its high discharge power and accuracy unachievable by usual cannons is negated by low rate of fire imposed by unavoidable cooling system drawbacks. As a result, combat lasers became a weapon of elite pilots capable of ending a battle in a few accurate shots. While less experienced pilots usually prefer cannons that are easier to handle.
+#M_Name_PC3		= Zag³ada
+#M_Hint_PC3		= HCB-8 Zag³ada|Ciê¿kie dzia³o plazmowe.
+#M_SDesc_PC3		= Ciê¿kie dzia³o plazmowe.
+#M_LDesc_PC3		= Dzia³o plazmowe opracowane przez InoCo. Dziêki zwiêkszonej mocy reaktora i uaktualnionemu systemowi ch³odzenia, znacznie przewy¿sza inne dzia³a plazmowe pod wzglêdem mocy pocisku, co oznacza, ¿e oferuje wiêkszy œmiertelny zasiêg, i zwiêkszone uszkodzenia. Pomimo tego, ¿e broñ by³a przeznaczona tylko dla elitarnych si³ korporacji, udany atak piratów na transport osób prawnych, spowodowa³ utratê pierwszych stu dzia³, które póŸniej trafi³y na czarny rynek.
 
-#M_Name_LC2		= AML Rapier
-#M_Hint_LC2		= AML Rapier|Combat laser of the 2nd generation.
-#M_SDesc_LC2	= A combat laser of the 2nd generation.
-#M_LDesc_LC2	= While Rapier clearly surpassed all other lasers during comparative tests in 2214, MSF leaders refused to adopt it because of its supposedly exorbitant price and low rate of fire. However, two years later they had to reconsider their attitude towards laser weaponry, when MSF forces engaged elite mercenary units armed mainly with Rapiers during a "counter-terrorist" operation in Proserpine. MSF casualties have never been disclosed.
+;-----------
+; Laser guns
+;-----------
 
-#M_Name_LC3		= M-82 Daga
-#M_Hint_LC3		= M-82 Daga|Combat laser of the 3rd generation.
-#M_SDesc_LC3	= A combat laser of the 3rd generation.
-#M_LDesc_LC3	= In this gun beam is focused by a floating lens system that expands it without reducing density and, thus, increases damage. Dagas have only started to arrive to the market, so they are still a rare occasion. Like other lasers, Daga is more suited for snipers.
+#M_Name_LC1		= Wypalacz
+#M_Hint_LC1		= M-79 Wypalacz|Ciê¿ki laser bojowy.
+#M_SDesc_LC1		= Ciê¿ki laser bojowy.
+#M_LDesc_LC1		= Laser bojowy przyjêty przez MSF ponad dwadzieœcia lat temu. Zosta³ on opracowany, w celu zast¹pienia nie mniej, ni¿ wszystkich dzia³ kinetycznych w inwentarzu MSF. Jednak jego moc i wysoka dok³adnoœæ, nieosi¹galne przez zwyk³e dzia³a jest negowana przez nisk¹ szybkostrzelnoœæ, na³o¿on¹ przez nieuniknione wady uk³adu ch³odzenia. W rezultacie, te bojowe lasery, sta³y siê broni¹ elitarnych pilotów, zdolnych do zakoñczenia bitwy kilkoma precyzyjnymi strza³ami.
+
+#M_Name_LC2		= Rapier
+#M_Hint_LC2		= AML Rapier|Ciê¿ki laser bojowy.
+#M_SDesc_LC2		= Ciê¿ki laser bojowy.
+#M_LDesc_LC2		= Chocia¿ Rapier wyraŸnie przewy¿sza³ wszystkie inne lasery podczas testów porównawczych w 2214 r. przywódcy MSF odmówili przyjêcia go, z powodu jego rzekomo wygórowanej ceny i niskiej szybkostrzelnoœci. Jednak dwa lata póŸniej musieli zrewidowaæ swoje nastawienie do laserowej broni, gdy si³y najemne elitarnych jednostek MSF zaanga¿owa³y g³ównie "Rapiery"  podczas "antyterrorystycznych" dzia³añ w Prozerpinie. Straty MSF nigdy nie zosta³y ujawnione.
+
+#M_Name_LC3		= Daga
+#M_Hint_LC3		= M-82 Daga|Ciê¿ki laser bojowy.
+#M_SDesc_LC3		= Ciê¿ki laser bojowy.
+#M_LDesc_LC3		= W tym dziale, wi¹zki s¹ skupiane przez system p³ywaj¹cych soczewek, poszerzaj¹c je bez zmniejszania gêstoœci, tym samym powoduj¹c wiêksze uszkodzenia. Lasery typu "Daga" dopiero zaczê³y pojawiaæ siê na rynku, wiêc s¹ nadal rzadkoœci¹. Podobnie jak inne lasery, "Daga" jest bardziej odpowiednia dla snajperów.
 
 #M_Name_LC4		= Helios
-#M_Hint_LC4		= Helios|Combat laser.
-#M_SDesc_LC4	= The newest combat laser.
-#M_LDesc_LC4	= Helios combat laser was created in 2220 on the basis of the well-proven Daga. This gun utilizes a radically new method of medium pumping that makes it the most powerful laser there is. However, Helios has also inherited a typical drawback: its rate of fire leaves much to be desired. For this reason it's mostly used by snipers. Though the MSF tried to hush up the new gun, it immediately hit the black market, which resulted in a scandalous investigation on the highest level.
+#M_Hint_LC4		= M-85 Helios|Ciê¿ki laser bojowy.
+#M_SDesc_LC4		= Ciê¿ki laser bojowy.
+#M_LDesc_LC4		= Laser bojowy "Helios" powsta³ w 2220 roku, na bazie renomowanych laserów "Daga". Model ten wykorzystuje zupe³nie now¹ zasadê pompowania substancji roboczej, która sprawia, ¿e ten najpotê¿niejszy laser istnieje. Jednak "Helios" równie¿ odziedziczy³ typow¹ wadê: iloœæ oddawanych strza³ów pozostawia wiele do ¿yczenia. Z tego powodu jest te¿ najczêœciej u¿ywany przez snajperów. Choæ MSF próbowa³o zatuszowaæ now¹ broñ, natychmiast uderzy³a ona na czarny rynek, co doprowadzi³o do skandalicznego œledztwa na najwy¿szym poziomie.
 
-#M_Name_PLC1	= M-801 Polaris
-#M_Hint_PLC1	= M-801 Polaris|Combat pulse laser.
-#M_SDesc_PLC1	= A combat pulse laser.
-#M_LDesc_PLC1	= When in 2216 MSF high command initiated a complete overhaul of fighter armaments. In particular, they wanted old kinetic turrets to be replaced with newer guns. M-801 Polaris combat pulse laser was chosen as a weapon that met all requirements of the high command. It was the first truly versatile laser that combined benefits of a high-accuracy weapon with a burst capability.
+#M_Name_PLC1		= Polaris|
+#M_Hint_PLC1		= M-801 Polaris|Ciê¿ki bojowy laser impulsowy.
+#M_SDesc_PLC1		= Ciê¿ki bojowy laser impulsowy.
+#M_LDesc_PLC1		= W 2216 dowództwo MSF wszczê³o proces gruntownego uzbrajania myœliwców. W szczególnoœci chcieli zast¹piæ stare wie¿yczki kinetyczne nowszymi dzia³ami. Bojowy laser impulsowy M-801 "Polaris", zosta³ wybrany jako broñ, która spe³nia wszystkie wymagania dowództwa. By³ to pierwszy prawdziwie uniwersalny laser, który ³¹czy zalety broni wysokiej celnoœci, z funkcj¹ strza³ów seriami.
 
-#M_Name_PLC2 = M-805 Shining
-#M_Hint_PLC2 = M-805 Shining|Combat pulse laser. 
-#M_SDesc_PLC2 = A combat pulse laser of the 3rd generation. 
-#M_LDesc_PLC2 = This combat laser of the 3rd generation was created for the imperial fleet, but was never adopted because of Empire's abraded relations with corporations. Developing the Polaris concept, this gun was formerly known as ASCL prototype. Having completed the prototype, InoCo named the laser "Ì-805 Shining" and adopted it.
+#M_Name_PLC2 		= B³yskotka
+#M_Hint_PLC2 		= M-805 B³yskotka|Ciê¿ki bojowy laser impulsowy.
+#M_SDesc_PLC2 		= Ciê¿ki bojowy laser impulsowy.
+#M_LDesc_PLC2 		= Ten bojowy laser trzeciej generacji zosta³ stworzony dla cesarskiej floty, ale nigdy nie zosta³ przyjêty z powodu z³ych stosunków Imperium z korporacjami. Dzia³o, dodatkowo bior¹c pojêcie "Polaris", zdoby³o s³awê jako prototyp ASCL. Po wykonaniu prototypu, InoCo nazwa³o laser "M-805 B³yskotka".
 
-#M_Name_PLC3	= M-809 Rage
-#M_Hint_PLC3	= M-809 Rage|Newest combat pulse laser.
-#M_SDesc_PLC3	= The newest combat pulse laser.
-#M_LDesc_PLC3	= A combat laser of the 4th generation, a mix of Shining and Precursor technologies. Despite outward similarity with the prototype, Rage is a unique device that utilizes new methods of medium pumping and photon beam focusing. As a result, it keeps decent combat specifications, but offers high rate of fire. InoCo produced only a small quantity of these lasers for its elite security forces.
+#M_Name_PLC3		= Furia
+#M_Hint_PLC3		= M-809 Furia|Ciê¿ki bojowy laser impulsowy.
+#M_SDesc_PLC3		= Ciê¿ki bojowy laser impulsowy.
+#M_LDesc_PLC3		= Laser bojowy 4 generacji oparty na technologii dzia³a "B³yskotka" i technologii Prekursorów. Choæ wygl¹da podobnie do pierwowzoru, "Furia" to unikalne urz¹dzenie, które wykorzystuje nowe zasady pompowania substancji czynnej i skupienia strumienia fotonów. W rezultacie, oferuje przyzwoite w³aœciwoœci bojowe z wy¿sz¹ szybkostrzelnoœci¹. InoCo wyprodukowa³o tylko niewielk¹ iloœæ tych laserów dla swoich elitarnych si³ bezpieczeñstwa.
 
-#M_Name_RG1		= MD-1 Thunderbolt
-#M_Hint_RG1		= MD-1 Thunderbolt|Particle accelerator.
-#M_SDesc_RG1	= A particle accelerator.
-#M_LDesc_RG1	= A promising weapon type not adopted by the MSF only due to its high price. Based on a new principle, it surpasses standard-issue "sniper" combat lasers in terms of combat efficiency. This gun has low rate of fire, but its projectiles are more powerful than anything created before; an excellent weapon for a marksman.
+;-----------------
+; Accelerator guns
+;-----------------
 
-#M_Name_RG2		= MD-3 Usiel
-#M_Hint_RG2		= MD-3 Usiel|Particle accelerator of the 2nd generation.
-#M_SDesc_RG2	= A particle accelerator of the 2nd generation.
-#M_LDesc_RG2	= Uziel is the second attempt to mass produce a promising weapon, but very expensive weapon. The gun turned out to be more reliable and damaging than Thunderbolt it was based on. However, it offered slightly lower rate of fire. Still, the cost of a ready gun nearly doubled that of the prototype, so army refused to adopt it. To make up for huge investments into Usiel development, the company sold a few samples to the black market.
+#M_Name_RG1		= Piorun
+#M_Hint_RG1		= MD-1 Piorun|Ciê¿ki akcelerator cz¹stek.
+#M_SDesc_RG1		= Ciê¿ki akcelerator cz¹stek.
+#M_LDesc_RG1		= Obiecuj¹cy typ broni, nie przyjêty przez MSF, tylko ze wzglêdu na jego wysok¹ cenê. Opiera siê na nowej zasadzie, aby przewy¿szyæ standardowo-emisyjne "Snajperskie" lasery bojowe w zakresie efektywnoœci bojowej. Ta broñ ma nisk¹ szybkostrzelnoœæ, ale jego pociski s¹ mocniejsze ni¿ cokolwiek stworzonego wczeœniej; doskona³a broñ dla snajpera.
 
-#M_Name_RG3		= MD-4 Asmodeus
-#M_Hint_RG3		= MD-4 Asmodeus|Particle accelerator.
-#M_SDesc_RG3	= The newest particle accelerator.
-#M_LDesc_RG3	= The successful use of MD-3 Usiel allowed to create the new MD-4 prototype that had all drawbacks fixed. Its reworked converter and electromagnetic phase stabilizers provide a dense particle beam of increased diameter. As a result, this gun can destroy a well-defended small ship in one shot. Gun drawbacks include very high price, unavailability on the open market and much experience required from pilot.
+#M_Name_RG2		= Uciekinier
+#M_Hint_RG2		= MD-3 Uciekinier|Ciê¿ki akcelerator cz¹stek.
+#M_SDesc_RG2		= Ciê¿ki akcelerator cz¹stek.
+#M_LDesc_RG2		= "Uciekinier" jest drug¹ prób¹ maj¹c¹ na celu masow¹ produkcjê obiecuj¹cej broni, ale za to bardzo drogiej broni. Dzia³o okaza³o siê byæ bardziej wiarygodne i szkodliwe ni¿ "Piorun" na którym zosta³o oparte. Jednak oferuje nieco ni¿sz¹ szybkostrzelnoœæ od niego. Mimo to, koszt gotowego dzia³a prawie siê podwoi³ od prototypu, i z tego wzglêdu armia odmówi³a przyjêcia go. W celu uzupe³nienia ogromnych inwestycji rozwojowych "Uciekiniera", firma sprzeda³a kilka dzia³ na czarny rynek.
+ 
+#M_Name_RG3		= Asmodeusz
+#M_Hint_RG3		= MD-4 Asmodeusz|Ciê¿ki akcelerator cz¹stek.
+#M_SDesc_RG3		= Ciê¿ki akcelerator cz¹stek.
+#M_LDesc_RG3		= Wykorzystanie dzia³a MD-3 "Uciekinier" pozwoli³o stworzyæ nowy prototyp MD-4, który posiada³ te same wady, co poprzednik. Przerobiony konwerter i stabilizatory elektromagnetyczne, zapewni³y gêsta wi¹zkê cz¹stek o zwiêkszonej œrednicy. W rezultacie, ta broñ mo¿e zniszczyæ dobrze broniony ma³y statek, za jednym strza³em. Wady dzia³a to bardzo wysoka cena, niedostêpnoœæ na otwartym rynku, i du¿e doœwiadczenie wymagane od pilota.
 
-#M_Name_PrecC	= Precursor Gun
-#M_Hint_PrecC	= Precursor gun
-#M_SDesc_PrecC	= A Precursor gun.
-#M_LDesc_PrecC	= This weapon was made centuries ago, but it's still working and lethal. Technologies it utilizes are completely alien to humans, but perhaps a good technology adaptation expert could install it onto a fighter.
+;-----------
+; Alien guns
+;-----------
 
-;------------
-; Small Guns
-;------------
+#M_Name_PRECC		= Dzia³o Prekursorów
+#M_Hint_PRECC		= Dzia³o Prekursorów|Ciê¿ki laser bojowy.
+#M_SDesc_PRECC		= Ciê¿ki laser bojowy.
+#M_LDesc_PRECC		= Ta broñ powsta³a wieki temu, ale nadal dzia³a i jest œmiertelnie niebezpieczna. Technologie jakie wykorzystuje, s¹ zupe³nie obce dla ludzi, ale byæ mo¿e dobry ekspert, bêdzie w stanie zaadaptowaæ t¹ technologiê do myœliwca.
 
-#M_Name_CG1		= M-91 Maxim Mk 2
-#M_Hint_CG1		= M-91 Maxim Mk 2|Large-caliber machine gun.
-#M_SDesc_CG1	= A large-caliber machine gun.
-#M_LDesc_CG1	= After the adoption of heavy cannons, all older kinetic cannons were qualified as machine guns. By 2176, Ì-91 Maxim Mk 2, named after the legendary inventor of the 19th century, had been the most advanced artillery system. For over fifty years this machine gun has been produced by numerous companies in more than twenty modifications, and it's still in use. Unfortunately, its better days are long gone, and now this machine gun is considered a "weapon for the poor".
+;-----------
+; Small guns
+;-----------
 
-#M_Name_CG2		= M-100 Minigun
-#M_Hint_CG2		= M-100 Minigun|Large-caliber machine gun of the 2nd generation.
-#M_SDesc_CG2	= A large-caliber machine gun of the 2nd generation.
-#M_LDesc_CG2	= As machine guns remained the bulk of artillery equipment of bombers and special-purpose vessels even after the adoption of heavy cannons, there were many attempts to increase their firepower. Improving rate of fire was considered the most promising approach, as it allowed to use existing ammo and increased chances to hit a fast-moving target. The M-100 was the most typical and popular rapid-fire machine gun that aptly combined high rate of fire and acceptable reliability. However, further development of such weaponry was hampered by insufficient projectile power.
+#M_Name_CG1		= Maxim II
+#M_Hint_CG1		= M-91 Maxim II|Lekkie dzia³ko szybkostrzelne.
+#M_SDesc_CG1		= Lekkie dzia³ko szybkostrzelne.
+#M_LDesc_CG1		= Po przyjêciu ciê¿kich dzia³, wszystkie starsze dzia³a kinetyczne zakwalifikowano jako karabiny maszynowe. Od 2176 roku M-91 "Maxim II", nazwany na czeœæ wielkiego wynalazcy 19 wieku, by³ najbardziej zaawansowanym systemem artyleryjskim. Ponad piêædziesi¹t lat temu, ten karabin maszynowy zosta³ wyprodukowany przez wiele firm w ponad dwudziestu modyfikacjach, i nadal jest w u¿yciu. Niestety, jego lepsze dni ju¿ dawno minê³y, a teraz ten karabin maszynowy jest uwa¿any, za "broñ dla ubogich".
 
-#M_Name_CG3		= M-101 Rockwell
-#M_Hint_CG3		= M-101 Rockwell|Large-caliber machine gun of the 3rd generation.
-#M_SDesc_CG3	= A large-caliber machine gun of the 3rd generation.
-#M_LDesc_CG3	= M-101 Rockwell borrowed its case-free tungsten projectile loader from Vindicator, and that considerably increased its rate of fire. Also, gun damage is further increased by a bore fume extractor that accelerates projectiles to incredible speeds. Rockwell machine guns have consolidated a niche of reliable, efficient and affordable weapon.
+#M_Name_CG2		= Minigun
+#M_Hint_CG2		= M-100 Minigun|Lekkie dzia³ko szybkostrzelne.
+#M_SDesc_CG2		= Lekkie dzia³ko szybkostrzelne.
+#M_LDesc_CG2		= Karabinom maszynowym wiele razy próbowano, zwiêkszyæ ich si³ê ognia. Poprawa szybkostrzelnoœci zosta³a uznana za najlepsze rozwi¹zanie, poniewa¿ dzia³ka mog³yby korzystaæ z istniej¹cej amunicji, i zwiêkszyæ swoje szanse na trafienie szybko poruszaj¹cych siê celów. M-100 to najbardziej typowe, i popularne dzia³ko szybkostrzelne, który trafnie ³¹czy wysok¹ szybkostrzelnoœæ, i zadowalaj¹c¹ niezawodnoœæ. Jednak dalszy rozwój tej broni by³ utrudniony, przez niewystarczaj¹c¹ si³ê pocisku.
 
-#M_Name_CG4		= M-102 Rolf
-#M_Hint_CG4		= M-102 Rolf|Large-caliber machine gun.
-#M_SDesc_CG4	= The newest large-caliber machine gun.
-#M_LDesc_CG4	= M-102 Rolf is rightfully considered a masterpiece. Combining advantages of single-barrel guns with capabilities of multi-barrel weapons, this machine gun guarantees low projectile dispersion at high projectile damage. At that Rolf is quite affordable and can be deadly even if handled by a rookie.
+#M_Name_CG3		= Rockwell
+#M_Hint_CG3		= M-101 Rockwell|Lekkie dzia³ko szybkostrzelne.
+#M_SDesc_CG3		= Lekkie dzia³ko szybkostrzelne.
+#M_LDesc_CG3		= M-101 "Rockwell" po¿yczy³ rozwi¹zania zastosowane w dziale "Windykator" tj. ³adowarkê pocisków wolframowych, co znacznie zwiêkszy³o szybkostrzelnoœæ dzia³ka. Ponadto, obra¿enia broni s¹ dodatkowo zwiêkszone, przez otwór wyci¹gu oparów, który przyspiesza pociski do niesamowitych prêdkoœci. Karabiny maszynowe "Rockwell" zajmuj¹ niszê niezawodnej, wydajnej i niedrogiej broni. 
 
-#M_Name_AC1		= M-126 Black Jack
-#M_Hint_AC1		= M-126 Black Jack|Autocannon.
-#M_SDesc_AC1	= Autocannon.
-#M_LDesc_AC1	= Serious size limitations made it impossible for light cannons to compete with their heavy counterparts. Nevertheless, engineers continued to search for ways to radically strengthen this primary defensive equipment of bombers. During the development of this cannon high rate of fire typical for machine guns was sacrificed to increase projectile power. Black Jack was created by corporations for their own special-purpose bombers and was never advertised much. It won fame later, when a lone unidentified bomber attacked a uranium convoy in the border zone. After making its way to and successfully torpedoing the transports, it quickly eliminated all three escort fighters instead of retreating. After that incident, Black Jack entered mass production and was adopted in huge amounts by the MSF and all law enforcers.
+#M_Name_CG4		= Rolf
+#M_Hint_CG4		= M-102 Rolf|Lekkie dzia³ko szybkostrzelne.
+#M_SDesc_CG4		= Lekkie dzia³ko szybkostrzelne.
+#M_LDesc_CG4		= M-102 "Rolf" s³usznie uwa¿any jest za arcydzie³o. £¹cz¹c zalety broni jednolufowej, z mo¿liwoœciami broni o wielu lufach, ten karabin maszynowy gwarantuje ma³y rozrzut, z du¿ymi uszkodzeniami pocisków. Karabiny "Rolf" s¹ doœæ przystêpne, i mog¹ byæ zabójcze, nawet w rêkach rekruta.
 
-#M_Name_AC2		= M-133 Mace
-#M_Hint_AC2		= M-133 Mace|Advanced autocannon.
-#M_SDesc_AC2	= Advanced autocannon.
-#M_LDesc_AC2	= This autocannon had been developed especially for MSF Tie-Fly fighters, but was later modified for mounting on any vessels. Before it was adopted they had believed that fighters with no heavy cannons were an anachronism bound to fail. However, when the MSF joined the final stage of the Operation Fall of the Titan, it was precisely the high rate of fire and killing power of light fighters that provided for the quick defeat of the rebels. Breaking through enemy formations to gain the rear and eliminating transports and repair bases, those vessels easily dealt with fighters carrying heavy weaponry.
+;---------------------
+; Small automatic guns
+;---------------------
 
-#M_Name_AC3		= M-150 Tetsubo
-#M_Hint_AC3		= M-150 Tetsubo|Autocannon of the 3rd generation.
-#M_SDesc_AC3	= Autocannon of the 3rd generation.
-#M_LDesc_AC3	= Tetsubo autocannon has been popular ever since its introduction seven years ago. This light cannon for the first time featured innovations like rocket-assisted projectiles and frictionless bore obturation. All this provided for a significant increase in the efficiency of the new cannon, but at the same time skyrocketed its price. According to 2225 reports, Tetsubo autocannon was the bestselling weapon in the Old Empire. As the famed ace Colonel Malles said, "Changing armaments now is easier than sending your ship to the junkyard after the fight".
+#M_Name_AC1		= Black Jack
+#M_Hint_AC1		= M-126 Black Jack|Lekkie dzia³ko automatyczne.
+#M_SDesc_AC1		= Lekkie dzia³ko automatyczne.
+#M_LDesc_AC1		= Powa¿ne ograniczenia wielkoœci, uniemo¿liwi³y lekkim dzia³kom konkurowaæ z ich ciê¿szymi odpowiednikami. Niemniej jednak, in¿ynierowie nadal szukali sposobów, aby radykalnie wzmocniæ ten podstawowy sprzêt obronny bombowców. W trakcie rozwoju tego dzia³ka wysokiej szybkostrzelnoœci, typowym dla karabinów maszynowych, poœwiêcono t¹ zaletê dla zwiêkszenia mocy pocisku. "Black Jack" zosta³ stworzony przez korporacje dla swoich bombowców specjalnego przeznaczenia, i nigdy nie by³ za bardzo reklamowany. Zdoby³ s³awê póŸniej, gdy samotny niezidentyfikowany zamachowiec zaatakowa³ konwój uranu w strefie przygranicznej.
 
-#M_Name_AC4		= M-155 Simoto
-#M_Hint_AC4		= M-155 Simoto|Autocannon of the 4th generation.
-#M_SDesc_AC4	= An autocannon of the 4th generation.
-#M_LDesc_AC4	= The success of M-150 Tetsubo inspired InoCo to create a more powerful autocannon with standard projectiles. The gun features a carriage with inertia cancellers, reworked bore fume extractor and loader. Also, for the first time in this weapon class it has forced nitrogen cooling. As a result, Simoto is incredibly powerful, but very expensive, so InoCo has just produced a small quantity of these guns.
+#M_Name_AC2		= Maczuga
+#M_Hint_AC2		= M-133 Maczuga|Lekkie dzia³ko automatyczne.
+#M_SDesc_AC2		= Lekkie dzia³ko automatyczne.
+#M_LDesc_AC2		= Dzia³ko zosta³o zaprojektowane specjalnie dla myœliwców MSF klasy-T. W póŸniejszym okresie zmodyfikowano je tak, aby pasowa³o do ka¿dego innego statku. Przed wprowadzeniem tego urz¹dzenia do produkcji uwa¿ano, ¿e myœliwiec bez ciê¿kich dzia³ na polu bitwy by³ maszyn¹ bezu¿yteczn¹, skazan¹ na pora¿kê. Gdy MSF wziê³o udzia³ w ostatniej fazie operacji "Upadek Tytana", to w³aœnie szybkoœæ i si³a ognia lekkich myœliwców zadecydowa³y o b³yskawicznym zwyciêstwie w walce z rebeliantami. Po przedarciu siê na ty³y wroga piloci zniszczyli ciê¿kie transportowce oraz bazy naprawcze, po czym z ³atwoœci¹ zd³awili opór rozproszonych statków przeciwnika.
 
-#M_Name_ASG		= Alien Gun
-#M_Hint_ASG		= Alien Gun|Alien blaster.
-#M_SDesc_ASG	= A rapid-fire blaster.
-#M_LDesc_ASG	= First skirmishes with Alien ships indicated that Alien guns grealy surpassed their human counterparts. No scientist has yet managed to discover a technology allowing to combine such an incredible rate of fire with projectile power that high - all in a compact body. Nevertheless, trophy Alien guns can still be used on fighters. It just requires vast experience in technology adaptation.
+#M_Name_AC3		= Tetsubo
+#M_Hint_AC3		= M-150 Tetsubo|Lekkie dzia³ko automatyczne.
+#M_SDesc_AC3		= Lekkie dzia³ko automatyczne.
+#M_LDesc_AC3		= Zaprezentowane na ostatnich pokazach broni dzia³ko "Tetsubo" jest kontynuacj¹ rozwi¹zañ, jakie tradycyjnie stosuje siê w broni automatycznej. Po raz pierwszy w historii lekkich dzia³ek zastosowano naboje o strukturze aktywno-reaktywnej oraz lufy o minimalnym stopniu tarcia. Usprawnienia mia³y na celu zwiêkszenie efektywnoœci, przez to jednak drastycznie zwiêkszy³a siê cena modelu. Wed³ug danych z roku 2225, "Tetsubo" sta³o siê najpopularniejsz¹ broni¹ w ca³ym imperium. Pu³kownik Malles, znany as przestrzeni kosmicznych z MSF powiedzia³ kiedyœ: "£atwiej jest wymieniæ w statku broñ, ni¿ po bitwie lecieæ z nim na z³omowisko".
 
-#M_Name_BSL1	= Berserk Laser
-#M_Hint_BSL1	= Berserk Laser|Minor combat laser.
-#M_SDesc_BSL1	= A minor combat laser.
-#M_LDesc_BSL1	= While bidding for development of a new combat laser in 2216, InoCo managed to reduce its sample in both size and weight. However, their research center was attacked by Berserks and most materials and samples were lost. The very next year it became obvious that Berserks had started using these new lasers mounted on light drones. Unfortunately, incompatibility of numerous parts requires reworking these guns for installation on regular imperial ships.
+#M_Name_AC4		= Simoto
+#M_Hint_AC4		= M-155 Simoto|Lekkie dzia³ko automatyczne.
+#M_SDesc_AC4		= Lekkie dzia³ko automatyczne.
+#M_LDesc_AC4		= Sukces M-150 "Tetsubo" zainspirowa³ InoCo do stworzenia mocniejszego dzia³ka automatycznego na standardowe pociski. Dzia³ko wyposa¿one jest w bezw³adny reduktor przenosz¹cy, przerobiony odprowadzacz oparów i ³adowarkê. Ponadto, po raz pierwszy w tym rodzaju broni, by³o konieczne zastosowanie ch³odzenia azotem. W rezultacie "Simoto" jest bardzo wydajne, ale te¿ bardzo drogie, dla tego InoCo wytwarza niewielk¹ iloœæ tych dzia³ek.
 
-#M_Name_BSL2	= Berserk Laser Mk 2
-#M_Hint_BSL2	= Berserk Laser Mk 2|Minor combat laser.
-#M_SDesc_BSL2	= A minor combat laser.
-#M_LDesc_BSL2	= Latest generations of Berserks created by Al utilized a more advanced modification of the laser stolen by the Mainframe. No matter how hard human experts tried, they failed to copy this weapon because of its radically new method of medium pumping. Some suspect that this gun features technologies of Precursors who greatly surpassed our knowledge of energy manipulation. However, this doesn't mean that this kind of guns cannot be used on human fighters. It just requires vast experience in technology adaptation.
+;-----------
+; Alien guns
+;-----------
 
-;----------
+#M_Name_ASG		= Dzia³ko Obcych
+#M_Hint_ASG		= Dzia³ko Obcych|Lekkie dzia³ko szybkostrzelne.
+#M_SDesc_ASG		= Lekkie dzia³ko szybkostrzelne.
+#M_LDesc_ASG		= Po pierwszym kontakcie z obcymi sta³o siê dla nas jasne, ¿e ich broñ stoi na znacznie wy¿szym poziomie, ni¿ nasza. Po dziœ dzieñ naukowcy g³owi¹ siê, ¿eby zrozumieæ technologiê wykonania dzia³ka o takiej szybkostrzelnoœci i sile ra¿enia, przy zachowaniu niewielkich rozmiarów. Ludzie nigdy nie wyprodukowali takiej broni. Mo¿na j¹ zamontowaæ na standardowym statku pod warunkiem, ¿e pilot nauczy siê specyfiki obs³ugi dzia³ka.
+
+#M_Name_BSL1		= Laser Berserków
+#M_Hint_BSL1		= Laser Berserków|Lekki laser bojowy.
+#M_SDesc_BSL1		= Lekki laser bojowy.
+#M_LDesc_BSL1		= Podczas przetargu na opracowanie nowego lasera bojowego w 2216, InoCo uda³o siê zmniejszyæ wielkoœæ i wagê prototypów. Jednak ich oœrodek badawczy zosta³ zaatakowany przez Berserków, i wiêkszoœæ materia³ów, oraz prototypów zosta³o utracone. Nastêpnego roku sta³o siê oczywiste, ¿e Berserkowie zaczêli u¿ywaæ tych nowych laserów zamontowanych na lekkich statkach bezza³ogowych. Niestety, wiêkszoœæ podzespo³ów nie jest kompatybilna ze zwyk³ymi statkami imperialnymi, dlatego nie da siê zamontowaæ tych dzia³ek bez odpowiedniej przeróbki.
+
+#M_Name_BSL2		= Laser Berserków II
+#M_Hint_BSL2		= Laser Berserków II|Lekki laser bojowy.
+#M_SDesc_BSL2		= Lekki laser bojowy.
+#M_LDesc_BSL2		= Najnowsza generacja laserów stworzona przez AI, wykorzystuje bardziej zaawansowan¹ modyfikacjê lasera skradzionego przez G³ówny Komputer. Nie wa¿ne jak bardzo siê starali, ludzcy eksperci nie umieli skopiowaæ tej broni, ze wzglêdu na zupe³nie now¹ metodê œredniego pompowania. niektórzy podejrzewaj¹, ¿e ta broñ jest wyposa¿ona w technologiê Prekursorów, którzy znacznie przekroczyli nasz¹ znajomoœæ manipulacji energi¹. Jednak¿e, nie oznacza to, ¿e tego rodzaju broni, nie da siê stosowaæ na ludzkich myœliwcach. Zamontowanie jej, wymaga po prostu du¿ego doœwiadczenia w adaptacji technologii.
+
+;---------
 ; Missiles
-;----------
+;---------
 
-#M_Name_DF		= S-4 Dart
-#M_Hint_DF		= S-4 Dart|Unguided missiles.
-#M_SDesc_DF		= A 4-missile pod.
-#M_LDesc_DF		= Unguided missiles of this kind were widely used during the Empire consolidation war. Despite such unavoidable flaws as low accuracy and short lethal range, these missiles are still produced in astronomical amounts. They are most effective against sluggish capital ships. S-4 Dart differs from predecessors only by the fuel brand and the use of a standard 4-missile pod.
+#M_Name_DF		= Strza³ka
+#M_Hint_DF		= S-4 Strza³ka|Rakiety niekierowane.
+#M_SDesc_DF		= Podwieszany zasobnik z czterema rakietami.
+#M_LDesc_DF		= Niekierowane rakiety tego typu by³y szeroko stosowane podczas konsolidacyjnej wojny Imperium. Pomimo nieuniknionych wad takich jak niska dok³adnoœæ i krótki zasiêg, te rakiety s¹ nadal produkowane w astronomicznych iloœciach. S¹ one najbardziej skuteczne przeciwko powolnym okrêtom. S-4 "Strza³ka" ró¿ni siê od poprzedników tylko rodzajem paliwa, i wykorzystaniem standardowego noœnika na 4 pociski.
 
-#M_Name_MM		= S-16 Mini
-#M_Hint_MM		= S-16 Mini|Unguided missiles.
-#M_SDesc_MM		= A 16-missile pod.
-#M_LDesc_MM		= Cheap and easy to use S-16 unguided missiles have gained general acceptance. The pod design allows to fire all sixteen missiles in less than thirty seconds, making the S-16 a deadly weapon in skilled hands. Many pilots prefer unguided missiles for their high resistance against antimissile systems.
+#M_Name_MM		= Mini
+#M_Hint_MM		= S-16 Mini|Rakiety niekierowane.
+#M_SDesc_MM		= Podwieszany zasobnik z szesnastoma rakietami.
+#M_LDesc_MM		= Tanie i ³atwe w u¿yciu, niekierowane rakiety S-16 zyska³y powszechn¹ akceptacjê. Konstrukcja zasobnika pozwala wystrzeliæ wszystkie szesnaœcie rakiet, w mniej ni¿ 20 sekund, co czyni w sprawnych rêkach S-16 zabójcz¹ broni¹. Wielu pilotów woli niekierowane rakiety, ze wzglêdu ¿e maj¹ wysok¹ odpornoœæ na systemy antyrakietowe.
 
-#M_Name_SM3		= S-18 Lance
-#M_Hint_SM3		= S-18 Lance|Unguided missiles.
-#M_SDesc_SM3		= A 16-missile pod.
-#M_LDesc_SM3		= The tremendous popularity of the S-16 Mini forced engineers to develop an upgrade - S-18 Lance. Its warhead carries a more powerful charge and the engine has longer life, thus increasing the lethal range. Though Lance is much more expensive than Mini, mercenaries prefer it as a means of fighting small ships of low generations.
+#M_Name_SM3		= Lanca
+#M_Hint_SM3		= S-18 Lanca|Rakiety niekierowane.
+#M_SDesc_SM3		= Podwieszany zasobnik z szesnastoma rakietami.
+#M_LDesc_SM3		= Ogromna popularnoœæ S-16 "Mini", zmusi³a in¿ynierów do opracowania ulepszonych rakiet tego typu - S-18 'Lanca". G³owica tej rakiety przenosi ³adunek o wiêkszej mocy, a silnik ma d³u¿sz¹ ¿ywotnoœæ, zwiêkszaj¹c w ten sposób œmiertelny zasiêg. Choæ "Lance" s¹ znacznie dro¿sze od "Mini", to najemnicy wol¹ je, jako œrodek do walki z ma³ymi statkami, szczególnie tymi z ni¿szych generacji.
 
-#M_Name_SM4		= S-32 Hailstorm
-#M_Hint_SM4		= S-32 Hailstorm|Unguided missiles.
-#M_SDesc_SM4		= A 32-missile pod.
-#M_LDesc_SM4		= The compact and powerful S-32 unguided missiles have just been adopted, but have already gained general acceptance. The pod design allows to fire all sixteen missiles in less than thirty seconds, making the S-32 a deadly weapon in skilled hands. A hailstorm of these missiles confuses active antimissile systems and is not affected by passive system interference. Missile gurus that like to fire single manually aimed missiles have already nicknamed the Hailstorm a "scaremonger weapon" for pilots that prefer to win by quantity, not quality.
+#M_Name_SM4		= Hailstorm
+#M_Hint_SM4		= S-32 Hailstorm|Rakiety niekierowane.
+#M_SDesc_SM4		= Podwieszany zasobnik z trzydziestoma dwoma rakietami.
+#M_LDesc_SM4		= Kompaktowe i wydajne niekierowane rakiety S-32 zosta³y przyjête niedawno, ale ju¿ zyska³y powszechn¹ akceptacjê. Konstrukcja zasobnika pozwala wystrzeliæ wszystkie szesnaœcie rakiet, w mniej ni¿ 20 sekund, co czyni w sprawnych rêkach S-32 zabójcz¹ broni¹. Rakiety typu "Hailstorm" myl¹ aktywne systemy antyrakietowe, bez biernej ingerencji w system. Rakietowi "guru" którzy lubi¹ strzelaæ pojedynczymi, rêcznie skierowanymi rakietami, nadali tym rakietom przydomek "Broñ panikarza" dla pilotów, którzy, aby wygraæ wol¹ postawiæ na iloœæ, a nie na jakoœæ. 
 
-#M_Name_SRM1	= SRM-6E Piranha
-#M_Hint_SRM1	= SRM-6E Piranha|Short-range missiles.
-#M_SDesc_SRM1	= A 3-missile pod.
-#M_LDesc_SRM1	= Despite short lethal range and obsolete IR homing guidance systems, these missiles are still a threat to foes without modern antimissile defenses. SRM-6E were removed from the MSF inventory more than forty years ago, but are still produced in large amounts for the Patrol and open market.
+#M_Name_SRM1		= Pirania
+#M_Hint_SRM1		= SRM-6E Pirania|Pociski bliskiego zasiêgu.
+#M_SDesc_SRM1		= Podwieszany zasobnik z trzema pociskami.
+#M_LDesc_SRM1		= Pomimo krótkiego zasiêgu, i przestarza³ych systemów naprowadzania cieplnego, te pociski nadal stanowi¹ zagro¿enie, dla przeciwników bez nowoczesnej obrony antyrakietowej. SRM-6E zosta³y usuniête z wyposa¿enia MSF ponad czterdzieœci lat temu, ale nadal s¹ produkowane w du¿ych iloœciach dla Patrolu i na otwarty rynek. 
 
-#M_Name_SRM2	= SRM-8M Dagger
-#M_Hint_SRM2	= SRM-8M Dagger|Short-range missiles.
-#M_SDesc_SRM2	= A 3-missile pod.
-#M_LDesc_SRM2	= The SRM-8M were long unsurpassed thanks to the very complex guidance system that locked on targets by IR and electromagnetic emissions as well as neutron emission of the main reactor. For many years there had been no effective means of protection against these missiles, and SRM-8M were produced in large amounts in more than twenty SRM-8 modifications. While newer antimissile systems can effectively protect against SRM-8M, these missiles are still highly popular.
+#M_Name_SRM2		= Kind¿a³
+#M_Hint_SRM2		= SRM-8M Kind¿a³|Pociski bliskiego zasiêgu.
+#M_SDesc_SRM2		= Podwieszany zasobnik z trzema pociskami.
+#M_LDesc_SRM2		= Dziêki nowoczesnemu systemowi naprowadzania, "Kind¿a³y" nie mia³y sobie równych przez bardzo d³ugi czas. Cel namierzany by³ na zasadzie emisji ciep³a, jak i fal elektromagnetycznych, a tak¿e strumienia neutronów g³ównego reaktora. Przez wiele lat nikt nie opracowa³ skutecznej metody unikania tych pocisków, st¹d produkowano je w ogromnych iloœciach. Model SRM-8M doczeka³ siê oko³o 20 ró¿nych modyfikacji. Podczas gdy nowsze systemy antyrakietowe mog¹ skutecznie chroniæ przed SRM-8M, pociski te, s¹ nadal bardzo popularne.
 
-#M_Name_SRM3	= SRM-15 Warhawk
-#M_Hint_SRM3	= SRM-15 Warhawk|Short-range missiles.
-#M_SDesc_SRM3	= A 3-missile pod.
-#M_LDesc_SRM3	= The SRM-15 was jointly developed by the MSF and corporations to replace the SRM-8M Dagger ineffective against modern antimissile systems. Initially this missile was welcomed with skepticism, but it quickly proved itself worthy, dealing considerable damage and avoiding antimissile defenses of middle generations.
+#M_Name_SRM3		= Jastrz¹b
+#M_Hint_SRM3		= SRM-15 Jastrz¹b|Pociski bliskiego zasiêgu.
+#M_SDesc_SRM3		= Podwieszany zasobnik z trzema pociskami.
+#M_LDesc_SRM3		= SRM-15 zosta³ opracowany wspólnie prze MSF i korporacje, aby zast¹piæ SRM-8M "Kind¿a³", które sta³y siê nieskuteczne, przeciwko nowoczesnym systemom antyrakietowym. Pocz¹tkowo pociski zosta³y przyjête sceptycznie, ale szybko okaza³y siê godne, zadaj¹c znaczne szkody, i unikaj¹c obronê antyrakietow¹ œredniej generacji.
 
-#M_Name_SRM4	= SRM-24 Scorpion
-#M_Hint_SRM4	= SRM-24 Scorpion|Short-range missiles.
-#M_SDesc_SRM4	= A 6-missile pod.
-#M_LDesc_SRM4	= The SRM-24 was developed by InoCo to replace the SRM-15. Compact size at high power provided for increased ammo capacity. It's still hard to say how successful the engineers were with this project, but certain amounts of these missiles have already made their way to the black market.
+#M_Name_SRM4		= Skorpion
+#M_Hint_SRM4		= SRM-24 Skorpion|Pociski bliskiego zasiêgu.
+#M_SDesc_SRM4		= Podwieszany zasobnik z szeœcioma pociskami.
+#M_LDesc_SRM4		= SRM-24 zosta³ opracowany przez InoCo, aby zast¹piæ SRM-15. Kompaktowe wymiary i du¿a moc zapewni³y zwiêkszenie iloœci przenoszonej amunicji. Na razie trudno powiedzieæ jak skuteczni byli in¿ynierowie z tym projektem, ale pewne iloœci tych pocisków ju¿ trafi³y na czarny rynek.
 
-#M_Name_AlienSRM	= Alien Missile Launcher
-#M_Hint_AlienSRM	= Alien Missile Launcher|Alien missiles.
-#M_SDesc_AlienSRM	= A 5-missile pod.
-#M_LDesc_AlienSRM	= Sometimes they find perfectly intact missile pods among Alien ship debris. The founding principles of their engines and targeting systems are unknown, but such missiles easily avoid latest antimissile defenses and inflict considerable damage. A scientist or a technician with a high equipment adaptation skill would be able to use this weapon as a regular missile launcher.
+#M_Name_ALIENSRM	= Wyrzutnia pocisków Obcych
+#M_Hint_ALIENSRM	= Wyrzutnia pocisków Obcych|Pociski bliskiego zasiêgu.
+#M_SDesc_ALIENSRM	= Podwieszany zasobnik z piêcioma pociskami.
+#M_LDesc_ALIENSRM	= Czasami mo¿na znaleŸæ nienaruszone systemy antyrakietowe pomiêdzy szcz¹tkami statków Obcych. Podstawowe zasady ich silników i systemów kierowania nie s¹ znane, ale takie pociski ³atwo unikaj¹ najnowsze systemy antyrakietowe i wyrz¹dzaj¹ znaczne szkody. Naukowiec lub technik o wysokich umiejêtnoœciach adaptacji sprzêtu, bêdzie w stanie korzystaæ z tej broni, jak ze zwyk³ej wyrzutni pocisków.
 
-#M_Name_AlienPoisonTorpedo	= Alien Nano Torpedo
-#M_Hint_AlienPoisonTorpedo	= Alien Nano Torpedo|Alien missiles.
-#M_SDesc_AlienPoisonTorpedo	= A 1-missile pod.
-#M_LDesc_AlienPoisonTorpedo	= One of the deadliest Alien missiles, this one carries multitudes of combat nanobots. Unlike their counterparts of human make, these nanobots can recognize friend from foe and can dismantle enemy ships in split seconds. Since shields are completely useless against these nanobots, the only way to save the attacked ship is to start up all available repair systems.
+#M_Name_LRM1		= Rekin
+#M_Hint_LRM1		= LRM-7 Rekin|Pociski dalekiego zasiêgu.
+#M_SDesc_LRM1		= Podwieszany zasobnik z dwoma pociskami.
+#M_LDesc_LRM1		= LRM-7 "Rekin" to pierwszy pocisk dalekiego zasiêgu, który zosta³ stworzony do masowej produkcji. Okaza³ siê on tak skuteczny, ¿e by³ on w zaopatrzeniu MSF, Patrolu, przestêpców i ³owców nagród ponad 70 lat. Ta wyrzutnia pocisków jest niezawodna i niedroga, jednak nie mo¿e siê siê pochwaliæ du¿¹ moc¹, z powodu rozpowszechnienia nowoczesnych systemów antyrakietowych.
 
-#M_Name_LRM1	= LRM-7 Starshark
-#M_Hint_LRM1	= LRM-7 Starshark|Long-range missiles.
-#M_SDesc_LRM1	= A 2-missile pod.
-#M_LDesc_LRM1	= The LRM-7 Starshark is the first long-range missile weapon that made it to mass production. It turned out to be so successful that it was in the inventory of the MSF, Patrol, criminals and bounty hunters for over seventy years. Reliable and inexpensive, this missile launcher, however, cannot boast of high lethal power due to the recent spread of high-tech antimissile systems.
+#M_Name_LRM2		= Lawina
+#M_Hint_LRM2		= LRM-9 Lawina|Pociski dalekiego zasiêgu.
+#M_SDesc_LRM2		= Podwieszany zasobnik z dwoma pociskami.
+#M_LDesc_LRM2		= LRM-9 "Lawina" jest powa¿n¹ modernizacj¹ pocisku LRM-7. Oferuje on ulepszony system napêdowy, nowe materia³y osnowy i przerobiony system naprowadzania. Wszystko to zapewnia du¿y zasiêg, i odpornoœæ na systemy antyrakietowe.
 
-#M_Name_LRM2	= LRM-9 Avalanche
-#M_Hint_LRM2	= LRM-9 Avalanche|Long-range missiles.
-#M_SDesc_LRM2	= A 2-missile pod.
-#M_LDesc_LRM2	= The LRM-9 Avalanche is a serious upgrade of the LRM-7. It features improved propulsion system, new carcass materials and reworked guidance system. All this provides for the long range and resistance against antimissile systems.
+#M_Name_LRM3		= ALRM
+#M_Hint_LRM3		= LRM-11 ALRM|Pociski dalekiego zasiêgu.
+#M_SDesc_LRM3		= Podwieszany zasobnik z dwoma pociskami.
+#M_LDesc_LRM3		= Dziêki najd³u¿szemu œmiertelnemu zasiêgowi, ALRM mo¿e zostaæ uwolniony daleko poza zasiêgiem skanerów wroga - skutecznie, bezpiecznie i nieoczekiwanie. Udane trafienie wymaga zaawansowanych czujników na atakuj¹cym statku, lub wsparcia ze skrzyd³a zwiadowczego. Ze wzglêdu na cenê, uwa¿an¹ przez wielu za wygórowan¹, ALRM nie jest bardzo popularne, ale jest powszechnie u¿ywane przez si³y specjalne.
 
-#M_Name_LRM3	= ALRM
-#M_Hint_LRM3	= ALRM|Long-range missiles.
-#M_SDesc_LRM3	= A 2-missile pod.
-#M_LDesc_LRM3	= Thanks to the longest lethal range, ALRM can be fired from far outside the reach of enemy scanners - effective, safe and unexpected. A successful hit would require advanced sensors on the attacking vessel or support from a recon wing. Due to the price, considered by many as exorbitant, ALRM isn't very popular, but is widely used by special forces.
+#M_Name_LRM4		= Szerszeñ
+#M_Hint_LRM4		= LRM-12 Szerszeñ|Pociski dalekiego zasiêgu.
+#M_SDesc_LRM4		= Podwieszany zasobnik z dwoma pociskami.
+#M_LDesc_LRM4		= Wykorzystanie bezdotykowego detonatora, rzucaj¹cego gêste strumienie rdzeni uranowych na napastników, zmieni³o pociski LRM-12 "Szerszeñ" w bardzo skuteczn¹ i zabójcz¹ broñ. Ten pocisk wyró¿nia d³uga ¿ywotnoœæ silnika, mo¿e on tak¿e unikaæ najnowsz¹ antyrakietow¹ obronê, oraz jest w stanie zadaæ kolosalne szkody. Wysoka cena nie pozwoli³a na konsolidacjê pocisku na rynku, dla tego "Szerszenie" s¹ u¿ywane tylko przez elitarne si³y MSF.
 
-#M_Name_LRM4	= LRM-12 Hornet
-#M_Hint_LRM4	= LRM-12 Hornet|Long-range missiles.
-#M_SDesc_LRM4	= A 2-missile pod.
-#M_LDesc_LRM4	= Use of contact-free detonator throwing dense streams of uranium cores at attackers turned LRM-12 Hornet into a very efficient and lethal weapon. This missile is distinguished by long engine life, can avoid latest antimissile defenses and is capable of inflicting colossal damage. High price prevented it from consolidating on the market, so Hornets are only used by elite MSF forces.
+#M_Name_T1		= Egzekutor
+#M_Hint_T1		= T-4 Egzekutor|Ciê¿ka torpeda.
+#M_SDesc_T1		= Podwieszany zasobnik z jedn¹ torped¹.
+#M_LDesc_T1		= Korzystanie z torped wymaga szlifowania umiejêtnoœci i ostro¿noœci. D³ugo nakierowuj¹ siê na cel, zaœ promieñ wybuchu jest na tyle du¿y, ¿e trzeba je odpalaæ z jak najwiêkszej odleg³oœci. Torpedy te zaprojektowano do walki z du¿ymi statkami, poniewa¿ nie s¹ wystarczaj¹co szybkie i zwrotne, ¿eby skutecznie eliminowaæ myœliwce.
 
-#M_Name_T1		= T-4 Eraser
-#M_Hint_T1		= T-4 Eraser|Torpedo
-#M_SDesc_T1		= A single torpedo.
-#M_LDesc_T1		= Using antivessel torpedoes requires honed skills and caution. Since torpedoes need a long time to lock on targets and have a long lethal range, it is recommended to launch them at a maximum distance. Developed as means of eliminating capital ships, torpedoes have neither speed, no maneuverability required to hit a fighter.
+#M_Name_T2		= Anio³ Œmierci
+#M_Hint_T2		= T-6 Anio³ Œmierci|Ciê¿ka torpeda.
+#M_SDesc_T2		= Podwieszany zasobnik z jedn¹ torped¹.
+#M_LDesc_T2		= T-6 wykona³a doskona³¹ pracê podczas badañ rozwojowych. Jednak w rzeczywistoœci ma jedn¹ nieusuwaln¹ wadê: jej przewra¿liwiony detonator mozna aktywowaæ przez silne wibracje lub wstrz¹sy, przez co g³owica mo¿e wybuchn¹æ przed wystrzeleniem. Dziêki du¿ej sile ognia, ta torpeda mo¿e zniszczyæ lub przynajmniej mocno uszkodziæ ca³y zespó³ napastników.
 
-#M_Name_T2		= T-6 Hellbringer
-#M_Hint_T2		= T-6 Hellbringer|Torpedo
-#M_SDesc_T2		= A single torpedo.
-#M_LDesc_T2		= T-6 did a perfect job during the development tests. However, it actually has one irremovable drawback: its oversensitive detonator can be activated spontaneously by heavy vibration or shock, so the warhead might explode in its launching shoe. Thanks to high firepower, this torpedo can destroy or at least heavily damage a whole team of attackers.
+#M_Name_T3		= Supernova
+#M_Hint_T3		= T-9 Supernova|Ciê¿ka torpeda.
+#M_SDesc_T3		= Podwieszany zasobnik z jedn¹ torped¹.
+#M_LDesc_T3		= T-9 by³o logicznym rozwiniêciem T-6 z dodatkiem technologii Obcych, co naprawi³o spontaniczn¹ eksplozjê. Jej wzmocniona g³owica mo¿e zniszczyæ du¿y statek, a nawet stacjê. Jednak z³o¿onoœæ produkowania, wysoka cena i nadmierna si³a ognia zapobieg³y dostaniu siê tych torped do masowej produkcji.
 
-#M_Name_T3		= T-9 Supernova
-#M_Hint_T3		= T-9 Supernova|Torpedo
-#M_SDesc_T3		= A single torpedo.
-#M_LDesc_T3		= The T-9 was a logical development of the T-6 with addition of Alien technologies to fix spontaneous detonation. Its reinforced warhead can demolish a large ship or even a station. However, manufacture complexity, high price and excessive firepower prevent these torpedoes from going into mass production.
+#M_Name_MIRV1		= Rój
+#M_Hint_MIRV1		= MIRV-1 Rój|Pocisk wielog³owicowy.
+#M_SDesc_MIRV1		= Podwieszany zasobnik z jednym pociskiem.
+#M_LDesc_MIRV1		= Pociski z g³owicami typu MIRV to najnowsza zdobycz techniki. Ten model mo¿e pochwaliæ siê doœæ du¿ym zasiêgiem dzia³ania, odpornoœci¹ na zak³ócenia oraz systemy antyrakietowe oraz potê¿n¹ si³¹ ra¿enia. Po zbli¿eniu siê do wroga pocisk rozdziela siê na cztery mniejsze, ka¿dy z nich jest w stanie sam sobie wybraæ cel, albo dynamicznie prze³¹czyæ siê na inny, jeœli obiekt g³ówny zosta³ zniszczony.
 
-#M_Name_MIRV1	= MIRV Swarm
-#M_Hint_MIRV1	= MIRV Swarm|MIRV missile
-#M_SDesc_MIRV1	= A single missile.
-#M_LDesc_MIRV1	= Multiple independently reentry vehicles (MIRVs) are the last word in missile weaponry. Decent range, resistance against interference and active antimissile systems and tremendous lethal power make MIRV missiles a deadly and effective weapon. On approaching the target MIRV Swarm separates into four independent self-guided missiles capable of locking on targets and re-locking, if the previous target has been destroyed.
+#M_Name_MIRV2		= Tornado
+#M_Hint_MIRV2		= MIRV-2 Tornado|Pocisk wielog³owicowy.
+#M_SDesc_MIRV2		= Podwieszany zasobnik z jednym pociskiem..
+#M_LDesc_MIRV2		= MIRV-2 "Tornado" jest modernizacj¹ pocisku MIRV-1 "Rój" wyposa¿on¹ w osiem g³owic. Kiedy dobrze siê go u¿ywa, jeden taki pocisk mo¿e zniszczyæ ca³y zespó³ myœliwców pierwszej generacji. Jak "Rój", pocisk ten to rzadka okazja na otwartym rynku, i kosztuje ogromne pieni¹dze.
 
-#M_Name_MIRV2	= MIRV-2 Tornado
-#M_Hint_MIRV2	= MIRV-2 Tornado|MIRV missile
-#M_SDesc_MIRV2	= A single missile.
-#M_LDesc_MIRV2	= The MIRV-2 Tornado is an upgrade of the MIRV Swarm equipped with eight warheads. When used right, one such missile can destroy a whole team of first-generation fighters. Like the Swarm, it's a rare offer on the open market and costs huge money.
+#M_Name_MIRV3		= ¯niwiarz
+#M_Hint_MIRV3		= MIRV-3 ¯niwiarz|Pocisk wielog³owicowy.
+#M_SDesc_MIRV3		= Podwieszany zasobnik z trzema pociskami.
+#M_LDesc_MIRV3		= MIRV-3 "¯niwiarz" jest modernizacj¹ MIRV-2 "Tornado", wyposa¿on¹ w 10 g³owic które kopiuj¹ konstrukcjê pocisków Obcych. Kompaktowy rozmiar "¯niwiarza" pozwoli³ na monta¿ trzech pocisków na raz, co oznacza ¿e atakuj¹cy mo¿e pokryæ du¿y obszar, i skutecznie walczyæ z du¿ymi statkami wroga.
 
-#M_Name_MIRV3	= MIRV-3 Reaper
-#M_Hint_MIRV3	= MIRV-3 Reaper|MIRV missile
-#M_SDesc_MIRV3	= A 3-missile pod.
-#M_LDesc_MIRV3	= The MIRV-3 Reaper is an upgrade of the MIRV-2 Tornado equipped with ten warheads that copy Alien missile design. Reaper's compact size allows to mount three missiles at once, meaning that the attacker can cover a large area and effectively fight large enemy ships.
+#M_Name_ALIENPOISONTORPEDO	= Nano-torpeda Obcych
+#M_Hint_ALIENPOISONTORPEDO	= Nano-torpeda Obcych|Ciê¿ka torpeda.
+#M_SDesc_ALIENPOISONTORPEDO	= Podwieszany zasobnik z jednym pociskiem.
+#M_LDesc_ALIENPOISONTORPEDO	= Jedna z najgroŸniejszych torped Obcych, przenosi ona rzesze nanobotów bojowych. W przeciwieñstwie do swoich odpowiedników stworzonych przez ludzi, te nanoboty rozpoznaj¹ przyjaciela od wroga, i mog¹ zdemontowaæ wrogie statki w u³amku sekundy. Poniewa¿ tarcze s¹ ca³kowicie bezu¿yteczne wobec tych nanobotów, jedynym sposobem, aby uratowaæ statek, jest uruchomienie wszystkich dostêpnych systemów naprawczych.
 
-;----------
+;--------
 ; Systems
-;----------
+;--------
 
-; RADARS
+;---------------
+; Radars systems
+;---------------
 
-#M_Name_LRS1	= Scout
-#M_Hint_LRS1	= Scout|Early warning scanner
-#M_SDesc_LRS1	= An early warning scanner.
-#M_LDesc_LRS1	= Range: 170 clicks.|While these units are most often called "radars", they are essentially not. Radars ceased to be a reliable means of target detection and tracking about two centuries ago, because of newer materials used in vessels as well as higher speeds and longer ranges. A discovery of the principle allowing to instantly detect changes in density of space at a certain range from the vessel was truly a solution. In 2145, the MSF adopted systems based on this principle and they have been used ever since. The Scout is an add-on for such a system that increases its range and chances to detect low-signature targets.
+#M_Name_LRS1		= Zwiadowca
+#M_Hint_LRS1		= Zwiadowca|Skaner dalekiego zasiêgu.
+#M_SDesc_LRS1		= Skaner dalekiego zasiêgu.
+#M_LDesc_LRS1		= Zasiêg: 170 km.|Choæ nazywa siê je radarami, systemy te nie s¹ oparte na metodzie radiolokacyjnej. Od momentu gdy fale radarowe przesta³y byæ skuteczn¹ metod¹ wykrywania obiektów minê³y dwa wieki. Sta³o siê to za spraw¹ du¿ych prêdkoœci statków, zmiany materia³ów konstrukcyjnych, ponadto potrzebne by³o urz¹dzenie dzia³aj¹ce na znacznie wiêkszy zasiêg. Natychmiastowe wykrywanie zmian w gêstoœci przestrzeni wokó³ statku kosmicznego sta³o siê mo¿liwe dopiero za spraw¹ nowej technologii. Nowe systemy radarowe WSK zakupi³o w roku 2145, obecnie s¹ one ogólnodostêpne. "Zwiadowca" ma postaæ dodatkowego modu³u, który zamontowany w systemie nawigacyjnym statku pozwala zwiêkszyæ zasiêg jego dzia³ania i prawdopodobieñstwo wykrycia s³abo widocznych obiektów.
 
-#M_Name_LRS2	= Ranger
-#M_Hint_LRS2	= Ranger|Early warning scanner
-#M_SDesc_LRS2	= An early warning scanner.
-#M_LDesc_LRS2	= Range: 200 clicks.|Like the Scout, it's an add-on unit connected to a standard fighter EWS. It primarily improves stability, allowing the EWS to work at maximum power.
+#M_Name_LRS2		= £owca
+#M_Hint_LRS2		= £owca|Skaner dalekiego zasiêgu.
+#M_SDesc_LRS2		= Skaner dalekiego zasiêgu.
+#M_LDesc_LRS2		= Zasiêg: 200 km.|Podobnie jak "Zwiadowca" jest to dodatkowy modu³ wspomagaj¹cy standardowe systemy nawigacyjne, montowane w nowoczesnych myœliwcach. Najwa¿niejszym zadaniem jest zapewniæ stabiln¹ pracê g³ównego systemu przy zachowaniu maksymalnej wydajnoœci.
 
-#M_Name_LRS3	= Sentry
-#M_Hint_LRS3	= Sentry|Early warning scanner
-#M_SDesc_LRS3	= An early warning scanner.
-#M_LDesc_LRS3	= Range: 250 clicks.|Increases scanner resolution (better chances to detect low-signature targets).|Unlike the previous EWS's, the Sentry features an heuristic unit that is better for detecting and recognizing targets at a long range or in interference zones like nebulas or meteorite clouds. Besides, the capability to better detect cloaked enemy vessels makes the Sentry indispensable for recon missions.
+#M_Name_LRS3		= Stra¿nik
+#M_Hint_LRS3		= Stra¿nik|Skaner dalekiego zasiêgu.
+#M_SDesc_LRS3		= Skaner dalekiego zasiêgu.
+#M_LDesc_LRS3		= Zasiêg: 250 km.|Zwiêksza rozdzielczoœæ skanera (lepsze szanse na wykrycie s³abo widocznych celów).|W przeciwieñstwie do poprzednich skanerów, "Stra¿nik" posiada jednostkê heurystyczn¹, która sprawuje siê lepiej w rozpoznawaniu celów na dalekich dystansach, lub w strefach zak³óceñ takich jak mg³awice, lub chmury meteorytów. Poza tym, zdolnoœæ do lepszego wykrywania zamaskowanych statków sprawia, ¿e "Stra¿nik" jest niezbêdny przy misjach rozpoznawczych.
 
-#M_Name_LRS4	= Agent
-#M_Hint_LRS4	= Agent|Early warning scanner
-#M_SDesc_LRS4	= An early warning scanner.
-#M_LDesc_LRS4	= Range: 350 clicks.|Increases scanner resolution (better chances to detect low-signature targets).|One of the latest developments of corporations in the area of early warning scanners for fighters and light vessels. The Agent was created more than eight years ago and successfully passed all test stages. For many years it has been in most demand on the market, fully covering the expenses, as in combat the first to see a target is often the first to kill it.
+#M_Name_LRS4		= Szpieg
+#M_Hint_LRS4		= Szpieg|Skaner dalekiego zasiêgu.
+#M_SDesc_LRS4		= Skaner dalekiego zasiêgu.
+#M_LDesc_LRS4		= Zasiêg: 350 km.|Zwiêksza rozdzielczoœæ skanera (lepsze szanse na wykrycie s³abo widocznych celów).|Jeden z najnowszych osi¹gniêæ korporacji w dziedzinie skanerów wczesnego ostrzegania dla myœliwców i lekkich statków. "Szpieg" powsta³ ponad osiem lat temu, i pomyœlnie przeszed³ wszystkie etapy badañ. Od wielu lat ma du¿y popyt na rynku, i w pe³ni pokrywa swoje koszty w walce, daj¹c szansê na wczesne wykrycie i zniszczenie celu.
 
-; ECM
+;---------------
+; ??????????????
+;---------------
 
-#M_Name_ECM1	= Mistral
-#M_Hint_ECM1	= Mistral|Flare release system
-#M_SDesc_ECM1	= A flare release system.
-#M_LDesc_ECM1	= Missile intercept efficiency: 10 (can intercept missiles of the 1st generation).|On detecting locked-on self-guided missiles the Mistral automatically fires small blobs of high-temperature plasma. Unfortunately, these rather primitive devices are only effective against heat-seeking missiles without additional lock-on means.
+#M_Name_ECM1		= Mistral
+#M_Hint_ECM1		= Mistral|System zak³ócaj¹cy.
+#M_SDesc_ECM1		= System zak³ócaj¹cy.
+#M_LDesc_ECM1		= Efektywnoœæ przechwytywania pocisków: 10 (mo¿e przechwyciæ pociski 1 generacji).|Po wykryciu zagro¿enia system wystrzeliwuje niewielkie drobiny plazmy o bardzo wysokiej temperaturze. Niestety, to doœæ prymitywna metoda obrony, dzia³aj¹ca jedynie na pociski nakierowywane metod¹ termiczn¹.
 
-#M_Name_ECM2	= Storm
-#M_Hint_ECM2	= Storm|Flare release system
-#M_SDesc_ECM2	= A flare release system.
-#M_LDesc_ECM2	= Missile intercept efficiency: 20 (can intercept missiles of the 2nd generation).|The Storm is the next step in the development of passive antimissile systems. Its flares are fired automatically, when a self-guided missile is approaching. At that, flares imitate temperature conditions of a fighter engine, thus giving a better chance to intercept a more advanced missile.
+#M_Name_ECM2		= Burza
+#M_Hint_ECM2		= Burza|System zak³ócaj¹cy.
+#M_SDesc_ECM2		= System zak³ócaj¹cy.
+#M_LDesc_ECM2		= Efektywnoœæ przechwytywania pocisków: 20 (mo¿e przechwyciæ pociski 2 generacji).|"Burza" jest nastêpnym krokiem w rozwoju biernych systemów antyrakietowych. Jej flary s¹ wystrzeliwane automatycznie, gdy naprowadzany pocisk znajdzie siê w pobli¿u. Flary naœladuj¹ warunki temperaturowe panuj¹ce w silniku myœliwca, daj¹c tym samym wiêksze szanse na przechwycenie bardziej zaawansowanych pocisków.
 
-#M_Name_ECM3	= Squall
-#M_Hint_ECM3	= Squall|Flare release system
-#M_SDesc_ECM3	= A flare release system.
-#M_LDesc_ECM3	= Missile intercept efficiency: 30 (can intercept missiles of the 3rd generation).|The Squall is one of the most reliable and well-proven antimissile systems. To intercept homing missiles, it fires rather complex devices that precisely mimic temperature and electromagnetic conditions of a fighter engine. This FRS can intercept nearly all self-guided missiles available on the market.
+#M_Name_ECM3		= Szkwa³
+#M_Hint_ECM3		= Szkwa³|System zak³ócaj¹cy.
+#M_SDesc_ECM3		= System zak³ócaj¹cy.
+#M_LDesc_ECM3		= Efektywnoœæ przechwytywania pocisków: 30 (mo¿e przechwyciæ pociski 3 generacji).|"Szkwa³" jest jednym z najbardziej wiarygodnych i sprawdzonych systemów antyrakietowych. Do przechwytywania nadlatuj¹cych pocisków, wystrzeliwuje doœæ skomplikowane urz¹dzenia, które dok³adnie naœladuj¹ temperaturê i warunki elektromagnetyczne w silniku myœliwca. Ten system zak³ócaj¹cy, mo¿e przechwyciæ niemal wszystkie pociski dostêpne na rynku.
 
-#M_Name_ECM4	= Cyclone
-#M_Hint_ECM4	= Cyclone|Flare release system
-#M_SDesc_ECM4	= A flare release system.
-#M_LDesc_ECM4	= Missile intercept efficiency: 40 (reliably intercepts missiles of the 3rd generation).|The most advanced of all passive antimissile systems, the Cyclone has successfully passed all tests. Devices it uses to intercept missiles mimic temperature and electromagnetic conditions as well as changes in the density of space that correspond to a fighter. How this has been achieved is not quite clear, but according to reliable sources, this FRS managed to misguide even vessel sensors during its tests. The Cyclone also features vessel maneuver tracking unit and can calculate the optimal time to release a flare. All in all, this means nearly guaranteed invulnerability to all existing missiles.
+#M_Name_ECM4		= Cyklon
+#M_Hint_ECM4		= Cyklon|System zak³ócaj¹cy.
+#M_SDesc_ECM4		= System zak³ócaj¹cy.
+#M_LDesc_ECM4		= Efektywnoœæ przechwytywania pocisków: 40 (mo¿e przechwyciæ pociski 4 generacji).|Najbardziej zaawansowany z wszystkich pasywnych systemów antyrakietowych, "Cyklon" przeszed³ pomyœlnie wszystkie testy. Urz¹dzenie przechwytuje pociski za pomoc¹ naœladowania warunków temperaturowych i elektromagnetycznych, jak równie¿ zmiany gêstoœci przestrzeni która odpowiada myœliwcowi. Jak uda³o siê to osi¹gn¹æ, jeszcze nie jest jasne, ale wed³ug wiarygodnych Ÿróde³, ten system zak³ócania zdo³a³ wprowadziæ w b³¹d nawet czujniki statku, podczas jego badañ. Cyklon posiada równie¿ modu³ œledzenia manewrów statku, co pozwala obliczyæ optymalny czas, na zwolnienie flar. W sumie oznacza to, niemal gwarantowan¹ nietykalnoœæ, ze strony wszystkich istniej¹cych pocisków.
 
-; AMS
+;---------------------------
+; Active anty-missle systems
+;---------------------------
 
-#M_Name_AMS1	= Boxer
-#M_Hint_AMS1	= Boxer|Active antimissile system
-#M_SDesc_AMS1	= An active antimissile system.
-#M_LDesc_AMS1	= This system is designed to destroy missiles locked on ships of your team. Missile interception efficiency: 10. You must be in the Antimissile Defense state to protect other ships of your team.|AAMS Boxer is a self-guided rapid-fire laser capable of tracking trajectories of enemy missiles and destroying them on approach. In many situations this system is more effective than passive antimissile systems as it can track all enemy missiles locked on friendly ships of the same team. The only drawback of an AAMS is that it consumes much energy and computer power, thus preventing a vessel from using weapons and other systems in combat.
+#M_Name_AMS1		= Bokser
+#M_Hint_AMS1		= Bokser|Aktywny system anty-rakietowy.
+#M_SDesc_AMS1		= Aktywny system anty-rakietowy.
+#M_LDesc_AMS1		= System ten, jest przeznaczony do niszczenia pocisków atakuj¹cych statki w twoim zespole. Wydajnoœæ przechwytywania rakiet: 10. Musisz mieæ w³¹czony status obrony antyrakietowej, aby chroniæ inne statki w twoim zespole.|AMS "Bokser" posiada w³asny system namierzania szybkostrzelnego lasera, który jest w stanie œledziæ trajektoriê pocisków wroga, i zniszczyæ je, przed zbli¿eniem siê, W wielu sytuacjach ten system jest bardziej efektywny ni¿ pasywne systemy antyrakietowe, gdy¿ mo¿e œledziæ wszystkie pociski wroga, atakuj¹ce statki w tej samej dru¿ynie. jedyn¹ wad¹ jest to, ¿e system AMS zu¿ywa du¿o energii i mocy komputera, nie pozwalaj¹c w ten sposób na u¿ycie broni, lub innych systemów w walce.
 
-#M_Name_AMS2	= Gladiator
-#M_Hint_AMS2	= Gladiator|Active antimissile system
-#M_SDesc_AMS2	= An active antimissile system.
-#M_LDesc_AMS2	= This system is designed to destroy missiles locked on ships of your team. Missile interception efficiency: 20. You must be in the Antimissile Defense state to protect other ships of your team.|AAMS Gladiator is a quad rapid-fire laser with a shared guidance and tracking system. Each laser barrel has an independent suspension that allows to fire at four targets at the same time. For a long time the Gladiator has been produced only for military needs, and even now it may be difficult to find on the open market.
+#M_Name_AMS2		= Gladiator
+#M_Hint_AMS2		= Gladiator|Aktywny system anty-rakietowy.
+#M_SDesc_AMS2		= Aktywny system anty-rakietowy.
+#M_LDesc_AMS2		= System ten, przeznaczony jest do niszczenia pocisków atakuj¹cych statki w danym zespole. Wydajnoœæ przechwytywania rakiet: 20. Musisz mieæ w³¹czony status obrony antyrakietowej, aby chroniæ inne statki w twoim zespole.|AMS "Gladiator" to czworok¹tny szybkostrzelny laser, ze wspólnym systemem œledzenia i naprowadzania. Ka¿de dzia³ko laserowe posiada niezale¿ne zawieszenie, które pozwala na strzelanie do czterech celów, w tym samym czasie. przez d³ugi czas "Gladiator" by³ produkowany tylko dla potrzeb wojskowych, ale nawet teraz trudno go znaleŸæ na wolnym rynku.
 
-#M_Name_AMS3	= Berserk
-#M_Hint_AMS3	= Berserk|Active antimissile system
-#M_SDesc_AMS3	= An active antimissile system.
-#M_LDesc_AMS3	= This system is designed to destroy missiles locked on ships of your team. Missile interception efficiency: 30. You must be in the Antimissile Defense state to protect other ships of your team.|AAMS Berserk is a classic quad rapid-fire laser similar to Gladiator. However, it utilizes a newer processor and updated targeting algorithms, which considerably increase barrage density. Until 2224, it was used solely by InoCo and was considered a top-secret technology.
+#M_Name_AMS3		= Berserk
+#M_Hint_AMS3		= Berserk|Aktywny system anty-rakietowy.
+#M_SDesc_AMS3		= Aktywny system anty-rakietowy.
+#M_LDesc_AMS3		= System ten, przeznaczony jest do niszczenia pocisków atakuj¹cych statki w danym zespole. Wydajnoœæ przechwytywania rakiet: 30. Musisz mieæ w³¹czony status obrony antyrakietowej, aby chroniæ inne statki w twoim zespole.|AMS "Berserk" to klasyczny czworok¹tny szybkostrzelny laser, podobny do "Gladiatora". Jednak wykorzystuje on nowszy procesor, i zaktualizowane algorytmy namierzania, co znacznie zwiêksza gêstoœæ zaporow¹. A¿ do 2224, by³ u¿ywany wy³¹cznie przez InoCo, i zosta³ uznany za œciœle tajn¹ technologiê. 
 
-#M_Name_AMS4	= Cerberus
-#M_Hint_AMS4	= Cerberus|Active antimissile system
-#M_SDesc_AMS4	= An active antimissile system.
-#M_LDesc_AMS4	= This system is designed to destroy missiles locked on ships of your team. Missile interception efficiency: 40. You must be in the Antimissile Defense state to protect other ships of your team.|AAMS Cerberus is a serious modification of the Berserk. Each laser barrel has its own ballistic computer and servo actuators are perfect. These systems have just been adopted by InoCo and are not available on the open market.
+#M_Name_AMS4		= Cerberus
+#M_Hint_AMS4		= Cerberus|Aktywny system anty-rakietowy.
+#M_SDesc_AMS4		= Aktywny system anty-rakietowy.
+#M_LDesc_AMS4		= System ten, przeznaczony jest do niszczenia pocisków atakuj¹cych statki w danym zespole. Wydajnoœæ przechwytywania rakiet: 40. Musisz mieæ w³¹czony status obrony antyrakietowej, aby chroniæ inne statki w twoim zespole.|AMS "Cerberus" jest powa¿n¹ modyfikacj¹ "Berserka". Ka¿de dzia³ko laserowe posiada komputer balistyczny, i idealne wspomaganie si³owników. Systemy te zosta³y w³aœnie przyjête przez InoCo, i nie s¹ dostêpne na wolnym rynku.
 
-; Stealth
+;----------------
+; Stealth systems
+;----------------
 
-#M_Name_Stealth1	= Shade
-#M_Hint_Stealth1	= Shade|Vessel stealth system
-#M_SDesc_Stealth1	= A vessel stealth system.
-#M_LDesc_Stealth1	= Reduces vessel visibility to scanners by 40%. Especially effective in a cloud.|The Shade generates a chaotic-intensity force field at a certain distance from the vessel. This reduces vessel signature as scanners consider it a less dense object. Like many great inventions, such force field generators were invented by accident. According to rumors, it was done by a scientist who for many years had lived alone on an asteroid in a scantily explored part of the space. He was searching for new means of subspace travel that would allow to do without huge and tremendously expensive portals. It is said that when yet another of his devices produced no required effect, he just sold it to a merchant who provided him with food and supplies.
+#M_Name_STEALTH1	= Cieñ
+#M_Hint_STEALTH1	= Cieñ|System maskuj¹cy.
+#M_SDesc_STEALTH1	= System maskuj¹cy.
+#M_LDesc_STEALTH1	= Zmniejsza widocznoœæ statku o 40% (szczególnie skuteczne w chmurze).|"Cieñ" generuje w pewnej odleg³oœci od statku chaotycznie-intensywne pole si³owe. To zmniejsza widocznoœæ statku, i skanery odbieraj¹ go, jako mniej gêsty obiekt. Podobnie jak wiele wielkich wynalazków, takie generatory pól si³owych zosta³y wymyœlone przez przypadek. Wed³ug plotek, zosta³o to wynalezione przez naukowca, który przez wiele lat mieszka³ samotnie na asteroidzie, nêdznie badaj¹c czêœæ kosmosu. Szuka³ nowych œrodków transportu podprzestrzennego, które pozwoli³yby podró¿owaæ bez ogromnych, i niezwykle drogich portali. Mówi siê, ¿e gdy kolejne z jego urz¹dzeñ nie da³o ¿adnego po¿¹danego efektu, po prostu sprzeda³ je kupcowi, który dostarcza³ mu ¿ywnoœæ i zaopatrzenie. 
 
-#M_Name_Stealth2	= Shade Mk 2
-#M_Hint_Stealth2	= Shade Mk 2|Vessel stealth system
-#M_SDesc_Stealth2	= A vessel stealth system.
-#M_LDesc_Stealth2	= Reduces vessel visibility to scanners by 60%. Especially effective in a cloud.|The principles of generating chaotic-intensity force fields turned out to be a back-breaker for MSF scientists. And for a long time all mass-produced systems of this kind were just copies of that original device that the military had acquired by accident. Everyone knew what parts it consisted of, but no one could understand how it worked. Eventually, this problem was solved and soon they found a way to radically improve stealth features of the force field by simply replacing certain device parts with more advanced ones.
+#M_Name_STEALTH2	= Cieñ II
+#M_Hint_STEALTH2	= Cieñ II|System maskuj¹cy.
+#M_SDesc_STEALTH2	= System maskuj¹cy.
+#M_LDesc_STEALTH2	= Zmniejsza widocznoœæ statku o 60% (szczególnie skuteczne w chmurze).|Zasada generowania chaotycznie-intensywnego pola si³owego okaza³a siê automatycznym powrotem naukowców MSF. Przez d³ugi czas wszystkie systemy tego rodzaju, które trafi³y do masowej produkcji, by³y tylko kopi¹ oryginalnego urz¹dzenia, które wojsko zdoby³o przez przypadek. Wszyscy wiedzieli, ¿e to sk³ada³o siê z czêœci, ale nikt nie móg³ zrozumieæ, jak to dzia³a. Ostatecznie, ten problem zosta³ rozwi¹zany, i wkrótce znalaz³ siê sposób do radykalnej poprawy g³ównej cechy pola si³owego, niewidzialnoœci. Wystarczy³o po prostu zast¹piæ niektóre czêœci urz¹dzenia, na bardziej zaawansowane.
 
-#M_Name_Stealth3	= Ghost
-#M_Hint_Stealth3	= Ghost|Vessel stealth system
-#M_SDesc_Stealth3	= A vessel stealth system.
-#M_LDesc_Stealth3	= Reduces vessel visibility to scanners by 80%. Especially effective in a cloud.|After the basic principles of the Shade had been discovered and the Shade Mk 2 had been released, they carried out a series of tests focused on increasing its efficiency. As a result, they came up with the Ghost and also discovered a way to create several force fields at once at large distances from each other. This, in turn, led to the invention of team stealth systems.
+#M_Name_STEALTH3	= Duch
+#M_Hint_STEALTH3	= Duch|System maskuj¹cy.
+#M_SDesc_STEALTH3	= System maskuj¹cy.
+#M_LDesc_STEALTH3	= Zmniejsza widocznoœæ statku o 80% (szczególnie skuteczne w chmurze).|Po odkryciu podstawowych zasad "Cienia", i po wydaniu "Cienia II", przeprowadzono seriê badañ ukierunkowanych na wzmocnienie jego wydajnoœci. W wyniku tego, wymyœlono "Ducha", i odkryto równie¿ mo¿liwoœæ tworzenia kilku pól si³owych na raz, w du¿ych odleg³oœciach od siebie. To z kolei, doprowadzi³o do wynalezienia grupowego systemu maskuj¹cego.
 
-; Cloaking Devices
+;---------------------
+; Team stealth systems
+;---------------------
 
-#M_Name_CloD1	= Nebula
-#M_Hint_CloD1	= Nebula|A team stealth system
-#M_SDesc_CloD1	= A team stealth system.
-#M_LDesc_CloD1	= Reduces team visibility to scanners by 40%. You must be in the Stealth state to protect other ships of your team.|The next step in the development of stealth systems was to create a device capable of generating several force fields at once, thus reducing visibility of all vessels in a team. Unfortunately, such a system consumes nearly all energy and computer power of a fighter, making it less combat efficient. However, in many situations stealth increases survivability of an entire team.
+#M_Name_CLOD1		= Mg³awica
+#M_Hint_CLOD1		= Mg³awica|Grupowy system maskuj¹cy.
+#M_SDesc_CLOD1		= Grupowy system maskuj¹cy.
+#M_LDesc_CLOD1		= Zmniejsza widocznoœæ zespo³u na skanerze o 40%. Musisz mieæ w³¹czony status ukrywania, aby os³aniaæ inne statki w twoim zespole.|Kolejnym krokiem w rozwoju systemów maskuj¹cych, by³o stworzenie urz¹dzenia zdolnego do generowania kilka pól si³owych na raz, co zmniejsza widocznoœæ wszystkich statków w zespole. Niestety, taki system zu¿ywa prawie ca³¹ energiê, i moc komputera w myœliwcu, przez co walka jest mniej efektywna. Jednak w wielu sytuacjach system maskuj¹cy zwiêksza prze¿ywalnoœæ ca³ego zespo³u.
 
-#M_Name_CloD2	= Black Hole
-#M_Hint_CloD2	= Black Hole|A team stealth system
-#M_SDesc_CloD2	= A team stealth system.
-#M_LDesc_CloD2	= Reduces team visibility to scanners by 60%. You must be in the Stealth state to protect other ships of your team.|The most advanced stealth system of today available in the open market. It envelopes team vessels in dual-layer cocoons of multidirectional chaotic-intensity force fields. As a result, even the newest scanners fail to penetrate this veil, sending back false signals.
+#M_Name_CLOD2		= Czarna Dziura
+#M_Hint_CLOD2		= Czarna Dziura|Grupowy system maskuj¹cy.
+#M_SDesc_CLOD2		= Grupowy system maskuj¹cy.
+#M_LDesc_CLOD2		= Zmniejsza widocznoœæ zespo³u na skanerze o 60%. Musisz mieæ w³¹czony status ukrywania, aby os³aniaæ inne statki w twoim zespole.|Najbardziej zaawansowany system maskuj¹cy, dziœ juz dostêpny na wolnym rynku. Oznacza on statki dru¿yny w dwuwarstwowe kokony z wielokierunkowymi, chaotycznie-intensywnymi polami si³owymi. W rezultacie, nawet najnowsze skanery nie przenikn¹ tej zas³ony, a bêd¹ otrzymywaæ fa³szywe sygna³y.
 
-; Flight Repair Units
+;---------------
+; ??????????????
+;---------------
 
-#M_Name_LRRNB1	= Cleric
-#M_Hint_LRRNB1	= Cleric|Remote repair system
-#M_SDesc_LRRNB1	= A remote repair system.
-#M_LDesc_LRRNB1	= Repairs damaged vessels in a team at 1 HP/s. You must be in the Repair state to repair other ships of your team.|Like other repair systems, the Cleric uses nanobots. It monitors all vessels of the team and repairs them remotely when needed by sending over nanobots via a tunnel field. One drawback of these systems is their high power consumption that makes the system carrier inefficient in combat.
+#M_Name_LRRNB1		= Kleryk
+#M_Hint_LRRNB1		= Kleryk|Dystansowy system naprawczy.
+#M_SDesc_LRRNB1		= Dystansowy system naprawczy.
+#M_LDesc_LRRNB1		= Szybkoœæ naprawy twoich statków w dru¿ynie 1 HP/s. Musisz mieæ w³¹czony status naprawy, aby reperowaæ inne statki w twoim zespole.|Podobnie jak inne systemy naprawcze, "Kleryk" uzywa nanobotów. Monitoruje on wszystkie statki w dru¿ynie, i w razie potrzeby wysy³a je zdalnie, poprzez pole tunelu. Wad¹ tych systemów jest ich wysoki pobór mocy, co sprawia, ¿e noœnik systemu jest nieefektywny w walce.
 
-#M_Name_LRRNB2	= Redeemer
-#M_Hint_LRRNB2	= Redeemer|Remote repair system
-#M_SDesc_LRRNB2	= A remote repair system.
-#M_LDesc_LRRNB2	= Repairs damaged vessels in a team at 2 HP/s. You must be in the Repair state to repair other ships of your team.|Keeping all advantages and drawbacks of its predecessor, the Redeemder focuses its tunnel field more precisely and regenerates nanobots faster, thus doubling the remote repair performance.
+#M_Name_LRRNB2		= Wybawca
+#M_Hint_LRRNB2		= Wybawca|Dystansowy system naprawczy.
+#M_SDesc_LRRNB2		= Dystansowy system naprawczy.
+#M_LDesc_LRRNB2		= Szybkoœæ naprawy twoich statków w dru¿ynie 2 HP/s. Musisz mieæ w³¹czony status naprawy, aby reperowaæ inne statki w twoim zespole.|Zachowuj¹c wszystkie zalety i wady swojego poprzednika, "Wybawca" dok³adniej koncentruje swoje pole tunelu, i szybciej regeneruje nanoboty, podwajaj¹c w ten sposób zdalne wykonywanie napraw.
 
-#M_Name_LRRNB3	= Sigil
-#M_Hint_LRRNB3	= Sigil|Remote repair system
-#M_SDesc_LRRNB3	= A remote repair system.
-#M_LDesc_LRRNB3	= Repairs damaged vessels in a team at 4 HP/s. You must be in the Repair state to repair other ships of your team.|Having obtained certain materials Precursor technologies, InoCo quickly improved remote repair systems. Sigil utilizes the most advanced tunnel field focusing and its nanobots repair damage based on its priority. As a result, it offers record repair performance in this class.
+#M_Name_LRRNB3		= Sigil
+#M_Hint_LRRNB3		= Sigil|Dystansowy system naprawczy.
+#M_SDesc_LRRNB3		= Dystansowy system naprawczy.
+#M_LDesc_LRRNB3		= Szybkoœæ naprawy twoich statków w dru¿ynie 4 HP/s. Musisz mieæ w³¹czony status naprawy, aby reperowaæ inne statki w twoim zespole.|Po uzyskaniu niektórych materia³ów z technologii Prekursorów, InoCo szybko poprawi³o osi¹gi zdalnych systemów naprawczych. "Sigil" wykorzystuje najbardziej zaawansowane, rozszerzone i skupione pole tunelu, dziêki czemu nanoboty dokonuj¹ napraw w statkach o wiêkszym priorytecie. W wyniku tego, oferuje rekordow¹ wydajnoœæ naprawiania w tej klasie.
 
-#M_Name_LRRNB4	= Phoenix
-#M_Hint_LRRNB4	= Phoenix|Remote repair system
-#M_SDesc_LRRNB4	= A remote repair system.
-#M_LDesc_LRRNB4	= Repairs damaged vessels in a team at 10 HP/s. You must be in the Repair state to repair other ships of your team.|Phoenix is a logical development of Sigil, but this time InoCo perfected nanobots instead of the ways they are transferred. This system has not been classified, but its production is under strict control of the corporation.
+#M_Name_LRRNB4		= Feniks
+#M_Hint_LRRNB4		= Feniks|Dystansowy system naprawczy.
+#M_SDesc_LRRNB4		= Dystansowy system naprawczy.
+#M_LDesc_LRRNB4		= Szybkoœæ naprawy twoich statków w dru¿ynie 10 HP/s. Musisz mieæ w³¹czony status naprawy, aby reperowaæ inne statki w twoim zespole.|"Feniks" jest logicznym rozwiniêciem "Sigil", ale tym razem InoCo perfekcyjnie udoskonali³o nanoboty, i ich sposoby przenoszenia. System ten nie zosta³ sklasyfikowany, ale jego produkcja jest pod œcis³¹ kontrol¹ korporacji.
 
-; Repair Units
+;---------------
+; Repair systems
+;---------------
 
-#M_Name_RBot1	= Gnome
-#M_Hint_RBot1	= Gnome|Vessel repair system
-#M_SDesc_RBot1	= A vessel repair system.
-#M_LDesc_RBot1	= A system of repair nanobots that gradually restore the vessel at 1 HP/s.|The Gnome is a real nanobot production plant with nearly unlimited capacity. On receiving information about damage, it creates tens of thousands of tiny devices programmed to repair this damage. One drawback of such systems is their relatively low performance. However, in protracted combat they may prove more useful than instant repair systems.
+#M_Name_RBOT1		= Gnom
+#M_Hint_RBOT1		= Gnom|Automatyczny system naprawczy.
+#M_SDesc_RBOT1		= Automatyczny system naprawczy.
+#M_LDesc_RBOT1		= System nanobotów naprawczych, które stopniowo naprawiaj¹ statek z szybkoœci¹ 1 HP/s.|"Gnom" jest prawdziw¹ fabryk¹ nanobotów, o prawie nieograniczonej, rzeczywistej pojemnoœci. Po otrzymaniu informacji na temat szkód, tworzy dziesi¹tki tysiêcy maleñkich urz¹dzeñ zaprogramowanych do naprawy tego uszkodzenia. Wad¹ tych systemów jest ich stosunkowo niska wydajnoœæ. Jednak w przewlek³ej walce mog¹ okazaæ siê bardziej przydatne, ni¿ b³yskawiczne systemy naprawcze.
 
-#M_Name_RBot2	= Cobold
-#M_Hint_RBot2	= Cobold|Vessel repair system
-#M_SDesc_RBot2	= A vessel repair system.
-#M_LDesc_RBot2	= A system of repair nanobots that gradually restore the vessel at 2 HP/s.|The Cobold is the development of the Gnome with the same advantages and drawbacks. Optimized power consumption enabled to speed up nanobot production and, thus, repair performance.
+#M_Name_RBOT2		= Kobold
+#M_Hint_RBOT2		= Kobold|Automatyczny system naprawczy.
+#M_SDesc_RBOT2		= Automatyczny system naprawczy.
+#M_LDesc_RBOT2		= System nanobotów naprawczych, które stopniowo naprawiaj¹ statek z szybkoœci¹ 2 HP/s.|"Kobold" jest rozwiniêciem "Gnoma" z tymi samymi zaletami i wadami. Zoptymalizowano pobór mocy podczas dzia³ania systemu, aby przyspieszyæ produkcjê nanobotów, a tym samym poprawiæ wydajnoœæ napraw.
 
-#M_Name_RBot3	= Gremlin
-#M_Hint_RBot3	= Gremlin|Vessel repair system
-#M_SDesc_RBot3	= A vessel repair system.
-#M_LDesc_RBot3	= A system of repair nanobots that gradually restore the vessel at 4 HP/s.|InoCo engineers were very glad to obtain some Precursor technologies. And the very first result was the Gremlin, featuring faster nanobot production and higher nanobot efficiency, which led to significantly higher repair performance. Still, this system has a few disadvantages, especially high percentage of defective nanobots.
+#M_Name_RBOT3		= Gremlin
+#M_Hint_RBOT3		= Gremlin|Automatyczny system naprawczy.
+#M_SDesc_RBOT3		= Automatyczny system naprawczy.
+#M_LDesc_RBOT3		= System nanobotów naprawczych, które stopniowo naprawiaj¹ statek z szybkoœci¹ 4 HP/s.|In¿ynierowie InoCo byli bardzo zadowoleni, kiedy uzyskali niektóre technologie Prekursorów. Ich pierwszym wynikiem by³ "Gremlin", wyposa¿ony w szybsz¹ produkcjê nanobotów, i ich wiêksz¹ efektywnoœæ, co doprowadzi³o do znacznie wy¿szej wydajnoœci napraw. Mimo to system ma kilka wad, zw³aszcza wysoki procent wadliwych nanobotów.
 
-#M_Name_RBot4	= Nannite
-#M_Hint_RBot4	= Nannite|Vessel repair system
-#M_SDesc_RBot4	= A vessel repair system.
-#M_LDesc_RBot4 = A system of repair nanobots that gradually restore the vessel at 8 HP/s.|The Nannite is a serious upgrade of the Gremlin that hasn't been a big success. Its key components are hybrid nanobots obtained by adapting Cobold's nanobots for Precursor technologies. Hybrid nanobots were very impressive, surpassing even Alien repair systems. Today Nannites are produced in small amounts and only for InoCo's own needs. However, one or two can sometimes be seen in FTU stock as well.
+#M_Name_RBOT4		= Nannite
+#M_Hint_RBOT4		= Nannite|Automatyczny system naprawczy.
+#M_SDesc_RBOT4		= Automatyczny system naprawczy.
+#M_LDesc_RBOT4 		= System nanobotów naprawczych, które stopniowo naprawiaj¹ statek z szybkoœci¹ 8 HP/s.|"Nannite" jest powa¿n¹ modernizacj¹ "Gremlina", który nie by³ wielkim sukcesem. Jego kluczowymi elementami, s¹ hybrydowe nanoboty, otrzymywane przez dostosowanie technologii Prekursorów z nanobotami "Kobolda". Hybrydowe nanoboty by³y bardzo efektywne, wyprzedzaj¹c nawet systemy naprawcze Obcych. Dziœ "Nannite" produkowane s¹ w ma³ych iloœciach, i tylko na w³asne potrzeby InoCo. Jednak¿e, jeden lub dwa systemy, mog¹ byæ czasami spotkane na czarnym rynku.
 
+;-----------------------
+; Shield booster systems
+;-----------------------
 
-; Shield Amplifiers
+#M_Name_SHAMP1		= Bastion
+#M_Hint_SHAMP1		= Bastion|System wzmocnienia os³on.
+#M_SDesc_SHAMP1		= System wzmocnienia os³on.
+#M_LDesc_SHAMP1		= Wzmacniacz os³on, który zwiêksza energiê tarczy o 50 pkt. i regeneracjê os³on o 1 pkt/s.|"Bastion" jest opcjonalnym modu³em, pod³¹czanym do generatora pola si³owego statku. Jest to jedna z pierwszych modyfikacji, która ustêpuje miejsca nowszym wzmacniaczom tarcz, ale nadal jest powszechnie u¿ywana.
 
-#M_Name_ShAmp1	= Bastion
-#M_Hint_ShAmp1	= Bastion|Shield booster
-#M_SDesc_ShAmp1	= A shield booster.
-#M_LDesc_ShAmp1	= A shield booster that increases shield energy by 50 SP and shield regeneration by 1 SP/s.|The Bastion is an optional energy unit connected to ship's force field generator. This is one of the first modifications that greatly yields to newer shield boosters, but is still widely used.
+#M_Name_SHAMP2		= Cytadela
+#M_Hint_SHAMP2		= Cytadela|System wzmocnienia os³on.
+#M_SDesc_SHAMP2		= System wzmocnienia os³on.
+#M_LDesc_SHAMP2		= Wzmacniacz os³on, który zwiêksza energiê tarczy o 100 pkt. i regeneracjê os³on o 2 pkt/s.|Jest to du¿y krok w porównaniu do "Bastiona", i oferuje dwa razy wiêcej energii tarczy. Przez d³ugi czas "Cytadele" by³y czêœci¹ wyposa¿enia standardowego myœliwca MSF, staj¹c siê bestsellerem na rynku.
 
-#M_Name_ShAmp2	= Citadel
-#M_Hint_ShAmp2	= Citadel|Shield booster
-#M_SDesc_ShAmp2	= A shield booster.
-#M_LDesc_ShAmp2	= A shield booster that increases shield energy by 100 SP and shield regeneration by 2 SP/s.|A large step forward comparing to the Bastion, it offers twice more shield energy. For a long time Citadels have been a part of the standard MSF fighter equipment, thus becoming a market bestseller.
+#M_Name_SHAMP3		= Twierdza
+#M_Hint_SHAMP3		= Twierdza|System wzmocnienia os³on.
+#M_SDesc_SHAMP3		= System wzmocnienia os³on.
+#M_LDesc_SHAMP3		= Wzmacniacz os³on, który zwiêksza energiê tarczy o 200 pkt. i regeneracjê os³on o 2 pkt/s.|Pomimo tego, ¿e ten wzmacniacz nie daje ¿adnego wzrostu szybkoœci, i regeneracji w porównaniu do "Cytadeli", to zamiast tego podwaja energiê tarczy. Na przestrzeni ostatnich dziesiêciu lat "Twierdza" by³a stale poprawiana, a wiele z jej modyfikacji jest ju¿ dostêpne na wolnym rynku.
 
-#M_Name_ShAmp3	= Stronghold
-#M_Hint_ShAmp3	= Stronghold|Shield booster
-#M_SDesc_ShAmp3	= A shield booster.
-#M_LDesc_ShAmp3	= A shield booster that increases shield energy by 200 SP and shield regeneration by 2 SP/s.|Though this booster doesn't provide any regeneration speed increase comparing to the Citadel, it doubles shield energy instead. For the last ten years the Stronghold has been constantly improved, and many of its modifications are now available in the open market.
+#M_Name_SHAMP4		= Granit
+#M_Hint_SHAMP4		= Granit|System wzmocnienia os³on.
+#M_SDesc_SHAMP4		= System wzmocnienia os³on.
+#M_LDesc_SHAMP4		= Wzmacniacz os³on, który zwiêksza energiê tarczy o 350 pkt. i regeneracjê os³on o 3 pkt/s.|Ci¹g³e eksperymenty i ulepszenia "Twierdzy", spowodowa³y utworzenie "Granitu". Dziêki wy¿szemu napiêciu obwodu pomocniczego i zaawansowanemu ch³odzeniu, system ten jest bardziej wydajny.
 
-#M_Name_ShAmp4	= Granite
-#M_Hint_ShAmp4	= Granite|Shield booster
-#M_SDesc_ShAmp4	= A shield booster.
-#M_LDesc_ShAmp4	= A shield booster that increases shield energy by 350 SP and shield regeneration by 3 SP/s.|Constant experiments and improvements of the Stronghold resulted in creation of the Granite. Thanks to higher auxiliary circuit voltage and advanced cooling, this system is way more powerful.
+#M_Name_SHAMP5		= Prototyp os³on
+#M_Hint_SHAMP5		= Prototyp os³on|System wzmocnienia os³on.
+#M_SDesc_SHAMP5		= System wzmocnienia os³on.
+#M_LDesc_SHAMP5		= Wzmacniacz os³on, który zwiêksza energiê tarczy o 500 pkt. i regeneracjê os³on o 4 pkt/s.|Tarcza przypominaj¹ca prototyp nowej generacji. Jest jeszcze zbyt wczeœnie, aby mówiæ o komercjalizacji.
 
-#M_Name_ShAmp5	= Shield Prototype
-#M_Hint_ShAmp5	= Shield Prototype|Shield booster
-#M_SDesc_ShAmp5	= A shield prototype.
-#M_LDesc_ShAmp5	= A shield booster that increases shield energy by 500 SP and shield regeneration by 4 SP/s.|A shield booster prototype of the new generation. It's still early to speak about its commercialization.
+;-----------------------
+; Engine booster systems
+;-----------------------
 
-; Engine Amplifiers
+#M_Name_ENGAMP1		= Tarpan
+#M_Hint_ENGAMP1		= Tarpan|System wzmocnienia prêdkoœci.
+#M_SDesc_ENGAMP1	= System wzmocnienia prêdkoœci.
+#M_LDesc_ENGAMP1	= Wzmacniacz silnika, który zwiêksza prêdkoœæ statku o oko³o 10%.|"Tarpan" jest jednym z tych udanych, improwizowanych systemów kontroli paliwa. Zosta³ skomercjalizowany wkrótce po utworzeniu i sta³ siê bardzo popularny. By³ on szczególnie szeroko stosowany w lekkich myœliwcach rozpoznawczych.
 
-#M_Name_EngAmp1	= Tarpan
-#M_Hint_EngAmp1	= Tarpan|Engine booster
-#M_SDesc_EngAmp1	= An engine booster.
-#M_LDesc_EngAmp1	= An engine booster that increases vessel speed by about 10%.|The Tarpan is one of those successful artisanal fuel control systems. It was commercialized soon after creation and became very popular. It was especially widely used in light recon fighters.
+#M_Name_ENGAMP2		= Mustang
+#M_Hint_ENGAMP2		= Mustang|System wzmocnienia prêdkoœci.
+#M_SDesc_ENGAMP2	= System wzmocnienia prêdkoœci.
+#M_LDesc_ENGAMP2	= Wzmacniacz silnika, który zwiêksza prêdkoœæ statku o oko³o 20%.|"Mustang" oprócz systemu kontroli paliwa, oferuje jednostki ch³odzenia awaryjnego, i kontroli zasilania, które zwiêkszaj¹ wydajnoœæ silnika o kolejne 20%. Mówi siê, ¿e dyrektorzy korporacji nie zgodzili siê na wypuszczenie "Mustanga" na otwarty rynek, przez d³ugi czas. W ka¿dym razie, trafi³ on na rynek zaledwie cztery lata po rozwoju.
 
-#M_Name_EngAmp2	= Mustang
-#M_Hint_EngAmp2	= Mustang|Engine booster
-#M_SDesc_EngAmp2	= An engine booster.
-#M_LDesc_EngAmp2	= An engine booster that increases vessel speed by about 20%.|The Mustang, aside from the fuel control system, features emergency cooling and power control units, which increase engine performance by another twenty percent. It is said that corporation directors couldn't agree on releasing the Mustang to the open market for a long time. Anyway, it made its way to the market only four years after the development.
+#M_Name_ENGAMP3		= Ogier
+#M_Hint_ENGAMP3		= Ogier|System wzmocnienia prêdkoœci.
+#M_SDesc_ENGAMP3	= System wzmocnienia prêdkoœci.
+#M_LDesc_ENGAMP3	= Wzmacniacz silnika, który zwiêksza prêdkoœæ statku o oko³o 30%.|Ten produkt wojskowy zosta³ opracowany, i produkowany wy³¹cznie dla u¿ytku wojskowego. Choæ jeden, lub dwa egzemplarze czasami pojawiaj¹ siê na wolnym rynku, to wiêkszoœæ przedsiêbiorców, jest na tyle rozs¹dnych, aby nie pytaæ jak "Ogier" zosta³ opracowany prawie równolegle z "Mustangiem", ale kompleksowo przewy¿szy³ swój odpowiednik. Zwiêkszy³ on swoj¹ moc silnika o prawie jedn¹ trzeci¹, a jak wiadomo przewaga prêdkoœci równa siê kontroli nad przebiegiem starcia. 
 
-#M_Name_EngAmp3	= Racer
-#M_Hint_EngAmp3	= Racer|Engine booster
-#M_SDesc_EngAmp3	= An engine booster.
-#M_LDesc_EngAmp3	= An engine booster that increases vessel speed by about 30%.|This military product has been created and is produced exclusively for military use. Though one or two sometimes appear on the open market, most traders are sensible enough no to ask how. The Racer has been developed almost in parallel with the Mustang, but surpasses its counterpart comprehensively. It can boost engine output by nearly one third, and with higher speed one can always work his will to the enemy.
+;---------------------------------
+; One rate of fire booster systems
+;---------------------------------
 
-; Weapon Boosters
+#M_Name_WBOOST1		= Œnie¿yca
+#M_Hint_WBOOST1		= Œnie¿yca|Jednorazowy system wzmocnienia szybkostrzelnoœci uzbrojenia.
+#M_SDesc_WBOOST1	= Jednorazowy system wzmocnienia uzbrojenia.
+#M_LDesc_WBOOST1	= System jednorazowego u¿ytku, który zwiêksza szybkostrzelnoœæ o 50% na 60 sec.|System ten ³¹czy w sobie jednostkê steruj¹c¹ ostrza³em, i instalacjê kriogeniczn¹. To zwiêksza szybkostrzelnoœæ wszystkich dzia³ bojowych przez krótki czas. Takie systemy nie tylko staj¹ siê popularne, ale w nastêpstwie sprzêt i oprogramowanie stosowane przez ró¿nych producentów broni, zosta³o do pewnego stopnia ujednolicone.
 
-#M_Name_WBoost1	= Snowstorm
-#M_Hint_WBoost1	= Snowstorm|Emergency cannon cooling system
-#M_SDesc_WBoost1	= An emergency cannon cooling system.
-#M_LDesc_WBoost1	= A single-use system that boosts cannon rate of fire by 50% for 60 s.|This system combines a firing control unit with a cryogenic plant. It boosts rate of fire of all fighter cannons for a short time. Such systems have just become popular, after hardware and software used by various weapon manufacturers has been unified to some extent.
+#M_Name_WBOOST2		= Zamieæ
+#M_Hint_WBOOST2		= Zamieæ|Jednorazowy system wzmocnienia szybkostrzelnoœci uzbrojenia.
+#M_SDesc_WBOOST2	= Jednorazowy system wzmocnienia uzbrojenia.
+#M_LDesc_WBOOST2	= System jednorazowego u¿ytku, który zwiêksza szybkostrzelnoœæ o 100% na 90 sec.|"Zamieæ" jest najbardziej udanym systemem awaryjnego ch³odzenia dzia³, dostêpnym na rynku. Zwiêksza on znacznie si³ê ognia myœliwca, co czêsto pomaga wygraæ najbardziej beznadziejne walki.
 
-#M_Name_WBoost2	= Blizzard
-#M_Hint_WBoost2	= Blizzard|Emergency cannon cooling system
-#M_SDesc_WBoost2	= An emergency cannon cooling system.
-#M_LDesc_WBoost2	= A single-use system that boosts cannon rate of fire by 100% for 90 s.|The Blizzard is the most successful emergency cannon cooling system available on the market. It significantly boosts fighter firepower, often helping it win the most hopeless fights.
+#M_Name_WBOOST3		= Fala Zimna
+#M_Hint_WBOOST3		= Fala Zimna|Jednorazowy system wzmocnienia szybkostrzelnoœci uzbrojenia.
+#M_SDesc_WBOOST3	= Jednorazowy system wzmocnienia uzbrojenia.
+#M_LDesc_WBOOST3	= System jednorazowego u¿ytku, który zwiêksza szybkostrzelnoœæ o 150% na 120 sec.|Przez d³ugi czas, ten wynalazek by³ dostêpny dla pracowników korporacji. Jednak rok temu USS rozpoczê³a masow¹ produkcjê "Fali Zimna" i wyda³a go na wolnym rynku. System ten znacznie zwiêksza szybkostrzelnoœæ dzia³ na d³ugi czas.
 
-#M_Name_WBoost3	= Cold Wave
-#M_Hint_WBoost3	= Cold Wave|Emergency cannon cooling system
-#M_SDesc_WBoost3	= An emergency cannon cooling system.
-#M_LDesc_WBoost3	= A single-use system that boosts cannon rate of fire by 150% for 120 s.|For a long time this USS development had only been available to corporation employees. However, a year ago USS launched mass production of the Cold Wave and released it to the open market. This system significantly boosts cannon rate of fire for a long time.
+;-----------------------------
+; Rate of fire booster systems
+;-----------------------------
 
-; Weapon Amplifier
+#M_Name_WAMP1		= Prototyp F
+#M_Hint_WAMP1		= Prototyp F|System wzmocnienia szybkostrzelnoœci uzbrojenia.
+#M_SDesc_WAMP1		= System wzmocnienia uzbrojenia.
+#M_LDesc_WAMP1		= Zwiêksza szybkostrzelnoœæ dzia³ myœliwca o 35%.|Prototyp ten zosta³ opracowany przez Widma, dla jakiegoœ bardzo bogatego kapitana piratów. W przeciwieñstwie do systemów ch³odz¹cych, które dzia³aj¹ tylko przez okreœlony czas, "Prototyp F" dzia³a zawsze. Oferuje on now¹ jednostkê rozpraszania ciep³a, która skutecznie zapobiega przegrzewaniu dzia³, przy zwiêkszonej szybkostrzelnoœci.
 
-#M_Name_WAmp1	= Prototype F
-#M_Hint_WAmp1	= Prototype F|Cannon rate of fire booster
-#M_SDesc_WAmp1	= Rate of fire booster for a cannon.
-#M_LDesc_WAmp1	= Boosts rate of fire of fighter cannons by 35%.|This prototype has been developed by Phantom for some extremely rich pirate captain. Unlike emergency cannon cooling systems that only work for a limited time, the Prototype F is always on. It features a new heat dissipation unit that effectively prevents it from overheating at the increased rate of fire. 
+#M_Name_WAMP2		= Prototyp X
+#M_Hint_WAMP2		= Prototyp X|System wzmocnienia szybkostrzelnoœci uzbrojenia.
+#M_SDesc_WAMP2		= System wzmocnienia uzbrojenia.
+#M_LDesc_WAMP2		= Zwiêksza szybkostrzelnoœæ dzia³ myœliwca o 60%.|Prototyp ten zosta³ opracowany przez Widma, dla jakiegoœ bardzo bogatego kapitana piratów. W przeciwieñstwie do systemów ch³odz¹cych, które dzia³aj¹ tylko przez okreœlony czas, "Prototyp X" dzia³a zawsze. Oferuje on now¹ jednostkê rozpraszania ciep³a, która skutecznie zapobiega przegrzewaniu dzia³, przy zwiêkszonej szybkostrzelnoœci.
 
-#M_Name_WAmp2	= Prototype X
-#M_Hint_WAmp2	= Prototype X|Cannon rate of fire booster
-#M_SDesc_WAmp2	= Rate of fire booster for a cannon.
-#M_LDesc_WAmp2	= Boosts rate of fire of fighter cannons by 60%.|This prototype has been developed by Phantom for some extremely rich pirate captain. Unlike emergency cannon cooling systems that only work for a limited time, the Prototype F is always on. It features a new heat dissipation unit that effectively prevents it from overheating at the increased rate of fire.
+;--------------------------------
+; Maneuverability booster systems
+;--------------------------------
 
-; Maneurability Amplifier
+#M_Name_MANAMP1		= Glissade
+#M_Hint_MANAMP1		= Glissade|System wzmocnienia zwrotnoœci.
+#M_SDesc_MANAMP1	= System wzmocnienia zwrotnoœci.
+#M_LDesc_MANAMP1	= Zwiêksza szybkoœæ obracania statku o oko³o 30%.|Poniewa¿ jest to jedna z pierwszych prób masowej produkcji, jest to rzadka oferta na rynku.
 
-#M_Name_ManAmp1	= Glissade
-#M_Hint_ManAmp1	= Glissade|Maneuverability booster
-#M_SDesc_ManAmp1	= A maneuverability booster.
-#M_LDesc_ManAmp1	= Boosts ship turning rate by about 30%.|Since this is one of the first mass-produced samples, it's a rare offer on the market.
+#M_Name_MANAMP2		= Overbank
+#M_Hint_MANAMP2		= Overbank|System wzmocnienia zwrotnoœci.
+#M_SDesc_MANAMP2	= System wzmocnienia zwrotnoœci.
+#M_LDesc_MANAMP2	= Ten unikalny system zwiêksza szybkoœæ obracania statku o oko³o 50%.|Widmo opracowa³ prototyp tego systemu na w³asn¹ rêkê. Od pewnego czasu jego istnienie by³o utrzymywane w tajemnicy, a nastêpnie zosta³ on przekazany w rêce in¿ynierów Nowego Imperium. Jednak jego masowa produkcja nigdy nie zosta³a uruchomiona.
 
-#M_Name_ManAmp2	= Overbank
-#M_Hint_ManAmp2	= Overbank|Maneuverability booster
-#M_SDesc_ManAmp2	= A maneuverability booster.
-#M_LDesc_ManAmp2	= This unique system boosts ship turning rate by about 50%.|Phantom developed the prototype of this system on his own. For some time its existence had been kept secret, then it was handed over to engineers of the New Empire. However, its mass production has never been launched.
+;---------------------------
+; One engine booster systems
+;---------------------------
 
-; Engine Booster
+#M_Name_ENGBOOST1	= Dopalacz
+#M_Hint_ENGBOOST1	= Dopalacz|Jednorazowy system wzmocnienia prêdkoœci.
+#M_SDesc_ENGBOOST1	= Jednorazowy system wzmocnienia prêdkoœci.
+#M_LDesc_ENGBOOST1	= Ten awaryjny wzmacniacz silnika jednorazowego u¿ytku zwiêksza prêdkoœæ statku o 75% na 60 sec.|Posiada dodatkowy generator, oraz od³¹czane ogniwo paliwowe pod³¹czone bezpoœrednio do silnika myœliwca. "Dopalacz" znacznie zwiêksza prêdkoœæ statku na krótki czas. Pierwsze doniesienia o takich systemach s¹ datowane na koniec lat 40. ubieg³ego wieku, kiedy Endoriañscy piraci, aby unikn¹æ kontrataków Patrolu, korzystali z ich pomocy.
 
-#M_Name_EngBoost1		= Afterburner
-#M_Hint_EngBoost1		= Afterburner|Emergency engine booster
-#M_SDesc_EngBoost1	= An emergency engine booster.
-#M_LDesc_EngBoost1	= This single-use emergency engine booster increases vessel speed by 75% for 60 s.|It has an additional generator and an expendable fuel cell connected to directly to fighter engine. The Afterburner significantly boosts ship speed for a short time. The first reports about such systems are dated to the late 40s of the past century, when Endorian pirates used to avoid Patrol counterattacks with their help.
+#M_Name_ENGBOOST2	= Super dopalacz
+#M_Hint_ENGBOOST2	= Super dopalacz|Jednorazowy system wzmocnienia prêdkoœci.
+#M_SDesc_ENGBOOST2	= Jednorazowy system wzmocnienia prêdkoœci.
+#M_LDesc_ENGBOOST2	= Ten awaryjny wzmacniacz silnika jednorazowego u¿ytku zwiêksza prêdkoœæ statku o 120% na 150 sec.|Awaryjne wzmacniacze silnika by³y raczej niebezpieczne dla zdrowia, ze wzglêdu na pilota¿ow¹ si³ê G, a tak¿e ze wzglêdu na szybsze zu¿ycie silnika. Jednak wynalezienie kompensatorów grawitacyjnych i bardziej zaawansowanych materia³ów pozwoli³o na masow¹ produkcjê bardziej potê¿nych dopalaczy. Takie systemy s¹ tradycyjnie wykorzystywane do zwiadu lub wycofania awaryjnego w przypadku krytycznego uszkodzenia statku.
 
-#M_Name_EngBoost2		= Superburner
-#M_Hint_EngBoost2		= Superburner|Emergency engine booster
-#M_SDesc_EngBoost2	= An emergency engine booster.
-#M_LDesc_EngBoost2	= This single-use emergency engine booster increases vessel speed by 150% for 120 s.|Emergency engine boosters were rather dangerous for pilot health due to G force and also because of faster engine wear. However, invention of gravitational compensators and more advanced materials made it possible to mass-produce more powerful afterburners. Such systems are traditionally used for recon or for emergency withdrawal in case of critical damage.
+;-------------------
+; One repair systems
+;-------------------
 
-; Nanobots
+#M_Name_RNBOT1		= Troll
+#M_Hint_RNBOT1		= Troll|Jednorazowy system naprawczy.
+#M_SDesc_RNBOT1		= Jednorazowy system naprawczy.
+#M_LDesc_RNBOT1		= Ten jednorazowy system naprawia statek w têpie 10 HP/s przez 15 sec.|Wiêkszoœæ systemów naprawczych do dzisiaj korzysta z nanobotów. Te ma³e urz¹dzenia mog¹ wykonywaæ proste zadania remontowe i s³u¿yæ jako materia³ rekonstrukcyjny. Przez dziesi¹tki lat u¿ywane nanoboty sta³y siê wysoko rozwiniête i zaawansowane. Dziêki zbiorowej pamiêci "znaj¹" one zarówno budowê statku, jak i rodzaj obra¿eñ po aktywacji. Podczas naprawy statku przez nanoboty, obejmuj¹ one ca³¹ jego powierzchniê, co sprawia, ¿e wygl¹da jak lustro. "Troll", podobnie jak jego bardziej zaawansowany odpowiednik "Wilko³ak", s¹ systemami jednorazowego u¿ytku. Zawarte w nich nanoboty s¹ w pe³ni wykorzystywane do naprawy bie¿¹cych szkód. Pomimo tego, ¿e s¹ jednorazowego u¿ytku, systemy naprawcze sta³y siê popularne ze wzglêdu na niezawodnoœæ i wydajnoœæ naprawy.
 
-#M_Name_RNBot1		= Troll
-#M_Hint_RNBot1		= Troll|Emergency vessel repair system
-#M_SDesc_RNBot1		= An emergency vessel repair system.
-#M_LDesc_RNBot1		= This single-use system repairs the vessel at 10 HP/s for 15 s.|Most repair systems of today use nanobots. These tiny devices can perform simple repair tasks and serve as construction materials at that. For tens of years of use nanobots have become highly developed and advanced. Thanks to a kind of collective mind, they "know" both ship structure and damage type when activated. When repairing the ship nanobot, cover its entire surface, making it look like a mirror. The Troll, like its more advanced counterpart Werewolf, are single-use systems. Nanobots they contain are fully spent to repair the current damage. Despite that single-use repair systems have become popular due to reliability and repair performance.
+#M_Name_RNBOT2		= Wilko³ak
+#M_Hint_RNBOT2		= Wilko³ak|Jednorazowy system naprawczy.
+#M_SDesc_RNBOT2		= Jednorazowy system naprawczy.
+#M_LDesc_RNBOT2		= Ten jednorazowy system naprawia statek w tempie 20 HP/s przez 15 sec.|Kiedyœ obiecuj¹cy, "Wilko³ak" jest teraz doœæ przestarza³y, i niezdolny do obs³ugi szkód wyrz¹dzonych przez nowsze bronie. Niemniej jednak, jego niska cena i szeroka dostêpnoœæ nadal sprawiaj¹, ¿e jest popularny wœród pilotów 1-szej, 2-giej, i 3-ciej generacji myœliwców. Zwykle wy¿sze generacje wymagaj¹ bardziej zaawansowanych systemów, dla tego przywódcy wszystkich stron konfliktu próbowali przyj¹æ nowsze alternatywy.
 
-#M_Name_RNBot2		= Werewolf
-#M_Hint_RNBot2		= Werewolf|Emergency vessel repair system
-#M_SDesc_RNBot2		= An emergency vessel repair system.
-#M_LDesc_RNBot2		= This single-use system repairs the vessel at 20 HP/s for 15 s.|Once promising, Werewolf is quite obsolete these days, incapable of handling damage inflicted by newer weapons. Nevertheless, its low price and wide availability still make it a popular choice of pilots of 1st-, 2nd- and 3rd-generation fighters. Higher-generation ships require more powerful systems, so the leaders of all conflicting parties tried to adopt newer alternatives.
+#M_Name_RNBOT3		= Lykanin
+#M_Hint_RNBOT3		= Lykanin|Jednorazowy system naprawczy.
+#M_SDesc_RNBOT3		= Jednorazowy system naprawczy.
+#M_LDesc_RNBOT3		= Ten jednorazowy system naprawia statek w tempie 50 HP/s przez 10 sec.|"Lykanin" jest g³êbok¹ modyfikacj¹ "Wilko³aka", co oznacza, ¿e naprawia wiêcej obra¿eñ na sekundê. Jednak¿e, jego wiêksz¹ prêdkoœæ uzyskano kosztem czasu pracy, która zosta³a zmniejszona do 10 sekund. Mimo tej wady, wielu pilotów uwa¿a ten system, za idealne po³¹czenie ceny i wydajnoœci.
 
-#M_Name_RNBot3		= Lycanthrope
-#M_Hint_RNBot3		= Lycanthrope|Emergency vessel repair system
-#M_SDesc_RNBot3		= An emergency vessel repair system.
-#M_LDesc_RNBot3		= This single-use system repairs the vessel at 50 HP/s for 10 s.|Lycanthrope is just a deep modification of Werewolf that repairs more damage per second. However, its higher speed was achieved at the expense of work time that was reduced down to 10 seconds. Despite this drawback, many pilots consider this system a perfect combination of price and performance.
+#M_Name_RNBOT4		= Ogr
+#M_Hint_RNBOT4		= Ogr|Jednorazowy system naprawczy.
+#M_SDesc_RNBOT4		= Jednorazowy system naprawczy.
+#M_LDesc_RNBOT4		= Ten jednorazowy system naprawia statek w tempie 100 HP/s przez 10 sec.|"Ogr" jest prze³omem technologicznym systemów awaryjnej naprawy statku. Oparty na technologii Prekursorów, oferuje rekordowo wysok¹ wydajnoœæ naprawy - niestety, przez rekordowo wysok¹ cenê, wiêkszoœæ pilotów nie mo¿e sobie na niego pozwoliæ. Niemniej jednak, dziêki swojej zdolnoœci do przywracania kad³ubów statków rozwalonych do samego szkieletu, by³ stabilnym popytem wœród specjalnych, i elitarnych si³ mocarstw oraz korporacji. 
 
-#M_Name_RNBot4		= Ogre
-#M_Hint_RNBot4		= Ogre|Emergency vessel repair system
-#M_SDesc_RNBot4		= An emergency vessel repair system.
-#M_LDesc_RNBot4		= This single-use system repairs the vessel at 100 HP/s for 10 s.|Ogre is a technological breakthrough of emergency vessel repair systems. Based on Precursor technologies, it offers record high repair performance - unfortunately, for a record high price that most pilots cannot afford. Nevertheless, thanks to its capability of restoring ship hulls naked down to frame it's been in stable demand among special and elite forces of empires and corporations.
-
+;-------------------
 ; Anti-laser systems
-#M_Name_ALS0		= Sapphire
-#M_Hint_ALS0		= Sapphire|Antilaser system
-#M_SDesc_ALS0		= A basic antilaser system.
-#M_LDesc_ALS0		= This antilaser system generates a visible force field reduces laser beam power by about 20%. As ray weaponry had become very widespread, USS was given a task to equip all fighters with adequate means of protection. The Sapphire was a result of hard work on designing and combining parts, some of which were of InoCo make. Not as powerful as the Diamond but still capable of reducing laser beam power, these systems have quickly become the choice of low-income pilots.
+;-------------------
 
-#M_Name_ALS1		= Diamond
-#M_Hint_ALS1		= Diamond|Antilaser system
-#M_SDesc_ALS1		= An antilaser system.
-#M_LDesc_ALS1		= This antilaser system generates a visible force field that reduces laser beam power by about 50%. According to unofficial information, this system can also repulse an incoming particle accelerator projectile. The Diamond has been secretly developed by corporations and is shipped in small amounts to various elite armed forces.
+#M_Name_ALS0		= Bursztyn
+#M_Hint_ALS0		= Bursztyn|Aktywny system obrony anty-laserowej.
+#M_SDesc_ALS0		= Aktywny system obrony anty-laserowej.
+#M_LDesc_ALS0		= Ten system antylaserowy generuje widoczne pole si³owe, zmniejszaj¹ce moc wi¹zki lasera o oko³o 20%.|Kiedy broñ promieniowa sta³a siê bardzo powszechna, USS otrzyma³o zadanie, aby wyposa¿yæ wszystkie myœliwce odpowiednimi œrodkami ochrony. "Bursztyn" by³ wynikiem ciê¿kiej pracy w projektowaniu i ³¹czeniu czêœci, z których niektóre pochodz¹ od InoCo. Nie jest tak potê¿ny jak "Diament", ale nadal jest w stanie zmniejszyæ moc wi¹zki laserowej. Systemy te, szybko staj¹ sie wyborem pilotów o niskich dochodach. 
 
-#M_Name_ALS2		= Ruby
-#M_Hint_ALS2		= Ruby|Antilaser system
-#M_SDesc_ALS2		= An advanced antilaser system.
-#M_LDesc_ALS2		= This antilaser system generates a visible force field that reduces laser beam power by about 80%. Unlike the Diamond, the Ruby was developed only for InoCo's own use. For this reason, it's not present on the open market.
+#M_Name_ALS1		= Diament
+#M_Hint_ALS1		= Diament|Aktywny system obrony anty-laserowej.
+#M_SDesc_ALS1		= Aktywny system obrony anty-laserowej.
+#M_LDesc_ALS1		= Ten system antylaserowy generuje widoczne pole si³owe, zmniejszaj¹ce moc wi¹zki lasera o oko³o 50%.|Wed³ug nieoficjalnych informacji "Diament" potrafi równie¿ odeprzeæ bezpoœredni atak z akceleratora cz¹stek. "Diament" zosta³ potajemnie opracowany przez korporacje, i jest dostarczany w ma³ych iloœciach do ró¿nych elitarnych si³ zbrojnych.
+
+#M_Name_ALS2		= Rubin
+#M_Hint_ALS2		= Rubin|Aktywny system obrony anty-laserowej.
+#M_SDesc_ALS2		= Aktywny system obrony anty-laserowej.
+#M_LDesc_ALS2		= Ten system antylaserowy generuje widoczne pole si³owe, zmniejszaj¹ce moc wi¹zki lasera o oko³o 80%.|W przeciwieñstwie do "Diamentu", "Rubin" zosta³ opracowany wy³¹cznie dla w³asnego u¿ytku InoCo. Z tego te¿ powodu, nie jest obecny na rynku otwartym.

@@ -1,67 +1,63 @@
 </color:GuiTextLight,font:int00/>
-Mouse|</size:3/>|</size:10/>
+Myszka|</size:3/>|</size:10/>
 </font:int01/>
-</color:GuiTextNormal/>LMB (left mouse button)		</color:GuiTextNormal/>Select||
-</color:GuiTextNormal/>RMB (right mouse button)		</color:GuiTextNormal/>Default action (move,|
-					attack, etc.)|
-</color:GuiTextNormal/>LMB double click 			</color:GuiTextNormal/>Focus||
-</color:GuiTextNormal/>Alt + LMB	  			</color:GuiTextNormal/>Focus||
-</color:GuiTextNormal/>Mouse wheel		  		</color:GuiTextNormal/>Change distance||
-</color:GuiTextNormal/>LMB + RMB + move mouse		</color:GuiTextNormal/>Change distance||
-</color:GuiTextNormal/>Ctrl + Shift + LMB			</color:GuiTextNormal/>Scan weapons and systems||
-</color:GuiTextNormal/>Ctrl + LMB 				</color:GuiTextNormal/>Attack||
-</color:GuiTextNormal/>Ctrl + RMB 				</color:GuiTextNormal/>Move aggressively or attack||
-</color:GuiTextNormal/>Shift + RMB + move mouse  		</color:GuiTextNormal/>Move vertically||
+</color:GuiTextNormal/>LPM (lewy przycisk myszki)		</color:GuiTextNormal/>Zaznaczenie myœliwców||
+</color:GuiTextNormal/>PPM (prawy przycisk myszki)		</color:GuiTextNormal/>Domyœlna akcja (ruch, atak)||
+</color:GuiTextNormal/>Podwójne klikniêcie LPM 	 	</color:GuiTextNormal/>Wyœrodkowanie na obiekcie||
+</color:GuiTextNormal/>Alt + LPM		  		</color:GuiTextNormal/>Wyœrodkowanie na obiekcie||
+</color:GuiTextNormal/>Kó³ko myszy		  		</color:GuiTextNormal/>Zmiana odleg³oœci kamery||
+</color:GuiTextNormal/>LPM + PPM + ruch myszk¹		</color:GuiTextNormal/>Zmiana odleg³oœci kamery||
+</color:GuiTextNormal/>Ctrl + Shift + LPM 			</color:GuiTextNormal/>Dok³adne informacje o myœliwcu||
+</color:GuiTextNormal/>Ctrl + LPM  				</color:GuiTextNormal/>Atak||
+</color:GuiTextNormal/>Ctrl + PPM  				</color:GuiTextNormal/>Ruch agresywny lub atak||
+</color:GuiTextNormal/>Shift + PPM + ruch myszk¹ 		</color:GuiTextNormal/>Ruch pionowy||
 
 ||
 </color:GuiTextLight,font:int00/>
-Keyboard|</size:3/>|</size:10/>
+Klawiatura|</size:3/>|</size:10/>
 </font:int01/>
-</color:GuiTextNormal/>[			</color:GuiTextNormal/>Slow down game time||
-</color:GuiTextNormal/>]			</color:GuiTextNormal/>Speed up game time||
-</color:GuiTextNormal/><			</color:GuiTextNormal/>Show contacts panels||
-</color:GuiTextNormal/>>			</color:GuiTextNormal/>Hide contacts panels||
-</color:GuiTextNormal/>+ 			</color:GuiTextNormal/>Zoom in||
-</color:GuiTextNormal/>-			</color:GuiTextNormal/>Zoom out||
-</color:GuiTextNormal/>Ctrl + A		</color:GuiTextNormal/>Select all ships|| 
-</color:GuiTextNormal/>S			</color:GuiTextNormal/>Stop selected ships||
-</color:GuiTextNormal/>D			</color:GuiTextNormal/>Dock selected team to mothership||
-</color:GuiTextNormal/>Z			</color:GuiTextNormal/>Dock all teams to mothership||
-</color:GuiTextNormal/>Ctrl + Z		</color:GuiTextNormal/>Launch all teams||
-</color:GuiTextNormal/>X			</color:GuiTextNormal/>Toggle special actions panels||
-</color:GuiTextNormal/>M			</color:GuiTextNormal/>Move horizontally and vertically||
-</color:GuiTextNormal/>A			</color:GuiTextNormal/>Attack||
-</color:GuiTextNormal/>R			</color:GuiTextNormal/>Missile attack||
-</color:GuiTextNormal/>E			</color:GuiTextNormal/>Escort||
-</color:GuiTextNormal/>B			</color:GuiTextNormal/>Bring up Mothership window||
-</color:GuiTextNormal/>I			</color:GuiTextNormal/>Show log and mail||
-</color:GuiTextNormal/>1-9			</color:GuiTextNormal/>Select threaded response||
-</color:GuiTextNormal/>1-6			</color:GuiTextNormal/>Select team by number||
-</color:GuiTextNormal/>Tab			</color:GuiTextNormal/>Sector map||
-</color:GuiTextNormal/>Backspace		</color:GuiTextNormal/>Global map||
-</color:GuiTextNormal/>V			</color:GuiTextNormal/>Switch scanners in map mode||
-</color:GuiTextNormal/>Caps Lock		</color:GuiTextNormal/>Toggle altitude indicators||
-</color:GuiTextNormal/>Q			</color:GuiTextNormal/>Toggle missions||
-</color:GuiTextNormal/>L			</color:GuiTextNormal/>Toggle incoming messages||
-</color:GuiTextNormal/>H			</color:GuiTextNormal/>Toggle markers||
-</color:GuiTextNormal/>Esc			</color:GuiTextNormal/>Deselect all ships,|
-			press again to bring up the ingame menu|
+</color:GuiTextNormal/>[					</color:GuiTextNormal/>Spowolnienie||
+</color:GuiTextNormal/>]					</color:GuiTextNormal/>Przyspieszenie||
+</color:GuiTextNormal/><					</color:GuiTextNormal/>Poka¿ panel kontaktów||
+</color:GuiTextNormal/>>					</color:GuiTextNormal/>Ukryj panel kontaktów||
+</color:GuiTextNormal/>+ 					</color:GuiTextNormal/>Przybli¿enie kamery||
+</color:GuiTextNormal/>-					</color:GuiTextNormal/>Oddalenie kamery||
+</color:GuiTextNormal/>Ctrl + A				</color:GuiTextNormal/>Wybór wszystkich myœliwców||
+</color:GuiTextNormal/>S					</color:GuiTextNormal/>Zatrzymanie wybranych myœliwców||
+</color:GuiTextNormal/>D					</color:GuiTextNormal/>Dokowanie zaznaczonych myœliwców||
+</color:GuiTextNormal/>Z					</color:GuiTextNormal/>Dokowanie wszystkich myœliwców||
+</color:GuiTextNormal/>X					</color:GuiTextNormal/>Poka¿ panel dzia³añ specjalnych||
+</color:GuiTextNormal/>M					</color:GuiTextNormal/>Ruch pionowy i poziomy||
+</color:GuiTextNormal/>A					</color:GuiTextNormal/>Atak||
+</color:GuiTextNormal/>R					</color:GuiTextNormal/>Atak rakietowy||
+</color:GuiTextNormal/>E					</color:GuiTextNormal/>Eskorta||
+</color:GuiTextNormal/>B					</color:GuiTextNormal/>Poka¿ okno statku-bazy||
+</color:GuiTextNormal/>I					</color:GuiTextNormal/>Poka¿ okno poczty||
+</color:GuiTextNormal/>1-9					</color:GuiTextNormal/>Wybór odpowiedzi podczas dialogu||
+</color:GuiTextNormal/>1-6					</color:GuiTextNormal/>Wybór skrzyd³a myœliwców||
+</color:GuiTextNormal/>Tab					</color:GuiTextNormal/>Mapa systemu||
+</color:GuiTextNormal/>Backspace				</color:GuiTextNormal/>Mapa galaktyki||
+</color:GuiTextNormal/>V					</color:GuiTextNormal/>Zmiana trybu pracy radaru||
+</color:GuiTextNormal/>Caps Lock				</color:GuiTextNormal/>Poka¿ wskaŸniki wysokoœci||
+</color:GuiTextNormal/>Q					</color:GuiTextNormal/>Poka¿ dziennik misji||
+</color:GuiTextNormal/>L					</color:GuiTextNormal/>Poka¿ dziennik rozmów||
+</color:GuiTextNormal/>H					</color:GuiTextNormal/>Poka¿ porady||
+</color:GuiTextNormal/>Esc					</color:GuiTextNormal/>Anuluj zaznaczenie wybranych myœliwców||
+
 ||
 </color:GuiTextLight,font:int00/>
-Camera controls|</size:3/>|</size:10/>
+Kamera|</size:3/>|</size:10/>
 </font:int01/>
-</color:GuiTextNormal/>F			</color:GuiTextNormal/>Toggle follow/free camera|
-			|
-</color:GuiTextNormal/>G			</color:GuiTextNormal/>Cycle camera modes||
-</color:GuiTextNormal/>F9			</color:GuiTextNormal/>Free mode||
-</color:GuiTextNormal/>F10			</color:GuiTextNormal/>Follow mode||
-</color:GuiTextNormal/>F11			</color:GuiTextNormal/>View mode||
-</color:GuiTextNormal/>F12			</color:GuiTextNormal/>Chase mode||
+</color:GuiTextNormal/>G					</color:GuiTextNormal/>Prze³¹cz na nastêpny rodzaj kamery||
+</color:GuiTextNormal/>F9					</color:GuiTextNormal/>Kamera swobodna||
+</color:GuiTextNormal/>F10					</color:GuiTextNormal/>Kamera pod¹¿aj¹ca||
+</color:GuiTextNormal/>F11					</color:GuiTextNormal/>Kamera poœcigowa||
+</color:GuiTextNormal/>F12					</color:GuiTextNormal/>Kamera wycentrowana||
 ||
 </color:GuiTextLight,font:int00/>
-Miscellaneous|</size:3/>|</size:10/>
+Dodatkowe|</size:3/>|</size:10/>
 </font:int01,size:10/>
-</color:GuiTextNormal/>F1			</color:GuiTextNormal/>Help||
-</color:GuiTextNormal/>F5			</color:GuiTextNormal/>Quicksave||
-</color:GuiTextNormal/>F8			</color:GuiTextNormal/>Quickload||
+</color:GuiTextNormal/>F1					</color:GuiTextNormal/>Pomoc||
+</color:GuiTextNormal/>F5					</color:GuiTextNormal/>Szybki zapis||
+</color:GuiTextNormal/>F8					</color:GuiTextNormal/>Szybkie wczytywanie zapisu||
 </color:1 1 0,font:int00/>

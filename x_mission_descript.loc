@@ -8,6 +8,5 @@ FILETYPE STANDART
 ; Tutorial
 ;----------------
 
-#M_location_level_0_01 = Część instruktażowa 1
-
-#M_location_level_0_02 = Część instruktażowa 2
+#M_location_level_0_01 = Szkolenie, część 1
+#M_location_level_0_02 = Szkolenie, część 2

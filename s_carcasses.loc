@@ -1,0 +1,503 @@
+;***********************************
+; carcasses XML
+;***********************************
+LOCALE_FILE
+FILETYPE STANDART
+
+;****************************
+;  Big Ship
+;****************************
+
+#M_universal_station = Universal station
+
+#M_Name_MShipPirateOld	= Pirate mothership
+#M_Hint_MShipPirateOld	= Pirate mothership
+#M_LDesc_MShipPirateOld	= Pirates often remake large transports into motherships. As modifications are custom in each case, each mothership is somewhat unique.
+
+#M_Name_MShipMerc	= Mercenary mothership
+#M_Hint_MShipMerc	= Mercenary mothership
+#M_LDesc_MShipMerc 	= Mercenaries often remake large transports or retired military vessels into motherships. As a rule, the look of a mothership belonging to mercenaries reflects their financial status.
+
+#M_Name_HMQ		= Tug
+#M_Hint_HMQ		= Tug
+#M_LDesc_HMQ		= A tug for towing standard containers. Looks like three engines between a small cockpit and a spacious cargo bay. It carries no weapons and it doesn't have to.
+
+#M_Name_Walrus		= Walrus
+#M_Hint_Walrus		= Walrus|Medium transport
+#M_LDesc_Walrus 	= The Walrus is one of the most successful transports produced by USS. It can tow a lot of cargo at a decent speed. Besides, its two weapon turrets give pilots confidence in transit.
+
+#M_Name_Chimera		= Chimera
+#M_Hint_Chimera		= Chimera|Berserk carrier
+#M_LDesc_Chimera 	= The deadly Berserk carrier has minimalistic design and no crew quarters. Instead, it has a large hangar spacious enough for a few fighter teams. The well-armored Chimera equipped with plasma cannons can terrorize a whole star system.
+
+#M_Name_SuperChimer	= Super Chimera
+#M_Hint_SuperChimer	= Super Chimera|Berserk carrier
+#M_LDesc_SuperChimer 	= The first sightings of Berserk Super Chimeras caused real panic in MSF ranks. Only Stalingrad-class battleships could challenge these armor-clad monsters carrying whole squadrons of fighters.
+
+#M_Name_El_Chimera	= Super Chimera
+#M_Hint_El_Chimera	= Super Chimera|Berserk carrier
+#M_LDesc_El_Chimera 	= Al created this mothership from a Super Chimera using Precursor technologies. In terms of combat efficiency it surpasses Empire's heaviest battleship.
+
+#M_Name_Alien_Frigate	= Alien frigate
+#M_Hint_Alien_Frigate	= Alien frigate
+#M_LDesc_Alien_Frigate 	= The MSF considers this Alien vessel a frigate. For its size it's extremely powerful, so expert tacticians advise to attack it with at least two fighter squadrons, cruiser or corvette support also being a plus.
+
+#M_Name_Alien_Dreadnought	= Alien dreadnought
+#M_Hint_Alien_Dreadnought	= Alien dreadnought
+#M_LDesc_Alien_Dreadnought 	= The dreadnought is the heaviest Alien military ship. It's more combat-efficient than a Stalingrad-class battleship, so tactics is quite simple: hit it with all you have.
+
+#M_Name_StoneArrow	= Stone Arrow
+#M_Hint_StoneArrow	= Stone Arrow cruiser
+#M_LDesc_StoneArrow 	= The first cruiser of the Stone Arrow class came off the stocks nearly sixty years ago. At that time it was a formidable ship, capable of fighting a dozen fighters at once. About a thousand Stone Arrow hulls have been produced, so it's no surprise that these ships still form the main body of the MSF. However, today they are not as formidable as before, despite regular upgrades, so their role has somewhat been skewed to support.
+
+#M_Name_SteelArrow	= Steel Arrow
+#M_Hint_SteelArrow	= Upgraded Stone Arrow|cruiser
+#M_LDesc_SteelArrow 	= The Steel Arrow had become the most successful upgrade of somewhat obsolete Stone Arrows. Despite being speedier and more enduring, the Steel Arrow wasn't that perfect breakthrough cruiser that MSF commanders wanted to see. So it was discontinued.
+
+#M_Name_Battleship	= Battleship
+#M_Hint_Battleship	= Battleship
+#M_LDesc_Battleship	= The Empire had been developing its most powerful battleship for some fifty years and finally produced the Stalingrad, which stirred up numerious debates if adopting such a cumbersome monster was appropriate. Despite that, the new ship had quickly won respect of the military and became the bulk of Old Empire's frightening power.
+
+#M_Name_ImpBattleship	= Phoenix
+#M_Hint_ImpBattleship	= Battleship|Phoenix
+#M_SDesc_ImpBattleship	= Battleship Phoenix
+#M_LDesc_ImpBattleship	= The battleship Phoenix is in fact an armor-clad mobile residence of Emperor Azar IV.
+
+#M_Name_Liner		= Liner
+#M_Hint_Liner		= Liner|Passenger transport
+#M_LDesc_Liner 		= Liners are comfortable and speedy ships used for interplanetary passenger transportation. Gracious liners of the Tern class capable of planetary landing were most widespread in the Empire. Not long ago one could see them in any part of the colonized space.|However, now there are nearly none on space routes: almost unprotected, they are waiting for the end of the civil war in hangars.
+
+#M_Name_StarHammer	= Star Hammer
+#M_Hint_StarHammer	= Star Hammer
+#M_LDesc_StarHammer	= That thing was surely powerful. I wish I had it...
+
+#M_Name_Arba		= Heavy transport
+#M_Hint_Arba		= Heavy transport
+#M_LDesc_Arba		= A spacious but slow transport. It carries two defensive turrets.|A standard transport has no hangar and can only carry fighters as cargo. It is recommended to hire mercenaries to protect transports from pirates.
+
+#M_Name_MShipPirate	= Pirate mothership
+#M_Hint_MShipPirate	= Pirate mothership
+#M_LDesc_MShipPirate 	= Pirates often remake large transports into motherships. As modifications are custom in each case, each mothership is somewhat unique.
+
+#M_Name_At		= Alpha transport
+#M_Hint_At		= Alpha transport
+#M_LDesc_At 	= New transports of the Alpha class may soon supersede other transports, especially Betas, from trade routes. Alphas have no protection and require escort. On the other hand, they are very spacious.
+
+#M_Name_Bt		= Beta transport
+#M_Hint_Bt		= Beta transport
+#M_LDesc_Bt 		= Transports of the Beta class produced by USS are not very popular due to slow speed, low maneuverability and no protection whatsoever. On the other hand, they are very spacious.
+
+#M_Name_RepairBot	= Repair bot
+#M_Hint_RepairBot	= Repair bot
+#M_LDesc_RepairBot 	= Small fully automated repair bots are widely used to repair stationary objects.
+
+#M_Name_Ptransport	= Portal transport
+#M_Hint_Ptransport	= Portal transport
+#M_LDesc_Ptransport 	= A heavy tug used to tow portal parts.
+
+#M_Name_Platform	= Platform
+#M_Hint_Platform	= Platform
+#M_LDesc_Platform 	= At early stages of the civil war, the NESF actively used custom combat platforms to protect stationary objects. A typical platform was made of a few welded cargo containers carrying standard turrets and targeting systems. However, later, InoCo and USS started making special combat platforms that could be installed in open space or on asteroids.
+
+#M_Name_Alien_gates	= Mobile Alien portal
+#M_Hint_Alien_gates	= Mobile Alien portal
+#M_LDesc_Alien_gates	= A huge transport carrying a device similar to a stationary portal.
+
+#M_Name_Cruiser_Invincible	= Invincible
+#M_Hint_Cruiser_Invincible	= Cruiser|Invincible
+#M_SDesc_Cruiser_Invincible	= Cruiser Invincible
+#M_LDesc_Cruiser_Invincible	= One of the first Lion Mk 1 cruisers and the headquarters of Flag Admiral Hader.
+
+;****************************
+;  Station
+;****************************
+
+#M_Name_HermitHome	= Laboratory
+#M_Hint_HermitHome	= Laboratory
+
+#M_Name_PStation	= Patrol station
+#M_Hint_PStation	= Patrol station
+
+#M_Name_PStation_02	= Patrol station
+#M_Hint_PStation_02	= Patrol station
+
+#M_Name_PStation_03	= Patrol station
+#M_Hint_PStation_03	= Patrol station
+
+#M_Name_PStation_04	= Patrol station
+#M_Hint_PStation_04	= Patrol station
+
+#M_Name_ModuleStation_01	= Modular station
+#M_Hint_ModuleStation_01	= Modular station
+
+#M_Name_ModuleStation_02	= Modular station
+#M_Hint_ModuleStation_02	= Modular station
+
+#M_Name_ModuleStation_03	= Modular station
+#M_Hint_ModuleStation_03	= Modular station
+
+#M_Name_Mining_station	= Mining station
+#M_Hint_Mining_station	= Mining station
+
+#M_Name_Res_station	= Residential station
+#M_Hint_Res_station	= Residential station
+
+#M_Name_LIQUID_STATION	= Oxygen plant
+#M_Hint_LIQUID_STATION	= Oxygen plant
+
+#M_Name_LIQUID_STATION_2	= Inxel station
+#M_Hint_LIQUID_STATION_2	= Inxel station
+
+#M_Name_OBSERVATORY	= Pirate outpost
+#M_Hint_OBSERVATORY	= Pirate outpost
+
+#M_Name_OBSERVATORY1	= Asteroid observatory
+#M_Hint_OBSERVATORY1	= Asteroid observatory
+
+#M_Name_OBSERVATORY2	= Auxiliary station 
+#M_Hint_OBSERVATORY2	= Auxiliary station 
+
+#M_Name_ModuleStation	= Universal station
+#M_Hint_ModuleStation	= Universal station
+
+#M_Name_Living_station	= Residential station
+#M_Hint_Living_station	= Residential station
+
+#M_Name_Station_triada	= Triada station
+#M_Hint_Station_triada	= Triada station
+
+#M_Name_Station_inoco	= InoCo station
+#M_Hint_Station_inoco	= InoCo station
+
+#M_Name_Station_uss	= USS station
+#M_Hint_Station_uss	= USS station
+
+#M_Name_Large_Pirate_Station	= Pirate station
+#M_Hint_Large_Pirate_Station	= Pirate station
+
+#M_Name_Pirate_station2	= Pirate station
+#M_Hint_Pirate_station2	= Pirate station
+
+#M_Name_Pirate_station3	= Smuggler station
+#M_Hint_Pirate_station3	= Smuggler station
+
+#M_Name_BerserkStation	= Berserk station
+#M_Hint_BerserkStation	= Berserk station
+
+#M_Name_BerserkFactory	= Berserk dockyard
+#M_Hint_BerserkFactory	= Berserk dockyard
+
+#M_Name_CargoModule_01	= Cargo bay
+#M_Hint_CargoModule_01	= Cargo bay
+
+;#M_Name_Asteroid_inv	= Asteroid
+;#M_Hint_Asteroid_inv	= Asteroid
+
+#M_Name_buoy_station	= Navigational buoy
+#M_Hint_buoy_station	= Navigational buoy
+
+#M_Name_Gamma13	= Gamma 13 station
+#M_Hint_Gamma13	= Gamma 13 station
+
+#M_Name_HyperJamming	= Hyperspace jammer
+#M_Hint_HyperJamming	= Hyperspace jammer
+
+
+;****************************
+;  Portal
+;****************************
+
+#M_Name_Portal		= Portal
+#M_Hint_Portal		= Portal
+
+#M_Name_portalDestroyed	= Ruined portal
+#M_Hint_portalDestroyed	= Ruined portal
+
+#M_Name_Prec_Portal	= Precursor portal
+#M_Hint_Prec_Portal	= Precursor portal
+
+#M_Name_Alien_Portal	= Alien portal
+#M_Hint_Alien_Portal	= Alien portal
+
+#M_Name_Angor_Portal	= Angorian portal
+#M_Hint_Angor_Portal	= Angorian portal
+
+#M_Name_Portal_inner		= Intrasystem portal
+#M_Hint_Portal_inner		= Intrasystem portal
+
+
+;****************************
+;  Space Carcass
+;****************************
+
+#M_Name_meat	= Meeting place
+#M_Hint_meat	= Meeting place
+
+#M_Name_Crash_site	= Wreckage site
+#M_Hint_Crash_site	= Wreckage site
+
+#M_Name_Prec_Portal_no_batt	= Precursor portal
+#M_Hint_Prec_Portal_no_batt	= Precursor portal
+
+#M_Name_Portal_part_dest	= Portal
+#M_Hint_Portal_part_dest	= Portal
+
+#M_Name_Broken_station	= Ruined station
+#M_Hint_Broken_station	= Ruined station
+
+#M_Name_Big_Ship_destroyed	= Ship hull
+#M_Hint_Big_Ship_destroyed	= Ship hull
+
+#M_Name_PStation_destroyed	= Ruined Patrol station
+#M_Hint_PStation_destroyed	= Ruined Patrol station
+
+#M_Name_PStation2_destroyed	= Ruined Patrol station
+#M_Hint_PStation2_destroyed	= Ruined Patrol station
+
+#M_Name_Station_Triada_destroyed	= Ruined Triada station
+#M_Hint_Station_Triada_destroyed	= Ruined Triada station
+
+#M_Name_Mining_station_destroyed	= Ruined mining station
+#M_Hint_Mining_station_destroyed	= Ruined mining station
+
+#M_Name_LOS_destroyed	= Ruined station
+#M_Hint_LOS_destroyed	= Ruined station
+
+#M_Name_MS_destroyed	= Ruined station
+#M_Hint_MS_destroyed	= Ruined station
+
+#M_Name_bomb		= Bomb
+#M_Hint_bomb		= Bomb
+
+#M_Name_bomb_ghost	= Bomb plant site
+#M_Hint_bomb_ghost	= Bomb plant site
+
+#M_Name_sat_ghost	      = Spy satellite launch site
+#M_Hint_sat_ghost	      = Spy satellite launch site
+
+#M_Name_field_generator	= Field generator
+#M_Hint_field_generator	= Field generator
+
+#M_Name_radiopod	= Beacon
+#M_Hint_radiopod	= Beacon
+
+#M_Name_buoy_1		= Navigational buoy
+#M_Hint_buoy_1		= Navigational buoy
+
+#M_Name_satellite		= Spy satellite
+#M_Hint_satellite		= Spy satellite
+
+#M_Name_triada_logo	= Triada hologram
+#M_Hint_triada_logo	= Triada hologram
+
+#M_Name_UFT_logo	= FTU hologram
+#M_Hint_UFT_logo	= FTU hologram
+
+#M_Name_inoco_logo	= InoCo hologram
+#M_Hint_inoco_logo	= InoCo hologram
+
+#M_Name_USS_logo	= USS hologram
+#M_Hint_USS_logo	= USS hologram
+
+#M_Name_Escape_Pod_R	= Escape pod
+#M_Hint_Escape_Pod_R	= Escape pod
+
+#M_Name_prec_portal_ref	= Star Hammer Defenses
+#M_Hint_prec_portal_ref	= Star Hammer Defenses
+
+#M_Name_Asteroid	= Asteroid
+#M_Hint_Asteroid	= Asteroid
+
+#M_Name_Asteroid_multi	= Asteroid group
+#M_Hint_Asteroid_multi	= Asteroid group
+
+#M_Name_Garbage		= Debris
+#M_Hint_Garbage		= Debris
+
+#M_Name_objunknown		= Unknown object
+#M_Hint_objunknown		= Unknown object
+
+#M_Name_Alien_Art		= Artifacts container
+#M_Hint_Alien_Art		= Artifacts container
+
+#M_Name_prec_Art	= Artifacts containers
+#M_Hint_prec_Art	= Artifacts containers
+
+;MY Labels
+
+#M_Name_Merc_Base	= Mercenary base Sherwood
+#M_Hint_Merc_Base	= Mercenary base Sherwood
+
+#M_Name_PStation_03_Areko	= Station Observer
+#M_Hint_PStation_03_Areko	= Station Observer
+
+#M_Name_ModuleStation_Universal	= Trade station
+#M_Hint_ModuleStation_Universal	= Trade station
+
+#M_Name_PStation_Universal	= Patrol station
+#M_Hint_PStation_Universal	= Patrol station 
+
+#M_Name_ModuleStation_01_Universal	= Trade station
+#M_Hint_ModuleStation_01_Universal	= Trade station
+
+#M_Name_Mining_station_A2	= Station A2
+#M_Hint_Mining_station_A2	= Station A2
+
+#M_Name_Living_station_Universal	= Residential complex
+#M_Hint_Living_station_Universal	= Residential complex
+
+#M_Name_PStation_04_Universal	= Patrol station 
+#M_Hint_PStation_04_Universal	= Patrol station 
+
+#M_Name_PStation_04_VKS	= MSF base
+#M_Hint_PStation_04_VKS	= MSF base
+
+#M_Name_PStation_05_KFNI	= NESF base
+#M_Hint_PStation_05_KFNI	= NESF base
+
+#M_Name_PStation_05_KFNI_patrol	= NESF patrol station
+#M_Hint_PStation_05_KFNI_patrol	= NESF patrol station
+
+#M_Name_PStation_Inoco_patrol	= InoCo patrol station
+#M_Hint_PStation_Inoco_patrol	= InoCo patrol station
+
+#M_Name_PStation_Triada_patrol	= Triada patrol station
+#M_Hint_PStation_Triada_patrol	= Triada patrol station
+
+#M_Name_PStation_USS_patrol	= USS patrol station
+#M_Hint_PStation_USS_patrol	= USS patrol station
+
+#M_Name_Mining_station_Universal	= Mining station
+#M_Hint_Mining_station_Universal	= Mining station
+
+#M_Name_Pirate_station2_Universal	= Pirate station
+#M_Hint_Pirate_station2_Universal	= Pirate station
+
+#M_Name_OBSERVATORY2_Universal	= Auxiliary station 
+#M_Hint_OBSERVATORY2_Universal	= Auxiliary station 
+
+#M_Name_Station_triada_zaprav	= Service station
+#M_Hint_Station_triada_zaprav	= Service station
+
+#M_Name_OBSERVATORY_Universal	= Space outpost
+#M_Hint_OBSERVATORY_Universal	= Space outpost
+
+#M_Name_Large_Pirate_Station_Labor	= Prison laboratory
+#M_Hint_Large_Pirate_Station_Labor	= Prison laboratory
+
+#M_Name_buoy_station_Universal	= Navigation station
+#M_Hint_buoy_station_Universal	= Navigation station
+
+#M_Name_OBSERVATORY1_Universal	= Space observatory
+#M_Hint_OBSERVATORY1_Universal	= Space observatory
+
+#M_Name_Res_station_Universal	= Residential station
+#M_Hint_Res_station_Universal	= Residential station
+
+#M_Name_PStation_03_Universal	= Patrol station
+#M_Hint_PStation_03_Universal	= Patrol station
+
+#M_Name_CargoModule_01_Universal	= Interstellar station
+#M_Hint_CargoModule_01_Universal	= Interstellar station
+
+#M_Name_BerserkStation_Universal	= Automated station 
+#M_Hint_BerserkStation_Universal	= Automated station 
+
+#M_Name_Large_Pirate_Station_Universal	= Pirate station
+#M_Hint_Large_Pirate_Station_Universal	= Pirate station
+
+#M_Name_HermitHome_Universal	= Space laboratory
+#M_Hint_HermitHome_Universal	= Space laboratory
+
+#M_Name_PStation_02_Universal	= Patrol station
+#M_Hint_PStation_02_Universal	= Patrol station
+
+#M_Name_Station_uss_Universal	= Space outpost
+#M_Hint_Station_uss_Universal	= Space outpost
+
+#M_Name_Large_Pirate_Station_Lab	= Pirate station
+#M_Hint_Large_Pirate_Station_Lab	= Pirate station
+
+#M_Name_Station_uss_snk	= FTU station
+#M_Hint_Station_uss_snk	= FTU station
+
+#M_Name_Station_uft_stab	= Free Trader Union Headquarters
+#M_Hint_Station_uft_stab	= Free Trader Union Headquarters
+
+#M_Name_PStation_03_Hran	= Storage station
+#M_Hint_PStation_03_Hran	= Storage station
+
+#M_Name_Station_triada_zavod	= Processing plant
+#M_Hint_Station_triada_zavod	= Processing plant
+
+#M_Name_Station_uss_Priz	= Phantom's laboratory
+#M_Hint_Station_uss_Priz	= Phantom's laboratory
+
+#M_Name_PStation_04_raspred	= Receiving prison
+#M_Hint_PStation_04_raspred	= Receiving prison
+
+#M_Name_Asteroid_inv_Val	= Asteroid
+#M_Hint_Asteroid_inv_Val	= Asteroid
+
+#M_Name_Mining_station_Deo	= Mining station
+#M_Hint_Mining_station_Deo	= Mining station
+
+#M_Name_Large_Pirate_Station_Kon	= Pirate station
+#M_Hint_Large_Pirate_Station_Kon	= Pirate station
+
+#M_Name_Large_Pirate_Station_Kit	= Pirate laboratory
+#M_Hint_Large_Pirate_Station_Kit	= Pirate laboratory
+
+#M_Name_Station_triada_spam	= Spammer base
+#M_Hint_Station_triada_spam	= Spammer base
+
+#M_Name_PStation_04_sta	=  Space station 
+#M_Hint_PStation_04_sta	=  Space station 
+
+#M_Name_PStation_neutral =  Space station 
+#M_Hint_PStation_neutral =  Space station 
+
+#M_Name_Station_uss_Labor	= Laboratory
+#M_Hint_Station_uss_Labor	= Laboratory
+
+#M_Name_Station_triada_spam1	= Spammer base
+#M_Hint_Station_triada_spam1	= Spammer base
+
+#M_Name_BerserkStation_Labsnk	= Berserk laboratory
+#M_Hint_BerserkStation_Labsnk	= Berserk laboratory
+
+#M_Name_Station_uss_Lab	= Prison laboratory
+#M_Hint_Station_uss_Lab	= Prison laboratory
+
+#M_Name_PStation_04_Stab	=  MSF regional headquarters
+#M_Hint_PStation_04_Stab	=  MSF regional headquarters
+
+#M_Name_PStation_05_Stab	=  NESF regional headquarters
+#M_Hint_PStation_05_Stab	=  NESF regional headquarters
+
+#M_Name_PStation_04_Main_Stab	=  MSF Headquarters
+#M_Hint_PStation_04_Main_Stab	=  MSF Headquarters
+
+#M_Name_PStation_05_Main_Stab	=  NESF Headquarters
+#M_Hint_PStation_05_Main_Stab	=  NESF Headquarters
+
+#M_Name_PStation_04_Llan	= Llanowarian station
+#M_Hint_PStation_04_Llan	= Llanowarian station
+
+#M_Name_Mega_Ship	= Ship of Retribution
+#M_Hint_Mega_Ship	= Ship of Retribution
+
+#M_Name_SM_Station = Space dockyard
+#M_Hint_SM_Station = Space dockyard
+
+#M_Name_Jah_Station = Hookah Lounge Jah Rastafari
+#M_Hint_Jah_Station = Hookah Lounge Jah Rastafari
+
+#M_Name_Rock_hideout = Strange debris
+#M_Hint_Rock_hideout = The strange debris of an ancient civilization. It seems like there is something inside.
+
+#M_Name_SHGarbage			= Star Hammer Memorial
+#M_Hint_SHGarbage			= Debris dedicated to the memory of Al.
+
+#M_Name_Living_station_merc	= Mercenary Dormitory 1
+#M_Hint_Living_station_merc	= Mail us at Mercenary Campus 8

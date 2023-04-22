@@ -1,0 +1,242 @@
+;***********************************
+; modules XML
+;***********************************
+LOCALE_FILE
+FILETYPE STANDART
+
+; year 2227
+
+;----------------------
+; Quest Modules
+;----------------------
+
+#M_Name_Cargo_crate	= Cargo container
+#M_Hint_Cargo_crate	= Tetragon Mk 2 cargo container
+#M_SDesc_Cargo_crate	= 
+#M_LDesc_Cargo_crate	= A Tetragon Mk 2 cargo container designed for transporting heavy machinery. Maximum net weight: 4 tons, maximum G force: 5g.|Judging by a chalk inscription on its side, this container has some mining equipment inside.
+
+;Cargo Crate. |Some heavy machinery inside.
+
+#M_Name_Barrel_02		= Cargo container
+#M_Hint_Barrel_02		= V-6-4 cargo container
+#M_SDesc_Barrel_02	= 
+#M_LDesc_Barrel_02	= A V-6-4 cargo container with four high-pressure tanks in a single cargo unit designed for storage and transportation of compressed and liquefied gases. Its specifications provide for the maximum safe pressure of 60 atmospheres, but such containers are often overloaded to save cargo bay space. From time to time this leads to unwanted outcomes... Maximum G force: 5g
+
+;Cargo Crate
+
+#M_Name_Uranium		= Uranium-235
+#M_Hint_Uranium		= Uranium-235
+#M_SDesc_Uranium		= 
+#M_LDesc_Uranium		= A standard F-2 "Tun" container, Biological Protection 1st Class, designed for transporting hazardous and radioactive substances. This container has nuclear warhead materials inside. An illegal cargo, in fact, but Patrol rarely wishes to screen cargo onboard mercenary ships, heavily armed at that.
+
+;Uranium-235
+
+#M_Name_Cargo_01		= Cargo container 
+#M_Hint_Cargo_01		= Tetragon Mk 2 cargo container
+#M_SDesc_Cargo_01		= 
+#M_LDesc_Cargo_01		= A Tetragon Mk 2 cargo container designed for transporting heavy machinery. Maximum net weight: 4 tons, maximum G force: 5 g. 
+
+#M_Name_Cargo_02		= Cargo container 
+#M_Hint_Cargo_02		= Vacuum Freeze cargo container
+#M_SDesc_Cargo_02		= 
+#M_LDesc_Cargo_02		= A Vacuum Freeze cargo container for transporting foodstuff, medicines and other perishable goods. Maximum net weight: 2 tons, maximum G force: 4 g. 
+
+#M_Name_Cargo_03		= Cargo container
+#M_Hint_Cargo_03		= Hermetic U cargo container
+#M_SDesc_Cargo_03		= 
+#M_LDesc_Cargo_03		= A Hermetic U cargo container ("U" stands for "universal") designed for transporting any small-size cargo, including that sensitive to pressure drops. Maximum net weight depends on cargo type: 2 tons, maximum G force: 4.5 g. 
+
+#M_Name_Cargo_04		= Cargo container
+#M_Hint_Cargo_04		= LSCC cargo container
+#M_SDesc_Cargo_04		= 
+#M_LDesc_Cargo_04		= An LSCC cargo container designed for large-size cargo not requiring special storage conditions. Often used to transport spare parts, materials and light space vessels. Maximum net weight: 120 tons, maximum G force depends on cargo: over 6 g. 
+
+#M_Name_Cargo_05		= Cargo container
+#M_Hint_Cargo_05		= Tetragon Mk 2 cargo container
+#M_SDesc_Cargo_05		= 
+#M_LDesc_Cargo_05		= A Tetragon Mk 2 cargo container designed for transporting heavy machinery. Maximum net weight: 4 tons, maximum G force: 5 g. 
+
+#M_Name_Cargo_06		= Cargo container
+#M_Hint_Cargo_06		= F-2 cargo container
+#M_SDesc_Cargo_06		= 
+#M_LDesc_Cargo_06		= A standard F-2 "Tun" container, Biological Protection 1st Class, designed for transporting hazardous and radioactive substances. Often used for storing spare and exhausted reactor fuel cells. Maximum net weight: 0.95 tons, maximum G force: 5 g. 
+
+#M_Name_Cargo_07		= Cargo container
+#M_Hint_Cargo_07		= V-6-4 cargo container
+#M_SDesc_Cargo_07		= 
+#M_LDesc_Cargo_07		= A V-6-4 cargo container with four high-pressure tanks in a single cargo unit designed for storage and transportation of compressed and liquefied gases. Its specifications provide for the maximum safe pressure of 60 atmospheres, but such containers are often overloaded to save cargo bay space. From time to time this leads to unwanted outcomes...|Maximum G force: 5g. 
+
+#M_Name_Cargo_08		= Cargo container
+#M_Hint_Cargo_08		= V-C-9 cargo container
+#M_SDesc_Cargo_08		= 
+#M_LDesc_Cargo_08		= A hermetic V-C-9 cargo container for transporting aggressive, flammable and toxic substances. Often used for storing emergency stock of reactor working substances. Maximum net weight: 4 tons, maximum G force without cargo limitations: 9g. 
+
+#M_Name_Cargo_09		= Cargo container
+#M_Hint_Cargo_09		= V-A-00 cargo container
+#M_SDesc_Cargo_09		= 
+#M_LDesc_Cargo_09		= A special-purpose V-A-00 cargo container covered with half-erased warnings: "Do not open", "Caution! Aggressive substances!", "Detach hose only after bleeding and deactivation", "This side up", "Maximum G force 3 g", "Handle with care". Whatever is inside, you don't want it. 
+
+#M_Name_Cargo_10		= Cargo container
+#M_Hint_Cargo_10		= Tetragon Mk 2 cargo container
+#M_SDesc_Cargo_10		= 
+#M_LDesc_Cargo_10		= A Tetragon Mk 2 cargo container designed for transporting heavy machinery. Maximum net weight: 4 tons, maximum G force: 5g. 
+
+#M_Name_Cargo_Electronic_1	= Container with electronics
+#M_Hint_Cargo_Electronic_1	= Container with electronics
+#M_SDesc_Cargo_Electronic_1	= 
+#M_LDesc_Cargo_Electronic_1	= A usual Hermetic U cargo container full of print circuit boards. Non-standard wires protrude from a few holes in the cover. The container is sealed, and the inscription says, "Do not touch".
+
+#M_Name_Cargo_Electronic_2	= Container with an invention
+#M_Hint_Cargo_Electronic_2	= Container with an invention
+#M_SDesc_Cargo_Electronic_2	= 
+#M_LDesc_Cargo_Electronic_2	= A man-made wonder immersed in an inert fluid and sealed inside a special V-A-00 container. The inscription of the cover says, "Handle with utmost care".
+
+#M_Name_Cargo_Doc_1	= Documentation
+#M_Hint_Cargo_Doc_1	= Documentation 
+#M_SDesc_Cargo_Doc_1	= 
+#M_LDesc_Cargo_Doc_1	= A usual Hermetic U cargo container. The container is sealed, and the inscription says, "Do not touch".
+
+#M_Name_Cargo_Doc_2	= Documentation 
+#M_Hint_Cargo_Doc_2	= Documentation 
+#M_SDesc_Cargo_Doc_2	= 
+#M_LDesc_Cargo_Doc_2	= A usual Hermetic U cargo container. The container is sealed, and the inscription says, "Do not touch".
+
+#M_Name_Escape_Pod	= Escape pod
+#M_Hint_Escape_Pod	= Escape pod
+#M_SDesc_Escape_Pod	= 
+#M_LDesc_Escape_Pod	= An escape pod designed to save the life of a baled out pilot. Supports life activity for 200 hours to 6 months depending on modification.
+
+#M_Name_bomb_m		= Bomb
+#M_Hint_bomb_m		= Bomb
+#M_SDesc_bomb_m		= 
+#M_LDesc_bomb_m		= A doomsday device of huge lethal range. Usually detonated remotely or by a timer. The inscription says, "Do not drop!"
+
+#M_Name_scull_box		= Precursor skull
+#M_Hint_scull_box		= Precursor skull
+#M_SDesc_scull_box	= 
+#M_LDesc_scull_box	= A strange-looking skull. It probably belonged to a Precursor. Stored in an ultrastrong container made using some unknown technology. An antique dealer will probably fork out a fair amount of money to have it.
+
+#M_Name_Stocks		= Stocks of Llanowarian Standard
+#M_Hint_Stocks		= Stocks of Llanowarian Standard
+#M_SDesc_Stocks		= 
+#M_LDesc_Stocks		= Stocks of Llanowarian Standard.|Llanowarian Standard is a major joint-stock company, which main shareholder is the New Empire. The company is a leading expert in neurosurgery, microbiology and cloning.|The price of LS stocks was traditionally high at the Intergalactic Exchange until the disturbances in the Phoenix Sector, when the blockade of Llanowar resulted in almost complete suspension of company's main facilities. One of the main peculiarities of the Llanowarian Standard policy was weekly distribution of impressive dividends. This explains why LS shareholders are keeping the stocks even at times of depression.
+
+#M_Name_radiopod_m	= Eavesdropping device
+#M_Hint_radiopod_m	= Eavesdropping device
+#M_SDesc_radiopod_m	= 
+#M_LDesc_radiopod_m	= Eavesdropping device is a complex tool capable of intercepting and retransmitting encrypted signals, including directional, in a wide frequency range. Often used by special agents on secret missions.
+
+#M_Name_prec_portal_batt	= Precursor battery
+#M_Hint_prec_portal_batt	= Precursor battery
+#M_SDesc_prec_portal_batt	= 
+#M_LDesc_prec_portal_batt	= An energy source used in many large Precursor devices. Has incredible capacity and apparently can recharge itself. Like many other artifacts of this ancient race, the battery is still in working condition.
+
+#M_Name_prec_artefact_1	= Precursor artifact
+#M_Hint_prec_artefact_1	= Precursor artifact
+#M_SDesc_prec_artefact_1	= 
+#M_LDesc_prec_artefact_1	= A Precursor artifact that looks like a box.
+
+#M_Name_prec_artefact_2	= Precursor artifact
+#M_Hint_prec_artefact_2	= Precursor artifact
+#M_SDesc_prec_artefact_2	= 
+#M_LDesc_prec_artefact_2	= A Precursor artifact that looks like a part of some metallic structure covered in strange crystals.
+
+#M_Name_prec_artefact_3	= Precursor artifact
+#M_Hint_prec_artefact_3	= Precursor artifact
+#M_SDesc_prec_artefact_3	= 
+#M_LDesc_prec_artefact_3	= A Precursor artifact that looks like a pile of boxes.
+
+#M_Name_prec_artefact_4	= Precursor artifact
+#M_Hint_prec_artefact_4	= Precursor artifact
+#M_SDesc_prec_artefact_4	= 
+#M_LDesc_prec_artefact_4	= A Precursor artifact that looks like nothing you've ever seen.
+
+#M_Name_prec_ship_destroed	= Precursor fighter debris
+#M_Hint_prec_ship_destroed	= Precursor fighter debris
+#M_SDesc_prec_ship_destroed	= 
+#M_LDesc_prec_ship_destroed	= Precursor fighter debris.
+
+#M_Name_prec_gun_destroed	= Precursor gun debris
+#M_Hint_prec_gun_destroed	= Precursor gun debris
+#M_SDesc_prec_gun_destroed	= 
+#M_LDesc_prec_gun_destroed	= Precursor gun debris.
+
+#M_Name_asteroid_inv		= Asteroid fragment
+#M_Hint_asteroid_inv		= Asteroid fragment
+#M_SDesc_asteroid_inv		= 
+#M_LDesc_asteroid_inv		= An asteroid fragment is a usual boulder that is hardly of any interest to anyone except mad space artists.
+
+;Виверн только для инвентаря
+
+#M_LDesc_Wyvern_mod	= A prospective fighter prototype. Seems like it has pilot ID scanner protecting its controls. Though it's built into the control and navigation unit, it can be removed by simply replacing most of ship's electronics. You can probably do it yourself using tools found on a mothership. At least you could try. After that you'll be able to fly the prototype as any other fighter.
+
+
+#M_Name_Cargo_02Jack		= Cargo container 
+#M_Hint_Cargo_02Jack		= Vacuum Freeze cargo container
+#M_SDesc_Cargo_02Jack		= To be delivered to Jack
+#M_LDesc_Cargo_02Jack		= A Vacuum Freeze cargo container for transporting foodstuff, medicines and other perishable goods. Maximum net weight: 2 tons, maximum G force: 4 g.
+
+#M_Name_MisterN	= Container with an invention
+#M_Hint_MisterN	= Container with an invention
+#M_SDesc_MisterN	= To be delivered to Mr. N
+#M_LDesc_MisterN	= A man-made wonder immersed in an inert fluid and sealed inside a special V-A-00 container. The inscription of the cover says, "Handle with utmost care".
+
+#M_Name_Cargo_4_10_s		= Cargo container
+#M_Hint_Cargo_4_10_s		= Hermetic U cargo container
+#M_SDesc_Cargo_4_10_s		= 
+#M_LDesc_Cargo_4_10_s		= Stuff and equipment evacuated from the Gamma-13 Station.
+
+#M_Name_Cargo_002		= Cargo container
+#M_Hint_Cargo_002		= Hermetic U cargo container
+#M_SDesc_Cargo_002		= 
+#M_LDesc_Cargo_002		= A cargo of foodstuff and medicines.
+
+#M_Name_fragment_ship		= Fighter debris
+#M_Hint_fragment_ship		= Fighter debris
+#M_SDesc_fragment_ship		= 
+#M_LDesc_fragment_ship		= The results of external examination and the scan of Gunslinger debris found where the convoy had been wrecked. Converted into a hologram for easy viewing.
+
+#M_Name_Escape_PodATriada	= Captive Triada agents
+#M_Hint_Escape_PodATriada	= Captive Triada agents
+#M_SDesc_Escape_PodATriada	= 
+#M_LDesc_Escape_PodATriada	= An escape pod designed to save the life of a baled out pilot. Supports life activity for 200 hours to 6 months depending on modification. Pilots locked inside are saying something. Obviously something obscene.
+
+#M_Name_Escape_PodMatt	= Matt Hander's escape pod
+#M_Hint_Escape_PodMatt	= Matt Hander's escape pod
+#M_SDesc_Escape_PodMatt	= 
+#M_LDesc_Escape_PodMatt	= An escape pod designed to save the life of a baled out pilot. Supports life activity for 200 hours to 6 months depending on modification. Life indicators are in the red zone.
+
+#M_Name_Escape_PodAUSS	= Fake USS agent's escape pod
+#M_Hint_Escape_PodAUSS	= Fake USS agent's escape pod
+#M_SDesc_Escape_PodAUSS	= 
+#M_LDesc_Escape_PodAUSS	= An escape pod designed to save the life of a baled out pilot. Supports life activity for 200 hours to 6 months depending on modification. The man locked inside is silently trying to unscrew hatch bolts.
+
+#M_Name_satellite_mod		= Spy satellite
+#M_Hint_satellite_mod		= Spy satellite
+#M_SDesc_satellite_mod		= 
+#M_LDesc_satellite_mod		= A passive spy satellite. Used to collect intel on ship movement and intercept conversations in the widest frequency range.
+
+#M_Name_disk		= Storage device
+#M_Hint_disk		= Storage device
+#M_SDesc_disk		= 
+#M_LDesc_disk		= Rewritable storage device. Used for storing vital information that is later sent by courier.
+
+#M_Name_Escape_PodCleric	= Sleeping Cleric's escape pod
+#M_Hint_Escape_PodCleric	= Sleeping Cleric's escape pod
+#M_SDesc_Escape_PodCleric	= 
+#M_LDesc_Escape_PodCleric	= An escape pod designed to save the life of a baled out pilot. Supports life activity for 200 hours to 6 months depending on modification. The man locked inside is snoring like there's no tomorrow.
+
+#M_Name_Escape_PodMeier	= Claus Meier's escape pod
+#M_Hint_Escape_PodMeier	= Claus Meier's escape pod
+#M_SDesc_Escape_PodMeier	= 
+#M_LDesc_Escape_PodMeier	= An escape pod designed to save the life of a baled out pilot. Supports life activity for 200 hours to 6 months depending on modification. The man locked inside is weeping and promising he won't do that again.
+
+#M_Name_Escape_PodCleric2	= Cleric's escape pod
+#M_Hint_Escape_PodCleric2	= Cleric's escape pod
+#M_SDesc_Escape_PodCleric2	= 
+#M_LDesc_Escape_PodCleric2	= An escape pod designed to save the life of a baled out pilot. Supports life activity for 200 hours to 6 months depending on modification. The man locked inside is silently trying to connect his PDA to mothership systems.
+
+#M_Name_Rock		= Artifact
+#M_Hint_Rock		= Artifact
+#M_SDesc_Rock		= 
+#M_LDesc_Rock		= An artifact of an unknown civilization that has been retrieved from its container. It doesn't look like a Precursor thing, but it does look like a stone tablet with strange scratches resembling text.|A long scan and an even longer analysis, during which the computer crashed twice and demanded a drink once, produced an approximate translation.||"Another war, another fight.|Blood being shed like water.|We are but cogs of a war machine|Sent right into a slaughter.||There is no end to killing,|The body count is huge.|Our guts are here for milling.|Madness is our refuge.||No dusks or dawns in space, alas.|We've lost the sense of time.|But there's a star that shines so nice,|Its light keeps me alive.||If I live through this bloody mess,|I'll grab a ship and fly at last|To what has been my shining guide -|That star, alluring and so bright."

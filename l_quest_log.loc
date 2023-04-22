@@ -1,0 +1,63 @@
+;***********************************
+; QuestLog
+;***********************************
+LOCALE_FILE
+FILETYPE STANDART
+
+;mini mission
+#L_Quest_kill_pirate_1a=Eliminate the target.
+#L_Quest_kill_pirate_1b=The authorities entrusted you with eliminating the marked enemy team. You will be paid by the job.
+
+;free
+#L_Quest_help_a=Free time.
+#L_Quest_help_b=You don't have any missions at the moment and are free to do as you please.
+
+;7th missions
+#L_Quest_7f_a=Reach InoCo Headquarters.
+#L_Quest_7f_b=It turned out that the cargo from the wrecked convoy had belonged to InoCo. The corporators at their headquarters in Lidau might know more about this assault.
+
+;mission_8a
+#L_Quest_8a_a=Leave the system.
+#L_Quest_8a_b=You are free to do as you please for now. Viper will contact you later.
+
+;mission_8b
+#L_Quest_8b_a=Leave the system.
+#L_Quest_8b_b=You are free to do as you please for now. Roghem will contact you later. Don't fly too far from Candela and don't leave the Triada's space.
+#L_Quest_8b_01_a=Rendezvouz with Roghem.
+#L_Quest_8b_01_b=Rendezvouz with Roghem in Candela.
+
+;mission_8c
+#L_Quest_8c_02a=Deliver the storage device to Aurora.
+#L_Quest_8c_02b=Deliver the storage device to Alexandra's agent at the Placid Docks Station in Aurora.
+
+;mission_8d
+#L_Quest_8d_a=Find a job.
+#L_Quest_8d_b=Look for a job in other systems. If you're lucky enough, you may find some information about the convoy wrecked in Beta Lethera.
+#L_Quest_8d_01a=Reach Charon.
+#L_Quest_8d_01b=You must reach the Charon system, where Alex awaits.
+
+;mission_8e
+#L_Quest_8e_01_a=Reach Gaeon.
+#L_Quest_8e_01_b=Fly to the designated coordinates in Gaeon. Don't leave the InoCo's space.
+
+;mission_15e
+#L_Quest_15eA_01a=Reach Eridan.
+#L_Quest_15eA_01b=The united fleet led by Corsair is gathering in Eridan. You must visit Eridan, meet Corsair and persuade him to attack SAM's citadel.
+
+;mission_16a
+#L_Quest_16aO_01a=Reach Simeiz.
+#L_Quest_16aO_01b=The hypercatapult in Simeiz can send you to Earth.
+
+;mission_16c
+#L_Quest_16c_00a=Reach Eridan.
+#L_Quest_16c_00b=Corsair is expecting you in Eridan. Hurry up.
+
+;mission_18c
+#L_Quest_18c_01a=Reach Eridan.
+#L_Quest_18c_01b=You and Admiral Trump are expected in Eridan. Hurry up.
+
+;mission_19a
+#L_Quest_19aO_01a=Reach Al Trabon.
+#L_Quest_19aO_01b=The nearest hypercatapult that can send you to New Kyoto is in Al Trabon.
+#L_Quest_19aO_02a=Reach New Kyoto.
+#L_Quest_19aO_02b=Trump claims that the FTU office in New Kyoto is also the headquarters of the Greys.

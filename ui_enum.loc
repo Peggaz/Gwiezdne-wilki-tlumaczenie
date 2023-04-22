@@ -1,0 +1,15 @@
+;***********************************
+; enumerations for UI
+;***********************************
+LOCALE_FILE
+FILETYPE STANDART
+
+#UIE_AccuracyHigh	= Wysoki
+#UIE_AccuracyMedium	= Œredni
+#UIE_AccuracyLow	= Niski
+
+
+
+#UIE_GenerationPoor			= Niski
+#UIE_GenerationStd			= Œredni
+#UIE_GenerationUltimate		= Wysoki

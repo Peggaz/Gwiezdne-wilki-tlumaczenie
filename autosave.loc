@@ -1,0 +1,66 @@
+;****************; 
+; AutoSave names ;
+;****************;
+LOCALE_FILE
+FILETYPE STANDART
+
+#AS_mission_1 = The Return
+#AS_mission_2 = Trader's Life
+#AS_mission_3 = An Unexpected Encounter
+#AS_mission_4 = The Pirate Base
+#AS_mission_4_5 = Aerography
+#AS_mission_5_1 = A Mission for USS
+#AS_mission_5_2 = The Stash
+#AS_mission_6c = USS Convoy
+#AS_mission_6pre = Confronting the Past - 1
+#AS_mission_6 = Confronting the Past - 2
+#AS_mission_6_start7 = Crossroads
+#AS_mission_7_1 = MSF Secrets
+#AS_mission_7_2 = Why Triada?
+#AS_mission_7_3 = Mercenaries
+#AS_mission_7_4 = A Chance to Earn a Living
+#AS_mission_7_5 = Help from the New Empire
+#AS_mission_7_6 = Help from InoCo
+#AS_mission_7_7 = A New Base
+#AS_mission_8_1 = Helping the Empire
+#AS_mission_8_2 = A Mission for Triada
+#AS_mission_8_3 = InoCo Secrets
+#AS_mission_8_4 = Empress's Vassals
+#AS_mission_8_5 = On Your Own
+#AS_mission_9_1 = Empire's Daily Life
+#AS_mission_9_2 = The Corporate Space
+#AS_mission_9_3 = The Blockade
+#AS_mission_9_4 = A Supermarket Trip
+#AS_mission_10 = Remote Systems
+#AS_mission_11 = A Precursor Artifact
+#AS_mission_12_1 = The Loyalty Oath
+#AS_mission_12_2 = Hell-Bent for Revenge
+#AS_mission_12_3 = Comrade Sukhova
+#AS_mission_12_4 = Unrecognized Genius
+#AS_mission_12_5 = A Mysterious Ally
+#AS_mission_13_1 = To Save a Friend
+#AS_mission_14_1 = Power Brokers
+#AS_mission_14_2 = Al's Great Plan
+#AS_mission_15_1 = Esprit de Corps
+#AS_mission_15_2 = Dotting the I's
+#AS_mission_15_3 = Recon in Force
+#AS_mission_15_4 = Highlighting the Key Points
+#AS_mission_15_5 = Berserks Return (Al)
+#AS_mission_15_6 = Berserks Return (Alex)
+#AS_mission_16_1 = Empire on Fire
+#AS_mission_16_2 = The Revenge
+#AS_mission_16_3 = Moments of Truth
+#AS_mission_16_4 = The Night Raid
+#AS_mission_16_5 = The Matrix
+#AS_mission_17_2 = Dragon's Flight
+#AS_mission_17_3 = Defenders of Eridan
+#AS_mission_17_4 = The Bitter Truth
+#AS_mission_18_1 = His Imperial Majesty
+#AS_mission_18_3 = The Eridan Conference
+#AS_mission_18_4 = The Death of the Machine
+#AS_mission_19_1 = An Overhaul
+#AS_mission_19_2 = The Steel Avalanche
+#AS_mission_19_3 = A Difficult Choice
+#AS_mission_19_4 = Surgery
+#AS_mission_20_1 = Heart and Mind
+#AS_mission_20_3 = The Ruler of Fate

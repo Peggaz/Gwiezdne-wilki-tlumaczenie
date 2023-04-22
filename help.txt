@@ -1,0 +1,67 @@
+</color:GuiTextLight,font:int00/>
+Mouse|</size:3/>|</size:10/>
+</font:int01/>
+</color:GuiTextNormal/>LMB (left mouse button)		</color:GuiTextNormal/>Select||
+</color:GuiTextNormal/>RMB (right mouse button)		</color:GuiTextNormal/>Default action (move,|
+					attack, etc.)|
+</color:GuiTextNormal/>LMB double click 			</color:GuiTextNormal/>Focus||
+</color:GuiTextNormal/>Alt + LMB	  			</color:GuiTextNormal/>Focus||
+</color:GuiTextNormal/>Mouse wheel		  		</color:GuiTextNormal/>Change distance||
+</color:GuiTextNormal/>LMB + RMB + move mouse		</color:GuiTextNormal/>Change distance||
+</color:GuiTextNormal/>Ctrl + Shift + LMB			</color:GuiTextNormal/>Scan weapons and systems||
+</color:GuiTextNormal/>Ctrl + LMB 				</color:GuiTextNormal/>Attack||
+</color:GuiTextNormal/>Ctrl + RMB 				</color:GuiTextNormal/>Move aggressively or attack||
+</color:GuiTextNormal/>Shift + RMB + move mouse  		</color:GuiTextNormal/>Move vertically||
+
+||
+</color:GuiTextLight,font:int00/>
+Keyboard|</size:3/>|</size:10/>
+</font:int01/>
+</color:GuiTextNormal/>[			</color:GuiTextNormal/>Slow down game time||
+</color:GuiTextNormal/>]			</color:GuiTextNormal/>Speed up game time||
+</color:GuiTextNormal/><			</color:GuiTextNormal/>Show contacts panels||
+</color:GuiTextNormal/>>			</color:GuiTextNormal/>Hide contacts panels||
+</color:GuiTextNormal/>+ 			</color:GuiTextNormal/>Zoom in||
+</color:GuiTextNormal/>-			</color:GuiTextNormal/>Zoom out||
+</color:GuiTextNormal/>Ctrl + A		</color:GuiTextNormal/>Select all ships|| 
+</color:GuiTextNormal/>S			</color:GuiTextNormal/>Stop selected ships||
+</color:GuiTextNormal/>D			</color:GuiTextNormal/>Dock selected team to mothership||
+</color:GuiTextNormal/>Z			</color:GuiTextNormal/>Dock all teams to mothership||
+</color:GuiTextNormal/>Ctrl + Z		</color:GuiTextNormal/>Launch all teams||
+</color:GuiTextNormal/>X			</color:GuiTextNormal/>Toggle special actions panels||
+</color:GuiTextNormal/>M			</color:GuiTextNormal/>Move horizontally and vertically||
+</color:GuiTextNormal/>A			</color:GuiTextNormal/>Attack||
+</color:GuiTextNormal/>R			</color:GuiTextNormal/>Missile attack||
+</color:GuiTextNormal/>E			</color:GuiTextNormal/>Escort||
+</color:GuiTextNormal/>B			</color:GuiTextNormal/>Bring up Mothership window||
+</color:GuiTextNormal/>I			</color:GuiTextNormal/>Show log and mail||
+</color:GuiTextNormal/>1-9			</color:GuiTextNormal/>Select threaded response||
+</color:GuiTextNormal/>1-6			</color:GuiTextNormal/>Select team by number||
+</color:GuiTextNormal/>Tab			</color:GuiTextNormal/>Sector map||
+</color:GuiTextNormal/>Backspace		</color:GuiTextNormal/>Global map||
+</color:GuiTextNormal/>V			</color:GuiTextNormal/>Switch scanners in map mode||
+</color:GuiTextNormal/>Caps Lock		</color:GuiTextNormal/>Toggle altitude indicators||
+</color:GuiTextNormal/>Q			</color:GuiTextNormal/>Toggle missions||
+</color:GuiTextNormal/>L			</color:GuiTextNormal/>Toggle incoming messages||
+</color:GuiTextNormal/>H			</color:GuiTextNormal/>Toggle markers||
+</color:GuiTextNormal/>Esc			</color:GuiTextNormal/>Deselect all ships,|
+			press again to bring up the ingame menu|
+||
+</color:GuiTextLight,font:int00/>
+Camera controls|</size:3/>|</size:10/>
+</font:int01/>
+</color:GuiTextNormal/>F			</color:GuiTextNormal/>Toggle follow/free camera|
+			|
+</color:GuiTextNormal/>G			</color:GuiTextNormal/>Cycle camera modes||
+</color:GuiTextNormal/>F9			</color:GuiTextNormal/>Free mode||
+</color:GuiTextNormal/>F10			</color:GuiTextNormal/>Follow mode||
+</color:GuiTextNormal/>F11			</color:GuiTextNormal/>View mode||
+</color:GuiTextNormal/>F12			</color:GuiTextNormal/>Chase mode||
+||
+</color:GuiTextLight,font:int00/>
+Miscellaneous|</size:3/>|</size:10/>
+</font:int01,size:10/>
+</color:GuiTextNormal/>F1			</color:GuiTextNormal/>Help||
+</color:GuiTextNormal/>F5			</color:GuiTextNormal/>Quicksave||
+</color:GuiTextNormal/>F8			</color:GuiTextNormal/>Quickload||
+</color:1 1 0,font:int00/>

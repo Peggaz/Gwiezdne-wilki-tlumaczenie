@@ -1,0 +1,246 @@
+</size:14/>
+</color:White,font:int00b/>ELITE GAMES TEAM|</size:10/>
+||
+</color:LightYellow,font:int00b/>Project Lead / General Manager|
+</font:int01/>
+</color:White/>Alexander "Tramp" Kolesnikov
+||
+</color:LightYellow,font:int00b/>Project Coordinator|
+</font:int01/>
+</color:White/>Evgeniy "Kish" Andreev
+||
+</color:LightYellow,font:int00b/>2D/3D Artists|
+</font:int01/>
+</color:White/>Oleg "SparkS" Zemlyansky
+|| 
+</color:LightYellow,font:int00b/>Auxiliary Artists|
+</font:int01/>
+</color:White/>Evgeniya "Kovad" Pomortseva|
+</color:White/>Yuri "sedoy" Topoev|
+</color:White/>Andrey "DOOM" Nenko| 
+</color:White/>Denis "Kalashnikov" Choukhmanenko
+|| 
+</color:LightYellow,font:int00b/>Programmers|
+</font:int01/>
+</color:White/>Igor "Kalembas" Safonov| 
+</color:White/>Kirill "ASKirilL" Razgulyaev
+|| 
+</color:LightYellow,font:int00b/>Scripters|
+</font:int01/>
+</color:White/>Lev "Lion[MX]" Mukhamedzhanov|
+</color:White/>Alexey "Rokar" Kramarenko|
+</color:White/>Ilia "Guest" Plotkin
+|| 
+</color:LightYellow,font:int00b/>Script Writers|
+</font:int01/>
+</color:White/>Nikolay "Kosh" Bakhovets|
+</color:White/>Dmitry "NRG" Vladimirov|
+</color:White/>Ekaterina "Lastochka" Troitskaya|
+</color:White/>Olga "-=J=-" Potapova|
+</color:White/>Dmitry "d4mon" Skoptsov 
+|| 
+</color:LightYellow,font:int00b/>Composers|
+</font:int01/>
+</color:White/>Vadim "Goobs" Tregubov|
+</color:White/>Yakov "Ivory" Oskanov
+|| 
+</color:LightYellow,font:int00b/>OST|
+</font:int01/>[ÎÍÌ] |
+</color:White/>Vadim "Goobs" Tregubov|
+</color:White/>Dmitry "Elvis" Provotorov|
+</color:White/>Alexander "Schip" Schipulin|
+</color:White/>Vadim Dolgin
+|| 
+</color:LightYellow,font:int00/>Voice Actors|
+</font:int01/>
+</color:White/>Vlad Kopp - Hero| 
+</color:White/>Natalia Verkhoshanskaya - Ternie| 
+</color:White/>Andrey Danilyuk - Greyhair| 
+</color:White/>Elena Ivasishina - Major Viper| 
+</color:White/>Nikolay Bystrov - Cleric| 
+</color:White/>Kristina Romanskaya - Aja| 
+</color:White/>Mikhail Georgiu - Alex| 
+</color:White/>Nina Gogaeva - Lieutenant Alexandra Sukhova| 
+</color:White/>Kirill Radzig - Kalem| 
+</color:White/>Elena Chebaturkina - Nataly| 
+</color:White/>Denis Nekrasov - Uel| 
+</color:White/>Alexander Chutko - Validol| 
+</color:White/>Elena Kischik - Alice| 
+</color:White/>Konstantin Karasik - Che| 
+</color:White/>Jana Khlystova - Jana| 
+</color:White/>Artur Bitov - Heretic| 
+</color:White/>Sergey Sazontiev - Phantom| 
+</color:White/>Artur Bitov - Corsair| 
+</color:White/>Denis Nekrasov - Captain Kishimov| 
+</color:White/>Sergey Vostretsov - Savay Tanaka| 
+</color:White/>Mikhail Georgiu - Admiral Alex Trump| 
+</color:White/>Alexander Chutko - Flag Admiral Hader
+|| 
+
+</color:LightYellow,font:int00/>Elite Games Testers|
+</font:int01/>
+</color:White/>Dmitry "Demi" Andreev|
+</color:White/>Evgeniy "kapral" Preobrazhensky|
+</color:White/>Sergey "ssaga" Ambartsumyan  |
+</color:White/>Stanislav "Wraith" Gormanyuk  |
+</color:White/>Evgeniy "Bart_j" Barton  |
+</color:White/>Alexander "Black Raven" Voron ||
+
+</color:White/>It's hard to overestimate the great and hard work you did|
+</color:White/>armed solely with the idea to put life into the world of Star Wolves,|
+</color:White/>to give it one more chance to captivate and surprise players, and present us all with new adventures.|
+</color:White/>Thank you, guys. The world of Star Wolves owes you much!||
+
+
+</color:White/>The Elite Games Team is sincerely and infinitely grateful to|
+</color:White/>the website pilots and the fans of Star Wolves who sent in their photos|
+</color:White/>to be used as game characters. Your very faces have animated the game world|
+</color:White/>and made it unique. We sincerely hope that you will like the roles|
+</color:White/>we have chosen for you!||
+||
+
+</size:14/> 
+</color:White,font:int00b/>1C Company|</size:10/>
+||
+</color:LightYellow,font:int00/>Producer|
+</font:int01/>
+</color:White/>Konstantin Shavruk
+|| 
+</color:LightYellow,font:int00/>Technical Producer|
+</font:int01/>
+</color:White/>Dmitry Dolgov 
+|| 
+</color:LightYellow,font:int00/>PR and Marketing|
+</font:int01/>
+</color:White/>Anatoly Subbotin |
+</color:White/>Alexey Pastushenko|
+</color:White/>Svetlana Tarasova |
+</color:White/>Anna Ganulich
+||
+</color:LightYellow,font:int00/>Testers|
+</font:int01/>
+</color:White/>Magomet Zolotarev |
+</color:White/>Alexander Lobanov |
+</color:White/>Kirill Pogonin |
+</color:White/>Alexander Shishov 
+|| 
+</color:LightYellow,font:int00/>Packaging Design and Makeup|
+</font:int01/>
+</color:White/>Sergey Yakovlev |
+</color:White/>Alexander Mayorov
+|| 
+
+</color:White/>We express special gratitude to Sergey Gerasev and all those who spent their free time to |
+</color:White/>help and consult the young team, entering the world of game development |
+</color:White/>with their first large project.||
+||||
+
+</color:LightYellow,font:int00/>Our gratitude for helping us make the game goes to:|
+</font:int01/>
+</color:White/>Dmitry "Demon Ru" Parfenov|
+</color:White/>Gleb "Zubr" Petrov|
+</color:White/>Sergey "Svarog" Dolbnin|
+</color:White/>Dmitry "Zadrot" Nekhaevsky|
+</color:White/>Elena "ALiSE" Gareva|
+</color:White/>Victor "Alone" Zaytsev|
+</color:White/>Dmitry "AHILLES" Voronkov|
+</color:White/>Vyacheslav Gavrilenko|
+</color:White/>Oleg "Hendrickson" Khomich|
+</color:White/>Olga Reutskaya|
+</color:White/>Elena Rezaeva|
+</color:White/>Tatiana Kramarenko||
+
+</color:LightYellow,font:int00/>Personal thanks||
+</font:int01/>
+</color:LightYellow/>Oleg "SparkS" Zemlyansky:|
+</color:White/>Thanks to my family and relatives for understanding, patience and care during that "reclusive"|
+</color:White/>time of my life. I wouldn't be able to do anything without your support. ||
+
+</color:LightYellow/>Igor "Kalembas" Safonov:|
+</color:White/>No words can adequately express my gratitude to my family: my mom, |
+</color:White/>grandma, grandpa and uncle for support, love, patience and understanding. |
+</color:White/>Nothing would be possible without you. Thank you so much!|
+</color:White/>I would also like to thank: |
+</color:White/>Dmitry "Demon Ru" Parfenov: I wouldn't be able to cope with all the development|
+</color:White/>without your friendship and support. And I'd surely have gone mad without our strolls.|
+</color:White/>Dmitry "Zadrot" Nekhaevsky: If it weren't for you, who knows what the result might have been. |
+</color:White/>Your good mood was always timely and to the point.|
+</color:White/>Gleb "Zubr" Petrov: Gleb, thank you for attention you paid to me during hard times. |
+</color:White/>I really appreciate that.|
+</color:White/>Sergey "Svarog" Dolbnin: Indeed, without you I'd surely have failed my part of the project. |
+</color:White/>Your timely help was very important. Thank you, friend! ||
+
+</color:LightYellow/>Kirill "ASKirilL" Razgulyaev:|
+</color:White/>I'm very grateful to my wife Elena Gareva for her support and patience. |
+</color:White/>I would also like to thank my family and friends for understanding.|
+</color:White/>And I'm grateful to Dmitry Dolgov for his help with the project.||
+
+</color:LightYellow/>Alexey "Rokar" Kramarenko:|
+</color:White/>I'd like to thank my wife Tatiana whose helpful hints made lots of missions |
+</color:White/>far more interesting and captivating. ||
+
+</color:LightYellow/>Ilia "Guest" Plotkin:|
+</color:White/>I'm very grateful to the Elite Games community for their moderately obtrusive jokes and |
+</color:White/>the incredible atmosphere of friendship that helped overcome lots of hardships during the development.|
+</color:White/>I would like to thank the Dragons of Earth-2, Shumil in particular. |
+</color:White/>You helped me keep my imagination keen in the labyrinth of scripts!|
+</color:White/>Special thanks to my family for patience and support,|
+</color:White/>to my friends, for phone calls at night,|
+</color:White/>to the planet Earth, for its existence (it wouldn't be as nice to live on an asteroid),|
+</color:White/>and to the Universe, for lots of ingenious design ideas!||
+
+</color:LightYellow/>Nikolay "Kosh" Bakhovets:|
+</color:White/>I'd like to thank my family, my brother for support and understanding. Especially in times, |
+</color:White/>when I was almost out of real life. I'm also grateful to my friends, |
+</color:White/>especially Vyacheslav Gavrilenko and Dmitry Voronkov, for moral support and helpful hints. ||
+
+</color:LightYellow/>Dmitry "NRG" Vladimirov:|
+</color:White/>I'm heartily grateful to my wife Ksenia and my mom whose support helped me |
+</color:White/>cope with my tasks during the development. I'd also like to thank my |
+</color:White/>friends for not considering me a complete psycho (though it was probably quite close |
+</color:White/>to the truth) and for being constantly interested in the project. ||
+
+</color:LightYellow/>Dmitry "d4mon" Skoptsov:|
+</color:White/>I'd like to thank my parents for support and understanding,|
+</color:White/>my wife Tatiana Cherkas, for patience as well as support, |
+</color:White/>healthy scepticism and pre-editing.||
+
+</color:LightYellow/>Ekaterina "Lastochka" Troitskaya:|
+</color:White/>I'm very grateful to my friends, mom and dad, grandma, brother and all my family|
+</color:White/>for supporting me, approving my actions, encouraging and inspiring |
+</color:White/>my work. Thanks to those who didn't get in the way, too. |
+</color:White/>Special thanks to Oleg "Hendrickson" Khomich for his great patience, wonderful |
+</color:White/>sense of humor and support, Alexander "Tramp" Kolesnikov, for inspiration and helpful |
+</color:White/>brainwash, Victor "Alone" Zaytsev, for being able to encourage and create mood, |
+</color:White/>Olga Reutskaya, I wouldn't have done without your incredible buoyancy and support, |
+</color:White/>you're great! ||||
+
+</color:White/>Elite Games Team is heartily grateful to the huge and diverse |
+</color:White/>Elite Games community. First of all, we wanted to create this game for you - |
+</color:White/>people we've known for years, people who share our passion for space.||||
+
+</color:White/>We are extremely grateful to Victor "Alone" Zaytsev, the leader of the EG community. |
+</color:White/>Without your colossal help and support, our project could have easily become |
+</color:White/>another abortive scheme. Not only you provided us with |
+</color:White/>a development studio, your time and knowledge, you also offered us a great incentive to finish the job.||||
+
+</color:White/>We bow deeply to people who created the unique world of Star Wolves |
+</color:White/>and inspired us to create this humble sequel:||
+
+</size:14/> 
+</color:White,font:int00b/>Ino-Co Game Development|</size:10/>
+</font:int01/>
+||
+</color:White/>Aleksey "Skelos" Kozyrev |
+</color:White/>Maks "Nutcracker" Bodrikov| 
+</color:White/>Dmitry "Elm" Gulin |
+</color:White/>Pavel "PEK" Kondrashov| 
+</color:White/>Sergey "Brother" Semenov |
+</color:White/>Alexander "Tigra" Ivolgin |
+</color:White/>Andrey "Black Rider" Shershnev |
+</color:White/>Marina "Katarina" Gulina ||||
+
+</color:White/>We express special gratitude to the German fans and modders of the world of Star Wolves:|
+</color:White/>Tech and his team who developed a multitude of interesting tools,|
+</color:White/>ships, objects and manuals (http://freenet-homepage.de/allaway).|
+</color:White/>We hope you will like our project.

@@ -1,0 +1,185 @@
+;********************************; 
+; specials & specializations XML ;
+;********************************;
+LOCALE_FILE
+FILETYPE STANDART
+
+
+
+#M_spec_Name_boost_1	= Boost 1
+#M_spec_Desk_boost_1	= If you disable the onboard computer and take manual control of the ship, you can really boost engine power. This makes engines moan, ship chatter, and it seems like everything is going to rack and ruin... And it usually is, if the pilot is a rookie. However, a veteran will feel the limit and know when it's enough. Usually engines can work like that for about 20 seconds, no more. And you can't repeat the trick more than 2 times. However, during this time your ship will fly three or four times faster.
+
+#M_spec_Name_boost_2	= Boost 2
+#M_spec_Desk_boost_2	= If you disable the onboard computer and take manual control of the ship, you can really boost engine power. This makes engines moan, ship chatter, and it seems like everything is going to rack and ruin... And it usually is, if the pilot is a rookie. However, a veteran will feel the limit and know when it's enough. Usually engines can work like that for about 30 seconds, no more. And you can't repeat the trick more than 4 times. However, during this time your ship will fly three or four times faster.
+
+#M_spec_Name_burst_1	= Burst 1
+#M_spec_Desk_burst_1	= When a pilot gets carried away while pursuing an enemy, he starts peppering him from all of the guns that he has. While this doesn't add to accuracy, any target caught in such a hailstorm will be quickly eliminated. For 30 seconds the rate of fire of all fighter weapons increases by 50%. Due to severe wear it can be done only 2 times per mission.
+
+#M_spec_Name_burst_2	= Burst 2
+#M_spec_Desk_burst_2	= If you add a rate of fire upgrade to the indomitable desire for riddling the enemy with projectiles, the target will be raked so brutally that it will hardly survive. For 30 seconds the rate of fire of all fighter weapons increases by 75%. Due to severe wear it can be done only 3 times per mission.
+
+#M_spec_Name_burst_3	= Burst 3
+#M_spec_Desk_burst_3	= Even such a simple thing as "fly and fire" can be improved like any other ordinary skill. For 30 seconds the rate of fire of all fighter weapons increases by 100%. Due to severe wear it can be done only 5 times per mission.
+
+#M_spec_Name_burst_4	= Burst 4
+#M_spec_Desk_burst_4	= If a skill is honed, it eventually turns into art. This can also be said about firing long bursts "off the cuff". For 30 seconds the rate of fire of all fighter weapons increases by 133%. Due to severe wear it can be done only 8 times per mission.
+
+#M_spec_Name_finesse_1	= Aimed Fire 1
+#M_spec_Desk_finesse_1	= For 20 seconds the character focuses on aiming and fires at weak spots of the enemy ship. At that his accuracy increases by 50% and inflicted damage increases by 25%. This can only be done 2 times per mission.
+
+#M_spec_Name_finesse_2	= Aimed Fire 2
+#M_spec_Desk_finesse_2	= For 30 seconds the character focuses on aiming and fires at weak spots of the enemy ship. At that his accuracy increases by 75% and inflicted damage increases by 50%. This can only be done 3 times per mission.
+
+#M_spec_Name_finesse_3	= Aimed Fire 3
+#M_spec_Desk_finesse_3	= For 40 seconds the character focuses on aiming and fires at weak spots of the enemy ship. At that his accuracy increases by 100% and inflicted damage increases by 100%. This can only be done 5 times per mission.
+
+
+#M_spec_Name_lucky_1	= Sixth Sense 1
+#M_spec_Desk_lucky_1 = The character has a rare skill of extremely keen intuition in critical situations. In combat, he instinctively knows the best way to avoid enemy fire, and the best maneuvers to keep his ship's weak spots safe. Furthermore, he has time to coordinate the actions of his partners, and lets the entire team withdraw from heavy crossfire with minimum damage. However, this skill is so strenuous that the character can use it for only 30 seconds.
+
+#M_spec_Name_lucky_2 = Sixth Sense 2
+#M_spec_Desk_lucky_2 = The character just has to look at an enemy formation to realize which friendly targets will be fired at. By maneuvering and coordinating actions of his team, he manages to avoid most of enemy fire, even if it's very dense. However, this gift is so stressing that the character can use it up to 3 times for only 30 seconds.
+
+#M_spec_Name_lucky_3	= Sixth Sense 3
+#M_spec_Desk_lucky_3	= The character just has to look at an enemy formation to realize which friendly targets will be fired at. By maneuvering and coordinating actions of his team, he manages to avoid most of enemy fire, even if it's very dense. However, this gift is so stressing that the character can use it up to 4 times for only 30 seconds.
+
+#M_spec_Name_lucky_4	= Sixth Sense 4
+#M_spec_Desk_lucky_4	= The character just has to look at an enemy formation to realize which friendly targets will be fired at. By maneuvering and coordinating actions of his team, he manages to avoid most of enemy fire, even if it's very dense. However, this gift is so stressing that the character can use it up to 5 times for only 30 seconds.
+
+#M_spec_Name_missile_salvo_1	= Missile Salvo 1
+#M_spec_Desk_missile_salvo_1	= The character fires a missile salvo at the target, increasing the effective rate of fire of all launchers by 50%. Since enemy antimissile systems cannot repel so many projectiles at once, their efficiency decreases by 20%. The salvo lasts 30 seconds and can be performed only 2 times during a mission.
+
+#M_spec_Name_missile_salvo_2	= Missile Salvo 2
+#M_spec_Desk_missile_salvo_2	= The character fires a missile salvo at the target, increasing the effective rate of fire of all launchers by 75%. Since enemy antimissile systems cannot repel so many projectiles at once, their efficiency decreases by 25%. The salvo lasts 30 seconds and can be performed only 3 times during a mission.
+
+#M_spec_Name_missile_salvo_3	= Missile Salvo 3
+#M_spec_Desk_missile_salvo_3	= The character fires a missile salvo at the target, increasing the effective rate of fire of all launchers by 90%. Since enemy antimissile systems cannot repel so many projectiles at once, their efficiency decreases by 33%. The salvo lasts 30 seconds and can be performed only 4 times during a mission.
+
+#M_spec_Name_missile_salvo_4	= Missile Salvo 4
+#M_spec_Desk_missile_salvo_4	= The character fires a missile salvo at the target, increasing the effective rate of fire of all launchers by 120%. Since enemy antimissile systems cannot repel so many projectiles at once, their efficiency decreases by 50%. The salvo lasts 30 seconds and can be performed only 5 times during a mission.
+
+#M_spec_Name_inspire_1	= Fervour 1
+#M_spec_Desk_inspire_1	= The hero has authority over his team. So when he says to attack, all fighters, inspired by his example, do it without regard to enemy fire. Essentially, your attacks become more efficient, especially against superior enemy forces. However, pilots think less about their personal safety. Fervour lasts for 40 seconds and then ceases. It can be used 2 times during a mission.
+
+#M_spec_Name_inspire_2	= Fervour 2
+#M_spec_Desk_inspire_2	= With time hero's authority grows as does his influence on teammates. Now he can inspire them 3 times per mission for 60 seconds.
+
+#M_spec_Name_inspire_3	= Fervour 3
+#M_spec_Desk_inspire_3	= Hero's authority becomes indisputable and allows him to inspire and encourage his teammates in difficult situations. Now he can inspire them 5 times per mission for 90 seconds.
+
+#M_spec_Name_snake_attack_1	= Darting Attack 1
+#M_spec_Desk_snake_attack_1	= Taking manual control of engines and gyroscopes, the character can dramatically increase the maneuverability of his ship. Furthermore, it turns 3 times faster and its engines are boosted by 40%. It becomes more difficult for enemy ships to attack such a nimble target, so the odds of being hit are reduced by a factor of 1.5. However, this trick is so strenuous that after 30 seconds, the character has to get back to normal flight. This can be done 2 times during a mission.
+
+#M_spec_Name_snake_attack_2	= Darting Attack 2
+#M_spec_Desk_snake_attack_2	= A manually controlled combat maneuver. Furthermore, it turns 4 times faster and its engines are boosted by 60%. It becomes more difficult for enemy ships to attack such a nimble target, so the odds of being hit are reduced by a factor of 2. However, this trick is so strenuous that after 30 seconds, the character has to get back to normal flight. This can be done 3 times during a mission.
+
+#M_spec_Name_snake_attack_3	= Darting Attack 3
+#M_spec_Desk_snake_attack_3	= An improved manually controlled combat maneuver. Furthermore, it turns 5 times faster and its engines are boosted by 100%. It becomes more difficult for enemy ships to attack such a nimble target, so the odds of being hit are reduced by a factor of 3. However, this trick is so strenuous that after 30 seconds the character has to get back to normal flight. This can be done 5 times during a mission.
+
+#M_spec_Name_weak_spot_1	= Deadly Missile 1 
+#M_spec_Desk_weak_spot_1	= The character fires missiles like usual, but disables self-guidance and controls them manually, trying to hit a weak spot. This increases missile damage by a factor of 2.5. Besides, enemy antimissile systems are most often not designed to intercept missiles in the passive mode, so their efficiency decreases by 2 times. However, this requires much effort, since controlling both the ship and the fired missiles takes up most of your attention. This skill lasts for 30 seconds and can be used 2 times during a mission.
+
+#M_spec_Name_weak_spot_2	= Deadly Missile 2
+#M_spec_Desk_weak_spot_2	= The character fires missiles like usual, but disables self-guidance and controls them manually, trying to hit a weak spot. This increases missile damage by a factor of 4. Besides, enemy antimissile systems are most often not designed to intercept missiles in the passive mode, so their efficiency decreases by 3 times. However, this requires much effort, since controlling both the ship and the fired missiles takes up most of your attention. This skill lasts for 30 seconds and can be used 3 times during a mission.
+
+#M_spec_Name_weak_spot_3	= Deadly Missile 3
+#M_spec_Desk_weak_spot_3	= The character fires missiles like usual, but disables self-guidance and controls them manually, trying to hit a weak spot. This increases missile damage by a factor of 5. Besides, enemy antimissile systems are most often not designed to intercept missiles in the passive mode, so their efficiency decreases by 4 times. However, this requires much effort, since controlling both the ship and the fired missiles takes up most of your attention. This skill lasts for 30 seconds and can be used 5 times during a mission.
+
+; Coup de Grace
+#M_spec_Name_cdg_1	= Coup de Grace 1
+#M_spec_Desk_cdg_1	= For 30 seconds each hit inflicts 50% more damage. This can be done 2 times during a mission.
+
+#M_spec_Name_cdg_2	= Coup de Grace 2
+#M_spec_Desk_cdg_2	= For 35 seconds each hit inflicts 100% more damage. This can be done 3 times during a mission.
+
+#M_spec_Name_depolarization_1 = Depolarizer 1
+#M_spec_Desk_depolarization_1 = In due time ingenious Phantom created a device that would destabilize the force field of an enemy ship. Only a few people can assemble a working sample using the existing blueprints. However, the result is definitely worth the time and effort spent. Being just an engineering sample, the device needs 30 seconds to recharge. Besides, its power circuits must be replaced after the 2nd use.
+
+#M_spec_Name_depolarization_2	= Depolarizer 2
+#M_spec_Desk_depolarization_2	= In due time ingenious Phantom created a device that would destabilize the force field of an enemy ship. Only a few people can assemble a working sample using the existing blueprints. However, the result definitely worth the time and effort spent. Being just an engineering sample, the device needs 15 seconds to recharge. Besides, its power circuits must be replaced after the 3rd use.
+
+#M_spec_Name_depolarization_3	= Depolarizer 3
+#M_spec_Desk_depolarization_3	= In due time ingenious Phantom created a device that would destabilize the force field of an enemy ship. Only a few people can assemble a working sample using the existing blueprints. However, the result definitely worth the time and effort spent. Being just an engineering sample, the device needs 5 seconds to recharge. Besides, its power circuits must be replaced after the 5th use.
+
+#M_spec_Name_polarization_1 = Polarizer 1 
+#M_spec_Desk_polarization_1 = The applied unified field theory Phantom specialized in allowed him to restore ship shields from a long distance. However, the underlying principles of such a device are so complex and the device itself is so fragile that only a very good physicist and engineer can assemble it and make it work. Since Phantom has failed to improve this working sample, it still needs 30 seconds to recharge and its power circuits must be replaced after the 2nd use. 
+
+#M_spec_Name_polarization_2	= Polarizer 2
+#M_spec_Desk_polarization_2	= The applied unified field theory Phantom specialized in allowed him to restore ship shields from a long distance. However, the underlying principles of such a device are so complex and the device itself is so fragile that only a very good physicist and engineer can assemble it and make it work. Since Phantom has failed to improve this working sample, it still needs 20 seconds to recharge and its power circuits must be replaced after the 4th use. 
+
+#M_spec_Name_polarization_3	= Polarizer 3
+#M_spec_Desk_polarization_3	= The applied unified field theory Phantom specialized in allowed him to restore ship shields from a long distance. However, the underlying principles of such a device are so complex and the device itself is so fragile that only a very good physicist and engineer can assemble it and make it work. Since Phantom has failed to improve this working sample, it still needs 10 seconds to recharge and its power circuits must be replaced after the 7th use. 
+
+#M_spec_Name_polarization_4	= Polarizer 4
+#M_spec_Desk_polarization_4	= The applied unified field theory Phantom specialized in allowed him to restore ship shields from a long distance. However, the underlying principles of such a device are so complex and the device itself is so fragile that only a very good physicist and engineer can assemble it and make it work. Since Phantom has failed to improve this working sample, it still needs 5 seconds to recharge and its power circuits must be replaced after the 10th use. 
+
+#M_spec_Name_jinxed_1 = Lockout 1
+#M_spec_Desk_jinxed_1 = The hacker attacks enemy computer and infects it with a virus that locks out the engines. The antivirus software of the enemy ship needs about 20 seconds to heal the virus. After 2 more attacks it works out a permanent fix, preventing further infections.
+
+#M_spec_Name_jinxed_2	= Lockout 2
+#M_spec_Desk_jinxed_2	= The hacker attacks enemy computer and infects it with a virus that locks out the engines. The antivirus software of the enemy ship needs about 20 seconds to heal the virus. After 5 more attacks it works out a permanent fix, preventing further infections.
+
+#M_spec_Name_hack_ship_1	= Hacker Attack 1
+#M_spec_Desk_hack_ship_1	= A good hacker can break into any ship's computer, and force it to reboot. For 20 seconds the ship becomes a perfect target with no shields, and dead engines. However, after that, the computer fixes this vulnerability permanently, preventing further intrusions.
+
+#M_spec_Name_hack_ship_2	= Hacker Attack 2
+#M_spec_Desk_hack_ship_2	= A good hacker can break into any ship's computer, and force it to reboot. For 20 seconds the ship becomes a perfect target with no shields, and dead engines. However, after 3 attacks, the computer fixes this vulnerability permanently, preventing further intrusions.
+
+#M_spec_Name_hack_ship_3	= Hacker Attack 3
+#M_spec_Desk_hack_ship_3	= A good hacker can break into any ship's computer, and force it to reboot. For 20 seconds the ship becomes a perfect target with no shields, and dead engines. However, after 5 attacks, the computer fixes this vulnerability permanently, preventing further intrusions.
+
+#M_spec_Name_hack_berserk_1	= Berserk Hack
+#M_spec_Desk_hack_berserk_1	= The character can hack the targeting software of a Berserk ship and update its enemy database, meaning that Berserks won't consider you as a target to eliminate. It can be done up to 3 times per mission.
+
+#M_spec_Name_snipeOut_1	= Snipe 1
+#M_spec_Desk_snipeOut_1	= The character takes a sniper shot and then continues to fire normally. The accuracy of this shot is nearly perfect and it inflicts 300% damage. However, it takes too much effort, so it can be made only 1 time during a mission. Sniping is most effective with lasers thanks to their single-shot power. Besides, lasers hit instantly, so the enemy has no time to defend.
+
+#M_spec_Name_snipeOut_2	= Snipe 2
+#M_spec_Desk_snipeOut_2	= An improved sniper shot. The accuracy of the first shot is nearly perfect and it inflicts 400% damage. However, it takes too much effort, so it can be made only 2 times during a mission. Sniping is most effective with lasers thanks to their single-shot power. Besides, lasers hit instantly, so the enemy has no time to defend.
+
+#M_spec_Name_snipeOut_3	= Snipe 3
+#M_spec_Desk_snipeOut_3	= The accuracy of the first shot is nearly perfect and it inflicts 500% damage. However, it takes too much effort, so it can be made only 3 times during a mission. Sniping is most effective with lasers thanks to their single-shot power. Besides, lasers hit instantly, so the enemy has no time to defend.
+
+#M_spec_Name_snipeOut_4	= Snipe 4
+#M_spec_Desk_snipeOut_4	= The accuracy of the first shot is nearly perfect and it inflicts 700% damage. However, it takes too much effort, so it can be made only 5 times during a mission. Sniping is most effective with lasers thanks to their single-shot power. Besides, lasers hit instantly, so the enemy has no time to defend.
+
+#M_spec_Name_summon_navy_1	= Summon MSF 1
+#M_spec_Desk_summon_navy_1	= The character can summon MSF reinforcements by means of a special portable transmitter. A light MSF recon team of 2 ships will immediately teleport to transmitter location and will stay for some time, attacking all enemies of the caller.
+
+#M_spec_Name_summon_navy_2	= Summon MSF 2
+#M_spec_Desk_summon_navy_2	= The character can summon MSF reinforcements by means of a special portable transmitter. A light MSF recon team of 4 ships will immediately teleport to transmitter location and will stay for some time, attacking all enemies of the caller. This can be done 2 times per mission.
+
+#M_spec_Name_summon_navy_3	= Summon MSF 3
+#M_spec_Desk_summon_navy_3	= The character can summon MSF reinforcements by means of a special portable transmitter. A light MSF recon team of 4 ships will immediately teleport to transmitter location and will stay for some time, attacking all enemies of the caller. This can be done 3 times per mission.
+
+#M_spec_Name_summon_kfni_1	= Summon NESF 1
+#M_spec_Desk_summon_kfni_1	= The New Empire Space Fleet adopted a number of MSF tactics, in particular, the use of small quick reaction teams. Having received a signal and coordinates of the portable transmitter, a NESF team of 2 fighters will teleport to its location and will stay for some time, attacking all enemies of the caller.
+
+#M_spec_Name_summon_kfni_2	= Summon NESF 2
+#M_spec_Desk_summon_kfni_2	= The New Empire Space Fleet adopted a number of MSF tactics, in particular, the use of small quick reaction teams. Having received a signal and coordinates of the portable transmitter, a NESF team of 4 fighters will teleport to its location and will stay for some time, attacking all enemies of the caller. This can be done 2 times per mission, after which the support team will need time to prepare for new sorties.
+
+#M_spec_Name_summon_kfni_3	= Summon NESF 3
+#M_spec_Desk_summon_kfni_3	= The New Empire Space Fleet adopted a number of MSF tactics, in particular, the use of small quick reaction teams. Having received a signal and coordinates of the portable transmitter, a NESF team of 4 fighters will teleport to its location and will stay for some time, attacking all enemies of the caller. This can be done 3 times per mission, after which the support team will need time to prepare for new sorties.
+
+#M_spec_Name_summon_berserk_1	= Summon Berserks 1
+#M_spec_Desk_summon_berserk_1	= The character can summon a Berserk team that will teleport to his or her location and will attack nearby enemies. When the time has run out, the Berserks will teleport back to where they've come from. So far the character has been able to summon a team of 3 fighters.
+
+#M_spec_Name_summon_berserk_2	= Summon Berserks 2
+#M_spec_Desk_summon_berserk_2	= The character can summon a Berserk team that will teleport to his or her location and will attack nearby enemies. When the time has run out, the Berserks will teleport back to where they've come from. So far the character has been able to summon a team of 4 fighters 2 times per mission.
+
+#M_spec_Name_summon_berserk_3	= Summon Berserks 3
+#M_spec_Desk_summon_berserk_3	= The character can summon a Berserk team that will teleport to his or her location and will attack nearby enemies. When the time has run out, the Berserks will teleport back to where they've come from. So far the character has been able to summon a team of 4 veteran fighters 3 times per mission.
+
+#M_spec_Name_summon_berserk_4	= Summon Berserks 4
+#M_spec_Desk_summon_berserk_4	= The character can summon a Berserk team that will teleport to his or her location and will attack nearby enemies. When the time has run out, the Berserks will teleport back to where they've come from. So far the character has been able to summon a team of 4 elite fighters 4 times per mission.
+
+
+#M_spec_Name_summon_prec_1	= Summon Precursors 1
+#M_spec_Desk_summon_prec_1	= Ternie is not sure how she manages to summon Precursor fighters. Some subtle mental link connects her with huge machines scattered across the universe - the witnesses of former greatness of a race long gone. Ternie says she can feel and even slightly control each mechanism. Currently she can summon 2 Precursor fighters to the battlefield, but this contact is too tiresome to maintain for a long time.
+
+#M_spec_Name_summon_prec_2	= Summon Precursors 2
+#M_spec_Desk_summon_prec_2	= Ternie is not sure how she manages to summon Precursor fighters. Some subtle mental link connects her with huge machines scattered across the universe - the witnesses of former greatness of a race long gone. Ternie says she can feel and even slightly control each mechanism. Currently she can summon 3 Precursor fighters to the battlefield, but this contact is too tiresome to maintain for a long time.
+
+#M_spec_Name_summon_prec_3	= Summon Precursors 3
+#M_spec_Desk_summon_prec_3	= Ternie is not sure how she manages to summon Precursor fighters. Some subtle mental link connects her with huge machines scattered across the universe - the witnesses of former greatness of a race long gone. Ternie says she can feel and even slightly control each mechanism. Currently she can summon 5 Precursor fighters to the battlefield, but this contact is too tiresome to maintain for a long time.
+

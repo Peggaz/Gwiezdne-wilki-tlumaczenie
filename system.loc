@@ -1,0 +1,20 @@
+;***********************************
+; system locale strings
+;***********************************
+LOCALE_FILE
+FILETYPE SYSTEM
+
+;***********************************
+; message boxes titles
+;***********************************
+MBT_APPLY			= Prośba
+MBT_CONFIRMATION		= Potwierdzenie
+MBT_EXIT			= Exit
+MBT_ERROR			= Błąd
+MBT_INFORMATION 		= Informacje
+
+;***********************************
+; money format
+;***********************************
+GAME_MONEY_FORMAT	= %d
+

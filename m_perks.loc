@@ -1,0 +1,226 @@
+;***********************************
+; perks XML
+;***********************************
+LOCALE_FILE
+FILETYPE STANDART
+
+
+
+; Звеньевые перки
+
+#M_perk_Name_Tactics		= Tactician
+#M_perk_Desk_Tactics		= Each team leader should be a good tactician so that he can plan his own actions and react to counteractions of the enemy. The team as a whole will be more efficient in maneuver combat. This includes about 20% more attacking, and dodging enemy attacks more often.
+
+#M_perk_Name_Tactics_Exp	= Expert Tactician
+#M_perk_Desk_Tactics_Exp	= Tactical skills honed in many fights are a crucial element which allow to win under any circumstances. Not many leaders can be considered tactical experts. However, if you are one, then you will significantly improve the odds of your flight in maneuver combat. This includes about 40% more attacking, and dodging enemy attacks more often.
+
+#M_perk_Name_R_Wingman		= Reliable Partner
+#M_perk_Desk_R_Wingman		= Every fighter pilot dreams about a reliable partner that would be able to protect him in combat, if anything. Such a partner will improve the odds of his team, especially in defense, reducing chances of a successful enemy attack by about 30%.
+
+
+; Комплексные перки (в том числе все, что не попадает в другие категории)
+
+#M_perk_Name_Elite		= Elite
+#M_perk_Desk_Elite		= You don't have to prove anything, you're elite. You're capable of doing much on your own. Enemies fear you, brothers in arms respect you. Numerous battles have improved your piloting, shooting and missile skills by 25%. 
+
+#M_perk_Name_Hard_to_Kill	= Hard to Kill
+#M_perk_Desk_Hard_to_Kill	= There are people that can live through the most hopeless of situations. Some call it luck, others call it a sixth sense, the rest refer to experience. Either way, such a character avoids damage in 25% of situations.
+
+#M_perk_Name_Fearless		= Fearless
+#M_perk_Desk_Fearless		= A fearless character will intrepidly attack any foe and won't turn off even under heaviest fire. This will undoubtedly improve his combat rating, but might greatly shorten his life.
+
+#M_perk_Name_AI			= Artificial Intelligence
+#M_perk_Desk_AI			= Not all ships have pilots of flesh and blood. Some are controlled by artificial intelligence. It doesn't have to be a computer in the true sense of this word. Actually, and this has been proven by many Berserks, even a relatively simple program will suffice. The good news is that a character won't have to worry about his wellbeing, while his backup copy is safe. If an AI-controlled fighter is wrecked, its "pilot" doesn't have to bale out, it just needs to restore the backup.
+
+#M_perk_Name_Alien		= Alien
+#M_perk_Desk_Alien		= This character is not a human, but an alien being matured under a different sky. Who knows what's going on inside his head?
+
+#M_perk_Name_Learner		= Quick Learner
+#M_perk_Desk_Learner		= The ability to analyze events and make necessary conclusions helps the pilot perfect his skills and better prepare for future combat. Thanks to this perk, the character learns 10% faster.
+
+#M_perk_Name_Learner_Exp	= Express Learner
+#M_perk_Desk_Learner_Exp	= The ability to learn from your own, as well as others', mistakes. Furthermore, detailed analysis of past fights, and dedication of your free time to learning. Thanks to this perk, the character learns 20% faster.
+
+#M_perk_Name_Instructor		= Instructor
+#M_perk_Desk_Instructor		= This perk means that all teammates will learn 5% faster. The effect of this perk doesn't stack up.
+
+#M_perk_Name_Instructor_Exp	= Expert Instructor
+#M_perk_Desk_Instructor_Exp	= This perk means that all teammates will learn 10% faster. The effect of this perk doesn't stack up.
+
+#M_perk_Name_Lone_Wolf		= Lone Wolf
+#M_perk_Desk_Lone_Wolf		= A character that has only himself to depend on can use his skills better, when others stay out of his way. A pilot with this perk gets a 20% advantage in piloting and shooting, when he's alone in the team.
+
+
+; Летные перки
+
+#M_perk_Name_Pilot_1 = Pilot 3rd Grade
+#M_perk_Desk_Pilot_1 = The days when the Empire conducted harsh exams before issuing pilot licenses are over, and nearly everyone can fly a fighter or a transport. However, pilots are still distinguished by piloting and combat skills, as well as the ability to quickly assess their circumstances. Pilot 3rd Grade is the lowest rank, meaning that the pilot has mastered basic piloting, maneuvering and combat skills. This is enough to handle a simple second-generation fighter or a large transport with an AI that will prevent a fatal mistake.
+
+#M_perk_Name_Pilot_2 = Pilot 2nd Grade
+#M_perk_Desk_Pilot_2 = The days when the Empire conducted harsh exams before issuing pilot licenses are over, and nearly everyone can fly a fighter or a transport. However, pilots are still distinguished by piloting and combat skills, as well as the ability to quickly assess their circumstances. Pilot 2nd Grade is a battle-hardened veteran that easily handles engines, weapons and systems of third-generation ships, leaving scarce chances to a less experienced foe.
+
+#M_perk_Name_Pilot_3 = Pilot 1st Grade
+#M_perk_Desk_Pilot_3 = The days when the Empire conducted harsh exams before issuing pilot licenses are over, and nearly everyone can fly a fighter or a transport. However, pilots are still distinguished by piloting and combat skills, as well as the ability to quickly assess their circumstances. Pilot 1st Grade is a professional capable of making a deadly weapon both out of a fourth-generation fighter or even some old flying tub, if needed.
+
+#M_perk_Name_Pilot_4 = Ace pilot
+#M_perk_Desk_Pilot_4 = A true ace pilot capable of piloting ships of any type and design. His weapon and system skills are close to art, his vast experience turns any tactically lost case into a confident victory, and his knowledge of ship design lets him instantly learn to control vessels he sees for the first time.
+
+#M_perk_Name_Piloting_1	= Basic Piloting 
+#M_perk_Desk_Piloting_1	= The main thing that they teach at flight school is how to pilot a ship, perform basic maneuvers, and navigate. One can still pilot a ship without these skills - thanks to automated navigation systems - but the ship's combat efficiency will be severely decreased, and maneuverability will be reduced by 20%.
+
+#M_perk_Name_Piloting_2	= Advanced Piloting
+#M_perk_Desk_Piloting_2	= This pilot has a right to call himself a true fighter. Thanks to maneuver combat experience, his attacks and ship maneuverability are 10% better. 
+
+#M_perk_Name_Piloting_3	= Expert Piloting
+#M_perk_Desk_Piloting_3	= It's a rule that better pilots win. A more experienced fighter seizes the initiative, prevents his enemy from counteracting, and, eventually, finishes him off. A piloting expert can reverse the course of action even when fighting against heavy odds. Not many foes can avoid his attacker, or outmaneuver him. In fact, his ship maneuvers 20% better.
+
+#M_perk_Name_Piloting_4	= Master Piloting
+#M_perk_Desk_Piloting_4	= No one is born a master, but he can become one. Masters are feared and admired. They become leaders and have movies made about them. However, that's just a public persona. An ace is a warrior that has dedicated his life to fighting. He squeezes everything from his ship and can outplay the enemy in the most hopeless case. His ship maneuvers 35% better.
+
+#M_perk_Name_Piloting_5	= Legendary Piloting
+#M_perk_Desk_Piloting_5	= Some pilots become living legends. Unsurpassed in the art of piloting, they increase the ship's maneuverability by 50%, surprising even its designers. In combat they paralyze the enemy's will, and easily gain advantage over less experienced foes.
+
+
+; Стрелковые перки
+
+#M_perk_Name_Gunnery_1	= Trainee Gunner
+#M_perk_Desk_Gunnery_1	= The basic shooting skills learned at flight school allow for using all weapon types with limited efficiency. Without these basic skills, the character's accuracy will be 20% lower than that of an average trainee. Pilots who have mastered these skills usually prefer rapid fire weapons, hoping that at least some projectiles will hit the target.
+
+#M_perk_Name_Gunnery_2	= Accurate Gunner
+#M_perk_Desk_Gunnery_2	= To accurately hit a moving target one has to constantly train with all weapon types. His reputation of an accurate gunner is well-deserved. This perk allows the character to use weapons with higher efficiency and increases his accuracy by 20%.
+
+#M_perk_Name_Gunnery_3	= Expert Gunner
+#M_perk_Desk_Gunnery_3	= Vast experience of fighting in the most difficult situations and a long list of victories makes everyone acknowledge that the character is an expert gunner whatever the weapon type is. This perk allows him to use weapons with much higher efficiency and increases his accuracy by 40%. 
+
+#M_perk_Name_Gunnery_4	= Sniper
+#M_perk_Desk_Gunnery_4	= Incredible accuracy allows the character to eliminate foes with a few hits. On the standard scale his accuracy increases by 65%.|The character becomes most efficient with average and low-dispersion weapons, which, due to their nature, hit targets nearly in an instant, leaving no chances to defend.
+
+#M_perk_Name_Gunnery_5	= Legendary Sniper
+#M_perk_Desk_Gunnery_5	= They tell unbelievable stories about characters with this perk. They say that armed with a laser they can hit not only an enemy fighter cockpit, but the very head of the enemy pilot.|These rumors are probably exaggerated, but the accuracy of such gunners is estimated as 95% higher.
+
+#M_perk_Name_F_Weapon_Laser	= Laser Proficiency
+#M_perk_Desk_F_Weapon_Laser	= The character is an expert in handling lasers. Each time he uses a laser he gets a 30% bonus to accuracy and 10% to inflicted damage.
+
+#M_perk_Name_F_Weapon_HC	= Heavy Cannon Proficiency
+#M_perk_Desk_F_Weapon_HC	= The character is an expert in handling heavy cannons. Every time he uses a heavy, or plasma cannon, he gets a 30% bonus to accuracy, and 10% to inflicted damage.
+
+#M_perk_Name_F_Weapon_AC	= Machine Gun Proficiency
+#M_perk_Desk_F_Weapon_AC	= The character is an expert in handling light weapons. Each time he uses a light or a rapid-fire heavy weapon he gets a 30% bonus to accuracy and 10% to inflicted damage.
+
+
+#M_perk_Name_Criticals_1	= Occasional Criticals
+#M_perk_Desk_Criticals_1	= Thanks to inborn accuracy and acquired knowledge, the character occasionally hits the enemy's weak spot, inflicting considerable damage. The gunner with this perk has a 5% better chance to inflict a critical.
+
+#M_perk_Name_Criticals_2	= Rare Criticals
+#M_perk_Desk_Criticals_2	= Many hours of training, and thorough studying of ship designs provide for better results in firing at weak spots. The gunner with this perk has a 10% better chance to inflict a critical.
+
+#M_perk_Name_Criticals_3	= Frequent Criticals
+#M_perk_Desk_Criticals_3	= The character knows all of the weak spots of all the existing ships, and can easily pinpoint a weak spot of an unknown ship. Being capable of hitting the bull's eye, he becomes a true killing machine, a sniper feared by enemies and respected by friends. The gunner with this perk has a 15% better chance to inflict a critical.
+
+
+; Ракетные перки
+
+#M_perk_Name_Missiles_Rockets	= Trainee Missile Gunner
+#M_perk_Desk_Missiles_Rockets	= To handle missiles correctly, one has to go through piles of technical documentation, combat employment papers, and pilot manuals. However, at least he can be sure that the missiles which he fires will fly in the right direction. With this perk, the character can use all missile types without reducing their noise immunity and damage.
+
+#M_perk_Name_Missiles_2	= Advanced Missile Gunner
+#M_perk_Desk_Missiles_2	= Handling self-guided missiles becomes a complex task, when one has to consider the enemy's antimissile defenses. This perk makes missiles 10% less susceptible to interference and increases their damage by 5% due to higher hit accuracy.
+
+#M_perk_Name_Missiles_3	= Expert Missile Gunner
+#M_perk_Desk_Missiles_3	= Studying long-range missile engagement takes three terms in the advanced flying school. However, not everyone has a chance to get this invaluable knowledge in quiet classrooms. Many have to learn right in combat. This perk makes missiles 40% less susceptible to interference and increases their damage by 25%.
+
+#M_perk_Name_Missiles_4	= Master Missile Gunner
+#M_perk_Desk_Missiles_4	= Long-range missile engagement is tightly bound to electronic warfare, so one has to study them in parallel. This is a complex science with lots of nuances and intricacies. Combat invisible to an outside observer takes place in radio frequency ranges. However, the winning condition is simple: you either hit the target, or you don't. A master is distinguished from the rest by that he usually hits his targets. This perk makes missiles 65% less susceptible to interference and increases their damage by 50% due to higher hit accuracy.
+
+#M_perk_Name_Missiles_5	= Missile Guru
+#M_perk_Desk_Missiles_5	= The character has arrived at the utmost perfection in missile engagement. His missiles fly where he wants them to fly, avoiding any interference and ignoring the target's maneuvers. However, they say that at nights, when everyone else is asleep, he descends to the armory and talks to his precious projectiles... This perk makes missiles 75% less susceptible to interference and increases their damage by 45% due to higher hit accuracy.
+
+#M_perk_Name_Rockets_1	= Unguided Missile Specialist
+#M_perk_Desk_Rockets_1	= Unguided missiles have a low launch accuracy, and cannot pursue a maneuvering target. Thus, to handle them correctly, one must be well-trained and have a good eye. Affecting the pilot's accuracy, this perk increases the inflicted damage by unguided missiles by 20%.
+
+#M_perk_Name_Rockets_2	= Unguided Missile Expert
+#M_perk_Desk_Rockets_2	= Unguided missiles are much cheaper than their higher-technology counterparts. For this reason, some fighter pilots hone their skills of handling this archaic weaponry. Affecting pilot accuracy, this perk increases resulting damage inflicted by unguided missiles by 35%.
+
+;пока не будет ----------------------------------
+;#M_perk_Name_Rockets_3	= .......................
+;#M_perk_Desk_Rockets_3	= 	... description ...
+
+
+; Перки по системам
+
+#M_perk_Name_Systems_1	= Trainee System Engineer
+#M_perk_Desk_Systems_1	= The pilot profession requires diverse technical knowledge for full-fledged ship handling. This perk allows you to use any fighter system without the usual limitations. The pilot can also perform basic engine tuning (5% higher top speed).
+
+#M_perk_Name_Systems_2	= Advanced System Engineer
+#M_perk_Desk_Systems_2	= Skilful handling of ship systems during combat can significantly improve the odds of the entire team. This perk increases efficiency of certain systems: 20% faster repairs, 20% faster shield regeneration, 10% better antimissile protection, 10% higher top speed.
+
+#M_perk_Name_Systems_3	= Expert System Engineer
+#M_perk_Desk_Systems_3	= Every pilot would hug such an excellent mechanic, even if he would be soaked in engine oil. The character perfectly knows the hardware which allows him to boost fighter engines, and get 15% higher top speed. This perk also increases the efficiency of certain systems: 45% faster repairs, 45% faster shield regeneration, and 30% better antimissile protection.
+
+#M_perk_Name_Systems_4	= Technomage
+#M_perk_Desk_Systems_4	= Only a few can challenge this master in knowledge of ship systems. He can dismantle any fighter down to smallest parts (yeah, against time and with eyes closed). His skills boost efficiency of all systems: 75% faster repairs, 50% better antimissile protection, 75% better shields, and 25% higher engine power.
+
+#M_perk_Name_Tech_Adaptation	= Berserk Technology Adaptation
+#M_perk_Desk_Tech_Adaptation	= Not all existing guns and equipment are standardized and interchangeable. Berserks, for example, use own technologies and don't give a damn about imperial standards. To be able to use their equipment, at least one team member must know how to adapt Berserk technologies.
+
+#M_perk_Name_Tech_Adaptation_Alien = Alien Technology Adaptation
+#M_perk_Desk_Tech_Adaptation_Alien = Though outward appearance of any Alien device can make any technician nervous, they still can be installed onto almost any fighter. Of course, this will require special adapters and whatnot. To be able to use their equipment, at least one team member must know how to adapt Alien technologies.
+
+#M_perk_Name_Tech_Adaptation_Prec = Precursor Technology Adaptation
+#M_perk_Desk_Tech_Adaptation_Prec = The Precursor race is considered to have been dead for many centuries, despite (or maybe owing to) its advanced technologies. Many weaponry samples of those ancient warriors are still in perfect shape despite venerable age, and thus can be used as intended. To be able to use their equipment, at least one team member must know how to adapt Precursor technologies.
+
+#M_perk_Name_Repairman		= Repairman
+#M_perk_Desk_Repairman		= To make repair systems work with the highest performance one has to handle them correctly and timely. This would be impossible without the comprehensive knowledge and correct use of diagnostics. This perk improves the performance of all repair systems by 50%.
+
+#M_perk_Name_Repairman_Exp	= Expert Repairman
+#M_perk_Desk_Repairman_Exp	= Some specialists can control hordes of nanobots with one hand, and handle the fighter in combat with the other. This perk improves the performance of all repair systems by 75%.
+
+#M_perk_Name_Countermeasures	= Antimissile System Operator
+#M_perk_Desk_Countermeasures	= Electronic warfare is a critical part of space combat. This is especially true in the case of antimissile defense. Setting up active and passive jammers, performing defensive maneuvers - all of this is vital in the high-technology combat of today. The character with this perk increases the antimissile system efficiency by 25%, considerably improving the odds of avoiding enemy missiles.
+
+#M_perk_Name_Countermeasures_Exp	= Antimissile System Expert
+#M_perk_Desk_Countermeasures_Exp	= After thoroughly studying intricacies of all existing antimissile systems and missile warheads you stop relying on equipment and luck. In combat one may often have to manually fine-tune jammers and guide active antimissile systems like the Boxer. The character with this perk increases antimissile system efficiency by 50%, greatly improving the odds of avoiding enemy missiles.
+
+#M_perk_Name_Shields_Op		= Shield Operator
+#M_perk_Desk_Shields_Op		= Most pilots use shields without thinking about how they work. However, the thorough study of shields allows to speed up their regeneration by 35%.
+
+#M_perk_Name_Shields_Exp	= Shield Expert
+#M_perk_Desk_Shields_Exp	= The character has mastered the art of fine-tuning and handling ship shields. This allows to speed up their regeneration by 75%.
+
+#M_perk_Name_Engine_Op		= Engine Tuner
+#M_perk_Desk_Engine_Op		= Fighter engines are tested, tuned and adjusted, before each sortie. An experienced mechanic can tune engines so well, that their output will be 10% higher. Unfortunately, this procedure is so complex that he can perform it only on his own ship.
+
+#M_perk_Name_Engine_Exp		= Engine Expert
+#M_perk_Desk_Engine_Exp		= The character works wonders. Manufacturer experts can only shake heads and unanimously say that it's impossible. The engine starts working stable at 125% performance. However, as no thorough tests have been conducted, who knows what can happen...
+
+#M_perk_Name_Missile_Range	= Increased Missile Range
+#M_perk_Desk_Missile_Range	= The character adjusts firing controls so well that missile maximum range increases by 25%.
+
+#M_perk_Name_Gun_Range		= Increased Cannon Range
+#M_perk_Desk_Gun_Range		= The character fine-tunes cannons so well that their effective range increases by 25%.
+
+#M_perk_Name_Gun_Dispersion	= Cannon Adjustment
+#M_perk_Desk_Gun_Dispersion	= The character adjusts cannons so well that projectile dispersion is reduced greatly. Invaluable for a sniper.
+
+
+; Экономические и политические перки
+
+#M_perk_Name_Store_SST	= FTU Warehouse Access
+#M_perk_Desk_Store_SST	= One advantage of being a trader is the access to the Free Trader Union warehouses. The FTU actively purchases ships, weapons and equipment from manufacturers. As a rule, such warehouses have products that never make it to the open market. However, only good reputation and FTU confidence will allow access to them. 
+
+#M_perk_Name_F_of_Merchant	= Intuition
+#M_perk_Desk_F_of_Merchant	= Extraordinary intuition, brilliant analytical skills, and the understanding of psychology allow you to prevent difficult situations, by sensing true intentions, and detecting hidden meanings. Be it business, or military negotiations, intuition will always target them correctly. Although overestimating your abilities might lead you into a trap.
+
+;--------------------------cut------------------------------------------
+#M_perk_Name_Imperial_Agent	= Imperial Agent
+#M_perk_Desk_Imperial_Agent	= 	... description ...
+
+#M_perk_Name_Accountancy	= Accountant
+#M_perk_Desk_Accountancy	= 	... description ...
+
+#M_perk_Name_Economics		= Economist
+#M_perk_Desk_Economics		= 	... description ...
+
+#M_perk_Name_Economics_Exp	= Expert Economist
+#M_perk_Desk_Economics_Exp	= 	... description ...
+

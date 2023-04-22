@@ -1,0 +1,28 @@
+LOCALE_FILE
+FILETYPE STANDART
+
+#UI_LOGO_CLIP_1  = clip_title_1
+#UI_LOGO_CLIP_2  = clip_title_2
+#UI_LOGO_CLIP_3  = clip_title_3
+#UI_LOGO_CLIP_4  = clip_title_4
+#UI_LOGO_CLIP_5  = clip_title_5
+#UI_LOGO_CLIP_6  = clip_title_6
+#UI_LOGO_CLIP_7  = clip_title_7
+#UI_LOGO_CLIP_8  = clip_title_8
+#UI_LOGO_CLIP_9  = clip_title_9
+#UI_LOGO_CLIP_10 = clip_title_10
+#UI_LOGO_CLIP_11 = clip_title_11
+#UI_LOGO_CLIP_12 = clip_title_12
+
+#UI_START_CLIP_0 = Pegasus, Październik 14, 2227.
+#UI_START_CLIP_1  = Świetnie, już prawie jesteśmy na miejscu. Ta dostawa jest taka duża. Bałam się, że ktoś nas złapie po drodze.
+#UI_START_CLIP_2  = Tak, mieliśmy pełne gacie, zwłaszcza gdy pojawili się ci piraci. Na szczęście to byli tylko opryszkowie.
+#UI_START_CLIP_3  = Co byśmy bez was zrobili, chłopaki? Byłoby już tylko kosmicznym gruzem..
+#UI_START_CLIP_4  = Nieznane statki, wkraczacie w przestrzeń Korporacji Triada. Podajcie swoje nazwy albo otworzymy ogień.
+#UI_START_CLIP_5  = Jesteśmy konwojem Speedy Transporting z ładunkiem z Debris.
+#UI_START_CLIP_6  = Czekaliśmy na was, chłopaki. Podejdźcie bliżej, ładowarki są gotowe.
+#UI_START_CLIP_7  = Cholera! Leć po niego!
+#UI_START_CLIP_8  = Zatrzymaj się i wyrzuć ładunek!
+#UI_START_CLIP_9  = To jest skandal! Jesteśmy obywatelami Imperium. Nie macie prawa nas przetrzymywać!
+#UI_START_CLIP_10 = Zła odpowiedź.
+#UI_START_CLIP_11 = W ten sposób straciłem swoje statki i swój biznes. Wszystko w jeden dzień.

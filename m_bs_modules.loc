@@ -1,0 +1,335 @@
+;***********************************
+; modules XML
+;***********************************
+LOCALE_FILE
+FILETYPE STANDART
+
+; year 2227
+
+; Turrets
+
+#M_Name_THC1	= Bardiche
+#M_Hint_THC1	= Bardiche wie¿yczka
+#M_SDesc_THC1	= Wie¿yczka okrêtowa z ciê¿kim dzia³em kinetycznym.
+#M_LDesc_THC1	= Klasyczne dzia³o kinetyczne wyposa¿one w symetryczne poch³aniacze odrzutu i hamulec kagañca. Dzia³o to jest powa¿n¹ modyfikacj¹ M-105A Masakari, pierwszego ciê¿kiego dzia³a opracowanego w 2177 roku dla nowych myœliwców. Wystrzeliwuje podkalibrowe pociski sabotowe odrzucane przez wolfram lub ceramikê. Seria M-105 i M-106 okaza³a siê byæ potê¿nymi i niezawodnymi dzia³ami. Z tego powodu cieszy³y siê du¿ym zainteresowaniem przez oko³o piêædziesi¹t lat.
+
+#M_Name_THC2	= Poleaxe
+#M_Hint_THC2	= Poleaxe wie¿yczka
+#M_SDesc_THC2	= Wie¿yczka okrêtowa z ciê¿kim dzia³em kinetycznym.
+#M_LDesc_THC2	= Jest to ostatnie masowo produkowane klasyczne dzia³o kinetyczne przyjête przez MSF w 2198 roku. Jego kluczowe ró¿nice w stosunku do serii M-106 obejmuj¹ binarny p³ynny materia³ wybuchowy, nowe poch³aniacze odrzutu i elementy steruj¹ce, a tak¿e pociski ze zubo¿onym uranem. Chocia¿ broñ ta jest uwa¿ana za usuniêt¹ z inwentarza MSF, nadal jest produkowana masowo i cieszy siê du¿ym popytem na rynku broni.
+
+
+#M_Name_THC3	= Yataghan
+#M_Hint_THC3	= Yataghan wie¿yczka
+#M_SDesc_THC3	= Wie¿yczka z dwoma ciê¿kimi dzia³ami.
+#M_LDesc_THC3	= Trzy lata po premierze Halberda, zarz¹d USS zatwierdzi³ rozwój potê¿niejszego dzia³a kinetycznego - po zapoznaniu siê z rozwojem InoCo skupionym na ochronie przed broni¹ laserow¹. Yataghan to podwójna broñ kinetyczna z symetrycznymi absorberami odrzutu. Zosta³a opracowana specjalnie do eliminowania dobrze chronionych celów, takich jak korwety i ciê¿kie myœliwce wyposa¿one w tarcze laserowe. Jej kluczowe ró¿nice w stosunku do serii M-113 to ulepszony system celowniczy i mocniejsze pociski. Jednak zwiêkszone wymiary i waga zawêzi³y ³uk ognia armaty. Dzia³o to wesz³o do masowej produkcji dopiero w 2224 roku wy³¹cznie na u¿ytek korporacji, wiêc nie jest obecne na otwartym rynku.
+
+#M_Name_THC4	= Espadon
+#M_Hint_THC4	= Espadon wie¿yczka
+#M_SDesc_THC4	= Wie¿yczka z dwoma ciê¿kimi dzia³ami.
+#M_LDesc_THC4	= Ta podwójna broñ kinetyczna do obrony statków kapita³owych zosta³a opracowana przez USS na podstawie Ì-115 Yataghan. Symetryczne poch³aniacze odrzutu i najnowsze stabilizatory strza³u pozwoli³y zwiêkszyæ kaliber broni, a tym samym znacznie zwiêkszyæ zadawane obra¿enia i zasiêg. Niestety, spowodowa³y one równie¿ znacznie wê¿szy ³uk ognia i mniejsz¹ wydajnoœæ œledzenia szybko poruszaj¹cych siê celów. Espadon strzela podkalibrowymi pociskami uranowymi lub ceramicznymi. Nie jest dostêpny na wolnym rynku.
+
+
+#M_Name_TVC1	= Vulcan
+#M_Hint_TVC1	= Vulcan wie¿yczka
+#M_SDesc_TVC1	= Wie¿yczka okrêtowa z szybkostrzelnym dzia³kiem kinetycznym.
+#M_LDesc_TVC1	= Dzia³a typu Gatling zosta³y wynalezione w erze przedprzestrzennej i pozosta³y w zasadzie takie same. Ich ogromna szybkostrzelnoœæ pozwala nawet niedoœwiadczonemu artylerzyœcie na eliminacjê ma³ych celów. M-200 Vulcan zosta³o po raz pierwszy u¿yte przez MSF podczas operacji Phoenix, kiedy to dwa zespo³y ¿ó³todziobów z lotniskowca Fearless zniszczy³y ponad dwadzieœcia rebelianckich myœliwców podczas jednego sortu. PóŸniej dzia³o zosta³o zamontowane na wózku wie¿yczkowym i zaadaptowane do systemów uzbrojenia okrêtów sto³ecznych.
+
+#M_Name_TVC2	= Gatling
+#M_Hint_TVC2	= Gatling wie¿yczka
+#M_SDesc_TVC2	= Wie¿yczka z szybkostrzelnym dzia³kiem kinetycznym II generacji.
+#M_LDesc_TVC2	= Nowa seria szybkostrzelnych dzia³ek wyró¿niaj¹cych siê zwiêkszon¹ szybkostrzelnoœci¹ i potê¿niejszymi pociskami. Wielu pilotów woli to niezawodne i sprawdzone dzia³o od nowszych œrodków zniszczenia. Wed³ug pilotów Patrolu, pojedyncza seria wystrzelona z dwóch Gatlingów wystarczy, by dos³ownie rozci¹æ na pó³ ka¿dy piracki myœliwiec. Dzia³o to sprawdzi³o siê równie¿ w obronie wiêkszych statków.
+
+#M_Name_TVC3		= Avenger
+#M_Hint_TVC3		= Avenger wie¿yczka
+#M_SDesc_TVC3	= A wie¿yczka with a rapid-fire cannon of the 3rd generation.
+#M_LDesc_TVC3	= The Avenger heavy kinetic cannon is based on the widely reputed M-201 Gatling rapid-fire cannon. The new cannon, offering faster rotating barrels and tungsten projectiles, took rapid-fire cannons to a new level. It became a real death bringer that literally shredded its targets. An exorbitant price is its only drawback.
+
+#M_Name_TVC4		= Vindicator
+#M_Hint_TVC4		= Vindicator wie¿yczka
+#M_SDesc_TVC4	= A wie¿yczka with a rapid-fire cannon of the 4th generation.
+#M_LDesc_TVC4	= Essentially, the Vindicator is the same Avenger with a new caseless ceramic projectile loader and motorized barrel rotator. These innovations boost gun's rate of fire and hit dispersion to the best in the class. Drawbacks include high price and unavailability on the open market.
+
+#M_Name_TPC1	= Melter
+#M_Hint_TPC1	= Melter wie¿yczka
+#M_SDesc_TPC1	= A ship wie¿yczka with a plasma cannon.
+#M_LDesc_TPC1	= A heavy plasma cannon for eliminating heavily armored targets, like corvettes or bombers. It fires high-temperature plasma blobs that deal massive damage to any vessel. Its drawbacks include relatively low rate of fire and projectile speed, which allow maneuverable targets to avoid hits. However, during Red Corsair's free rein, Imperial pilots preferred these very cannons, reasonably believing that one or two hits would be enough to disable any pirate fighter.
+
+#M_Name_TPC2	= Inferno
+#M_Hint_TPC2	= Inferno turret
+#M_SDesc_TPC2	= A turret with a plasma cannon of the 2nd generation.
+#M_LDesc_TPC2	= A sample of InoCo's newest plasma weapon. While it is generally similar to other plasma cannons, it significantly surpasses them in terms of projectile power. The Inferno was showcased at the last year's prospective warfare expo in Avalon, not long before the beginning of the civil war. According to the booklet, its specifications are several times better than those of its predecessors. However, a few mass media publications reported that mass production of the Inferno had been delayed due to its general incompleteness.
+
+#M_Name_TPC3		= Armageddon
+#M_Hint_TPC3		= Armageddon turret
+#M_SDesc_TPC3	= A turret with the newest plasma cannon.
+#M_LDesc_TPC3	= A plasma cannon sample developed by InoCo. Thanks to the increased reactor power and upgraded cooling system, the plasma blob has become much denser, thus increasing the lethal range and damage. Though this weapon had been a secret project of the corporation, a successful pirate attack on a corporation transport resulted in the loss of the first hundred cannons, which later made their way to the black market - already on turret carriages.
+
+#M_Name_TLC1	= Scorcher
+#M_Hint_TLC1	= Scorcher turret
+#M_SDesc_TLC1	= A ship turret with a combat laser.
+#M_LDesc_TLC1	= A combat laser adopted by the MSF more than two decades ago and mounted onto turret carriage fifteen years ago. It was developed to replace no less than all kinetic cannons in the MSF inventory. However, its high discharge power and accuracy unachievable by usual cannons is negated by low rate of fire imposed by unavoidable cooling system drawbacks. The maximum performance of this gun as an active defense turret of a capital ship is achieved by either an advanced fire control system or an experienced gunner.
+
+#M_Name_TLC2	= Rapier
+#M_Hint_TLC2	= Rapier turret
+#M_SDesc_TLC2	= A turret with a combat laser of the 2nd generation.
+#M_LDesc_TLC2	= While Rapier clearly surpassed all other lasers during comparative tests in 2214, MSF leaders refused to adopt it because of its supposedly exorbitant price and low rate of fire. However, two years later they had to reconsider their attitude towards laser weaponry, when MSF forces engaged elite mercenary units armed mainly with Rapiers during a "counter-terrorist" operation in Proserpine. The turret is considered a decent, though somewhat slow-firing, active defense gun for a capital ship.
+
+#M_Name_TLC3		= Daga
+#M_Hint_TLC3		= Daga turret
+#M_SDesc_TLC3	= A turret with a combat laser of the 3rd generation.
+#M_LDesc_TLC3	= The laser ray is focused by means of a floating lens system. It boosts the photon flux without affecting its density and, thus, increases damage. Dagas have only started to arrive to the market, so they are still a rare occasion. An optional targeting and fire control system is recommended for best performance of this turret.
+
+#M_Name_TLC4		= Helios
+#M_Hint_TLC4		= Helios turret
+#M_SDesc_TLC4	= A turret with the newest combat laser.
+#M_LDesc_TLC4	= The Helios combat laser prototype was created in 2220 on the base on the reputed Daga. This model utilizes a radically new principle of pumping the working substance that makes it the most powerful laser there is. However, the Helios has one typical drawback: its rate of fire leaves much to be desired, so it can't be used in active defense without a modern targeting system.
+
+#M_Name_TPLC1	= Polaris
+#M_Hint_TPLC1	= Polaris turret
+#M_SDesc_TPLC1	= A ship turret with a combat pulse laser.
+#M_LDesc_TPLC1	= In 2216, MSF leaders ordered to fully modernize defenses of medium- and large-capacity vessels. In particular, to replace older kinetic turrets with new weapon types. The Ì-801 Polaris combat pulse laser from InoCo was considered a gun that met new warfare requirements. It was the first truly versatile laser that combined benefits of a high-accuracy weapon with the burst capability.
+
+#M_Name_TPLC2 = Shining
+#M_Hint_TPLC2 = Shining turret
+#M_SDesc_TPLC2	= A turret with a combat pulse laser of the 3rd generation.
+#M_LDesc_TPLC2 = This combat laser of the 3rd generation was created for the MSF, but was never adopted because of Empire's abraded relations with corporations. This gun, taking the Polaris concept further, won fame as the ASCL prototype. Having completed the prototype, InoCo named the laser "Ì-805 Shining" and adopted it, also on turret carriages.
+
+#M_Name_TPLC3	= Rage
+#M_Hint_TPLC3	= Rage turret
+#M_SDesc_TPLC3	= A ship turret with the newest combat pulse laser.
+#M_LDesc_TPLC3	= A combat laser of the 4th generation based on the Shining turret and Precursor technologies. Though it looks similar to the prototype, the Rage is a unique device that utilizes new principles of pumping the working substance and focusing the photon flux. As a result, it offers decent combat characteristics at a higher rate of fire. These lasers were made in a limited quantity and some were intended for capital ships.
+
+#M_Name_TRG1	= Thunderbolt
+#M_Hint_TRG1	= Thunderbolt turret
+#M_SDesc_TRG1	= A ship turret with a particle accelerator.
+#M_LDesc_TRG1	= A prospective weapon type not adopted by the MSF only due to its high price. Based on a new principle, it surpasses standard-issue "sniper" combat lasers in terms of combat efficiency. This gun has low rate of fire, but its projectiles are more powerful than anything created before. Turrets with particle accelerators are recommended for use together with up-to-date targeting and fire control systems.
+
+#M_Name_TRG2		= Usiel
+#M_Hint_TRG2		= Usiel turret
+#M_SDesc_TRG2	= A turret with a particle accelerator of the 2nd generation.
+#M_LDesc_TRG2	= The Uziel is the second attempt to commercialize a prospective weapon type that remained unclaimed due to its high price. The turret turned out to be more reliable than the Thunderbolt it was based on. At that, it offered significantly more firepower, but slightly lower rate of fire. Still, its price was nearly twice that of the prototype, so the military refused to adopt this weapon. To make up for astronomical investments into Uziel experiments and field tests, the developers threw a few samples to the black market.
+
+#M_Name_TRG3		= Asmodeus
+#M_Hint_TRG3		= Asmodeus turret
+#M_SDesc_TRG3	= A turret with the newest particle accelerator.
+#M_LDesc_TRG3	= The MSF was quite displeased to see Uziels on enemy ships and decided to continue their program for developing an effective particle accelerator. The MD-4 Asmodeus banged the bush quite well, but was still too expensive to make its way to the military fleet. However, suspecting how Uziels had appeared on the black market, this time the Empire took the trouble to pay the developers for their work. Thus, a limited amount of these turrets has been adopted by the MSF, and they say each piece is highly classified.
+
+#M_Name_TAG	= Alien turret
+#M_Hint_TAG	= Alien turret
+#M_SDesc_TAG	= An Alien ship turret with a laser.
+#M_LDesc_TAG	= Powerful laser turrets with a decent rate and wide arc of fire, and high damage were a trademark of Alien capital ships. While the maximum efficiency of those guns could only be achieved when coupled with Alien ship circuitry, even modifications adapted for human vessels showed impressive performance.
+
+#M_Name_HGK1 = Unicorn
+#M_Hint_HGK1 = MG-111 Unicorn|A major caliber heavy kinetic cannon. 
+#M_SDesc_HGK1 = A major caliber heavy kinetic cannon. 
+#M_LDesc_HGK1 = Already in the beginning of the war with Aliens it became clear that traditional all-round guns weapon systems were nearly useless against Alien corvettes and dreadnoughts. Then Imperial engineers suggested turning to pre-space naval warfare expertise and installing main guns onto capital ships. The very first tests of 155mm guns obtained from Earth museums indicated their high lethal efficiency against slow armored targets. Already in a few months the specially established design bureau came up with an 11-inch (280 mm) heavy gun indexed "MG-111 Unicorn". And though they didn't have a chance to try the novelty against Alien ships, they had time to unpleasantly surprise the newly-established fleet of the New Empire.
+
+#M_Name_KGK1 = Schwarz Kalema
+#M_Hint_KGK1 = Schwarz Kalema|A modified major caliber heavy kinetic cannon. 
+#M_SDesc_KGK1 = A modified major caliber heavy kinetic cannon. 
+#M_LDesc_KGK1 = Despite this gun is based on the MSF Unicorn, it has little in common with the prototype. The depth of upgrade makes it a separate series of heavy kinetic cannons. Nearly all units of the gun were overhauled and perfected, from barrel offtake to recoil absorbers and the loading mechanism. Besides, a lot of parts from heavy fighter weaponry were used. As a result, Schwarz's rate of fire surpassed that of the Unicorn, and arc of fire and damage improved as well. In terms of specifications, this gun fits between kinetic cannons of the 2nd and 3rd generations. Due to handicraft production, only a few Schwarz cannons were made.
+
+#M_Name_HGK2 = Centaur
+#M_Hint_HGK2 = MG-112 Centaur|A major caliber kinetic cannon of the 2nd generation.
+#M_SDesc_HGK2 = A major caliber kinetic cannon of the 2nd generation.
+#M_LDesc_HGK2 = The MG-112 Centaur became a sequel to the MG-111 Unicorn that, despite nice specifications, had a number of significant drawbacks. Imperial engineers increased the gun caliber to 12 inches (305 mm), reworked breech ring and bolt group, and upgraded the loader. Fragmentation projectiles were replaced by high-penetrating ones as well. Centaurs are now being adopted by all MSF units, quickly replacing lower-powerful Unicorns.
+
+#M_Name_HGK3 = Pegasus
+#M_Hint_HGK3 = MG-112M Pegasus|The newest major caliber kinetic cannon.
+#M_SDesc_HGK3 = The newest major caliber kinetic cannon.
+#M_LDesc_HGK3 = The MG-112M Pegasus was to become an absolutely new class of major caliber weapons, but severe lack of funds and growing military demand of more powerful means of fighting heavily armored targets limited the developers by just a deep upgrade of the MG-112 Centaur. The new gun got a new targeting system and recoil absorbers, a radically new loader and breech ring, and more powerful high-explosive projectiles. However, re-equipping production lines even for these modifications required so much funds that Pegasus has never made it to mass production. Today these guns, considered the most powerful major caliber kinetic cannons, are count goods used only by the most elite units of the MSF.
+
+#M_Name_PGK1 = Bombard
+#M_Hint_PGK1 = HPMG-10 Bombard|A major caliber plasma cannon of the 1st generation.
+#M_SDesc_PGK1 = A major caliber plasma cannon of the 1st generation.
+#M_LDesc_PGK1 = The arrival of Imperial cruiser carrying main guns forced USS board of directors to quickly start developing own projects in this field. The corporation already had a prototype of a superpowerful plasma gun, but it was too big and heavy to be mounted on fighters. It took engineers only a month to adapt the prototype for capital ships, make certain changes to circuitry and install dual-circuit cooling system. Today the HPMG-10 Bombard is a powerful and reliable main gun with a decent rate of fire.
+
+#M_Name_PGK2 = Mortar
+#M_Hint_PGK2 = HPMG-20 Mortar|A major caliber plasma cannon of the 1st generation.
+#M_SDesc_PGK2 = A major caliber plasma cannon of the 2nd generation.
+#M_LDesc_PGK2 = The HPMG-20 Mortar is a radical upgrade of the HPMG-10 Bombard. It has a more powerful pulse pumping system and an electromagnetic accelerator on the end of the barrel that increases plasma blob density. In terms of specifications, this gun doesn't yield to and even sometimes surpasses major caliber kinetic cannons of the MSF.
+
+#M_Name_PGK3 = Basilica
+#M_Hint_PGK3 = HPMG-30 Basilica|A major caliber superheavy plasma cannon.
+#M_SDesc_PGK3 = A major caliber superheavy plasma cannon.
+#M_LDesc_PGK3 = The superheavy plasma main gun HPMG-30 Basilica was created after a radical upgrade of the HPMG-10 Bombard. It was more powerful, had an additional electromagnetic accelerator and a quad-circuit cryogenic cooling system. The Basilica became the most destructive weapon ever created by USS.
+
+#M_Name_LGK1 = Harquebus
+#M_Hint_LGK1 = M-810T Harquebus|A major caliber laser of the 1st generation.
+#M_SDesc_LGK1 = A major caliber laser of the 1st generation.
+#M_LDesc_LGK1 = InoCo liked the idea of dogfights involving superpowerful major caliber cannons, however the corporation decided to develop the new gun using laser technologies, on the base of the recently created M-809 Rage combat pulse laser. However, this time engineers had no dimension constraints and equipped the new gun with a radically new converter and photon ray focusing system. Indexed "M-810T Harquebus", the new gun showed impressive performance during tests was sent to mass production with no delays.
+
+#M_Name_LGK2 = Fusil
+#M_Hint_LGK2 = M-810TA Fusil|A major caliber laser of the 2nd generation.
+#M_SDesc_LGK2 = A major caliber laser of the 2nd generation.
+#M_LDesc_LGK2 = Aside from advantages, the hastily created M-810T Harquebus had a lot of drawbacks. This time InoCo overhauled all gun units, from floating lenses to independent reactor and circuitry. The M-810TA Fusil surpassed the Harquebus completely, except from one thing - price. InoCo made a limited quantity of Fusils for its own elite security forces.
+
+#M_Name_LGK3 = Musket
+#M_Hint_LGK3 = M-900T Musket|A prospective major caliber laser.
+#M_SDesc_LGK3 = A prospective major caliber laser.
+#M_LDesc_LGK3 = InoCo underlines that M-900T Musket is not an upgrade of the M-810T Harquebus, but is a parallel project based on corporation's latest laser weaponry expertise. The gun turned out to be larger than its predecessors due to a completely different layout of focusing elements and working substance pumps. The gun also got improved cooling and targeting circuitry. As a result, the Musket is quite capable of competing with more expensive counterparts based on particle acceleration.
+
+#M_Name_RGK1 = Culverin
+#M_Hint_RGK1 = MPA-6 Culverin|A major caliber particle accelerator of the 1st generation.
+#M_SDesc_RGK1 = A major caliber particle accelerator of the 1st generation.
+#M_LDesc_RGK1 = Having witnessed the terrifying power of major caliber cannons that destroyed nearly a two thirds of their heavy strike fleet in a short skirmish, NESF leaders ordered to develop similar weaponry. At that, it was decided to focus on improving the more expensive, but also more effective particle acceleration technology instead of upgrading kinetic or laser guns. In about six months the special design bureau introduced the first prototype particle accelerator MPA-6 Culverin. In terms of firepower, this gun surpasses all counterparts in the class, but cannot offer decent accuracy, reliability and price affordable for mass production.
+
+#M_Name_RGK2 = Jingal
+#M_Hint_RGK2 = MPA-8 Jingal|A major caliber particle accelerator of the 2nd generation.
+#M_SDesc_RGK2 = A major caliber particle accelerator of the 2nd generation.
+#M_LDesc_RGK2 = The MPA-8 Jingal is an improved MPA-6 Culverin. Having upgraded all parts of this heavy particle accelerator, they achieved higher lethal range and firepower. Unfortunately, the Jingal, like many other particle accelerators, is still too expensive for wide use.
+
+#M_Name_RGK3 = Falconet
+#M_Hint_RGK3 = MPA-10 Falconet|An experimental major caliber particle accelerator.
+#M_SDesc_RGK3 = An experimental major caliber particle accelerator.
+#M_LDesc_RGK3 = The heavy main gun MPA-10 Falconet is just an experimental project based on a radically new approach to particle acceleration and particle flux. Experts say that the Falconet is the very gun to become a foundation for relatively affordable and effective particle accelerators. Which is hard to believe, when you look at the prototype's price tag. The new gun turned out to be fabulously expensive, but extremely lethal. To improve Falconet profitability, they decided to equip it with the most advanced targeting system and particle flux power controls.
+
+#M_Name_Turret_Repair	= Repair turret
+#M_Hint_Turret_Repair	= Repair turret
+#M_SDesc_Turret_Repair	= Repair turret
+#M_LDesc_Turret_Repair	= Repair turret
+
+;modules
+
+#M_Name_BS_LRS1	= Eagle
+#M_Hint_BS_LRS1	= Eagle sensor unit
+#M_SDesc_BS_LRS1	= Eagle sensor unit.
+#M_LDesc_BS_LRS1	= A military long-range sensor unit. While it became obsolete fifty years ago, it can still be used to detect approaching enemies as its range surpasses that of standard scanners that are installed onto commercial vessels. The price is low due to the deficit of spare parts and complex maintenance. Range: 190 clicks.
+
+#M_Name_BS_LRS2	= Hawk
+#M_Hint_BS_LRS2	= Hawk sensor unit
+#M_SDesc_BS_LRS2	= Hawk sensor unit.
+#M_LDesc_BS_LRS2	= A relatively up-to-date long-range sensor unit that became rather popular on the market after the MSF had removed it from its inventory and started selling working units on the open market. Range: 230 clicks.
+
+#M_Name_BS_LRS3	= Parallax
+#M_Hint_BS_LRS3	= Parallax sensor unit
+#M_SDesc_BS_LRS3	= Parallax sensor unit.
+#M_LDesc_BS_LRS3	= A high-tech product of the corporations intended for upgrading capital ships. It can be installed into almost any vessel, occupying just five cubic meters of space. It powers from the main power circuit of the ship and can be used with any mass-produced navigation system. Range: up to 300 clicks.
+
+#M_Name_BS_LRS4	= Quasar
+#M_Hint_BS_LRS4	= Quasar sensor unit
+#M_SDesc_BS_LRS4	= Quasar sensor unit.
+#M_LDesc_BS_LRS4	= The newest high-tech product of the corporations intended for upgrading ships of any generations and designs. It can be installed into almost any vessel. It powers from the main power circuit of the ship and can be used with any mass-produced navigation system. Range: up to 400 clicks.
+
+#M_Name_BS_ECM1	= Veil antimissile unit
+#M_Hint_BS_ECM1	= Veil antimissile unit
+#M_SDesc_BS_ECM1	= Veil antimissile unit.
+#M_LDesc_BS_ECM1	= An antimissile unit capable of destroying incoming missiles with laser pulses. Its efficiency depends on missile generation, as newer projectiles are equipped with antimissile unit suppressors. Its rated efficiency is 10.
+
+#M_Name_BS_ECM2	= Haze antimissile unit
+#M_Hint_BS_ECM2	= Haze antimissile unit
+#M_SDesc_BS_ECM2	= Haze antimissile unit.
+#M_LDesc_BS_ECM2	= This active antimissile unit designed for capital ships was used on the first Stone Arrow cruisers. Its rated efficiency is 20, which is considered enough for civilian ships.
+
+#M_Name_BS_ECM3	= Fog antimissile unit
+#M_Hint_BS_ECM3	= Fog antimissile unit
+#M_SDesc_BS_ECM3	= Fog antimissile unit.
+#M_LDesc_BS_ECM3	= An up-to-date active antimissile unit for capital ships designed to repel massive missile attacks. Its rated efficiency is 30, but the price is too high. For this reason the Fog is only adopted by the military.
+
+#M_Name_BS_ECM4	= Smog
+#M_Hint_BS_ECM4	= Smog antimissile unit
+#M_SDesc_BS_ECM4	= Smog antimissile unit.
+#M_LDesc_BS_ECM4	= The most advanced active antimissile unit for capital ships and intended to repel supermassive missile attacks. It has rated efficiency of 40, but is quite rare due to high price.
+
+#M_Name_BS_Stealth1	= Stalker
+#M_Hint_BS_Stealth1	= Stalker|A vessel stealth system
+#M_SDesc_BS_Stealth1	= A vessel stealth system.
+#M_LDesc_BS_Stealth1	= Reduces vessel visibility to scanners by 50%. Especially effective in a cloud.|The Stalker generates a chaotic-intensity force field at a certain distance from the vessel. This reduces vessel signature as scanners consider it a less dense object. During its development, the only problem was that signature of capital ships was very hard to reduce. However, the evolution of team stealth systems enabled to use a new principle of stealth field generation.
+
+#M_Name_BS_Stealth2	= Assassin
+#M_Hint_BS_Stealth2	= Assassin|A vessel stealth system
+#M_SDesc_BS_Stealth2	= A vessel stealth system.
+#M_LDesc_BS_Stealth2	= Reduces vessel visibility to scanners by 70%. Especially effective in a cloud.|The Assassin is the newest offering in the series of capital ship stealth systems. It generates a dual-layer chaotic-intensity force field that effectively jams radars with a beam of charged particles.
+
+#M_Name_BS_RBot1	= Chrome
+#M_Hint_BS_RBot1	= Chrome automated repair system
+#M_SDesc_BS_RBot1	= Chrome automated repair system.
+#M_LDesc_BS_RBot1	= This automated system is designed to repair hull and equipment of capital ships in outer space independently on their class and purpose. Regeneration speed: 1 HP/s.
+
+#M_Name_BS_RBot2	= Nickel
+#M_Hint_BS_RBot2	= Nickel automated repair system
+#M_SDesc_BS_RBot2	= Nickel automated repair system.
+#M_LDesc_BS_RBot2	= This upgraded automated system is designed to repair hull and equipment of capital ships in outer space independently on their class and purpose. Regeneration speed: 2 HP/s.
+
+#M_Name_BS_RBot3	= Vanadium
+#M_Hint_BS_RBot3	= Vanadium automated repair system
+#M_SDesc_BS_RBot3	= Vanadium automated repair system.
+#M_LDesc_BS_RBot3	= This newest special automated system is designed to repair hull and equipment of capital ships in outer space independently on their class and purpose. Regeneration speed: 5 HP/s.
+
+#M_Name_BS_RBot4	= Tungsten
+#M_Hint_BS_RBot4	= Tungten automated repair system
+#M_SDesc_BS_RBot4	= Tungten automated repair system.
+#M_LDesc_BS_RBot4	= On the surface, the Tungten looks like a coupled Vanadium system, but in fact making it has far surpassed simple duplication. The system has improved analytical circuitry that prioritizes damages and repairs the worst ones first. The use of nonconsecutive repair method allowed the regeneration speed of 20 HP/s.
+
+#M_Name_BS_ShAmp1	= Scutum
+#M_Hint_BS_ShAmp1	= Scutum capital ship shield booster
+#M_SDesc_BS_ShAmp1	= Scutum capital ship shield booster.
+#M_LDesc_BS_ShAmp1	= Shield boosters are produced by numerous manufacturers under various brands and are often used by local authorities or pirates for increasing combat efficiency of armed civilian ships. This sample can boost shield energy by 300 SP and increase shield regeneration by 1 SP/s.
+
+#M_Name_BS_ShAmp2	= Aegis
+#M_Hint_BS_ShAmp2	= Aegis capital ship shield booster
+#M_SDesc_BS_ShAmp2	= Aegis capital ship shield booster.
+#M_LDesc_BS_ShAmp2	= The Aegis series has been widely used for twenty years. Recently they have released an upgrade kit with the same name that greatly improves efficiency of such systems. This unit can boost shield energy by 600 SP and increase shield regeneration by 2 SP/s.
+
+#M_Name_BS_ShAmp3	= Shiva
+#M_Hint_BS_ShAmp3	= Shiva capital ship shield booster
+#M_SDesc_BS_ShAmp3	= Shiva capital ship shield booster.
+#M_LDesc_BS_ShAmp3	= USS is the largest supplier of newest warfare designed, among everything else, for upgrading obsolete ships. Their new-generation shield booster is the best offer in the weaponry market in terms of both price and specifications. This sample can boost shield energy by 1500 SP and increase shield regeneration by 4 SP/s.
+
+#M_Name_BS_ShAmp4	= Kali
+#M_Hint_BS_ShAmp4	= Kali capital ship shield booster
+#M_SDesc_BS_ShAmp4	= Kali capital ship shield booster.
+#M_LDesc_BS_ShAmp4	= It remains unknown who created this shield booster, though almost every corporation, not to mention the Old Empire, pretend to be the developers. The booster is based on the Alien technology and, thus, uses vessel reactor resources with the maximum efficiency. This sample can boost shield energy by 3000 SP and increase shield regeneration by 10 SP/s.
+
+#M_Name_BS_ManAmp	= Buffalo Mk 2
+#M_Hint_BS_ManAmp	= Buffalo Mk 2 strap-on engine
+#M_SDesc_BS_ManAmp	= Buffalo Mk 2 strap-on engine.
+#M_LDesc_BS_ManAmp	= Sometimes ship maneuverability is improved by using strap-on engines. The Buffalo series is the most popular choice thanks to its reliability, installation simplicity and affordable price. Due to low engine power typical for ships of this class, it is recommended to install quad-engine Buffalo Mk 2 to improve maneuverability by 50%.
+
+#M_Name_BS_EngAmp1	= Buffalo
+#M_Hint_BS_EngAmp1	= Buffalo strap-on engine
+#M_SDesc_BS_EngAmp1	= Buffalo strap-on engine.
+#M_LDesc_BS_EngAmp1	= Sometimes maximum speed of ship is improved by using strap-on engines. The Buffalo series is the most popular choice thanks to its reliability, installation simplicity and affordable price. Due to low engine power typical for ships of this class, it is recommended to install quad-engine Buffalo to boost maximum speed by 20%.
+
+#M_Name_BS_EngAmp2	= Bison
+#M_Hint_BS_EngAmp2	= Bison strap-on engine
+#M_SDesc_BS_EngAmp2	= Bison strap-on engine.
+#M_LDesc_BS_EngAmp2	= The dual-engine Bison is the best choice for a large-capacity vessel. Offering impressive power, this monster allows to boost maximum speed by 40%. 
+
+#M_Name_BS_EngManAmp1	= Elephant
+#M_Hint_BS_EngManAmp1	= Elephant strap-on engine
+#M_SDesc_BS_EngManAmp1	= Elephant strap-on engine.
+#M_LDesc_BS_EngManAmp1	= Despite all efforts to increase large-capacity vessel engine power, transports still couldn't compete with fighters in terms of speed and maneuverability, being an easy prey for pirates.|Existing strap-on engines couldn't solve the problem completely, as limited space for strap-on equipment - a peculiarity of large-capacity vessels - forced pilots to care about survivability in the first place. They had to install shield boosters instead of cruise boosters and active antimissile defense units instead of additional nozzles.|Elephant developed by InoCo became the first combined strap-on engine that provided 15% top speed boost and 25% maneuverability boost while occupying a single slot.
+
+#M_Name_BS_EngManAmp2	= Mammoth
+#M_Hint_BS_EngManAmp2	= Mammoth strap-on engine
+#M_SDesc_BS_EngManAmp2	= Mammoth strap-on engine.
+#M_LDesc_BS_EngManAmp2	= Initially, the Mammoth strap-on engine was developed by order of the NESF who hoped to upgrade their obsolescent corvettes.|After a series of somewhat unsuccessful tests and a number of overhauls, the military had to admit that corvettes were not going to become unique and fully-fledged combat units. The system turned out to be so powerful that it just ripped strap-on engines out of mounts, while sturdier mounts obstructed other vital parts of a ship, including guns.|Despite Mammoth's failure as a military solution, it found its buyer on the civilian transport market, offering 25% speed and 40% maneuverability boosts to large-capacity turtles. However, an exorbitant price still makes Mammoth an exclusive offer available to a few customers.
+
+#M_Name_BS_ALS0		= Amber
+#M_Hint_BS_ALS0		= Amber|Basic antilaser system
+#M_SDesc_BS_ALS0	= A basic antilaser system.
+#M_LDesc_BS_ALS0	= This basic antilaser system is intended for capital ships. It generates a visible force field that reduces laser beam power by 20%. This cheap copy of InoCo's product cannot provide sufficient protection from laser weapons but is much cheaper than its original counterpart. Ambers are mainly used by novice pirates and smugglers, which try to save on everything from controls to hull.
+
+#M_Name_BS_ALS1		= Topaz
+#M_Hint_BS_ALS1		= Topaz|Antilaser system
+#M_SDesc_BS_ALS1	= An antilaser system.
+#M_LDesc_BS_ALS1	= This antilaser system is intended for capital ships. It was secretly developed by InoCo as a part of the Diamond project. It generates a visible force field that reduces laser beam power by 50%. Initial tests indicated a lot of flaws in the design that hadn't been intended for generating such a large field. These flaws were quickly fixed and the system entered mass production.
+
+#M_Name_BS_ALS2		= Emerald
+#M_Hint_BS_ALS2		= Emerald|Advanced antilaser system
+#M_SDesc_BS_ALS2	= An advanced antilaser system.
+#M_LDesc_BS_ALS2	= This antilaser system generates a visible force field that reduces laser beam power by 80%. It was secretly developed by InoCo exclusively for own use. It is currently considered the most effective in its class.
+
+#M_Name_BS_GunAmp1	= Iceberg
+#M_Hint_BS_GunAmp1	= Iceberg|Cannon rate of fire booster
+#M_SDesc_BS_GunAmp1	= A cannon rate of fire booster.
+#M_LDesc_BS_GunAmp1	= Zwiêksza szybkostrzelnoœæ wie¿yczek okrêtów kapitalnych o 40%.|Jest to prototyp nowego typu systemów opracowanych przez InoCo do awaryjnego ch³odzenia dzia³ wie¿yczkowych. Rozmieszczenie rurek cieplnych pomiêdzy iluminatorami oraz zast¹pienie wyczerpuj¹cych siê rdzeni ch³odz¹cych bardziej niezawodnymi, ale mniej efektywnymi znacznie obni¿y³o ca³kowit¹ wydajnoœæ systemu. Jednak mo¿liwoœæ zastosowania go do wszystkich dzia³ jednoczeœnie w zupe³noœci rekompensuje tê wadê.
+
+; Cargoexpander Module
+
+#M_Name_CargoExpander1	= Collapse
+#M_Hint_CargoExpander1	= Collapse|Modu³owa zagêszczarka ³adunków transportowych
+#M_SDesc_CargoExpander1	= Zmniejsza ca³kowit¹ objêtoœæ przewo¿onego ³adunku o 15%.
+#M_LDesc_CargoExpander1	= Ten modu³owy zagêszczacz ³adunków transportowych jest stosunkowo starym produktem, który nie by³ nigdy remontowany. Pozwala zmniejszyæ ca³kowit¹ objêtoœæ przewo¿onego ³adunku o 15% i jest ogromnie popularny wœród handlowców i wojskowych.

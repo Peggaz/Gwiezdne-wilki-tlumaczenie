@@ -1,0 +1,567 @@
+;***********************************
+; modules XML
+;***********************************
+LOCALE_FILE
+FILETYPE STANDART
+
+; year 2227
+
+;----------
+; Big Guns
+;----------
+
+#M_Name_HC1		= M-106 Bardiche
+#M_Hint_HC1		= M-106 Bardiche|Heavy kinetic cannon.
+#M_SDesc_HC1	= A heavy kinetic cannon.
+#M_LDesc_HC1	= A classic kinetic cannon equipped with symmetric recoil absorbers and muzzle brake. This cannon is a serious modification of M-105À Masakari, the first heavy cannon developed in 2177 for new fighters. It fires subcaliber sabot-discarding tungsten or ceramic projectiles. M-105 and M-106 series proved themselves as powerful and reliable cannons. For this reason they have been in firm demand for about fifty years.
+
+#M_Name_HC2		= M-110 Poleaxe
+#M_Hint_HC2		= M-110 Poleaxe|Advanced heavy kinetic cannon.
+#M_SDesc_HC2	= An advanced heavy kinetic cannon.
+#M_LDesc_HC2	= This is the last mass-produced classic kinetic cannon adopted by the MSF in 2198. Its key differences from the M-106 series include binary liquid explosive, new recoil absorbers and controls as well as depleted uranium projectiles. While this weapon is considered to be removed from the MSF inventory, it's still in mass production and in firm demand on the weaponry market.
+
+#M_Name_HC3		= M-113 Halberd
+#M_Hint_HC3		= M-113 Halberd|Heavy kinetic cannon of the 3rd generation.
+#M_SDesc_HC3	= A heavy kinetic cannon of the 3rd generation.
+#M_LDesc_HC3	= A deep modification of Poleaxe created by USS. Its key differences from the M-110 series include recoilless design, rotary loading mechanism, improved controls and fume extraction. This provides higher projectile speed, lower dispersion and increased damage. This cannon has been adopted by MSF special forces, but it occasionally leaks to the black market.
+
+#M_Name_HC4		= M-115 Yataghan
+#M_Hint_HC4		= M-115 Yataghan|Heavy kinetic cannon.
+#M_SDesc_HC4	= The newest heavy kinetic cannon.
+#M_LDesc_HC4	= The development of newer laser defenses resulted in a new round of artillery innovations. Yataghan is a dual kinetic cannon with symmetrical recoil absorbers developed especially for eliminating well-protected targets, like corvettes and heavy fighters. Its key differences from the M-113 series include improved targeting system and more powerful projectiles. This cannon entered mass production only in 2224 exclusively for use only by the corporation, so one shouldn't expect it to arrive to the open market in the near future.
+
+#M_Name_VC1		= M-200E Vulcan
+#M_Hint_VC1		= M-200E Vulcan|Rapid-fire cannon.
+#M_SDesc_VC1	= A heavy rapid-fire cannon.
+#M_LDesc_VC1	= Gatling-style cannons were invented in the pre-space era and remained essentially the same. Their tremendous rate of fire allows even an inexperienced gunner to eliminate small targets. M-200 Vulcan was first used by the MSF during the Operation Phoenix, when two teams of rookies from the carrier Fearless destroyed more than twenty rebel fighters in one sortie.
+
+#M_Name_VC2		= M-201 Gatling
+#M_Hint_VC2		= M-201 Gatling|Rapid-fire cannon of the 2nd generation.
+#M_SDesc_VC2	= A rapid-fire cannon of the 2nd generation.
+#M_LDesc_VC2	= A new series of rapid-fire cannons distinguished by increased rate of fire and more powerful projectiles. Many pilots prefer this reliable and well-proven cannon to newer means of destruction. According to Patrol pilots, a single burst fired from two Gatlings is enough to literally bisect any pirate fighter. However, some experts say that because M-201 is available on the open market, anyone, not only a pirate, might become its target.
+
+#M_Name_VC3		= M-204 Avenger
+#M_Hint_VC3		= M-204 Avenger|Rapid-fire cannon of the 3rd generation.
+#M_SDesc_VC3	= A rapid-fire cannon of the 3rd generation.
+#M_LDesc_VC3	= Avenger heavy kinetic cannon was created on the basis of the well-established Ì-201 Gatling. The new cannon, offering faster rotating barrels and liquid nitrogen cooling, took rapid-fire cannons to a new level. It became a real death bringer that could literally shred its targets. Gun's high price is its only drawback.
+
+#M_Name_VC4		= M-205 Vindicator
+#M_Hint_VC4		= M-205 Vindicator|Rapid-fire cannon.
+#M_SDesc_VC4	= The newest rapid-fire cannon.
+#M_LDesc_VC4	= Essentially, Vindicator is the same Avenger with a new case-free tungsten projectile loader and electric barrel rotator. This provides the cannon with its high fire density that allows even rookie pilots to use Vindicators effectively. At the same time, one drawback is unavailability of the cannon on the open market and its exorbitant price.
+
+#M_Name_PC1		= HCB-2 Melter
+#M_Hint_PC1		= HCB-2 Melter|Plasma cannon.
+#M_SDesc_PC1	= A plasma cannon.
+#M_LDesc_PC1	= A heavy plasma cannon for eliminating heavily armored targets, like corvettes or bombers. It fires high-temperature plasma blobs that deal massive damage to any vessel. Its drawbacks include relatively low rate of fire and projectile speed, which allow maneuverable targets to avoid hits. However, during Red Corsair's free rein, Imperial pilots preferred these very cannons, reasonably believing that one or two hits would be enough to disable any pirate fighter.
+
+#M_Name_PC2		= XHCB-5 Inferno
+#M_Hint_PC2		= XHCB-5 Inferno|Plasma cannon of the 2nd generation.
+#M_SDesc_PC2	= A plasma cannon of the 2nd generation.
+#M_LDesc_PC2	= This plasma cannon has always been in firm demand. While it is generally similar to other plasma cannons, it significantly surpasses them in terms of projectile power. According to the cannon manual, its specifications are several times better than any other armaments. Since the announcement, the manufacturer has fixed cannon defects that could interfere with safety measures in the rapid-fire mode.
+
+#M_Name_PC3		= HCB-8 Armageddon
+#M_Hint_PC3		= HCB-8 Armageddon|Newest plasma cannon.
+#M_SDesc_PC3	= The newest plasma cannon.
+#M_LDesc_PC3	= A plasma cannon sample developed by InoCo. Thanks to increased reactor power and upgraded cooling system, it significantly surpasses other plasma guns in terms of projectile power, meaning it offers longer lethal range and increased damage. Though this weapon had been intended for corporation's elite forces only, a successful pirate attack on a corporation transport resulted in the loss of the first batch of cannons, which later made their way to the black market.
+
+;--------
+; Lasers
+;--------
+
+#M_Name_LC1		= M-79 Scorcher
+#M_Hint_LC1		= M-79 Scorcher|Combat laser.
+#M_SDesc_LC1	= A combat laser.
+#M_LDesc_LC1	= A combat laser adopted by the MSF more than twenty years ago. It was developed to replace no less than all kinetic cannons in the MSF inventory. However, its high discharge power and accuracy unachievable by usual cannons is negated by low rate of fire imposed by unavoidable cooling system drawbacks. As a result, combat lasers became a weapon of elite pilots capable of ending a battle in a few accurate shots. While less experienced pilots usually prefer cannons that are easier to handle.
+
+#M_Name_LC2		= AML Rapier
+#M_Hint_LC2		= AML Rapier|Combat laser of the 2nd generation.
+#M_SDesc_LC2	= A combat laser of the 2nd generation.
+#M_LDesc_LC2	= While Rapier clearly surpassed all other lasers during comparative tests in 2214, MSF leaders refused to adopt it because of its supposedly exorbitant price and low rate of fire. However, two years later they had to reconsider their attitude towards laser weaponry, when MSF forces engaged elite mercenary units armed mainly with Rapiers during a "counter-terrorist" operation in Proserpine. MSF casualties have never been disclosed.
+
+#M_Name_LC3		= M-82 Daga
+#M_Hint_LC3		= M-82 Daga|Combat laser of the 3rd generation.
+#M_SDesc_LC3	= A combat laser of the 3rd generation.
+#M_LDesc_LC3	= In this gun beam is focused by a floating lens system that expands it without reducing density and, thus, increases damage. Dagas have only started to arrive to the market, so they are still a rare occasion. Like other lasers, Daga is more suited for snipers.
+
+#M_Name_LC4		= Helios
+#M_Hint_LC4		= Helios|Combat laser.
+#M_SDesc_LC4	= The newest combat laser.
+#M_LDesc_LC4	= Helios combat laser was created in 2220 on the basis of the well-proven Daga. This gun utilizes a radically new method of medium pumping that makes it the most powerful laser there is. However, Helios has also inherited a typical drawback: its rate of fire leaves much to be desired. For this reason it's mostly used by snipers. Though the MSF tried to hush up the new gun, it immediately hit the black market, which resulted in a scandalous investigation on the highest level.
+
+#M_Name_PLC1	= M-801 Polaris
+#M_Hint_PLC1	= M-801 Polaris|Combat pulse laser.
+#M_SDesc_PLC1	= A combat pulse laser.
+#M_LDesc_PLC1	= When in 2216 MSF high command initiated a complete overhaul of fighter armaments. In particular, they wanted old kinetic turrets to be replaced with newer guns. M-801 Polaris combat pulse laser was chosen as a weapon that met all requirements of the high command. It was the first truly versatile laser that combined benefits of a high-accuracy weapon with a burst capability.
+
+#M_Name_PLC2 = M-805 Shining
+#M_Hint_PLC2 = M-805 Shining|Combat pulse laser. 
+#M_SDesc_PLC2 = A combat pulse laser of the 3rd generation. 
+#M_LDesc_PLC2 = This combat laser of the 3rd generation was created for the imperial fleet, but was never adopted because of Empire's abraded relations with corporations. Developing the Polaris concept, this gun was formerly known as ASCL prototype. Having completed the prototype, InoCo named the laser "Ì-805 Shining" and adopted it.
+
+#M_Name_PLC3	= M-809 Rage
+#M_Hint_PLC3	= M-809 Rage|Newest combat pulse laser.
+#M_SDesc_PLC3	= The newest combat pulse laser.
+#M_LDesc_PLC3	= A combat laser of the 4th generation, a mix of Shining and Precursor technologies. Despite outward similarity with the prototype, Rage is a unique device that utilizes new methods of medium pumping and photon beam focusing. As a result, it keeps decent combat specifications, but offers high rate of fire. InoCo produced only a small quantity of these lasers for its elite security forces.
+
+#M_Name_RG1		= MD-1 Thunderbolt
+#M_Hint_RG1		= MD-1 Thunderbolt|Particle accelerator.
+#M_SDesc_RG1	= A particle accelerator.
+#M_LDesc_RG1	= A promising weapon type not adopted by the MSF only due to its high price. Based on a new principle, it surpasses standard-issue "sniper" combat lasers in terms of combat efficiency. This gun has low rate of fire, but its projectiles are more powerful than anything created before; an excellent weapon for a marksman.
+
+#M_Name_RG2		= MD-3 Usiel
+#M_Hint_RG2		= MD-3 Usiel|Particle accelerator of the 2nd generation.
+#M_SDesc_RG2	= A particle accelerator of the 2nd generation.
+#M_LDesc_RG2	= Uziel is the second attempt to mass produce a promising weapon, but very expensive weapon. The gun turned out to be more reliable and damaging than Thunderbolt it was based on. However, it offered slightly lower rate of fire. Still, the cost of a ready gun nearly doubled that of the prototype, so army refused to adopt it. To make up for huge investments into Usiel development, the company sold a few samples to the black market.
+
+#M_Name_RG3		= MD-4 Asmodeus
+#M_Hint_RG3		= MD-4 Asmodeus|Particle accelerator.
+#M_SDesc_RG3	= The newest particle accelerator.
+#M_LDesc_RG3	= The successful use of MD-3 Usiel allowed to create the new MD-4 prototype that had all drawbacks fixed. Its reworked converter and electromagnetic phase stabilizers provide a dense particle beam of increased diameter. As a result, this gun can destroy a well-defended small ship in one shot. Gun drawbacks include very high price, unavailability on the open market and much experience required from pilot.
+
+#M_Name_PrecC	= Precursor Gun
+#M_Hint_PrecC	= Precursor gun
+#M_SDesc_PrecC	= A Precursor gun.
+#M_LDesc_PrecC	= This weapon was made centuries ago, but it's still working and lethal. Technologies it utilizes are completely alien to humans, but perhaps a good technology adaptation expert could install it onto a fighter.
+
+;------------
+; Small Guns
+;------------
+
+#M_Name_CG1		= M-91 Maxim Mk 2
+#M_Hint_CG1		= M-91 Maxim Mk 2|Large-caliber machine gun.
+#M_SDesc_CG1	= A large-caliber machine gun.
+#M_LDesc_CG1	= After the adoption of heavy cannons, all older kinetic cannons were qualified as machine guns. By 2176, Ì-91 Maxim Mk 2, named after the legendary inventor of the 19th century, had been the most advanced artillery system. For over fifty years this machine gun has been produced by numerous companies in more than twenty modifications, and it's still in use. Unfortunately, its better days are long gone, and now this machine gun is considered a "weapon for the poor".
+
+#M_Name_CG2		= M-100 Minigun
+#M_Hint_CG2		= M-100 Minigun|Large-caliber machine gun of the 2nd generation.
+#M_SDesc_CG2	= A large-caliber machine gun of the 2nd generation.
+#M_LDesc_CG2	= As machine guns remained the bulk of artillery equipment of bombers and special-purpose vessels even after the adoption of heavy cannons, there were many attempts to increase their firepower. Improving rate of fire was considered the most promising approach, as it allowed to use existing ammo and increased chances to hit a fast-moving target. The M-100 was the most typical and popular rapid-fire machine gun that aptly combined high rate of fire and acceptable reliability. However, further development of such weaponry was hampered by insufficient projectile power.
+
+#M_Name_CG3		= M-101 Rockwell
+#M_Hint_CG3		= M-101 Rockwell|Large-caliber machine gun of the 3rd generation.
+#M_SDesc_CG3	= A large-caliber machine gun of the 3rd generation.
+#M_LDesc_CG3	= M-101 Rockwell borrowed its case-free tungsten projectile loader from Vindicator, and that considerably increased its rate of fire. Also, gun damage is further increased by a bore fume extractor that accelerates projectiles to incredible speeds. Rockwell machine guns have consolidated a niche of reliable, efficient and affordable weapon.
+
+#M_Name_CG4		= M-102 Rolf
+#M_Hint_CG4		= M-102 Rolf|Large-caliber machine gun.
+#M_SDesc_CG4	= The newest large-caliber machine gun.
+#M_LDesc_CG4	= M-102 Rolf is rightfully considered a masterpiece. Combining advantages of single-barrel guns with capabilities of multi-barrel weapons, this machine gun guarantees low projectile dispersion at high projectile damage. At that Rolf is quite affordable and can be deadly even if handled by a rookie.
+
+#M_Name_AC1		= M-126 Black Jack
+#M_Hint_AC1		= M-126 Black Jack|Autocannon.
+#M_SDesc_AC1	= Autocannon.
+#M_LDesc_AC1	= Serious size limitations made it impossible for light cannons to compete with their heavy counterparts. Nevertheless, engineers continued to search for ways to radically strengthen this primary defensive equipment of bombers. During the development of this cannon high rate of fire typical for machine guns was sacrificed to increase projectile power. Black Jack was created by corporations for their own special-purpose bombers and was never advertised much. It won fame later, when a lone unidentified bomber attacked a uranium convoy in the border zone. After making its way to and successfully torpedoing the transports, it quickly eliminated all three escort fighters instead of retreating. After that incident, Black Jack entered mass production and was adopted in huge amounts by the MSF and all law enforcers.
+
+#M_Name_AC2		= M-133 Mace
+#M_Hint_AC2		= M-133 Mace|Advanced autocannon.
+#M_SDesc_AC2	= Advanced autocannon.
+#M_LDesc_AC2	= This autocannon had been developed especially for MSF Tie-Fly fighters, but was later modified for mounting on any vessels. Before it was adopted they had believed that fighters with no heavy cannons were an anachronism bound to fail. However, when the MSF joined the final stage of the Operation Fall of the Titan, it was precisely the high rate of fire and killing power of light fighters that provided for the quick defeat of the rebels. Breaking through enemy formations to gain the rear and eliminating transports and repair bases, those vessels easily dealt with fighters carrying heavy weaponry.
+
+#M_Name_AC3		= M-150 Tetsubo
+#M_Hint_AC3		= M-150 Tetsubo|Autocannon of the 3rd generation.
+#M_SDesc_AC3	= Autocannon of the 3rd generation.
+#M_LDesc_AC3	= Tetsubo autocannon has been popular ever since its introduction seven years ago. This light cannon for the first time featured innovations like rocket-assisted projectiles and frictionless bore obturation. All this provided for a significant increase in the efficiency of the new cannon, but at the same time skyrocketed its price. According to 2225 reports, Tetsubo autocannon was the bestselling weapon in the Old Empire. As the famed ace Colonel Malles said, "Changing armaments now is easier than sending your ship to the junkyard after the fight".
+
+#M_Name_AC4		= M-155 Simoto
+#M_Hint_AC4		= M-155 Simoto|Autocannon of the 4th generation.
+#M_SDesc_AC4	= An autocannon of the 4th generation.
+#M_LDesc_AC4	= The success of M-150 Tetsubo inspired InoCo to create a more powerful autocannon with standard projectiles. The gun features a carriage with inertia cancellers, reworked bore fume extractor and loader. Also, for the first time in this weapon class it has forced nitrogen cooling. As a result, Simoto is incredibly powerful, but very expensive, so InoCo has just produced a small quantity of these guns.
+
+#M_Name_ASG		= Alien Gun
+#M_Hint_ASG		= Alien Gun|Alien blaster.
+#M_SDesc_ASG	= A rapid-fire blaster.
+#M_LDesc_ASG	= First skirmishes with Alien ships indicated that Alien guns grealy surpassed their human counterparts. No scientist has yet managed to discover a technology allowing to combine such an incredible rate of fire with projectile power that high - all in a compact body. Nevertheless, trophy Alien guns can still be used on fighters. It just requires vast experience in technology adaptation.
+
+#M_Name_BSL1	= Berserk Laser
+#M_Hint_BSL1	= Berserk Laser|Minor combat laser.
+#M_SDesc_BSL1	= A minor combat laser.
+#M_LDesc_BSL1	= While bidding for development of a new combat laser in 2216, InoCo managed to reduce its sample in both size and weight. However, their research center was attacked by Berserks and most materials and samples were lost. The very next year it became obvious that Berserks had started using these new lasers mounted on light drones. Unfortunately, incompatibility of numerous parts requires reworking these guns for installation on regular imperial ships.
+
+#M_Name_BSL2	= Berserk Laser Mk 2
+#M_Hint_BSL2	= Berserk Laser Mk 2|Minor combat laser.
+#M_SDesc_BSL2	= A minor combat laser.
+#M_LDesc_BSL2	= Latest generations of Berserks created by Al utilized a more advanced modification of the laser stolen by the Mainframe. No matter how hard human experts tried, they failed to copy this weapon because of its radically new method of medium pumping. Some suspect that this gun features technologies of Precursors who greatly surpassed our knowledge of energy manipulation. However, this doesn't mean that this kind of guns cannot be used on human fighters. It just requires vast experience in technology adaptation.
+
+;----------
+; Missiles
+;----------
+
+#M_Name_DF		= S-4 Dart
+#M_Hint_DF		= S-4 Dart|Unguided missiles.
+#M_SDesc_DF		= A 4-missile pod.
+#M_LDesc_DF		= Unguided missiles of this kind were widely used during the Empire consolidation war. Despite such unavoidable flaws as low accuracy and short lethal range, these missiles are still produced in astronomical amounts. They are most effective against sluggish capital ships. S-4 Dart differs from predecessors only by the fuel brand and the use of a standard 4-missile pod.
+
+#M_Name_MM		= S-16 Mini
+#M_Hint_MM		= S-16 Mini|Unguided missiles.
+#M_SDesc_MM		= A 16-missile pod.
+#M_LDesc_MM		= Cheap and easy to use S-16 unguided missiles have gained general acceptance. The pod design allows to fire all sixteen missiles in less than thirty seconds, making the S-16 a deadly weapon in skilled hands. Many pilots prefer unguided missiles for their high resistance against antimissile systems.
+
+#M_Name_SM3		= S-18 Lance
+#M_Hint_SM3		= S-18 Lance|Unguided missiles.
+#M_SDesc_SM3		= A 16-missile pod.
+#M_LDesc_SM3		= The tremendous popularity of the S-16 Mini forced engineers to develop an upgrade - S-18 Lance. Its warhead carries a more powerful charge and the engine has longer life, thus increasing the lethal range. Though Lance is much more expensive than Mini, mercenaries prefer it as a means of fighting small ships of low generations.
+
+#M_Name_SM4		= S-32 Hailstorm
+#M_Hint_SM4		= S-32 Hailstorm|Unguided missiles.
+#M_SDesc_SM4		= A 32-missile pod.
+#M_LDesc_SM4		= The compact and powerful S-32 unguided missiles have just been adopted, but have already gained general acceptance. The pod design allows to fire all sixteen missiles in less than thirty seconds, making the S-32 a deadly weapon in skilled hands. A hailstorm of these missiles confuses active antimissile systems and is not affected by passive system interference. Missile gurus that like to fire single manually aimed missiles have already nicknamed the Hailstorm a "scaremonger weapon" for pilots that prefer to win by quantity, not quality.
+
+#M_Name_SRM1	= SRM-6E Piranha
+#M_Hint_SRM1	= SRM-6E Piranha|Short-range missiles.
+#M_SDesc_SRM1	= A 3-missile pod.
+#M_LDesc_SRM1	= Despite short lethal range and obsolete IR homing guidance systems, these missiles are still a threat to foes without modern antimissile defenses. SRM-6E were removed from the MSF inventory more than forty years ago, but are still produced in large amounts for the Patrol and open market.
+
+#M_Name_SRM2	= SRM-8M Dagger
+#M_Hint_SRM2	= SRM-8M Dagger|Short-range missiles.
+#M_SDesc_SRM2	= A 3-missile pod.
+#M_LDesc_SRM2	= The SRM-8M were long unsurpassed thanks to the very complex guidance system that locked on targets by IR and electromagnetic emissions as well as neutron emission of the main reactor. For many years there had been no effective means of protection against these missiles, and SRM-8M were produced in large amounts in more than twenty SRM-8 modifications. While newer antimissile systems can effectively protect against SRM-8M, these missiles are still highly popular.
+
+#M_Name_SRM3	= SRM-15 Warhawk
+#M_Hint_SRM3	= SRM-15 Warhawk|Short-range missiles.
+#M_SDesc_SRM3	= A 3-missile pod.
+#M_LDesc_SRM3	= The SRM-15 was jointly developed by the MSF and corporations to replace the SRM-8M Dagger ineffective against modern antimissile systems. Initially this missile was welcomed with skepticism, but it quickly proved itself worthy, dealing considerable damage and avoiding antimissile defenses of middle generations.
+
+#M_Name_SRM4	= SRM-24 Scorpion
+#M_Hint_SRM4	= SRM-24 Scorpion|Short-range missiles.
+#M_SDesc_SRM4	= A 6-missile pod.
+#M_LDesc_SRM4	= The SRM-24 was developed by InoCo to replace the SRM-15. Compact size at high power provided for increased ammo capacity. It's still hard to say how successful the engineers were with this project, but certain amounts of these missiles have already made their way to the black market.
+
+#M_Name_AlienSRM	= Alien Missile Launcher
+#M_Hint_AlienSRM	= Alien Missile Launcher|Alien missiles.
+#M_SDesc_AlienSRM	= A 5-missile pod.
+#M_LDesc_AlienSRM	= Sometimes they find perfectly intact missile pods among Alien ship debris. The founding principles of their engines and targeting systems are unknown, but such missiles easily avoid latest antimissile defenses and inflict considerable damage. A scientist or a technician with a high equipment adaptation skill would be able to use this weapon as a regular missile launcher.
+
+#M_Name_AlienPoisonTorpedo	= Alien Nano Torpedo
+#M_Hint_AlienPoisonTorpedo	= Alien Nano Torpedo|Alien missiles.
+#M_SDesc_AlienPoisonTorpedo	= A 1-missile pod.
+#M_LDesc_AlienPoisonTorpedo	= One of the deadliest Alien missiles, this one carries multitudes of combat nanobots. Unlike their counterparts of human make, these nanobots can recognize friend from foe and can dismantle enemy ships in split seconds. Since shields are completely useless against these nanobots, the only way to save the attacked ship is to start up all available repair systems.
+
+#M_Name_LRM1	= LRM-7 Starshark
+#M_Hint_LRM1	= LRM-7 Starshark|Long-range missiles.
+#M_SDesc_LRM1	= A 2-missile pod.
+#M_LDesc_LRM1	= The LRM-7 Starshark is the first long-range missile weapon that made it to mass production. It turned out to be so successful that it was in the inventory of the MSF, Patrol, criminals and bounty hunters for over seventy years. Reliable and inexpensive, this missile launcher, however, cannot boast of high lethal power due to the recent spread of high-tech antimissile systems.
+
+#M_Name_LRM2	= LRM-9 Avalanche
+#M_Hint_LRM2	= LRM-9 Avalanche|Long-range missiles.
+#M_SDesc_LRM2	= A 2-missile pod.
+#M_LDesc_LRM2	= The LRM-9 Avalanche is a serious upgrade of the LRM-7. It features improved propulsion system, new carcass materials and reworked guidance system. All this provides for the long range and resistance against antimissile systems.
+
+#M_Name_LRM3	= ALRM
+#M_Hint_LRM3	= ALRM|Long-range missiles.
+#M_SDesc_LRM3	= A 2-missile pod.
+#M_LDesc_LRM3	= Thanks to the longest lethal range, ALRM can be fired from far outside the reach of enemy scanners - effective, safe and unexpected. A successful hit would require advanced sensors on the attacking vessel or support from a recon wing. Due to the price, considered by many as exorbitant, ALRM isn't very popular, but is widely used by special forces.
+
+#M_Name_LRM4	= LRM-12 Hornet
+#M_Hint_LRM4	= LRM-12 Hornet|Long-range missiles.
+#M_SDesc_LRM4	= A 2-missile pod.
+#M_LDesc_LRM4	= Use of contact-free detonator throwing dense streams of uranium cores at attackers turned LRM-12 Hornet into a very efficient and lethal weapon. This missile is distinguished by long engine life, can avoid latest antimissile defenses and is capable of inflicting colossal damage. High price prevented it from consolidating on the market, so Hornets are only used by elite MSF forces.
+
+#M_Name_T1		= T-4 Eraser
+#M_Hint_T1		= T-4 Eraser|Torpedo
+#M_SDesc_T1		= A single torpedo.
+#M_LDesc_T1		= Using antivessel torpedoes requires honed skills and caution. Since torpedoes need a long time to lock on targets and have a long lethal range, it is recommended to launch them at a maximum distance. Developed as means of eliminating capital ships, torpedoes have neither speed, no maneuverability required to hit a fighter.
+
+#M_Name_T2		= T-6 Hellbringer
+#M_Hint_T2		= T-6 Hellbringer|Torpedo
+#M_SDesc_T2		= A single torpedo.
+#M_LDesc_T2		= T-6 did a perfect job during the development tests. However, it actually has one irremovable drawback: its oversensitive detonator can be activated spontaneously by heavy vibration or shock, so the warhead might explode in its launching shoe. Thanks to high firepower, this torpedo can destroy or at least heavily damage a whole team of attackers.
+
+#M_Name_T3		= T-9 Supernova
+#M_Hint_T3		= T-9 Supernova|Torpedo
+#M_SDesc_T3		= A single torpedo.
+#M_LDesc_T3		= The T-9 was a logical development of the T-6 with addition of Alien technologies to fix spontaneous detonation. Its reinforced warhead can demolish a large ship or even a station. However, manufacture complexity, high price and excessive firepower prevent these torpedoes from going into mass production.
+
+#M_Name_MIRV1	= MIRV Swarm
+#M_Hint_MIRV1	= MIRV Swarm|MIRV missile
+#M_SDesc_MIRV1	= A single missile.
+#M_LDesc_MIRV1	= Multiple independently reentry vehicles (MIRVs) are the last word in missile weaponry. Decent range, resistance against interference and active antimissile systems and tremendous lethal power make MIRV missiles a deadly and effective weapon. On approaching the target MIRV Swarm separates into four independent self-guided missiles capable of locking on targets and re-locking, if the previous target has been destroyed.
+
+#M_Name_MIRV2	= MIRV-2 Tornado
+#M_Hint_MIRV2	= MIRV-2 Tornado|MIRV missile
+#M_SDesc_MIRV2	= A single missile.
+#M_LDesc_MIRV2	= The MIRV-2 Tornado is an upgrade of the MIRV Swarm equipped with eight warheads. When used right, one such missile can destroy a whole team of first-generation fighters. Like the Swarm, it's a rare offer on the open market and costs huge money.
+
+#M_Name_MIRV3	= MIRV-3 Reaper
+#M_Hint_MIRV3	= MIRV-3 Reaper|MIRV missile
+#M_SDesc_MIRV3	= A 3-missile pod.
+#M_LDesc_MIRV3	= The MIRV-3 Reaper is an upgrade of the MIRV-2 Tornado equipped with ten warheads that copy Alien missile design. Reaper's compact size allows to mount three missiles at once, meaning that the attacker can cover a large area and effectively fight large enemy ships.
+
+;----------
+; Systems
+;----------
+
+; RADARS
+
+#M_Name_LRS1	= Scout
+#M_Hint_LRS1	= Scout|Early warning scanner
+#M_SDesc_LRS1	= An early warning scanner.
+#M_LDesc_LRS1	= Range: 170 clicks.|While these units are most often called "radars", they are essentially not. Radars ceased to be a reliable means of target detection and tracking about two centuries ago, because of newer materials used in vessels as well as higher speeds and longer ranges. A discovery of the principle allowing to instantly detect changes in density of space at a certain range from the vessel was truly a solution. In 2145, the MSF adopted systems based on this principle and they have been used ever since. The Scout is an add-on for such a system that increases its range and chances to detect low-signature targets.
+
+#M_Name_LRS2	= Ranger
+#M_Hint_LRS2	= Ranger|Early warning scanner
+#M_SDesc_LRS2	= An early warning scanner.
+#M_LDesc_LRS2	= Range: 200 clicks.|Like the Scout, it's an add-on unit connected to a standard fighter EWS. It primarily improves stability, allowing the EWS to work at maximum power.
+
+#M_Name_LRS3	= Sentry
+#M_Hint_LRS3	= Sentry|Early warning scanner
+#M_SDesc_LRS3	= An early warning scanner.
+#M_LDesc_LRS3	= Range: 250 clicks.|Increases scanner resolution (better chances to detect low-signature targets).|Unlike the previous EWS's, the Sentry features an heuristic unit that is better for detecting and recognizing targets at a long range or in interference zones like nebulas or meteorite clouds. Besides, the capability to better detect cloaked enemy vessels makes the Sentry indispensable for recon missions.
+
+#M_Name_LRS4	= Agent
+#M_Hint_LRS4	= Agent|Early warning scanner
+#M_SDesc_LRS4	= An early warning scanner.
+#M_LDesc_LRS4	= Range: 350 clicks.|Increases scanner resolution (better chances to detect low-signature targets).|One of the latest developments of corporations in the area of early warning scanners for fighters and light vessels. The Agent was created more than eight years ago and successfully passed all test stages. For many years it has been in most demand on the market, fully covering the expenses, as in combat the first to see a target is often the first to kill it.
+
+; ECM
+
+#M_Name_ECM1	= Mistral
+#M_Hint_ECM1	= Mistral|Flare release system
+#M_SDesc_ECM1	= A flare release system.
+#M_LDesc_ECM1	= Missile intercept efficiency: 10 (can intercept missiles of the 1st generation).|On detecting locked-on self-guided missiles the Mistral automatically fires small blobs of high-temperature plasma. Unfortunately, these rather primitive devices are only effective against heat-seeking missiles without additional lock-on means.
+
+#M_Name_ECM2	= Storm
+#M_Hint_ECM2	= Storm|Flare release system
+#M_SDesc_ECM2	= A flare release system.
+#M_LDesc_ECM2	= Missile intercept efficiency: 20 (can intercept missiles of the 2nd generation).|The Storm is the next step in the development of passive antimissile systems. Its flares are fired automatically, when a self-guided missile is approaching. At that, flares imitate temperature conditions of a fighter engine, thus giving a better chance to intercept a more advanced missile.
+
+#M_Name_ECM3	= Squall
+#M_Hint_ECM3	= Squall|Flare release system
+#M_SDesc_ECM3	= A flare release system.
+#M_LDesc_ECM3	= Missile intercept efficiency: 30 (can intercept missiles of the 3rd generation).|The Squall is one of the most reliable and well-proven antimissile systems. To intercept homing missiles, it fires rather complex devices that precisely mimic temperature and electromagnetic conditions of a fighter engine. This FRS can intercept nearly all self-guided missiles available on the market.
+
+#M_Name_ECM4	= Cyclone
+#M_Hint_ECM4	= Cyclone|Flare release system
+#M_SDesc_ECM4	= A flare release system.
+#M_LDesc_ECM4	= Missile intercept efficiency: 40 (reliably intercepts missiles of the 3rd generation).|The most advanced of all passive antimissile systems, the Cyclone has successfully passed all tests. Devices it uses to intercept missiles mimic temperature and electromagnetic conditions as well as changes in the density of space that correspond to a fighter. How this has been achieved is not quite clear, but according to reliable sources, this FRS managed to misguide even vessel sensors during its tests. The Cyclone also features vessel maneuver tracking unit and can calculate the optimal time to release a flare. All in all, this means nearly guaranteed invulnerability to all existing missiles.
+
+; AMS
+
+#M_Name_AMS1	= Boxer
+#M_Hint_AMS1	= Boxer|Active antimissile system
+#M_SDesc_AMS1	= An active antimissile system.
+#M_LDesc_AMS1	= This system is designed to destroy missiles locked on ships of your team. Missile interception efficiency: 10. You must be in the Antimissile Defense state to protect other ships of your team.|AAMS Boxer is a self-guided rapid-fire laser capable of tracking trajectories of enemy missiles and destroying them on approach. In many situations this system is more effective than passive antimissile systems as it can track all enemy missiles locked on friendly ships of the same team. The only drawback of an AAMS is that it consumes much energy and computer power, thus preventing a vessel from using weapons and other systems in combat.
+
+#M_Name_AMS2	= Gladiator
+#M_Hint_AMS2	= Gladiator|Active antimissile system
+#M_SDesc_AMS2	= An active antimissile system.
+#M_LDesc_AMS2	= This system is designed to destroy missiles locked on ships of your team. Missile interception efficiency: 20. You must be in the Antimissile Defense state to protect other ships of your team.|AAMS Gladiator is a quad rapid-fire laser with a shared guidance and tracking system. Each laser barrel has an independent suspension that allows to fire at four targets at the same time. For a long time the Gladiator has been produced only for military needs, and even now it may be difficult to find on the open market.
+
+#M_Name_AMS3	= Berserk
+#M_Hint_AMS3	= Berserk|Active antimissile system
+#M_SDesc_AMS3	= An active antimissile system.
+#M_LDesc_AMS3	= This system is designed to destroy missiles locked on ships of your team. Missile interception efficiency: 30. You must be in the Antimissile Defense state to protect other ships of your team.|AAMS Berserk is a classic quad rapid-fire laser similar to Gladiator. However, it utilizes a newer processor and updated targeting algorithms, which considerably increase barrage density. Until 2224, it was used solely by InoCo and was considered a top-secret technology.
+
+#M_Name_AMS4	= Cerberus
+#M_Hint_AMS4	= Cerberus|Active antimissile system
+#M_SDesc_AMS4	= An active antimissile system.
+#M_LDesc_AMS4	= This system is designed to destroy missiles locked on ships of your team. Missile interception efficiency: 40. You must be in the Antimissile Defense state to protect other ships of your team.|AAMS Cerberus is a serious modification of the Berserk. Each laser barrel has its own ballistic computer and servo actuators are perfect. These systems have just been adopted by InoCo and are not available on the open market.
+
+; Stealth
+
+#M_Name_Stealth1	= Shade
+#M_Hint_Stealth1	= Shade|Vessel stealth system
+#M_SDesc_Stealth1	= A vessel stealth system.
+#M_LDesc_Stealth1	= Reduces vessel visibility to scanners by 40%. Especially effective in a cloud.|The Shade generates a chaotic-intensity force field at a certain distance from the vessel. This reduces vessel signature as scanners consider it a less dense object. Like many great inventions, such force field generators were invented by accident. According to rumors, it was done by a scientist who for many years had lived alone on an asteroid in a scantily explored part of the space. He was searching for new means of subspace travel that would allow to do without huge and tremendously expensive portals. It is said that when yet another of his devices produced no required effect, he just sold it to a merchant who provided him with food and supplies.
+
+#M_Name_Stealth2	= Shade Mk 2
+#M_Hint_Stealth2	= Shade Mk 2|Vessel stealth system
+#M_SDesc_Stealth2	= A vessel stealth system.
+#M_LDesc_Stealth2	= Reduces vessel visibility to scanners by 60%. Especially effective in a cloud.|The principles of generating chaotic-intensity force fields turned out to be a back-breaker for MSF scientists. And for a long time all mass-produced systems of this kind were just copies of that original device that the military had acquired by accident. Everyone knew what parts it consisted of, but no one could understand how it worked. Eventually, this problem was solved and soon they found a way to radically improve stealth features of the force field by simply replacing certain device parts with more advanced ones.
+
+#M_Name_Stealth3	= Ghost
+#M_Hint_Stealth3	= Ghost|Vessel stealth system
+#M_SDesc_Stealth3	= A vessel stealth system.
+#M_LDesc_Stealth3	= Reduces vessel visibility to scanners by 80%. Especially effective in a cloud.|After the basic principles of the Shade had been discovered and the Shade Mk 2 had been released, they carried out a series of tests focused on increasing its efficiency. As a result, they came up with the Ghost and also discovered a way to create several force fields at once at large distances from each other. This, in turn, led to the invention of team stealth systems.
+
+; Cloaking Devices
+
+#M_Name_CloD1	= Nebula
+#M_Hint_CloD1	= Nebula|A team stealth system
+#M_SDesc_CloD1	= A team stealth system.
+#M_LDesc_CloD1	= Reduces team visibility to scanners by 40%. You must be in the Stealth state to protect other ships of your team.|The next step in the development of stealth systems was to create a device capable of generating several force fields at once, thus reducing visibility of all vessels in a team. Unfortunately, such a system consumes nearly all energy and computer power of a fighter, making it less combat efficient. However, in many situations stealth increases survivability of an entire team.
+
+#M_Name_CloD2	= Black Hole
+#M_Hint_CloD2	= Black Hole|A team stealth system
+#M_SDesc_CloD2	= A team stealth system.
+#M_LDesc_CloD2	= Reduces team visibility to scanners by 60%. You must be in the Stealth state to protect other ships of your team.|The most advanced stealth system of today available in the open market. It envelopes team vessels in dual-layer cocoons of multidirectional chaotic-intensity force fields. As a result, even the newest scanners fail to penetrate this veil, sending back false signals.
+
+; Flight Repair Units
+
+#M_Name_LRRNB1	= Cleric
+#M_Hint_LRRNB1	= Cleric|Remote repair system
+#M_SDesc_LRRNB1	= A remote repair system.
+#M_LDesc_LRRNB1	= Repairs damaged vessels in a team at 1 HP/s. You must be in the Repair state to repair other ships of your team.|Like other repair systems, the Cleric uses nanobots. It monitors all vessels of the team and repairs them remotely when needed by sending over nanobots via a tunnel field. One drawback of these systems is their high power consumption that makes the system carrier inefficient in combat.
+
+#M_Name_LRRNB2	= Redeemer
+#M_Hint_LRRNB2	= Redeemer|Remote repair system
+#M_SDesc_LRRNB2	= A remote repair system.
+#M_LDesc_LRRNB2	= Repairs damaged vessels in a team at 2 HP/s. You must be in the Repair state to repair other ships of your team.|Keeping all advantages and drawbacks of its predecessor, the Redeemder focuses its tunnel field more precisely and regenerates nanobots faster, thus doubling the remote repair performance.
+
+#M_Name_LRRNB3	= Sigil
+#M_Hint_LRRNB3	= Sigil|Remote repair system
+#M_SDesc_LRRNB3	= A remote repair system.
+#M_LDesc_LRRNB3	= Repairs damaged vessels in a team at 4 HP/s. You must be in the Repair state to repair other ships of your team.|Having obtained certain materials Precursor technologies, InoCo quickly improved remote repair systems. Sigil utilizes the most advanced tunnel field focusing and its nanobots repair damage based on its priority. As a result, it offers record repair performance in this class.
+
+#M_Name_LRRNB4	= Phoenix
+#M_Hint_LRRNB4	= Phoenix|Remote repair system
+#M_SDesc_LRRNB4	= A remote repair system.
+#M_LDesc_LRRNB4	= Repairs damaged vessels in a team at 10 HP/s. You must be in the Repair state to repair other ships of your team.|Phoenix is a logical development of Sigil, but this time InoCo perfected nanobots instead of the ways they are transferred. This system has not been classified, but its production is under strict control of the corporation.
+
+; Repair Units
+
+#M_Name_RBot1	= Gnome
+#M_Hint_RBot1	= Gnome|Vessel repair system
+#M_SDesc_RBot1	= A vessel repair system.
+#M_LDesc_RBot1	= A system of repair nanobots that gradually restore the vessel at 1 HP/s.|The Gnome is a real nanobot production plant with nearly unlimited capacity. On receiving information about damage, it creates tens of thousands of tiny devices programmed to repair this damage. One drawback of such systems is their relatively low performance. However, in protracted combat they may prove more useful than instant repair systems.
+
+#M_Name_RBot2	= Cobold
+#M_Hint_RBot2	= Cobold|Vessel repair system
+#M_SDesc_RBot2	= A vessel repair system.
+#M_LDesc_RBot2	= A system of repair nanobots that gradually restore the vessel at 2 HP/s.|The Cobold is the development of the Gnome with the same advantages and drawbacks. Optimized power consumption enabled to speed up nanobot production and, thus, repair performance.
+
+#M_Name_RBot3	= Gremlin
+#M_Hint_RBot3	= Gremlin|Vessel repair system
+#M_SDesc_RBot3	= A vessel repair system.
+#M_LDesc_RBot3	= A system of repair nanobots that gradually restore the vessel at 4 HP/s.|InoCo engineers were very glad to obtain some Precursor technologies. And the very first result was the Gremlin, featuring faster nanobot production and higher nanobot efficiency, which led to significantly higher repair performance. Still, this system has a few disadvantages, especially high percentage of defective nanobots.
+
+#M_Name_RBot4	= Nannite
+#M_Hint_RBot4	= Nannite|Vessel repair system
+#M_SDesc_RBot4	= A vessel repair system.
+#M_LDesc_RBot4 = A system of repair nanobots that gradually restore the vessel at 8 HP/s.|The Nannite is a serious upgrade of the Gremlin that hasn't been a big success. Its key components are hybrid nanobots obtained by adapting Cobold's nanobots for Precursor technologies. Hybrid nanobots were very impressive, surpassing even Alien repair systems. Today Nannites are produced in small amounts and only for InoCo's own needs. However, one or two can sometimes be seen in FTU stock as well.
+
+
+; Shield Amplifiers
+
+#M_Name_ShAmp1	= Bastion
+#M_Hint_ShAmp1	= Bastion|Shield booster
+#M_SDesc_ShAmp1	= A shield booster.
+#M_LDesc_ShAmp1	= A shield booster that increases shield energy by 50 SP and shield regeneration by 1 SP/s.|The Bastion is an optional energy unit connected to ship's force field generator. This is one of the first modifications that greatly yields to newer shield boosters, but is still widely used.
+
+#M_Name_ShAmp2	= Citadel
+#M_Hint_ShAmp2	= Citadel|Shield booster
+#M_SDesc_ShAmp2	= A shield booster.
+#M_LDesc_ShAmp2	= A shield booster that increases shield energy by 100 SP and shield regeneration by 2 SP/s.|A large step forward comparing to the Bastion, it offers twice more shield energy. For a long time Citadels have been a part of the standard MSF fighter equipment, thus becoming a market bestseller.
+
+#M_Name_ShAmp3	= Stronghold
+#M_Hint_ShAmp3	= Stronghold|Shield booster
+#M_SDesc_ShAmp3	= A shield booster.
+#M_LDesc_ShAmp3	= A shield booster that increases shield energy by 200 SP and shield regeneration by 2 SP/s.|Though this booster doesn't provide any regeneration speed increase comparing to the Citadel, it doubles shield energy instead. For the last ten years the Stronghold has been constantly improved, and many of its modifications are now available in the open market.
+
+#M_Name_ShAmp4	= Granite
+#M_Hint_ShAmp4	= Granite|Shield booster
+#M_SDesc_ShAmp4	= A shield booster.
+#M_LDesc_ShAmp4	= A shield booster that increases shield energy by 350 SP and shield regeneration by 3 SP/s.|Constant experiments and improvements of the Stronghold resulted in creation of the Granite. Thanks to higher auxiliary circuit voltage and advanced cooling, this system is way more powerful.
+
+#M_Name_ShAmp5	= Shield Prototype
+#M_Hint_ShAmp5	= Shield Prototype|Shield booster
+#M_SDesc_ShAmp5	= A shield prototype.
+#M_LDesc_ShAmp5	= A shield booster that increases shield energy by 500 SP and shield regeneration by 4 SP/s.|A shield booster prototype of the new generation. It's still early to speak about its commercialization.
+
+; Engine Amplifiers
+
+#M_Name_EngAmp1	= Tarpan
+#M_Hint_EngAmp1	= Tarpan|Engine booster
+#M_SDesc_EngAmp1	= An engine booster.
+#M_LDesc_EngAmp1	= An engine booster that increases vessel speed by about 10%.|The Tarpan is one of those successful artisanal fuel control systems. It was commercialized soon after creation and became very popular. It was especially widely used in light recon fighters.
+
+#M_Name_EngAmp2	= Mustang
+#M_Hint_EngAmp2	= Mustang|Engine booster
+#M_SDesc_EngAmp2	= An engine booster.
+#M_LDesc_EngAmp2	= An engine booster that increases vessel speed by about 20%.|The Mustang, aside from the fuel control system, features emergency cooling and power control units, which increase engine performance by another twenty percent. It is said that corporation directors couldn't agree on releasing the Mustang to the open market for a long time. Anyway, it made its way to the market only four years after the development.
+
+#M_Name_EngAmp3	= Racer
+#M_Hint_EngAmp3	= Racer|Engine booster
+#M_SDesc_EngAmp3	= An engine booster.
+#M_LDesc_EngAmp3	= An engine booster that increases vessel speed by about 30%.|This military product has been created and is produced exclusively for military use. Though one or two sometimes appear on the open market, most traders are sensible enough no to ask how. The Racer has been developed almost in parallel with the Mustang, but surpasses its counterpart comprehensively. It can boost engine output by nearly one third, and with higher speed one can always work his will to the enemy.
+
+; Weapon Boosters
+
+#M_Name_WBoost1	= Snowstorm
+#M_Hint_WBoost1	= Snowstorm|Emergency cannon cooling system
+#M_SDesc_WBoost1	= An emergency cannon cooling system.
+#M_LDesc_WBoost1	= A single-use system that boosts cannon rate of fire by 50% for 60 s.|This system combines a firing control unit with a cryogenic plant. It boosts rate of fire of all fighter cannons for a short time. Such systems have just become popular, after hardware and software used by various weapon manufacturers has been unified to some extent.
+
+#M_Name_WBoost2	= Blizzard
+#M_Hint_WBoost2	= Blizzard|Emergency cannon cooling system
+#M_SDesc_WBoost2	= An emergency cannon cooling system.
+#M_LDesc_WBoost2	= A single-use system that boosts cannon rate of fire by 100% for 90 s.|The Blizzard is the most successful emergency cannon cooling system available on the market. It significantly boosts fighter firepower, often helping it win the most hopeless fights.
+
+#M_Name_WBoost3	= Cold Wave
+#M_Hint_WBoost3	= Cold Wave|Emergency cannon cooling system
+#M_SDesc_WBoost3	= An emergency cannon cooling system.
+#M_LDesc_WBoost3	= A single-use system that boosts cannon rate of fire by 150% for 120 s.|For a long time this USS development had only been available to corporation employees. However, a year ago USS launched mass production of the Cold Wave and released it to the open market. This system significantly boosts cannon rate of fire for a long time.
+
+; Weapon Amplifier
+
+#M_Name_WAmp1	= Prototype F
+#M_Hint_WAmp1	= Prototype F|Cannon rate of fire booster
+#M_SDesc_WAmp1	= Rate of fire booster for a cannon.
+#M_LDesc_WAmp1	= Boosts rate of fire of fighter cannons by 35%.|This prototype has been developed by Phantom for some extremely rich pirate captain. Unlike emergency cannon cooling systems that only work for a limited time, the Prototype F is always on. It features a new heat dissipation unit that effectively prevents it from overheating at the increased rate of fire. 
+
+#M_Name_WAmp2	= Prototype X
+#M_Hint_WAmp2	= Prototype X|Cannon rate of fire booster
+#M_SDesc_WAmp2	= Rate of fire booster for a cannon.
+#M_LDesc_WAmp2	= Boosts rate of fire of fighter cannons by 60%.|This prototype has been developed by Phantom for some extremely rich pirate captain. Unlike emergency cannon cooling systems that only work for a limited time, the Prototype F is always on. It features a new heat dissipation unit that effectively prevents it from overheating at the increased rate of fire.
+
+; Maneurability Amplifier
+
+#M_Name_ManAmp1	= Glissade
+#M_Hint_ManAmp1	= Glissade|Maneuverability booster
+#M_SDesc_ManAmp1	= A maneuverability booster.
+#M_LDesc_ManAmp1	= Boosts ship turning rate by about 30%.|Since this is one of the first mass-produced samples, it's a rare offer on the market.
+
+#M_Name_ManAmp2	= Overbank
+#M_Hint_ManAmp2	= Overbank|Maneuverability booster
+#M_SDesc_ManAmp2	= A maneuverability booster.
+#M_LDesc_ManAmp2	= This unique system boosts ship turning rate by about 50%.|Phantom developed the prototype of this system on his own. For some time its existence had been kept secret, then it was handed over to engineers of the New Empire. However, its mass production has never been launched.
+
+; Engine Booster
+
+#M_Name_EngBoost1		= Afterburner
+#M_Hint_EngBoost1		= Afterburner|Emergency engine booster
+#M_SDesc_EngBoost1	= An emergency engine booster.
+#M_LDesc_EngBoost1	= This single-use emergency engine booster increases vessel speed by 75% for 60 s.|It has an additional generator and an expendable fuel cell connected to directly to fighter engine. The Afterburner significantly boosts ship speed for a short time. The first reports about such systems are dated to the late 40s of the past century, when Endorian pirates used to avoid Patrol counterattacks with their help.
+
+#M_Name_EngBoost2		= Superburner
+#M_Hint_EngBoost2		= Superburner|Emergency engine booster
+#M_SDesc_EngBoost2	= An emergency engine booster.
+#M_LDesc_EngBoost2	= This single-use emergency engine booster increases vessel speed by 150% for 120 s.|Emergency engine boosters were rather dangerous for pilot health due to G force and also because of faster engine wear. However, invention of gravitational compensators and more advanced materials made it possible to mass-produce more powerful afterburners. Such systems are traditionally used for recon or for emergency withdrawal in case of critical damage.
+
+; Nanobots
+
+#M_Name_RNBot1		= Troll
+#M_Hint_RNBot1		= Troll|Emergency vessel repair system
+#M_SDesc_RNBot1		= An emergency vessel repair system.
+#M_LDesc_RNBot1		= This single-use system repairs the vessel at 10 HP/s for 15 s.|Most repair systems of today use nanobots. These tiny devices can perform simple repair tasks and serve as construction materials at that. For tens of years of use nanobots have become highly developed and advanced. Thanks to a kind of collective mind, they "know" both ship structure and damage type when activated. When repairing the ship nanobot, cover its entire surface, making it look like a mirror. The Troll, like its more advanced counterpart Werewolf, are single-use systems. Nanobots they contain are fully spent to repair the current damage. Despite that single-use repair systems have become popular due to reliability and repair performance.
+
+#M_Name_RNBot2		= Werewolf
+#M_Hint_RNBot2		= Werewolf|Emergency vessel repair system
+#M_SDesc_RNBot2		= An emergency vessel repair system.
+#M_LDesc_RNBot2		= This single-use system repairs the vessel at 20 HP/s for 15 s.|Once promising, Werewolf is quite obsolete these days, incapable of handling damage inflicted by newer weapons. Nevertheless, its low price and wide availability still make it a popular choice of pilots of 1st-, 2nd- and 3rd-generation fighters. Higher-generation ships require more powerful systems, so the leaders of all conflicting parties tried to adopt newer alternatives.
+
+#M_Name_RNBot3		= Lycanthrope
+#M_Hint_RNBot3		= Lycanthrope|Emergency vessel repair system
+#M_SDesc_RNBot3		= An emergency vessel repair system.
+#M_LDesc_RNBot3		= This single-use system repairs the vessel at 50 HP/s for 10 s.|Lycanthrope is just a deep modification of Werewolf that repairs more damage per second. However, its higher speed was achieved at the expense of work time that was reduced down to 10 seconds. Despite this drawback, many pilots consider this system a perfect combination of price and performance.
+
+#M_Name_RNBot4		= Ogre
+#M_Hint_RNBot4		= Ogre|Emergency vessel repair system
+#M_SDesc_RNBot4		= An emergency vessel repair system.
+#M_LDesc_RNBot4		= This single-use system repairs the vessel at 100 HP/s for 10 s.|Ogre is a technological breakthrough of emergency vessel repair systems. Based on Precursor technologies, it offers record high repair performance - unfortunately, for a record high price that most pilots cannot afford. Nevertheless, thanks to its capability of restoring ship hulls naked down to frame it's been in stable demand among special and elite forces of empires and corporations.
+
+; Anti-laser systems
+#M_Name_ALS0		= Sapphire
+#M_Hint_ALS0		= Sapphire|Antilaser system
+#M_SDesc_ALS0		= A basic antilaser system.
+#M_LDesc_ALS0		= This antilaser system generates a visible force field reduces laser beam power by about 20%. As ray weaponry had become very widespread, USS was given a task to equip all fighters with adequate means of protection. The Sapphire was a result of hard work on designing and combining parts, some of which were of InoCo make. Not as powerful as the Diamond but still capable of reducing laser beam power, these systems have quickly become the choice of low-income pilots.
+
+#M_Name_ALS1		= Diamond
+#M_Hint_ALS1		= Diamond|Antilaser system
+#M_SDesc_ALS1		= An antilaser system.
+#M_LDesc_ALS1		= This antilaser system generates a visible force field that reduces laser beam power by about 50%. According to unofficial information, this system can also repulse an incoming particle accelerator projectile. The Diamond has been secretly developed by corporations and is shipped in small amounts to various elite armed forces.
+
+#M_Name_ALS2		= Ruby
+#M_Hint_ALS2		= Ruby|Antilaser system
+#M_SDesc_ALS2		= An advanced antilaser system.
+#M_LDesc_ALS2		= This antilaser system generates a visible force field that reduces laser beam power by about 80%. Unlike the Diamond, the Ruby was developed only for InoCo's own use. For this reason, it's not present on the open market.

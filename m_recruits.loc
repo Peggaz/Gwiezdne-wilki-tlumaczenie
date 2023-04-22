@@ -1,0 +1,56 @@
+;***********************************
+; Recruits descriptions XML
+;***********************************
+
+LOCALE_FILE
+FILETYPE STANDART
+
+#RC_FLIGHT_NAME1				= Jednostka najemników Morgenstern
+#RC_FLIGHT_SHORT_DESC1	= #COUNT# doświadczeni wojownicy wykonają każdą misję bojową za #PRICE# kredyty.
+#RC_FLIGHT_FULL_DESC1		= Mamy doskonały bilans służby i ogromne doświadczenie bojowe. Walczyliśmy z Berserkami, Obcymi i klanami pirackimi. Każdy z naszych #COUNT# wojowników jest profesjonalistą i genialnym taktykiem. Za #PRICE# kredytów wykonamy każdą misję, która nie jest sprzeczna z Kodeksem Najemnika. 
+
+#RC_FLIGHT_NAME2				= Jednostka najemników Avenging Angels
+#RC_FLIGHT_SHORT_DESC2	= #COUNT# młodych, ale zaprawionych w bojach najemników oferuje swoje usługi za #PRICE# kredytów.
+#RC_FLIGHT_FULL_DESC2		= Każdy z #COUNT# Avenging Angels posiada ogromne doświadczenie bojowe i wiele chwalebnych zwycięstw pod swoim pasem. Każda misja, od eskorty po prowadzenie działań bojowych, jest w zasięgu naszych możliwości. Żaden z naszych klientów, którzy zapłacili standardową cenę #PRICE# kredytów nie był zawiedziony!
+
+#RC_FLIGHT_NAME3				= Jednostka najemników Poleaxes
+#RC_FLIGHT_SHORT_DESC3	= #COUNT# profesjonalistów są gotowi do podpisania umowy na #PRICE# kredytów.
+#RC_FLIGHT_FULL_DESC3		= Jak ciężki topór miażdży każdą zbroję, tak nasz oddział #COUNT# wojowników zahartowanych w licznych potyczkach miażdży wrogów i nie pozostawia nic poza ogniem i czystą przestrzenią. Jesteśmy dokładni, szybcy i odważni. Cenimy honor i męstwo i rozprawimy się ze wszystkimi twoimi wrogami za #PRICE# kredytów.
+
+#RC_FLIGHT_NAME4				= Jednostka najemników Star Dragoons
+#RC_FLIGHT_SHORT_DESC4	= #COUNT# sprawnych wojowników jest gotowych by pomóc w rozwiązaniu twoich problemów za #PRICE# kredytów.
+#RC_FLIGHT_FULL_DESC4		= Jesteśmy jednostką najemników, która przeszła elitarne szkolenie w najlepszych akademiach wojskowych Wszechświata. Walczyliśmy w najbardziej chwalebnych bitwach ostatnich lat. Honor i męstwo, odwaga i lojalność - to nasze motto. Za #PRICE# kredytów otrzymasz drużynę niedoścignioną w znanym Wszechświecie. 
+
+#RC_FLIGHT_NAME5				= Jednostka najemników Cimmerians
+#RC_FLIGHT_SHORT_DESC5	= #COUNT# najemników pozbędzie się każdego twojego bólu głowy za #PRICE# kredytów.
+#RC_FLIGHT_FULL_DESC5		= Już sam nasz okrzyk wojenny sprawia, że piraci uciekają w popłochu. Nasza jednostka to #COUNT# najlepszych myśliwców od Avalonu po Kitaro. Nasze statki są niezrównane. Za #PRICE# kredytów Cimmerianie rozproszą każdego, kto odważy się stanąć na twojej drodze.
+
+#RC_FLIGHT_NAME6				= Jednostka najemników Fortune Favorites
+#RC_FLIGHT_SHORT_DESC6	= #COUNT# ulubieni bojownicy Lady Luck pomogą Ci za #PRICE# kredyty.
+#RC_FLIGHT_FULL_DESC6		= Gwarancją naszego szczęścia jest żelazna dyscyplina, ogromne doświadczenie bojowe i wyjątkowe wyszkolenie wszystkich #COUNT# wojowników. Nasza reputacja jest nieskazitelna, a nasze czyny legendarne! Tylko za #PRICE# kredytów Fortuna Ulubiona podzieli się z Tobą swoim szczęściem, które będzie Cię chronić jak nieprzekraczalna tarcza.
+ 
+#RC_FLIGHT_NAME7				= Jednostka najemników Nomads
+#RC_FLIGHT_SHORT_DESC7	= #COUNT# Zaprawieni w bojach profesjonaliści rozwiążą każdy twój problem za #PRICE# credits.
+#RC_FLIGHT_FULL_DESC7		= Od czasu operacji Upadek Tytana nasze #COUNT# bezkompromisowe myśliwce doprowadzają systemy gwiezdne do porządku, oczyszczając je z piratów, złodziei i innych szumowin. Zapytajcie o Nomadów w dowolnym zakątku kosmosu, a usłyszycie zachwyt i najgłębszy szacunek. W całej naszej karierze żaden z naszych klientów nie został wykorzystany, a żaden z naszych wrogów nie uniknął odpłaty. Dzisiaj, za #PRICE# kredytów, Nomadzi są gotowi pomóc ci rozwiązać każdy problem.
+
+Przetłumaczono z www.DeepL.com/Translator (wersja darmowa)
+ 
+#RC_FLIGHT_NAME8				= Jednostka najemników Black Legion
+#RC_FLIGHT_SHORT_DESC8	= #COUNT# prawdziwi legioniści będą wykonywać twoje rozkazy za #PRICE# kredytów.
+#RC_FLIGHT_FULL_DESC8		= Ave! Historia naszej jednostki liczy eony, a nasze korzenie sięgają głęboko w pradawną przeszłość Ziemi. Czarny Legion brał udział we wszystkich ludzkich wojnach i konfliktach zbrojnych, zbierając ziarna doświadczeń, które później przekazywane były z pokolenia na pokolenie. Jesteśmy wojownikami z urodzenia i przysięgliśmy zachować i zwiększyć chwałę, honor, męstwo i tradycje naszych przodków. Za zwykłe #PRICE# kredyty nasi #COUNT# legioniści są gotowi pokonać każdego wroga, czy to klan piratów, czy regularną armię.
+
+#RC_FLIGHT_NAME9				= Jednostka najemników Shining Guards
+#RC_FLIGHT_SHORT_DESC9	= #COUNT# najemnicy wyeliminują każde zagrożenie za #PRICE# kredytów.
+#RC_FLIGHT_FULL_DESC9		= Każda czująca istota w kosmosie przynajmniej raz słyszała o naszych chwalebnych czynach. Klienci, którzy zgodzili się zapłacić #PRICE# credits triumfalnie widzieli, jak ich wrogowie zostali rozgromieni, a ich statki spalone i zmiażdżone. Jesteśmy szybcy, odważni i doświadczeni, i jesteśmy gotowi zapewnić ci bezpieczeństwo. 
+
+#RC_FLIGHT_NAME10				= Jednostka najemników Stardust
+#RC_FLIGHT_SHORT_DESC10	= #COUNT# kosmiczne amazonki zredukują twoje problemy do pyłu za #PRICE# kredyty.
+#RC_FLIGHT_FULL_DESC10		= Tych, którzy nie docenili umiejętności bojowych naszych #COUNT# amazonek, spotkały niemiłe i śmiertelne niespodzianki. Tylko nieliczne renomowane wojowniczki są w stanie rzucić nam wyzwanie w celności, filigranowości sterowania statkami i sprzętem, zaradności i skuteczności naszej taktyki walki. Za #PRICE# credits każdy przekona się, że męskie lekceważące yak o kobietach-bojowniczkach nie jest warte pyłu, w który zmiażdżymy waszych wrogów.
+
+#RC_FLIGHT_NAME11				= Jednostka najemników Horsemen of the Apocalypse
+#RC_FLIGHT_SHORT_DESC11	= Bojownicy #COUNT# urządzą apokalipsę w wybranym fragmencie przestrzeni za #PRICE# kredytów.
+#RC_FLIGHT_FULL_DESC11		= Kiedy trzeba zabić, przechwycić, eskortować, pomścić, chronić lub ukarać. Gdy huk armat staje się jedynym argumentem. Wtedy wzywają Jeźdźców Apokalipsy! Za #PRICE# kredytów nasz oddział #COUNT# myśliwców wykona każde zadanie, nie zadając zbyt wielu pytań, ale zapewniając najlepszą ochronę i niezrównaną siłę ognia.
+
+#RC_FLIGHT_NAME12				= Jednostka najemników Golden Griffins
+#RC_FLIGHT_SHORT_DESC12	= Profesjonaliści z #COUNT# zapewnią Ci bezpieczeństwo za kredyty #PRICE#.
+#RC_FLIGHT_FULL_DESC12		= W znanym Wszechświecie nie ma innych jednostek, których piraci obawialiby się i nienawidzili tak bardzo jak Złotych Gryfów! Nasz rekord służby liczy dziesiątki klanów, które wyeliminowaliśmy, dziesiątki systemów gwiezdnych, które uwolniliśmy od pirackiej plagi, setki uratowanych przez nas istnień. Jesteśmy najlepsi i nawet piraci to przyznają. Za #PRICE# kredyty #COUNT# Golden Griffins zagwarantuje Ci, że dotrzesz do celu cały i zdrowy!

@@ -1,0 +1,57 @@
+;***********************************
+; commont interface strings
+;***********************************
+LOCALE_FILE
+FILETYPE STANDART
+
+#UI_MotherShipDestroyed = Statek-matka zniszczony!
+#UI_GameOverCaption = Koniec gry
+
+#UI_NotInitialized		= N/A
+#UI_Return			= -Powrót-
+#UI_NotImplemented		= Niedostêpne
+
+#UI_OK				= -OK-
+#UI_CloseHint			= Zamknij okno
+#UI_ApplyHint			= Zastosuj zmiany
+#UI_YesHint			= PotwierdŸ
+#UI_SelectTreeHint		= Wybierz specjalnoœæ
+
+#UI_SysMenuHint			= System menu
+
+#UI_Cancel			= Anuluj
+#UI_CancelHint			= Cofnij akcji
+#UI_NoHint			= Odrzuæ
+#UI_Continue			= Kontynuuj
+#UI_CloseMap		= Zamknij
+
+#UI_Default			= -Domyœlne-
+#UI_DefaultHint			= Przywrócenie ustawieñ domyœlnych
+
+#UI_Delete			= -Usuñ-
+#UI_DeleteHint			= Usuñ wybrany wpis
+
+#UI_Back			= -Powrót-
+#UI_BackHint			= Powrót do poprzedniego okna
+
+#UI_DialogRetToWindows		= Powrót do windows?
+#UI_DialogRetToMainMenu		= Wyjœcie do menu g³ównego?
+
+#UI_Description			= -Opis-
+#UI_Account			= Konto
+#UI_Count			= Kwota
+#UI_StackCost		= Cena partii:
+
+#UI_Max				= -Max-
+#UI_MaxHint			= Maksymalna kwota
+#UI_MinHint			= Minimalna kwota
+
+#UI_Autosave			= Autosave
+#UI_AutoSaveStarted		= Zapisywanie autosave...
+#UI_ExperienceRecieved		= Doœwiadczenie przyznane
+#UI_LoaddialogError		= B³¹d ³adowania
+#UI_Quicksave			= Quicksave
+#UI_GameSavedStart			= Zapisywanie...
+#UI_GameSaved			= Gra zapisana
+#UI_Loading			= £adowanie...
+#UI_Sector			= System

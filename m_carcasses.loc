@@ -1,0 +1,329 @@
+;***********************************
+; carcasses XML
+;***********************************
+LOCALE_FILE
+FILETYPE STANDART
+
+;****************************
+;  Fighters
+;****************************
+
+; 1 generation
+#M_Name_Excalibur		= Excalibur
+#M_Hint_Excalibur		= Excalibur|Superiority fighter|of the 1st generation
+#M_SDesc_Excalibur	= A multipurpose fighter. 
+#M_LDesc_Excalibur	= This fighter has been developed for gaining superiority in space. To be able to fulfill its mission, it carries an impressive set of equipment: a heavy gun, missiles on two universal suspension units, and two mounted systems - the classic antimissile and emergency repair. The Excalibur is an effective, universal vessel capable of accomplishing a wide range of tasks. Recognized as the best first-generation fighter, it has been successfully competing with more advanced and expensive crafts.
+
+#M_Name_Excalibur_wolf	= Corsair's Excalibur
+#M_Hint_Excalibur_wolf	= Corsair's Excalibur|Customized Excalibur 
+#M_SDesc_Excalibur_wolf	= A multipurpose fighter. 
+#M_LDesc_Excalibur_wolf	= Red Corsair had his personal fighter customized from a standard Excalibur vessel by adding the newest computer circuitry and blocks. Though primary improvements had to do with the engine and force field generators. These changes allowed the vessel to reach the performance level of second-generation ships.
+
+#M_Name_Hatchet		= Machete 
+#M_Hint_Hatchet		= Machete|A special purpose fighter|of the 1st generation
+#M_SDesc_Hatchet		= A special purpose fighter.
+#M_LDesc_Hatchet		= The original design of this vessel has to do with its special purpose: providing support to space fighters by means of special onboard systems. The first series was produced for the MSF in several modifications, including the antimissile, early warning, repair and special recon. The upgrade carried out in 2182 made it possible to re-equip the ship on site for any task by replacing unified system units.
+
+#M_Name_Naginata		= Naginata 
+#M_Hint_Naginata		= Naginata|A light attack fighter|of the 1st generation
+#M_SDesc_Naginata		= A light attack fighter.
+#M_LDesc_Naginata = Naginata is a light attack fighter of the first generation that offers decent speed and protection for its time. The upgrade carried out in 2179 provided it with modern radioelectronics and a capability to carry any types of missiles on two suspension units. Though obsolescent, these vessels were commonly used as light missile carriers during the civil war due to the lack of military hardware. Naginatas were the most popular choice of pirates and defending colonists.
+
+#M_Name_Yari		= Yari
+#M_Hint_Yari		= Yari|An interceptor|of the 1st generation
+#M_SDesc_Yari		= An interceptor.
+#M_LDesc_Yari = Even now this light interceptor has a halo of elitism. However, only a man of considerable courage or a fool would take it to challenge modern vessels, because in terms of specifications Yari yields significantly to fighters of the second and third generations. This vessel was phased out in 2205, and a lot of existing Yaris were either sent to the MSF reserves for dead storage or thrown to the open market. Now these vessels are actively used by Patrol forces as well as pirates and defending colonists.
+
+#M_Name_Brigand		= Brigand
+#M_Hint_Brigand		= Brigand|An interceptor|of the 1st generation
+#M_SDesc_Brigand		= An interceptor.
+#M_LDesc_Brigand		= This old-fashioned vessel was one of the first to carry heavy guns. Thanks to honed technological process and good design, Brigands had been produced for nearly forty years with no major changes. Today this vessel might be attractive only because of its exceptionally low price.
+
+#M_Name_Yacht	= Yacht
+#M_Hint_Yacht	= Yacht
+#M_SDesc_Yacht	= 
+#M_LDesc_Yacht	= Former racing yachts remade into fighters are not rare. Such vessels have a lot of advantages, of which exceptionally high speed is the main. However, since yachts have never been intended for combat, their protection leaves much to be desired.
+
+; 2 generation
+
+#M_Name_Stormcrow		= Stormcrow
+#M_Hint_Stormcrow		= Stormcrow|A light fighter|of the 2nd generation
+#M_SDesc_Stormcrow	= A light fighter.
+#M_LDesc_Stormcrow	= Stormcrow is an advanced incarnation of the classic light fighter concept. Besides its highly specialized purpose, this vessel is capable of accomplishing a lot of other tasks of modern combat. This is achieved by installation of a heavy gun, a unified missile launcher and two systems. The high speed and maneuverability still make this fighter dangerous in close combat.
+
+#M_Name_Hammerhead	= Hammerhead
+#M_Hint_Hammerhead	= Hammerhead|An attack fighter|of the 2nd generation
+#M_SDesc_Hammerhead	= An attack fighter.
+#M_LDesc_Hammerhead	= When this vessel first appeared, it was considered a real "flying tank" capable of withstanding heavy enemy fire. However, soon after the adoption of new force field series it lost its primary advantage - superior protection. Today most pilots consider this vessel cumbersome and poorly equipped. Although Hammerheads are still used as cheap missile carriers. 
+
+#M_Name_TieFly		= Tie-Fly
+#M_Hint_TieFly		= Tie-Fly|A light fighter|of the 2nd generation
+#M_SDesc_TieFly		= A light fighter.
+#M_LDesc_TieFly		= A light recon fighter that combines record speed, excellent maneuverability and versatility. These impressive advantages were achieved by discarding massive and cumbersome heavy guns. To somehow make up for the lack of firepower, a new-generation small-caliber gun was developed at the same time (to be adopted as the M-113 Mace later). The wide use of new vessels totally proved their fighting efficiency, in particular, during the Operation Fall of the Titan. It was a success thanks precisely to aggressive raids upon supply lines of the rebels.
+
+#M_Name_Cleaner		= Cleaner 
+#M_Hint_Cleaner		= Cleaner|A heavy fighter|of the 2nd generation
+#M_SDesc_Cleaner	= A heavy fighter.
+#M_LDesc_Cleaner 	= When developing this heavy fighter, the constructors pursued two goals: to radically improve firepower and keep maneuverability high. The former was achieved by installing two heavy guns at once. To achieve the latter, they had to discard missiles and come up with an original design. The resulting fighter turned out to be short, wide and clearly stood out against other vessels of this class. Despite somewhat wary adoption of the Cleaner, MSF pilots soon appreciated its high firepower and good protection. These fighters are still used by the MSF. It's also rumored that USS has deployed two Cleaner assembly halls and is using these vessels in small saboteur teams.
+
+#M_Name_Raptor		= Raptor 
+#M_Hint_Raptor		= Raptor|A recon vessel|of the 2nd generation
+#M_SDesc_Raptor		= A recon vessel.
+#M_LDesc_Raptor		= This fast recon vessel was initially developed according to the maximum speed concept. However, its chief designer, having prevented all efforts of the corporation board of directors to interfere with the development, managed to install not two, but four small-caliber guns onto it. The resulting ship turned out to be surprisingly combat-efficient and capable of living through difficult situations. It was so bestselling on the military hardware market that it was simultaneously listed in several classes, pressing out special-purpose antimissile, repair, early warning vessels and even light fighters out of their traditional niches.
+
+; 3 generation
+
+#M_Name_Raptor2		= Raptor T
+#M_Hint_Raptor2		= Raptor T|A light fighter|of the 3rd generation
+#M_SDesc_Raptor2		= A light fighter.
+#M_LDesc_Raptor2		= Templar enthusiasts liked the high-speed and decently equipped Raptor. By boosting its power unit and reinforcing the frame they managed to install more armor plates, a new engine and a heavy gun in addition to vessel's standard weaponry. Since controls, repair and navigation systems, and radars have also been upgraded, Templar's fighter should be considered a truly unique vessel. It's available neither in stores nor on the black market. The white paint indicates an ordinary member of the Order, while the black paint marks a high-ranked leader.
+
+#M_Name_Stormcrow2		= Black Stormcrow
+#M_Hint_Stormcrow2		= Black Stormcrow|A light fighter|of the 3rd generation
+#M_SDesc_Stormcrow2	= A light fighter.
+#M_LDesc_Stormcrow2	= Good fighters are rare in the border sector. As rare as vessels of the third or fourth generations. However, thanks to extensive modifications, border pilots manage to squeeze similar performance from lower-grade ships. Black Stormcrow is one of the most successful mods of this kind. Having kept excellent maneuverability of the original Stormcrow, border craftsmen managed to install another heavy gun and add some armor plates. Despite the increased firepower similar to that of ships of the 3rd or even 4th generation, the survivability leaves much to be desired.
+
+#M_Name_Cleaner2		= Eraser
+#M_Hint_Cleaner2		= Eraser|A heavy fighter|of the 3rd generation
+#M_SDesc_Cleaner2		= A heavy fighter.
+#M_LDesc_Cleaner2		= The Eraser is a deep modification of the Cleaner made border craftsmen. Comparing to the original, it has more armor and better shields as well as a missile launcher in addition to two heavy guns. Besides, the Eraser now has space for another system. All this takes the vessel close to the MSF Tiger. Like other ships made at the border, Erasers are a rare offer on the market.
+
+#M_Name_Tiger	= Tiger 
+#M_Hint_Tiger	= Tiger|A heavy fighter|of the 3rd generation
+#M_SDesc_Tiger	= A heavy fighter.
+#M_LDesc_Tiger 	= This heavy fighter equipped with two heavy guns and three systems was created at the turn of the century as a primary MSF and Patrol fighter. According to the special-purpose concept of that time, vessel's draft proposal didn't provide for missiles. The development took longer than planned and by the time it was ready the new fighter had to compete not with second-generation ships, but with newest vessels of the class, which were harder to surpass. The Tiger entered mass production in 2207 and soon after became the main assault vessel of the MSF. In some time Tigers entered the public market.
+
+#M_Name_Bident		= Bident
+#M_Hint_Bident		= Bident|An attack fighter and missile carrier|of the 3rd generation
+#M_SDesc_Bident		= An attack fighter and missile carrier.
+#M_LDesc_Bident 		= The arrival of this promising missile carrier in 2199 marked the new stage of military space forces development. Before that time, military theorists believed that a massive attack of fighters, attack fighters and corvettes was required to destroy a capital ship. However, the very first field test of the new missile carrier proved that a salvo of a single wing could take out a whole squadron consisting of a support carrier and a few escort ships. Precisely thanks to the massive use of missile carriers, the MSF managed to achieve the decisive superiority over Berserks. Today Bidents are rarely used by the MSF, and a lot are available for sale.
+
+#M_Name_EvilEye		= Stiletto
+#M_Hint_EvilEye		= Stiletto|A light fighter|of the 3rd generation
+#M_SDesc_EvilEye		= A light fighter.
+#M_LDesc_EvilEye		= The Stiletto was initially developed as means against light fighters. It carries a heavy gun and a missile launcher. Besides, the space enough for three systems and high speed make this vessel dangerous even in its own class. The Stiletto is capable of conducting a wide range of tasks. However, such versatility is not valued much in the regular fleet where they still prefer special-purpose vessels.
+
+#M_Name_THFA	= Jaguar
+#M_Hint_THFA	= Jaguar|A heavy fighter|of the 3rd generation
+#M_SDesc_THFA	= A heavy fighter.
+#M_LDesc_THFA	= A few major losses at the early stages of the war forced the New Empire to invest huge money into organizing and upgrading its fleet. After hot debates they decided to adopt InoCo's HAF Jaguar as a heavy attack fighter. Though Jaguar's price is close to that of the MSF Tiger, the former is more durable and can carry a missile launcher in addition to two heavy guns. Still, only two available system slots greatly reduce its tactical versatility.
+
+; 4 generation
+
+#M_Name_Trident	= Trident
+#M_Hint_Trident	= Trident|A special-purpose fighter|of the 4th generation
+#M_SDesc_Trident	= A special-purpose fighter.
+#M_LDesc_Trident 	= Trident is a special-purpose fighter and the primary support ship of the MSF. Thanks to its capability of carrying up to four special systems, three light guns and a missile launcher, Trident can perform the widest range of tasks. The Empire has already launched the mass production of these promising vessels and is actively assigning them to strike teams.
+
+#M_Name_Panthera	= Panther 
+#M_Hint_Panthera	= Panther|A heavy fighter|of the 4th generation
+#M_SDesc_Panthera	= A heavy fighter.
+#M_LDesc_Panthera	= A modification of the popular Tiger heavy fighter equipped with two heavy guns. Combat proved insufficient survivability of Tigers that already had no significant advantage over the newest projects like Stiletto and Trident. Reinforced armor and more powerful engine of the new modification increase vessel's tactical value. The fighter is produced exclusively for the MSF and is not available in the public market.
+
+#M_Name_Puma	= Puma 
+#M_Hint_Puma	= Puma|A heavy fighter|of the 4th generation
+#M_SDesc_Puma	= A heavy fighter.
+#M_LDesc_Puma	= Another modification of the popular Tiger heavy fighter. Significantly lighter weight comparing to the Panther at the similar engine power not only allowed to increase vessel speed, but also provided space for missiles. The Puma was developed exclusively for the Imperial Security and MSF special forces. In its very first battles the fighter showed excellent fighting efficiency that allowed it to be on a par with corporate Gunslingers. However, vessel's high price prevents it from entering the mass production.
+
+#M_Name_Hrimturs	= Hrimthurs
+#M_Hint_Hrimturs	= Hrimthurs|A heavy missile carrier|of the 4th generation
+#M_SDesc_Hrimturs	= A heavy missile carrier.
+#M_LDesc_Hrimturs = The draft proposal for this fourth-generation attack vessel was offered to three major corporations on competitive terms. At that, requirements to ship protection and missile armaments were marked as critical. While all three prototypes fell short of achieving required specifications, the USS sample was chosen for mass production as the least expensive. Pilots started complaining about new vessels right after their adoption. And six months later, Imperial Security operatives uncovered facts, which proved rumors of massive bribery of fleet experts and high-ranked officers, which were on the committee that approved the new missile carrier.
+
+#M_Name_Gunslinger	= Gunslinger
+#M_Hint_Gunslinger	= Gunslinger|A heavy fighter|of the 4th generation
+#M_SDesc_Gunslinger	= A heavy fighter.
+#M_LDesc_Gunslinger 	= The Gunslinger was developed as an attack fighter with good flying capabilities. The resulting vessel became the most powerful and dangerous among all 4th-generation ships. Great armor, decent speed and maneuverability, and three heavy guns at once enable the Gunslinger to compete with more expensive fighters of the 5th generation.
+
+#M_Name_TLFG	= Cheetah
+#M_Hint_TLFG	= Cheetah|A special-purpose fighter|of the 4th generation
+#M_SDesc_TLFG	= A special-purpose fighter.
+#M_LDesc_TLFG	= The lack of a modern special-purpose and support fighter was a serious tactical oversight that the New Empire tried to correct as quickly as possible. InoCo offered them a vessel that had been developed, but had never made it to mass production. The NESF had placed an order for 2,000 of such ships and the corporation started producing them under the name "Cheetah". Codenamed "Cheetah", the fighter offers the best-in-class speed and maneuverability and can carry four systems as well as two light guns and two missile launchers. This clearly indicates ship's task range: recon and pointed missile strikes. Cheetah's armor and shields are insufficient for the fully-fledged combat.
+
+#M_Name_TMFB	= Smilodon
+#M_Hint_TMFB	= Smilodon|A heavy missile carrier|of the 4th generation
+#M_SDesc_TMFB	= A heavy missile carrier.
+#M_LDesc_TMFB	= This prototype was initially developed by InoCo as an answer to the expensive, but effective Hrimthurs made by USS. InoCo's engineers deviated from the special-purpose concept and equipped the Smilodon with two light guns capable of dealing with lower-grade ships when out of primary missiles. Other advantages of the ship include speed, slightly higher than that of the Hrimthurs, and relatively low price that made the New Empire order a lot of these vessels for its fleet.
+
+#M_Name_EvilEye2	= Stiletto Mk 2
+#M_Hint_EvilEye2	= Stiletto Mk 2|A medium multipurpose fighter|of the 4th generation
+#M_SDesc_EvilEye2	= A medium multipurpose fighter.
+#M_LDesc_EvilEye2	= This deep mod of the Stiletto had been designed by joint efforts of USS and InoCo, but wasn't adopted. Unlike the prototype, the Mk2 was given more armor plates, a better force field generator and an additional heavy gun. However, the key improvements were made to the engines, making the ship slightly faster though somewhat less maneuverable than the original. Despite the nearly doubled price, the New Empire ordered a large quantity of these modified vessels that were highly appreciated by combat pilots.
+
+; 5 generation
+
+#M_Name_Trident2	= Trident T
+#M_Hint_Trident2	= Trident T|A special-purpose fighter|of the 5th generation
+#M_SDesc_Trident2	= A special-purpose fighter.
+#M_LDesc_Trident2	= Outwardly, Templar vessels remind their standard variants with the most basic equipment. This ship differs from the original Trident by better hull armor and shields. Despite additional weight implied by modification, the vessel remains as fast and maneuverable as the prototype and has the same flight dynamics. Heavy fighter pilots used to mistake modified Tridents for their relatively vulnerable originals - an easy prey - and that usually led to unpleasant consequences. Such encounters added to the myth of Templars' unbelievable combat abilities.
+
+#M_Name_Hrimturs2	= Hrimthurs T
+#M_Hint_Hrimturs2	= Hrimthurs T|A heavy missile carrier|of the 5th generation
+#M_SDesc_Hrimturs2	= A heavy missile carrier.
+#M_LDesc_Hrimturs2	= Even a standard Hrimthurs is a formidable foe. However, having been modified by the Templar Order, the vessel became a truly enduring machine that was much faster than the prototype at that. Other advantages of the Hrimthurs T include a modern targeting system that makes it the deadliest fighter of all. Like other Templar ships, the Hrimthurs T is not available on both open and black markets. The white paint indicates an ordinary member of the Order, while the black paint marks a high-ranked leader.
+
+#M_Name_Gunslinger2	= Gunslinger T
+#M_Hint_Gunslinger2	= Gunslinger T|A heavy fighter|of the 5th generation
+#M_SDesc_Gunslinger2	= A heavy fighter.
+#M_LDesc_Gunslinger2	= Order engineers seriously upgraded a few trophy Gunslingers into vessels carrying four heavy guns and three systems at the same speed and maneuverability. Like other Templar ships, the Gunslinger T is not available on both open and black markets. The white paint indicates an ordinary member of the Order, while the black paint marks a high-ranked leader.
+
+#M_Name_Wyvern	= Wyvern 
+#M_Hint_Wyvern	= Wyvern|A fighter prototype|of the 5th generation
+#M_SDesc_Wyvern	= A fighter prototype.
+#M_LDesc_Wyvern 	= This prospective 5th-generation fighter designed by InoCo extensively uses technologies of Precursors, an ancient race that vanished eons ago and left a lot of artifacts. The original design, powerful weaponry and excellent flight characteristics make Wyvern stand out against other vessels of today. Despite an exorbitant price, the corporation decided to produce it in small amounts.
+
+#M_Name_Wyvern2	= Wyvern Mk 2
+#M_Hint_Wyvern2	= Wyvern Mk 2|A fighter prototype|of the 5th generation
+#M_SDesc_Wyvern2	= A fighter prototype.
+#M_LDesc_Wyvern2	= This fighter was created by USS after they had captured and examined one of the dangerous InoCo Wyverns. The uncapped funding of the project resulted in a real masterpiece, carrying 2 missile launchers aside from the standard armaments. There was only one drawback: a very high price. Still, Wyvern Mk2 seemed interesting to Triada that started producing it in small quantities.
+
+#M_Name_THFG	= Dragon
+#M_Hint_THFG	= Dragon|A heavy fighter|of the 5th generation
+#M_SDesc_THFG	= A heavy fighter.
+#M_LDesc_THFG	= The Dragon is positioned as an affordable alternative to the extremely expensive and complex Wyvern. This fighter is less durable, slower and less maneuverable than InoCo's flagship, but the developers tried to make up for this by installing four heavy guns at once. A Dragon will hardly win over a Wyvern in a dogfight, but it remains an excellent, nearly unsurpassed combat vessel. Today these ships are mass-produced for the New Empire fleet and InoCo security.
+
+#M_Name_Satan	= Precursor fighter
+#M_Hint_Satan	= Precursor fighter|Codename "Satan"
+#M_SDesc_Satan	= Precursor fighter
+#M_LDesc_Satan	= This fighter was codenamed "Satan" by Imperial scientists researching Precursor legacy. Most vessels that have lived to the present day are in very good condition. This can be explained by their ability to regenerate over time.
+
+; others
+; Freaks
+
+#M_Name_Berserk_breeze	= Flea 
+#M_Hint_Berserk_breeze	= Flea|A Berserk fighter
+#M_SDesc_Berserk_breeze	= A Berserk fighter.
+#M_LDesc_Berserk_breeze	= A Berserk fighter.|There's not enough space even for a cockpit.
+
+#M_Name_Berserk_heavy	= Tick
+#M_Hint_Berserk_heavy	= Tick|A Berserk fighter
+#M_SDesc_Berserk_heavy	= A Berserk fighter.
+#M_LDesc_Berserk_heavy	= A Berserk fighter. An importunate, bothersome louse.|The cockpit would be so small that pilot's head and legs would be sticking out into open space. Most people would find this uncomfortable.
+
+#M_Name_Berserk_assault	= Phryn
+#M_Hint_Berserk_assault	= Phryn|A heavy Berserk fighter
+#M_SDesc_Berserk_assault	= A heavy Berserk fighter.
+#M_LDesc_Berserk_assault	= This heavy Berserk fighter is good and comfortable, but lacks a WC. How should you fly such a ship?
+
+#M_Name_Cancer	= Crab
+#M_Hint_Cancer	= Crab|A Berserk attack fighter
+#M_SDesc_Cancer	= A Berserk attack fighter.
+#M_LDesc_Cancer	= Ideal for a human pilot. Given he finds the rudder, controls and access hatch.
+
+#M_Name_A_Bomber		= Attack fighter
+#M_Hint_A_Bomber		= Attack fighter
+#M_SDesc_A_Bomber		= An attack fighter.
+#M_LDesc_A_Bomber		= While this vessel is used as an attack fighter, it's fast and maneuverable enough to be dangerous for fighters as well. A single salvo of a few such attack fighters can destroy any team or even get a capital ship into trouble.
+
+#M_Name_A_Fighter		= Fighter
+#M_Hint_A_Fighter		= Fighter
+#M_SDesc_A_Fighter	= A fighter.
+#M_LDesc_A_Fighter	= This fast and maneuverable fighter carries two deadly rapid-fire cannons that surpass any counterparts of human make. Very dangerous.
+
+#M_Name_Tug_utility	= MSR
+#M_Hint_Tug_utility	= MSR|A multipurpose space robot.
+#M_SDesc_Tug_utility	= A multipurpose space robot.
+#M_LDesc_Tug_utility	= A multipurpose space robot.
+
+#M_Name_Mining_robot	= Mining robot
+#M_Hint_Mining_robot	= A mining robot.|Prospector's standard equipment.
+#M_SDesc_Mining_robot	= 
+#M_LDesc_Mining_robot	= A mining robot.|Prospector's standard equipment.
+
+#M_Name_a_mine		= Defense drone
+#M_Hint_a_mine		= Defense drone 
+#M_SDesc_a_mine		= A defense drone. 
+#M_LDesc_a_mine		= Usually these primitive defense devices carry one to three light cannons, friend or foe identification system and low-power engines. They are often used to scare away occasional thieves from temporary warehouses established in outer space.
+
+#M_Name_a_target		= Target
+#M_Hint_a_target		= Target
+#M_SDesc_a_target		= A usual training target.
+#M_LDesc_a_target		= There are no reasons for you to pilot it.
+
+#M_Name_Gunslinger_crushes	= Fighter debris
+#M_Hint_Gunslinger_crushes	= Fighter debris
+#M_SDesc_Gunslinger_crushes	= 
+#M_LDesc_Gunslinger_crushes	= Gunslinger debris found where the convoy had been wrecked. This burned hull isn't going to fly anywhere.
+
+;****************************
+;  Corvettes
+;****************************
+
+#M_Name_Cavalier		= Cavalier
+#M_Hint_Cavalier		= Cavalier|A Patrol corvette
+#M_SDesc_Cavalier		= A Patrol corvette.
+#M_LDesc_Cavalier		= The Cavalier missile corvette is a medium vessel adopted so long ago that it had time to become obsolete. Though its four missile launchers pose a serious threat to enemies, low maneuverability and protection negate all possible advantages. Patrol continues to use Cavaliers only because they are cheap. Sometimes these ships are offered on the black market, but they are in low demand. Pirates call them "flying coffins", while mercenaries prefer more maneuverable vessels.
+
+#M_Name_Butcher		= Butcher
+#M_Hint_Butcher		= Butcher|A corvette
+#M_SDesc_Butcher	= A corvette.
+#M_LDesc_Butcher	= The Butcher is a heavy, powerful MSF corvette for fighting heavy enemy ships. Its four heavy cannons give no chances to escape, while solid armor and a fighter defense turret improve survivability. Butchers are used only by the MSF. Due to high price these vessels are not regularly shipped to the military and are produced lot-for-lot only. However, they say that USS has established production of these corvettes for the black market.
+
+;****************************
+;  Big Ships
+;****************************
+
+#M_Name_Mothership	= Star Wolf
+#M_Hint_Mothership	= Mothership|Star Wolf
+#M_SDesc_Mothership	= Mothership Star Wolf.
+#M_LDesc_Mothership	= A former military transport remade into a smaller ship. The Star Wolf has decent protection and can carry up to four turrets and five systems. Compatibility with newest engine optimizers enables to significantly improve its flying properties.
+
+#M_Name_Arba2p		= Mastiff
+#M_Hint_Arba2p		= Transport|Mastiff
+#M_SDesc_Arba2p		= Transport Mastiff.
+#M_LDesc_Arba2p		= A heavy old transport that was captured by pirates and remade into a mobile base. Its distinctive appearance, paint and electronic ID unambiguously link it to a pirate clan. For this reason, Mastiff is not safe (but fun) for traveling across civilized stellar systems.
+
+#M_Name_Arba2		= Mastiff
+#M_Hint_Arba2		= Transport|Mastiff
+#M_SDesc_Arba2		= Transport Mastiff.
+#M_LDesc_Arba2		= After minor modifications, the pirate base turned back into an old heavy transport that had seen better days, judging by the amount of weld seams not provided for by the original design. Mastiff's capability to carry weapons and decent armor make this ship a powerful but cumbersome enemy.
+
+#M_Name_Astarta		= Astarte
+#M_Hint_Astarta		= Mothership|CTS-2 Astarte
+#M_SDesc_Astarta		= Mothership CTS-2 Astarte
+#M_LDesc_Astarta		= The experimental breakthrough vessel developed by the Old Empire. Field tests showed considerable design drawbacks that made the ship slow and cumbersome. Since there was no time for a redesign, the prototype was written off and sent for permanent storage to an Old Empire system.
+
+#M_Name_Mothership_corporate	= Rhino
+#M_Hint_Mothership_corporate	= Mothership|Rhino
+#M_SDesc_Mothership_corporate	= Mothership Rhino.
+#M_LDesc_Mothership_corporate	= Triada's main ship that can carry up to six fighters and decent weaponry. Besides, the Rhino is greatly adapted for long flights. The lady of this ship significantly improved all its specifications, turning the mothership into a powerful combat unit capable of challenging a cruiser.
+
+#M_Name_Mothership_empire	= FSS-2t12
+#M_Hint_Mothership_empire	= Mothership|FSS-2t12
+#M_SDesc_Mothership_empire	= Mothership FSS-2t12.
+#M_LDesc_Mothership_empire	= This fleet supply ship is a gift from Admiral Alex Trump that once wanted to turn an old transport into a well-armed carrier with a spacious hangar. It was equipped with additional weapon platforms and adapted for long flights.
+
+#M_Name_Mothership_KFNI	= MSS-19
+#M_Hint_Mothership_KFNI	= Mothership|MSS-19 Star Wolf
+#M_SDesc_Mothership_KFNI	= Mothership MSS-19 Star Wolf.
+#M_LDesc_Mothership_KFNI	= After serving its lot, military supply ship Star Wolf 19 was retired and sold to a private party. It changed a lot of owners until it went to the Star Wolves mercenary unit. When the New Empire was founded, this Star Wolf was transferred to NESF special operations and was fully refitted.
+
+#M_Name_Mothership_Lion	= Lion Mk 2
+#M_Hint_Mothership_Lion	= Cruiser|Lion Mk 2
+#M_SDesc_Mothership_Lion	= Cruiser Lion Mk 2
+#M_LDesc_Mothership_Lion	= This prototype was created exclusively for testing devices intended for the Lion Mk 2. It was retired as soon as those tests were over. Viper put it back into service when she was in need of a greatly protected, heavily armored medium cruiser.
+
+#M_Name_Mothership_uel	= Manticore
+#M_Hint_Mothership_uel	= Mothership|Manticore
+#M_SDesc_Mothership_uel	= Mothership Manticore.
+#M_LDesc_Mothership_uel	= This unique ship was designed and constructed by Al, InoCo's artificial intelligence. Wide use of the latest technologies of the corporation and Berserks affected both its design and specifications, providing it with high maneuverability and impressive firepower.
+
+#M_Name_Cruiser_Moskow	= Moscow
+#M_Hint_Cruiser_Moskow	= Cruiser|Moscow
+#M_SDesc_Cruiser_Moskow	= Cruiser Moscow
+#M_LDesc_Cruiser_Moskow	= One of the first Lion Mk 1 cruisers, Moscow serves as headquarters to Admiral Trump.
+
+#M_Name_Mothership_LionMk1	= Lion Mk 1
+#M_Hint_Mothership_LionMk1	= Cruiser|Lion Mk 1
+#M_SDesc_Mothership_LionMk1	= Cruiser Lion Mk 1
+#M_LDesc_Mothership_LionMk1	= The war with Aliens proved that the Empire had no heavy ships to effectively oppose enemy cruisers. So the MSF urgently needed a new ship that would be faster than a battleship and more protected than a Stone Arrow. Heavy cruiser Lion became such a ship. Well-armored and armed, carrying a better power plant, it became the fastest and most maneuverable cruiser of the Empire.
+
+#M_Name_Mothership_LionMk2	= Lion Mk 2
+#M_Hint_Mothership_LionMk2	= Cruiser|Lion Mk 2
+#M_SDesc_Mothership_LionMk2	= Cruiser Lion Mk 2
+#M_LDesc_Mothership_LionMk2	= Despite all advantages of Lions Mk 1, tests indicated their low efficiency against heavily armored targets. They had to remake this cruiser in such a way so it would be on a par even with battleships, while keeping its usual propulsive performance. Having shifted the lower part of its armored hull, they installed two more main cannons above it and compensated for the increased weight by adding to engine output at the expense of some hangar space. Named "Lion Mk 2", the new cruiser had proved to be so successful that they discontinued older Lion Mk 1 completely.
+
+#M_Name_Mothership_LionMk4	= Lion Mk 4
+#M_Hint_Mothership_LionMk4	= Cruiser|Lion Mk 4
+#M_SDesc_Mothership_LionMk4	= Cruiser Lion Mk 4
+#M_LDesc_Mothership_LionMk4	= Heavy cruiser Lion Mk 4 surpasses everything that the Empire has ever created. Its better power plant and more powerful engines allowed to improve the armor and weaponry. The MSF has just adopted one or two Lion Mk 4 corps, and they say that the Empire wants to assemble a whole strike fleet of these ships.

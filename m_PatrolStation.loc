@@ -1,0 +1,100 @@
+LOCALE_FILE
+FILETYPE STANDART
+
+;*****************************************************************************
+;* ѕриветствие патрул€ и посылание нас нафих, т.к. у нас нету ничего дл€ них *
+;*****************************************************************************
+#PS_PatrolFOMsg1 = Attention, ships, this area is off limits. Please leave immediately.
+#PS_PatrolFOMsg2 = Docking is prohibited. Please leave the station area immediately.
+#PS_PatrolFOMsg3 = Your presence at the station is undesirable. Docking is prohibited.
+#PS_PatrolFOMsg4 = We are sorry, but the station is barred to the public.
+#PS_PatrolFOMsg5 = We insist that you stay away from this station.
+
+;***************************************************************
+;* ќтвет геро€ - установку нафих прин€ли, прийдем в другой раз *
+;***************************************************************
+#PS_OkFO1 = Leaving already.
+#PS_OkFO2 = Damn, it's as if they are in collusion.
+#PS_OkFO3 = Yeah, yeah, I'm leaving. I want no troubles.
+#PS_OkFO4 = Come on! You're always barred when you're needed!
+#PS_OkFO5 = Understood. Docking procedures aborted.
+
+;**********************************************************
+;* ѕриветствие патрул€ при стыковке с патрульной станцией *
+;**********************************************************
+#PS_PatrolGreetMsg1 = Welcome to our station.
+#PS_PatrolGreetMsg2 = Welcome.
+#PS_PatrolGreetMsg3 = Glad to see you at our station.
+#PS_PatrolGreetMsg4 = Our patrol station welcomes you.
+#PS_PatrolGreetMsg5 = We welcome you at our patrol station.
+
+;******************************
+;* претствуем патруль в ответ *
+;******************************
+#PS_OkGreet1 = Nice to meet you too.
+#PS_OkGreet2 = Thanks.
+#PS_OkGreet3 = Thanks, that's appreciated.
+#PS_OkGreet4 = Great, we have business to discuss.
+#PS_OkGreet5 = It's nice to be welcome.
+
+;***************************************************************************
+;* —ообщение с благодарностью, о том что мы привезли им спасенных офицеров *
+;***************************************************************************
+#PS_SurrenderGoodGuy1 = We are grateful for saving our pilots.
+#PS_SurrenderGoodGuy2 = Thank you very much. Their families have already lost hope.
+#PS_SurrenderGoodGuy3 = Thanks for saving our brothers in arms.
+#PS_SurrenderGoodGuy4 = Thank you so much for not leaving our pilots in the lurch.
+#PS_SurrenderGoodGuy5 = You've helped our people, we owe you one.
+
+
+;************************************************
+;* ќтвет геро€ - мол незачто всегда рады помочь *
+;************************************************
+#PS_OkForGoodGuy1 = Glad to be of help.
+#PS_OkForGoodGuy2 = I don't leave people to die in escape pods.
+#PS_OkForGoodGuy3 = I couldn't just pass by.
+#PS_OkForGoodGuy4 = Always welcome.
+#PS_OkForGoodGuy5 = Ah, don't mention it.
+
+;************************************************************************
+;* —ообщение о том что у нас были изь€ты пираты и за них нам дали денег *
+;************************************************************************
+;вариант дл€ одного пойманного пирата
+#PS_SurrenderBadGuySingle1 = Thank you for capturing the criminal. You've earned #PIRATE_REWARD# credits.
+#PS_SurrenderBadGuySingle2 = Thank you for arresting this criminal. Here are your #PIRATE_REWARD# credits.
+#PS_SurrenderBadGuySingle3 = For your help in apprehending the pirate you are rewarded with #PIRATE_REWARD# credits. Thank you.
+#PS_SurrenderBadGuySingle4 = One less pirate in space. I think a reward of #PIRATE_REWARD# credits will come in handy along with our gratitude.
+#PS_SurrenderBadGuySingle5 = Oh, you've got a pirate! Good. Take #PIRATE_REWARD# credits as a reward and don't forget to sign. Thank you.
+;вариант дл€ нескольких пойманных пиратов
+#PS_SurrenderBadGuy1 = Thank you for capturing #PIRATE_COUNT# pirates. Please accept #PIRATE_REWARD# credits as a reward.
+#PS_SurrenderBadGuy2 = Oh, you've got a good catch: #PIRATE_COUNT# pirates. You're lucky, your reward is #PIRATE_REWARD# credits.
+#PS_SurrenderBadGuy3 = #PIRATE_COUNT# pirates... This equals to #PIRATE_REWARD# credits. Thank you for your help.
+#PS_SurrenderBadGuy4 = #PIRATE_COUNT# pirates... This equals to... er... ah, yes, this equals to #PIRATE_REWARD# credits. Please sign here. Thank you.
+#PS_SurrenderBadGuy5 = According to standard rates, #PIRATE_COUNT# pirates equals to #PIRATE_REWARD# credits. Thank you for cooperation.
+
+;************************************************
+;* ќтвет геро€ - мол всегда готовы сотрудничать *
+;************************************************
+#PS_OkForBadGuy1 = Glad to be of help.
+#PS_OkForBadGuy2 = I'd like to capture more, but they are so quick.
+#PS_OkForBadGuy3 = Thank you.
+#PS_OkForBadGuy4 = Not much but still something.
+#PS_OkForBadGuy5 = Always welcome.
+
+;***************************************
+;* ѕатрульна€ станци€ с нами прощаетс€ *
+;***************************************
+#PS_GoodBye1 = Nice to have business with you.
+#PS_GoodBye2 = You're always welcome.
+#PS_GoodBye3 = Clear space to you!
+#PS_GoodBye4 = Drop by again.
+#PS_GoodBye5 = Good luck and clear space to you.
+
+;******************************
+;* и мы с ними тоже прощаемс€ *
+;******************************
+#PS_OkGoodBye1 = Good luck.
+#PS_OkGoodBye2 = You too.
+#PS_OkGoodBye3 = Good luck. I might drop by again.
+#PS_OkGoodBye4 = And bright stars to you.
+#PS_OkGoodBye5 = Same to you! I hope your patrolling will be quiet.

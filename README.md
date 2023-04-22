@@ -1,4 +1,4 @@
-# Gwiezdne-wilki-tlumaczenie
+# Gwiezdne-wilki-3-tlumaczenie
 Nie mogłem niczego znaleźć więc zrobiłem sam
 
 po prostu przekopjuj pliki do:

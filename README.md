@@ -1,4 +1,7 @@
 # Gwiezdne-wilki-tlumaczenie
+
+Tłumaczenie gry Gwiezdne Wilki 3
+
 Nie mogłem niczego znaleźć więc zrobiłem sam
 
 po prostu przekopjuj pliki do:

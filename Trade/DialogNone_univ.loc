@@ -1,0 +1,9 @@
+;*****************************
+; DialogNone_univ.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;******************************
+#L_Dnone_univ_msg00=Hej, ty tam! Jak myœlisz gdzie idziesz? Nie widzisz napisu "Stacja Zamkniêta"? Czy nie mo¿esz czytaæ?
+#L_Dnone_univ_ans00=Dobrze, jak chcesz.

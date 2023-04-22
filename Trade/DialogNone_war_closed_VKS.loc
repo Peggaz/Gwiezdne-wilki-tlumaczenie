@@ -1,0 +1,9 @@
+;*****************************
+; DialogNone_war_closed_VKS.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;******************************
+#L_Dnone_war_closed_VKS_msg00=Ta stacja zosta³a zamkniêta z powodu nag³ego wypadku.
+#L_Dnone_war_closed_VKS_ans00=(Dalej)

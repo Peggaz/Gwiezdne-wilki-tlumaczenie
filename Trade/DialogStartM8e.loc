@@ -1,0 +1,21 @@
+;*****************************
+;DialogStartM8e.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_DStartM8e_msg00=InoCo chyba robi wiêcej ni¿ ktokolwiek na tej wojnie.
+#L_DStartM8e_ans00=(Dalej)
+#L_DStartM8e_msg10=Co to znaczy?
+#L_DStartM8e_ans10=To znaczy, ¿e widzieliœmy œlady wojny w wiêkszoœci systemów które minêliœmy. Ale w tym jest cisza i spokój.
+#L_DStartM8e_msg20=Ach, to. Najlepsze bronie i statki, du¿a flota - to niez³y czynnik ograniczaj¹cy. No i sojusz z Nowym Imperium.
+#L_DStartM8e_ans20=(Dalej)
+#L_DStartM8e_msg30=Mówisz powa¿nie?
+#L_DStartM8e_ans30=(Dalej)
+#L_DStartM8e_msg40=Tak, od pocz¹tku wojny. Najpierw InoCo wys³a³o nowe myœliwce do NESF, nastêpnie rozpoczê³o dostarczanie im sprzêtu. Wkrótce bêd¹ walczyæ po tej samej stronie, wystarczy po prostu poczekaæ.
+#L_DStartM8e_ans40=Mo¿emy do³¹czyæ do inoCo równie prêdko, mam wiadomoœc od Dickensa. Udostêpniê to na wspólnym kanale.
+#L_DStartM8e_msg50=Œwietna wiadomoœæ, mo¿emy ruszaæ wczeœniej ni¿ myœla³em. Jeœli nadal jesteœ zainteresowany nasz¹ umow¹, to spotkajmy siê w Gaeon. Aha, i upewnij siê, ¿e jesteœ dobrze wyposa¿ony. Sprawy bêd¹ gor¹ce.
+#L_DStartM8e_ans50=(Dalej)
+#L_DStartM8e_msg60=To wszystko dla naszych wakacji ...
+#L_DStartM8e_ans60=Nie martw siê, bêdziemy mieli kolejne. Teraz mo¿emy udaæ siê do Gaeon.

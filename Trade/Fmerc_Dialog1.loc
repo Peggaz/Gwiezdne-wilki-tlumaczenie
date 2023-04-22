@@ -1,0 +1,15 @@
+;*****************************
+;Fmerc_Dialog1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+#L_DM1_msg00=Hej tam, potencjalny kliencie! Mo¿emy pomóc chroniæ ³adunek przed piratami i takimi tam. Czy s¹ Pañstwo zainteresowani?
+#L_DM1_ans00=Nie.
+#L_DM1_ans01=Moge skorzystaæ z pomocy.
+
+#L_DM1_msg10=W porz¹dku. IdŸ ju¿ sobie.
+#L_DM1_ans10=Do widzenia.
+
+#L_DM1_msg11=Jesteœmy oficjalnie zarejestrowani w Papierach Wartoœciowych Najemników w Cassily. Pracujemy tylko w tym systemie i trzeba zap³aciæ z góry.
+#L_DM1_ans11=Umowa stoi.

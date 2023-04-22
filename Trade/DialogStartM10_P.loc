@@ -1,0 +1,23 @@
+;*****************************
+;DialogStartM10_P.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_DStartM10_P_msg00=Nie lubiê bana³ów, ale œwietne wiadomoœci, dru¿yno!
+#L_DStartM10_P_ans00=(Dalej)
+#L_DStartM10_P_msg10=Czy mamy strzelaæ, coœ wysadziæ, lub przemyciæ kogoœ? Czy ktoœ to chce zrobiæ z nami? 
+#L_DStartM10_P_ans10=Tak, b¹dŸ dalej z³oœliwa. Ternie, pamiêtasz  tego starego wariata, którego spotkaliœmy w Achillesie? Kiedy z³apa³ nasz¹ bazê z psami?
+#L_DStartM10_P_msg20=Tak, wiem. Piraci prawie go dorwali w tamtym dniu.
+#L_DStartM10_P_ans20=Wiêc, on wci¹¿ myœli, ¿e jest nam coœ winny. Oferuje on miejsce w jego wyprawie do jednego z sektorów granicznych. Napisa³, ¿e obliczy³ lokalizacjê portalu prowadz¹cego do systemu Prekursorów.  Ale przede wszystkim, ¿e rozumie, jak znaleŸæ ten portal i jak on dzia³a.
+#L_DStartM10_P_msg30=Tak, i byæ zaanga¿owanym w niecodzienn¹ katastrofê.
+#L_DStartM10_P_ans30=daj spokój, Prekursorzy wymarli tysi¹ce lat temu, oni nie mog¹ Ciê skrzywdziæ. Co do pozosta³oœci ich cywilizacji... Rozumiesz mnie, Ternie?
+#L_DStartM10_P_msg40=Artefakty! W przestrzeni! Kopce, gromady, a nawet góry artefaktów!
+#L_DStartM10_P_ans40=Dobrze!
+#L_DStartM10_P_msg50=Och, teraz rozumiem. Jesteœcie oboje postrzeleni. Cieniasy, myœliwiec Ternie jest mój!
+#L_DStartM10_P_ans50=(Dalej)
+#L_DStartM10_P_msg60=Du¿e grube zero dla ciebie! S³uchaj, Siwow³osy, z wszystkich znalezionych przedmiotów Prekursorów, wszystkie s¹ tandetami, ale nawet one kosztuj¹ miliony. Teraz wyobraŸ sobie nasz gruchot wype³niony po brzegi tym czymœ.
+#L_DStartM10_P_ans60=(Dalej)
+#L_DStartM10_P_msg70=Wiêc na co czekamy? Pomó¿my ludziom pozbyæ siê swoich pieniêdzy! Gdzie, szefie?
+#L_DStartM10_P_ans70=X203. Ale pamiêtaj, nie mów o tym nikomu. Udajemy sprzedawców bi¿uterii. Spytany o artefakty, wygl¹daj bez wyrazu i rób okr¹g³e oczy.

@@ -1,0 +1,43 @@
+;*****************************
+;DialogC4.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+#L_DC4_msg00=Czeœæ, mi³o ciê widzieæ. Ponownie k³opoty??
+#L_DC4_ans00=Tylko kilka trudnoœci z Nowym Imperium.
+#L_DC4_msg10=I dlatego tu przylecia³eœ? Zastrzelê Ciê! Cholera... Dobra, 700,000 tysiêcy kredytów. Ale pamiêtaj: nie by³o Ciê tutaj!
+
+#L_DC4_ans01=Porysowa³em kilka statków MSF.
+#L_DC4_msg11=Trzeba by³o je zniszczyæ. Mam rabat dla znajomych, dla tego czyste ID kosztuje tylko 650,000 kredytów.
+
+#L_DC4_ans02=Triada jest wœciek³a.
+#L_DC4_msg12=To jest w ich stylu. Ale do ich bazy danych ³atwo jest siê w³amaæ. Oczyszczê twój identyfikator za zaledwie 850,000 tysiêcy kredytów.
+
+#L_DC4_ans03=USS siedzi mi na ogonie.
+#L_DC4_msg13=USS zmienia algorytmy ochronne co jakiœ czas. Czyszczenie ID bêdzie kosztowaæ 800,000 tysiêcy kredytów.
+
+#L_DC4_ans04=Okazuje siê, ¿e InoCo nie jest tak tolerancyjne jak mysla³em.
+#L_DC4_msg14=Zastanawiam siê, co zrobi³eœ. Nie odpowiadaj, wolê nie wiedzieæ. 900,000 kredytów, i jesteœ czysty. 
+
+#L_DC4_ans05=Nie, nic mi nie jest. Tylko wpad³em zobaczyæ, co robisz.
+
+#L_DC4_ans10=Nie mam wielkiego wyboru. Zrób to.
+#L_DC4_msg20=Jedn¹ chwilê... Gotowe!
+#L_DC4_ans20=(Dalej)
+
+#L_DC4_ans16=Po tym, co zrobiliœmy dla ciebie?
+#L_DC4_msg26=Czy wiesz, jak kosztowne jest wyposa¿enie w dzisiejszych czasach? Nie czyœæ tego, jeœli nie chcesz!
+#L_DC4_ans26=(Dalej)
+
+#L_DC4_msg27=Em, Houston, mamy problem. Twoi chorzy sympatycy w³aœnie zmienili protoko³y autentycznoœci. Obawiam siê, ¿e w tej chwili nic nie mo¿emy zrobiæ, przepraszam. Musisz wpaœæ puŸniej.
+#L_DC4_ans27=(Dalej)
+
+#L_DC4_ans07=Stra¿ graniczna jest na nas wœciek³a.
+#L_DC4_msg17=Nigdy o nich nie s³ysza³em. Czy to jakaœ sekta? To jest bu³ka z mas³em, 600,000 tysiêcy kredytów, i ponownie jesteœ dla nich nieznajomym.
+
+#L_DC4_ans08=Najemnicy wystawili nas.
+#L_DC4_msg18=Naprawdê? Szczerze w to w¹tpiê. Najbardziej prawdopodobne, ¿e to ty ich wystawi³eœ. Ale to i tak 750,000 kredytów.
+
+#L_DC4_ans09=Star³em siê z handlarzem. To by³ po prostu biznes.
+#L_DC4_msg19=Biznes, co? cieszê siê, ¿e nie mam jednego takiego. Naprawa identyfikatora bêdzie kosztowaæ 950,000 tysiêcy kredytów.

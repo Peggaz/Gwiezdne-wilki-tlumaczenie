@@ -1,0 +1,45 @@
+;*****************************
+;DialogC8.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+#L_DC8_msg00=Jak dowiedzia³eœ siê o naszej stacji? Kto ci powiedzia³? Cholerni plotkarze, Kuzmich dostanie kulkê w ³eb. Tak czasami naprawiam ID statków. Co jeszcze, mam ¿yæ na tym koñcu œwiata? Ale spuœæmy trochê z tonu. Tylko powiedz mi, kto chce ciê zabiæ.
+#L_DC8_ans00=Nowe Imperium.
+#L_DC8_msg10=Ach, oni... poluj¹ na wszystkich. W ka¿dym razie, 700,000 kredytów i jesteœ czysty.
+
+#L_DC8_ans01=MSF.
+#L_DC8_msg11=Jeœli tylko lokalne knioty dowiedz¹ siê co robiê, ob³aduj¹ mnie pieniêdzmi. Ale oni nigdy nie bêd¹ wiedzieæ. Musisz zap³aciæ mi 650,000 kredytów, aby to zrekompensowaæ.
+
+#L_DC8_ans02=Triada.
+#L_DC8_msg12=Oficjalnie s¹ naszym sprzymierzeñcem, ale ja nigdy ich za takich nie uwa¿a³em. oczyszczê twój identyfikator - za zaledwie 850,000 kredytów.
+
+#L_DC8_ans03=USS.
+#L_DC8_msg13=Co? Pragniesz mojej œmierci, ptasi mó¿d¿ku? Jak... Jak kiedykolwiek móg³bym zdradziæ mojego najmodawcê? Nie zrobiê tego, za mniej ni¿ 800,000 kredytów.
+
+#L_DC8_ans04=InoCo.
+#L_DC8_msg14=Aw, chcê byœ nigdy tutaj nie przyszed³. Jest mi dobrze, kiedy ¿yjê. Ale 900,000 kredytów w zamian za moje k³opoty, trochê uspokoi moje nerwy.
+
+#L_DC8_ans05=Nikt nie jest w porz¹dku. Ale plotka g³osi ¿e-
+#L_DC8_msg15=To k³amstwo! Nie przeszkadzaj mi, to nie jest centrum turystyczne.
+#L_DC8_ans15=(Dalej)
+
+#L_DC8_ans10=Masz jakieœ pieni¹dze! W porz¹dku, to jest umowa.
+#L_DC8_msg20=Ka¿dy chce codziennie coœ zjeœæ, wiesz. Pracujemy tutaj za grosze. Jesteœ czysty i zdolny, aby iœæ dalej. Po prostu nie mów o mnie wszystkim!
+#L_DC8_ans20=(Dalej)
+
+#L_DC8_ans16=Nie powinieneœ pobieraæ tak du¿ej op³aty, jeœli trzeba dzia³aæ! Nie zap³acê!
+#L_DC8_msg26=Wiêc idŸ do diab³a.  Jesteœ w³óczêg¹ i umrzesz jako jeden z nich - z takim nastawieniem.
+#L_DC8_ans26=(Dalej)
+
+#L_DC8_msg27=Och, do cholery! Niestety, przyjaciele, nie mogê tego zrobiæ. Zaktualizowali protoko³y autentycznoœci. Innym razem.
+#L_DC8_ans27=(Dalej)
+
+#L_DC8_ans07=Stra¿ graniczna.
+#L_DC8_msg17=S³ysza³em o nich. Miejscowi s¹ ich sprzymierzeñcami. Co sprawia, ¿e s¹ waszymi wrogami, prawda? Có¿, naprawiê identyfikator za nie mniej ni¿ 600,000 tysiêcy kredytów.
+
+#L_DC8_ans08=Najemnicy.
+#L_DC8_msg18=Gdzie ten œwiat zmierza? Kiedy by³em m³ody, najemnicy strzelali do ludzi. NajwyraŸniej wszystko siê zmieni³o. Pomogê Ci za 750,000 kredytów, i nie b¹dŸ chciwy, nie bêdziesz potrzebowa³ pieniêdzy z takim nastwieniem. nie mo¿esz ich przecie¿ wzi¹œæ do innego œwiata.
+
+#L_DC8_ans09=Handlarze.
+#L_DC8_msg19=Czekaj! Nie chcê tego s³uchaæ. Kuzmich nie jest zaanga¿owany w piractwo. Wystarczy zap³aciæ mi 950,000 tysiêcy kredytów i mo¿esz odejœæ z czystym ID. Nigdy Ciê tutaj nie by³o!

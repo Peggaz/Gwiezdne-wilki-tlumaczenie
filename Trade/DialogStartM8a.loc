@@ -1,0 +1,19 @@
+;*****************************
+;DialogStartM8a.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_DStartM8a_msg00=Towarzyszu, poniewa¿ teraz pracujemy dla stró¿ów prawa, jak mam siê z tob¹ skontaktowaæ? Przez admira³a lub kapitana - w tej chwili?
+#L_DStartM8a_ans00=Taa, bardzo œmieszne.
+#L_DStartM8a_msg10=Masz racjê, to jest zbyt powa¿ne. Siwow³osy, jaki chcesz stopieñ?
+#L_DStartM8a_ans10=(Dalej)
+#L_DStartM8a_msg20=Sier¿ant, i nie kto inny.
+#L_DStartM8a_ans20=Po pierwsze, jeszcze siê nie zgodzi³em. W³aœnie powiedzia³em ¯mii, ¿e muszê rozwa¿yæ jej ofertê. Po drugie, informacje które oferuje, s¹ dla mnie bardzo istotne. Pomog³em ka¿demu z was w odpowiednim czasie, wiêc mam nadziejê ¿e siê odwdziêczysz.
+#L_DStartM8a_msg30=Towarzyszu, jestem w trakcie zamartwiania siê, czy oni nie chc¹ nas wrobiæ.
+#L_DStartM8a_ans30=(dalej)
+#L_DStartM8a_msg40=Szefie, Ochrona MSF ma skuteczn¹ procedurê rekrutacji: Gdyby zaczêli z tob¹ pogrywaæ w kocie ³apy, musia³ byœ to robiæ ju¿ do œmierci. A jeœli odmówisz, to po prostu umrzesz szybciej.
+#L_DStartM8a_ans40=Zobaczmy wiêc, o co chodzi, i to szybko. Dosta³em wiadomoœæ od ¯mii.
+#L_DStartM8a_msg50=A wiêc co ona chce? Bezinteresownie poœwiêciæ siê dla cesarskiej idei?
+#L_DStartM8a_ans50=Teraz chce, byœmy zobaczyli siê z ni¹ w Endoria 1, wiêc ruszajmy.

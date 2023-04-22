@@ -1,0 +1,13 @@
+;*****************************
+;DialogTrader2.xml Ñòàíöèÿ ïî ñìåíå ğåïóòàöèè â Äåáğèñ 1
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+#L_DT2n_msg00=Chwa³a wolnych ptaków!
+#L_DT2n_ans00=Chwa³a wolnych kupców.
+#L_DT2n_msg10=Nie ka¿dy kupiec jest dziœ wolny. "Proszê" nie pomo¿e pozbyæ siê korporacyjnych. Istniej¹ pewne sposoby, aby na to poradziæ, jednak... Mogê to powiedzieæ za 5000 kredytów.
+#L_DT2n_ans10=Tak, wiem, co masz na myœli, wiêc to bêdzie przydatne. Przelewam pieni¹dze.
+#L_DT2n_msg20="Nie ma wystarczaj¹co kredytów"? Nie musisz siê martwiæ o korporacyjnych ludzi. Nie maj¹ z czego ciê okraœæ. Powodzenia!
+#L_DT2n_ans20=(Next)
+

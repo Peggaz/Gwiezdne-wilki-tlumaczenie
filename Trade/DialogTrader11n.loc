@@ -1,0 +1,12 @@
+;*****************************
+;DialogTrader11n.xml Íû÷êà ñ íèøòÿêàìè â Ñîëíöåâêà
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+#L_DT11n_msg00=Mi³o jest spotkaæ siê z przyjació³mi w otwartej przestrzeni!
+#L_DT11n_ans00=Ty stawiasz.
+#L_DT11n_msg10=I jako przyjazny gest mogê powiedzieæ o ciekawej kryjówce z najnowszym sprzêtem. To bêdzie 5000 kredytów. Umowa?
+#L_DT11n_ans10=Umowa!
+#L_DT11n_msg20=O,widzê ¿e przebywasz w nisko po³o¿onej strefie. Nie, kumple, lepiej pozbierajcie tutaj z³om i zabierzcie go do jakiegoœ dealera, hah! Do widzenia, przegrañcy!
+#L_DT11n_ans20=Draniu.

@@ -1,0 +1,13 @@
+;*****************************
+;DialogTrader7.xml Íû÷êà ñ íèøòÿêàìè â Òàððîò
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+#L_DT7n_msg00=Czeœæ, ch³opaki!
+#L_DT7n_ans00=Cieszê siê, ¿e ciê widzê. Jakieœ wieœci?
+#L_DT7n_msg10=Same stare... Patrole MSF s¹ gorsze od piratów - zawsze staraj¹ siê wetkn¹æ swoje d³ugie no sy do ³adowni. Nie ma ucieczki! Zgadujê, ¿e zapomnê o tych rarytasach - za 5000 kredytów. To szkoda, ale...
+#L_DT7n_ans10=Zapomnisz, mówisz? Tylko za 5000 kredytów? Có¿, to nie jest du¿o, powiedz mi, co wiesz...
+#L_DT7n_msg20="Nie du¿o", nie oznacza, ¿e dajê je za darmo! Ja potrzebujê pieniêdzy. Lepiej bêdzie jak odejdê ryzykuj¹c g³ow¹. Narazie!
+#L_DT7n_ans20=(Dalej)
+

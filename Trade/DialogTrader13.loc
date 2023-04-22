@@ -1,0 +1,16 @@
+;*****************************
+;DialogTrader13.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+#L_DT13_msg00=Wolni handlarze, zapraszam!
+#L_DT13_ans00=Hej tam! Jakieœ wieœci?
+#L_DT13_msg10=Tylko najgorêtsze! Widzisz, wiadomoœci s¹ rzeczywiœcie zbyt gor¹ce, aby rozdawaæ je tak po prostu. Co, jeœli kupisz je za 5000 kredytów?
+#L_DT13_ans10=Gor¹ce? Có¿, wysy³am pieni¹dze.
+#L_DT13_msg20=Tak, œwietnie. Najœwie¿sze wiadomoœci: Asteroida niemal w ca³oœci z platyny zosta³a znaleziona w Nowym Donbasie! Jeœli Imperium rozpocznie jej wydobycie, ceny platyny na rynku krajowym spadn¹ piêciokrotnie! Imperium nie jest g³upie, aby przegapiæ tak¹ okazjê.
+#L_DT13_ans20=Myœlê, ¿e masz racjê... Trzeba kupiæ kilka, kiedy wreszcie siê do niej dostan¹.
+
+#L_DT13_ans11=Zbyt gor¹ce dla mnie. Poczekam, a¿ zrobi siê ch³odniej.
+#L_DT13_msg21=To twoja decyzja. Ale to nie bêdzie ju¿ tak smaczne.
+#L_DT13_ans21=(Dalej)

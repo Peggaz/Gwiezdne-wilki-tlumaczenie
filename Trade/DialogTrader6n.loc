@@ -1,0 +1,13 @@
+;*****************************
+;DialogTrader6.xml Íû÷êà ñ íèøòÿêàìè â Õàðîí
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+#L_DT6n_msg00=Witam, przyjaciele!
+#L_DT6n_ans00=Ptaki z takimi samymi piórami trzymaj¹ siê razem. Jakieœ dobre wieœci?
+#L_DT6n_msg10=Wystarczy forsa i monotonia... Ale znam sposób, jak poprawiæ samopoczucie. Mogê siê tym nawet podzieliæ. Powiem, za 5000 kredytów.
+#L_DT6n_ans10=Rany, co to mo¿e byæ?
+#L_DT6n_msg20=Hej, nie powiedzia³em nic na temat rabatów! Wpadnij, kiedy bêdziesz mieæ wystarczaj¹co du¿o.
+#L_DT6n_ans20=(Dalej)
+

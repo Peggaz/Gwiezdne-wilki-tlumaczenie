@@ -1,0 +1,16 @@
+;*****************************
+;DialogTrader14.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+#L_DT14_msg00=Pozdrowienia, przyjaciele!
+#L_DT14_ans00=Witam.
+#L_DT14_msg10=Chêtny us³yszeæ kilka interesuj¹cych faktów? Zaledwie 5000 kredytów i twoje ¿ycie zmieni siê radykalnie!
+#L_DT14_ans10=Radykalnie mówisz? Zobaczmy. Pieni¹dze zosta³y przelane.
+#L_DT14_msg20=Czy wiesz, ¿e khaakowie zaatakowali sektor Linii Prezydenta? Wszystkie stacje zosta³y zdemontowane, transportowce zosta³y zniszczone. Z tymi wszystkimi szcz¹tkami, to miejsce wygl¹da teraz jak cmentarz!
+#L_DT14_ans20=Co to s¹ za bzdury? Linia Prezydenta ?! Khaakowie ?! Nie ma takiego sektora na ¿adnej mapie! Co co ja Ci zap³aci³em?! Teraz bêdê musia³ jeszcze raz zarobiæ. Jestem zrujnowany!
+
+#L_DT14_ans11=5000 kredytów za kilka faktów? To za du¿o!
+#L_DT14_msg21=Ta informacja kosztuje w³aœnie tak du¿o, nie mniej ni¿ zaufanie. Znajdê kogoœ bardziej ufnego. Do widzenia!
+#L_DT14_ans21=(Dalej)

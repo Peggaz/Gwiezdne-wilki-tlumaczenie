@@ -1,0 +1,12 @@
+;*****************************
+;DialogTrader14.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+#L_DT14n_msg00=Pozdrowienia, przyjaciele!
+#L_DT14n_ans00=Witam.
+#L_DT14n_msg10=Chêtny us³yszeæ kilka interesuj¹cych faktów? Zaledwie 5000 kredytów i twoje ¿ycie zmieni siê radykalnie!
+#L_DT14n_ans10=Radykalnie mówisz? Zobaczmy. Pieni¹dze zosta³y przelane.
+#L_DT14n_msg20=Czy wiesz, ¿e masz ma³o gotówki? Nie masz nawet 5000 kredytów!
+#L_DT14n_ans20=(Dalej)

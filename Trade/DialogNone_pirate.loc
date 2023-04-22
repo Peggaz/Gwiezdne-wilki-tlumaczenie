@@ -1,0 +1,9 @@
+;*****************************
+; DialogNone_pirate.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;******************************
+#L_Dnone_pirate_msg00=Kim jesteœ? Odwal siê, albo wezmê karabin plazmowy!
+#L_Dnone_pirate_ans00=uspokuj siê, odchodzê.

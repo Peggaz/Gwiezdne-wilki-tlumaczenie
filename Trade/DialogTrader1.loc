@@ -1,0 +1,16 @@
+;*****************************
+;DialogTrader1.xml Ñòàíöèÿ ïî ñìåíå ğåïóòàöèè â İëèî
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+#L_DT1_msg00=Hej, ¿o³nierze!
+#L_DT1_ans00=Czeœæ.
+#L_DT1_msg10=S³uchaj, mam kilka cennych informacji, specjalnie dla Ciebie! Zaledwie 5000 kredytów - to prawie za darmo!
+#L_DT1_ans10=Tak, wrêcz tanie ... Mów.
+#L_DT1_msg20=Jesli jestes mocno obci¹¿ony, odwiedŸ Elio. Na jednej ze stacji, mo¿na zmieniæ relacje ze swoimi wrogami za okreœlon¹ cenê.
+#L_DT1_ans20=Dziêki za informacje. Do zobaczenia!
+
+#L_DT1_ans11=Prawie za darmo powiadasz?! Ta suma pieniêdzy mo¿e mi kupiæ now¹ broñ!
+#L_DT1_msg21=Ty jesteœ szefem. Do zobaczenia!
+#L_DT1_ans21=(Dalej)

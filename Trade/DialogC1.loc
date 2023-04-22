@@ -1,0 +1,45 @@
+;*****************************
+;DialogC1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+#L_DC1_msg00=Witam, przyjaciele! |Widzê, ¿e macie problemy. Otrzymaliœmy od ciebie rejestr. Ale nie martw siê, naprawiliœmy twój identyfikator ID tak dobrze, ¿e ¿aden nieprawy przestêpca nie odbierze wam go. Górnicy s¹ dumni, ale pamiêtaj¹ kto im pomóg³. | A wiêc z kim masz problemy?
+#L_DC1_ans00=Jest miêcho miêdzy nami i Nowym Imperium.
+#L_DC1_msg10=Och, to jest ³atwe do naprawienia. Gotowe, powodzenia!
+#L_DC1_ans10=(Dalej)
+
+#L_DC1_ans01=MSF mnie wrobi³o!
+#L_DC1_msg11=To w ich stylu. Chwileczkê... Gotowe. IdŸ i nie martw siê.
+#L_DC1_ans11=(Dalej)
+
+#L_DC1_ans02=Nadajemy na ró¿nych falach z Triad¹.
+#L_DC1_msg12=Podobnie jak wszyscy inni przyzwoici ludzie, uwierz mi. Dobra, zrobione. Mo¿esz iœæ w swoj¹ drogê.
+#L_DC1_ans12=(Dalej)
+
+#L_DC1_ans03=Chyba obrazi³em goœci z USS. Mo¿esz sobie wyobraziæ?
+#L_DC1_msg13=USS i Triada s¹ takie same. Nie jestem zaskoczony, ¿e czekali na okazjê, aby ciê sprowokowaæ.
+#L_DC1_ans13=(Dalej)
+
+#L_DC1_ans04=Mamy sprzeczkê z InoCo.
+#L_DC1_msg14=Whoa, to wymaga trochê talentu.
+#L_DC1_ans14=(Dalej)
+
+#L_DC1_ans05=Nie, nic mi nie jest. Tylko wpad³em zobaczyæ co robisz.
+#L_DC1_msg15=Och, dziêkujê. Mi³o wiedzieæ, ¿e ktoœ o mnie pamiêta. Wszystko w porz¹dku! A teraz przepraszam, mam pilny telefon na drugiej linii. Powodzenia!
+#L_DC1_ans15=(Dalej)
+
+#L_DC1_msg16=Nienawidzê Ci tego mówiæ, ale nie mo¿emy w tej chwili naprawiæ twojego identyfikatora ID, ze wzglêdu na aktualizacjê autentycznoœci protoko³ów. Ale pamiêtaj, aby odwiedziæ nas póŸniej, protoko³y te nie s¹ wieczne!
+#L_DC1_ans16=(Dalej)
+
+#L_DC1_ans07=W Sektorze Granicznym nie ma k³opotów. Mieszkañcy s¹ tu, po prostu szaleni.
+#L_DC1_msg17=Sektor Graniczny? Nigdy o nim nie s³ysza³em. ale mimo to naprawiê to.
+#L_DC1_ans17=(Dalej)
+
+#L_DC1_ans08=Mam sprzeczkê z najemnikami.
+#L_DC1_msg18=Mo¿na to naprawiæ, ale pos³uchaj mojej bezcennej porady: dobre stosunki z Najemnikami sprawiaj¹, ¿e ¿yjesz d³u¿ej.
+#L_DC1_ans18=(Dalej)
+
+#L_DC1_ans09=Niektórzy przedsiêbiorcy skar¿yli siê na mnie do FTU. Co za k³amcy!
+#L_DC1_msg19=Naprawimy twoje ID, ale nie powinieneœ prowokowaæ swoich kolegów.
+#L_DC1_ans19=(Dalej)

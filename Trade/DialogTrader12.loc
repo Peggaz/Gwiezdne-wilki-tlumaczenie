@@ -1,0 +1,16 @@
+;*****************************
+;DialogTrader12.xml Íû÷êà ñ íèøòÿêàìè â Ôðîíí
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+#L_DT12_msg00=Witajcie, piloci!
+#L_DT12_ans00=Tak samo Ty! Wszelkie wiadomoœci o œwiecie zewnêtrznym?
+#L_DT12_msg10=Tylko plotki, plotki i tym podobne. Mam do przesiewania ziarna przydatnych informacji, takich jak z³oty piasek. Na przyk³ad, mam tak¹ dobr¹ plotkê o niektórych bardzo drogich rzeczach ukrytych w jednym z systemów. Za 5000 kredytów bêdê gotów podzieliæ siê j¹ z dobrymi ludŸmi, takimi jak Ty.
+#L_DT12_ans10=Jesteœmy nie tylko dobrzy, jesteœmy przyk³adami dobroci. Oto twoje pieni¹dze.
+#L_DT12_msg20=Dziêkujê bardzo. Piloci Triady milcz¹ o konwoju InoCo przewo¿¹cym jakiœ tajny ³adunek, który sami zniszczyli. Ale poniewa¿ alkochol mo¿e zmusiæ kota do gadania, dowiedzia³em siê, ¿e to sta³o siê w systemie Fronn. Nie mogê siê tam sam dostaæ, dla tego sprzedajê ten sekret. InoCo przewozi swoje ³adunki w specjalnych kontenerach, aby unikn¹æ podejrzeñ. Jesli uda Ci siê zniszczyæ wierzchni¹ pow³okê, dostaniesz te elementy. Ale nie oœmielaj siê rozprzestrzeniaæ t¹ informacjê, bo Triada bêdzie chcia³a Ciê zabiæ. 
+#L_DT12_ans20=Wszystko w porz¹dku, bêdziemy trzymaæ nasze usta zamkniête.
+
+#L_DT12_ans11=Nie, myœlê, ¿e spróbujê znaleŸæ sobie sam ten tajemniczy tajny ³adunek.
+#L_DT12_msg21=W tym przypadku mogê tylko ¿yczyæ powodzenia.
+#L_DT12_ans21=(Dalej)

@@ -1,0 +1,16 @@
+;*****************************
+;DialogTrader3.xml Ñòàíöèÿ ïî ñìåíå ðåïóòàöèè â ÕÒ-20
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+#L_DT3_msg00=Pokój niech bêdzie z wami, podró¿nicy!
+#L_DT3_ans00=Tak samo u ciebie ... Dlaczego mówisz w ten sposób?
+#L_DT3_msg10=Moje ¿ycie prowadzi mnie do wszelkiego rodzaju dziwnych miejsc. Czasami jesteœ wyrzucony za to, ¿e by³eœ, gdzieœ gdzie nie powinieneœ byæ. Ale jest sposób, aby odzyskaæ przychylnoœæ wysokich i potê¿nych. Ods³oniê tê tajemnicê dla Ciebie za 5000 kredytów. Umowa stoi?
+#L_DT3_ans10=Masz racjê, niektóre korporacje s¹ zbyt wysokie i potê¿ne w dzisiejszych dniach. Uzupe³ni³em twój skarbiec. Ujawnij swój sekret!
+#L_DT3_msg20=Tak, widzê siebie coraz bogatszego... Jest taka stacja w XT-20 prowadzona przez m¹drych ludzi. Za niewielk¹ op³at¹ naprawi¹ zapisy o was i waszych statkach, co oczyœci Ciê w oczach patroli!
+#L_DT3_ans20=Dziêki za informacje. Powodzenia na kosmicznych szosach!
+
+#L_DT3_ans11=S³uchaj, po prostu na swój sposób, proszê. Nie op³acam  tego nonsensu.
+#L_DT3_msg21=Có¿, to zale¿y od ciebie. Ale wiele tracisz ukrywaj¹c siê przed œwiat³em wiedzy, za tarcz¹ odmowy!
+#L_DT3_ans21=(Dalej)

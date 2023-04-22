@@ -1,0 +1,24 @@
+;*****************************
+;DialogStartM9e.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_DStartM9e_msg00=Triada to dranie.
+#L_DStartM9e_ans00=(Dalej)
+#L_DStartM9e_msg10=Mój, co za sprytna obserwacja. Czy po prostu zda³eœ sobie sprawê?
+#L_DStartM9e_ans10=OszczêdŸ mi swoich ¿artów, dobrze. Gdyby mieli swój ³adunek, dlaczego musieli oskubaæ mnie w s¹dzie?
+#L_DStartM9e_msg20=Szefie, Twoje pojêcie o Triadzie jest z³e. Nazywani s¹ korporacj¹, ale w rzeczywistoœci s¹ one tak dobrzy, jak piraci. Triada jest rz¹dzona przez bandê klanów. Starsi z trzech najsilniejszych klanów s¹ cz³onkami triumwiratu, który okreœla ogóln¹ politykê. Ale klany zawsze s¹ ze sob¹ w stanie wojny.
+#L_DStartM9e_ans20=(Dalej)
+#L_DStartM9e_msg30=Szanowni panowie, tak jak powiedzia³em.
+#L_DStartM9e_ans30=(Dalej)
+#L_DStartM9e_msg40=Jak to, s¹ przyzwoici ludzie wœród nich, ale oni nie maj¹ ¿adnej powa¿nej mocy i musz¹ trzymaæ siê przepisów.
+#L_DStartM9e_ans40=(Dalej)
+#L_DStartM9e_msg50=Przywoity najemny przestêpca Triady? To solidny wniosek dla "¯artu Stulecia"
+#L_DStartM9e_ans50=Szczerze mówi¹c, nie obchodzi mnie, czy s¹ porz¹dni ludzie, czy nie, i ile maj¹ mocy. Jestem wœciek³y! Myœlê, ¿e sama Triada zabi³a moich pilotów aby wymazaæ œlady. Dla tego mam zamiar za wszelk¹ cenê, z powrotem odzyskaæ mój towar. Mogê go póŸniej odsprzedaæ do InoCo. Ta firma tak¿e jest du¿o winna. 
+#L_DStartM9e_msg60=To jest to, co nazywam w³aœciwym podejœciem! Masz mój szacunek, partnerze! Jesli ten klaun Dickens nie k³ama³ o swojej wartoœci, wyciœniemy z InoCo tyle kredytów, ¿e ka¿dy z nas bêdzie mia³ system gwiezdny!
+#L_DStartM9e_ans60=(Dalej)
+#L_DStartM9e_msg70=Czy nie zapomnia³eœ o czymœ? Musimy jeszcze znaleŸæ ten ³adunek, podczas gdy nasz statek-baza traci do wiadra œrub w zakresie przyspieszenia i zwrotnoœci. Zna³em faceta, który interesowa³ siê silnikami du¿ych okrêtów. Jesli ona nadal mieszka w Hapha, powinniœmy z³o¿yæ mu wizytê, dopóki mamy dostêp do systemów InoCo. 
+#L_DStartM9e_ans70=Innym razem, Siwow³osy, innym razem. W³aœnie dosta³em wiadomoœæ od Alexa, ¿e ma jakieœ informacje na temat naszych szarych przyjació³. Warto wiêc udaæ siê do Aurora.
+#L_DStartM9e_ans71=Masz racjê. Ruszajmy w kierunku Hapha.

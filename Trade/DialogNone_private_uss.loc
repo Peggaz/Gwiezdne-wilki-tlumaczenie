@@ -1,0 +1,9 @@
+;*****************************
+; DialogNone_private_uss.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;******************************
+#L_Dnone_private_uss_msg00=Obszar ten nale¿y do Korporacji USS. Dokowanie jest zabronione dla obcych ludzi. Proszê opuœciæ strefê dokuj¹c¹, i zrobiæ miejce dla naszych transportowców.
+#L_Dnone_private_uss_ans00=(Dalej)

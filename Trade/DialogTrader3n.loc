@@ -1,0 +1,13 @@
+;*****************************
+;DialogTrader3.xml Ñòàíöèÿ ïî ñìåíå ðåïóòàöèè â ÕÒ-20
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+#L_DT3n_msg00=Pokój niech bêdzie z wami, podró¿nicy!
+#L_DT3n_ans00=Tak samo u ciebie ... Dlaczego mówisz w ten sposób?
+#L_DT3n_msg10=Moje ¿ycie prowadzi mnie do wszelkiego rodzaju dziwnych miejsc. Czasami jesteœ wyrzucony za to, ¿e by³eœ, gdzieœ gdzie nie powinieneœ byæ. Ale jest sposób, aby odzyskaæ przychylnoœæ wysokich i potê¿nych. Ods³oniê tê tajemnicê dla Ciebie za 5000 kredytów. Umowa stoi?
+#L_DT3n_ans10=Masz racjê, niektóre korporacje s¹ zbyt wysokie i potê¿ne w dzisiejszych dniach. Uzupe³ni³em twój skarbiec. Ujawnij swój sekret!
+#L_DT3n_msg20=Skarbiec jest pusty, tak jak by³. Nie masz zbyt du¿o pieniêdzy w portfelu. Có¿, to jest wasz los, podró¿nicy!
+#L_DT3n_ans20=(Dalej)
+

@@ -1,0 +1,9 @@
+;*****************************
+; DialogNone_private.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;******************************
+#L_Dnone_private_msg00=To jest prywatna stacja. Dokowanie zabronione.
+#L_Dnone_private_ans00=(Dalej)

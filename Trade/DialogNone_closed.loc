@@ -1,0 +1,11 @@
+;*****************************
+; DialogNone_univ.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;******************************
+#L_Dnone_closed_msg00=Centrum handlowe jest zamkniête z powodu blokady. Dokowanie zabronione.
+#L_Dnone_closed_ans00=Kiedy znowu bêdzie otwarte?
+#L_Dnone_closed_msg10=Gdy blokada zostanie zniesiona. Zwróæ siê do wojska.
+#L_Dnone_closed_ans10=Ok, w porz¹dku.

@@ -1,0 +1,9 @@
+;*****************************
+; DialogNone_live.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;******************************
+#L_Dnone_live_msg00=Ocupando! Brak wolnych pokoi!
+#L_Dnone_live_ans00=Jezu, to w zupe³noœci mi odpowiada.

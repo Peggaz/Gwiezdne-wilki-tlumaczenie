@@ -1,0 +1,16 @@
+;*****************************
+;DialogTrader4.xml Ñòàíöèÿ ïî ñìåíå ğåïóòàöèè â Ïğèåí
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+#L_DT4_msg00=Hej, ludzie!
+#L_DT4_ans00=Hej tam! Jakieœ wieœci?
+#L_DT4_msg10=Trzeba naprawiæ swoj¹ reputacjê? Przelej 5000 kredytów, a powiem Ci, co trzeba zrobiæ! Satysfakcja gwarantowana.
+#L_DT4_ans10=Gwarancje s¹ dobre. Oto twoje pieni¹dze.
+#L_DT4_msg20=Doskonale! Kiedy czujesz, ¿e ju¿ nie jesteœ lubiany, odwiedŸ system Prien. Jest tam stacja, gdzie mo¿na przywróciæ neutralnoœæ za op³at¹.
+#L_DT4_ans20=Dobrze, twoje informacje bêd¹ przydatne. Dziêki!
+
+#L_DT4_ans11=W¹tpiê w twoje gwarancje... To jest w³aœnie obietnica s³ynnej wartoœci.
+#L_DT4_msg21=Dlaczego tak niegrzecznie! Moje gwarancje s¹ najsolidniejsze... Jednak decyzja nale¿y do ciebie.
+#L_DT4_ans21=(Dalej)

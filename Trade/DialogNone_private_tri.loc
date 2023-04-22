@@ -1,0 +1,9 @@
+;*****************************
+; DialogNone_private_tri.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;******************************
+#L_Dnone_private_tri_msg00=Obszar ten nale¿y do Korporacji Triady. Twój statek nie mo¿e tutaj zadokowaæ.
+#L_Dnone_private_tri_ans00=(Dalej)

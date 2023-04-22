@@ -1,0 +1,13 @@
+;*****************************
+;DialogTrader9.xml Íû÷êà ñ íèøòÿêàìè â Âóàäèëü
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+#L_DT9n_msg00=Witajcie, przyjaciele!
+#L_DT9n_ans00=Pozdrowienia! Dlaczego taki szczêœliwy?
+#L_DT9n_msg10=Dlatego, ¿e mam informacje! Prawdziwa okazja! Zaledwie 5000 kredytów i jest twoja!
+#L_DT9n_ans10=Prawdziwa okazja mówisz?! To bardzo ciekawe! Przesy³am pieniêdze.
+#L_DT9n_msg20=Nie mogê otrzymaæ twojej zap³aty. Prawdopodobnie system bankowy znowu Ÿle funkcjonuje. W porz¹dku, innym razem.
+#L_DT9n_ans20=(Dalej)
+

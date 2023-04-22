@@ -1,0 +1,11 @@
+;*****************************
+;Fmerc_Dialog2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+#L_DM2_msg00=Hej tam, potencjalny kliencie! Mo¿emy pomóc chroniæ ³adunek ... Dobrze, dobrze, dobrze, co my tu mamy?
+#L_DM2_ans00=Co masz na myœli?
+
+#L_DM2_msg10=Ju¿ wynaj¹³eœ wyrachowany zespó³. Spotkaliœmy ich, okazuje siê, ¿e to tylko k³opoty. Wiêc nie staraj siê nas przekonywaæ, odchodzimy.
+#L_DM2_ans10=W po¿¹dku.

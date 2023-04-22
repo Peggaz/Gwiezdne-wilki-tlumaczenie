@@ -1,0 +1,13 @@
+;*****************************
+;DialogTrader13.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+#L_DT13n_msg00=Wolni handlarze, zapraszam!
+#L_DT13n_ans00=Hej tam! Jakieœ wieœci?
+#L_DT13n_msg10=Tylko najgorêtsze! Widzisz, wiadomoœci s¹ rzeczywiœcie zbyt gor¹ce, aby rozdawaæ je tak po prostu. Co, jeœli kupisz je za 5000 kredytów?
+#L_DT13n_ans10=Gor¹ce? Có¿, wysy³am pieni¹dze.
+#L_DT13n_msg20=Hmm... To nie jest ¿adna umowa. Nie podzielê siê nimi za mniej ni¿ parê tysiêcy. Do³¹cz dwa kolejne zera, a potem pogadamy.
+#L_DT13n_ans20=(Dalej)
+

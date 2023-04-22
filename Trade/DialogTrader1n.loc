@@ -1,0 +1,12 @@
+;*****************************
+;DialogTrader1n.xml Станция по смене репутации в Элио
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+#L_DT1n_msg00=Hej, їoіnierze!
+#L_DT1n_ans00=Czeњж.
+#L_DT1n_msg10=Sіuchaj, mam kilka cennych informacji, specjalnie dla Ciebie! Zaledwie 5000 kredytуw - to prawie za darmo!
+#L_DT1n_ans10=Tak, wrкcz tanie ... Mуw.
+#L_DT1n_msg20=Tanie czy nie, nie masz pieniкdzy. Wpadnij kiedy je zdobкdziesz.
+#L_DT1n_ans20=(Dalej)

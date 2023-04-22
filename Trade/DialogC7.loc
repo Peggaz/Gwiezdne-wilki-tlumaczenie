@@ -1,0 +1,45 @@
+;*****************************
+;DialogC7.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+#L_DC7_msg00=Nie jesteœ mile widziany w Najlepszej Anarchicznej i Nihilistycznej Siedzibie Gangu! Nigdy nie pozwolilibyœmy Ci dokowaæ, gdyby nie potrzebne nam pieni¹dze, dziêki którym mo¿emy kupiæ przeklête, prawnie strze¿one oprogramowanie! Nie mo¿emy ustanowiæ anarchii i siaæ spustoszenia bez niego! Przeciwko komu walczysz?
+#L_DC7_ans00=NESF.
+#L_DC7_msg10=Przeklêcie NESF bêdzie kosztowaæ 700,000 tysiêcy kredytów! Zasady chaosu!
+
+#L_DC7_ans01=MSF.
+#L_DC7_msg11=Ah, te wprowadzaj¹ce w ¿ycie prawo psy! Wylejemy na nich nasz¹ nienawiœæ za 700,000 kredytów! Zasady chaosu!
+
+#L_DC7_ans02=Triada.
+#L_DC7_msg12=Witamy was ideologiczni bracia i siostry! Ale nie mo¿emy zrobiæ tego za mniej ni¿ 850,000 kredytów. "Megasoft" niedawno podnios³o ceny za licencje "Pasjans" i "Saper". Zasady chaosu!
+
+#L_DC7_ans03=USS.
+#L_DC7_msg13=Przeklinam ka¿dego pracownika USS! Byli na tyle bezczelni, aby wyrzuciæ naszego lidera wszech czasów - Mnie! Powiedzieli ¿e nic nie robiê! Bardzo chcia³bym zrobiæ na z³oœæ USS w zamian - za zaledwie 800,000 tysiêcy kredytów. Zasady chaosu!
+
+#L_DC7_ans04=InoCo.
+#L_DC7_msg14=Er... Widzisz... Oni s¹ straszni. ale oczyszczê twój identyfikator za 900,000 kredytów. Zasady chaosu!
+
+#L_DC7_ans05=Nie jesteœmy wojownikami, ale plotka g³osi, ¿e masz biegaj¹cy cyrk. Wiêc, przyszed³em go zobaczyæ. Poza tym jesteœmy w porz¹dku i w porz¹dku.
+#L_DC7_msg15=Nie wa¿ siê wypowiadac tego s³owa tutaj, w krainie anarchii i chaosu! Spadaj, ty przeklêty zwolenniku porz¹dku, skorumpowany podtrzymywaczu harmonii! Uratujemy wszechœwiat od osobników twojego pokroju! Zasady chaosu!
+#L_DC7_ans15=(Dalej)
+
+#L_DC7_ans10=Masz niektóre op³aty. Nawet dla adeptów anarchii. Cokolwiek, to jest umowa.
+#L_DC7_msg20=Za jak¹kolwiek anarchiê trzeba p³aciæ, nie wspominaj¹c ju¿ o pracy roznoszenia chaosu. gotowe, teraz mo¿esz przepadn¹æ.
+#L_DC7_ans20=(Dalej)
+
+#L_DC7_ans16=Jako anarchista jestem zmuszony pomóc bratu w potrzebie! Lub nigdy nie nadejdzie chaos!
+#L_DC7_msg26=IdŸ to powiedz jakiemuœ kmiotowi! Przepadnij, i nie odrywaj mnie od mia¿d¿enia filarów wszechœwiata!
+#L_DC7_ans26=(Dalej)
+
+#L_DC7_msg27=Cholera ... Widzisz ... Nasze chaotyczne manipulacje z twoim ID okaza³y siê zbyt chaotyczne, nawet dla nas. Innymi s³owy, nie mogê naprawiæ twojego identyfikatora. Wpadnij póŸniej, lub czekaj na globaln¹ anarchiê!
+#L_DC7_ans27=(Dalej)
+
+#L_DC7_ans07=Wpakowa³em siê w k³opoty w Sektorze Granicznym.
+#L_DC7_msg17=Inny sektor? Przez Chaos, BAANG bêdzie musia³ pracowaæ teraz mocniej. Co do ceny, to jest 600,000 kredytów. Zasady chaosu!
+
+#L_DC7_ans08=Walczymy przeciwko najemnikom. Ideologicznie.
+#L_DC7_msg18=Walczenie przeciwko najemnikom jest nie o ideologii, to jest o g³upocie. I to kosztuje 750,000 kredytów. Zasady chaosu!
+
+#L_DC7_ans09=Uwa¿aliœmy siebie za ideologicznie niezgodnych z handlowcami.
+#L_DC7_msg19=Jesteœ szalony! Oni zaopatruj¹ nas w pizzê i piwo! Jak to, na pewno naprawimy twój ID za 950,000 kredytów ale powinieneœ ponownie rozwa¿yæ swoje nastawienie do handlowców. Jak jedyny ma siaæ zniszczenie bez pizzy i piwa?

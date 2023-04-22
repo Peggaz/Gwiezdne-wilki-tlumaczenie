@@ -1,0 +1,16 @@
+;*****************************
+;DialogTrader10.xml Íû÷êà ñ íèøòÿêàìè â ÕÂ19
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+#L_DT10_msg00=Witam!
+#L_DT10_ans00=Witam. Czy masz jakieœ przydatne informacje na sprzeda¿?
+#L_DT10_msg10=Oczywiœcie, ¿e tak. Znasz zasady: pieni¹dze w pierwszej kolejnoœci. 5000 kredytów.
+#L_DT10_ans10=Jasne, tutaj jest 5000 kredytów.
+#L_DT10_msg20=Dobrze. W systemie XB-19 jest tajny sk³ad piracki. Ale odk¹d piraci nie s¹ g³upcami, to mogli te¿ zostawiæ kilka przykrych niespodzianek. Jeœli bêdziesz mieæ szczêœcie, prze¿yjesz i rozbijesz tajny sk³ad, jego zawartoœæ pokryje twoje wydatki.
+#L_DT10_ans20=Œwietne! To dobry sposób na zarabianie pieniêdzy. Mam nadziejê, ¿e jesteœmy pierwszymi, którzy uzyskali te informacje.
+
+#L_DT10_ans11=Dziêki, ale nie jesteœmy zainteresowani w tej chwili.
+#L_DT10_msg21=Wszystko w porz¹dku. Wpadnij, kiedy bêdziesz móg³.
+#L_DT10_ans21=(Dalej)

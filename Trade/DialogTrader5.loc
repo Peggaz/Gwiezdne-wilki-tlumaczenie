@@ -1,0 +1,16 @@
+;*****************************
+;DialogTrader5.xml Ñòàíöèÿ ïî ñìåíå ğåïóòàöèè â Ïàíäîğà
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+#L_DT5_msg00=Czeœæ!
+#L_DT5_ans00=Czeœæ! Czy mo¿esz mi powiedzieæ coœ ciekawego?
+#L_DT5_msg10=Ale oczywiœcie! Zaledwie 5000 kredytów i twoje problemy z wrogami s¹ rozwi¹zane!
+#L_DT5_ans10=No dalej, powiedz mi.
+#L_DT5_msg20=Lepiej zapisz to: Pandora. Jest tam stacja, której nazwy nie ujawnimy z oczywistych powodów. Za odpowiedni¹ cenê, ktoœ tam mo¿e zmieniæ twoje stosunki z ka¿dym przeciwnikiem! Z wyj¹tkiem piratów, oczywiœcie.
+#L_DT5_ans20=£a³! To przydatne. Dziêkujê bardzo!
+
+#L_DT5_ans11=Jedynym sposobem, aby pozbyæ siê wroga - jest usuniêcie go ze skanera. W¹tpiê, ¿e ktoœ podejmie siê tej pracy.
+#L_DT5_msg21=To znaczy, ¿e nie jesteœ zainteresowany? Jak chcesz...
+#L_DT5_ans21=(Dalej)

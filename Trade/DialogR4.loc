@@ -1,0 +1,42 @@
+;*****************************
+;DialogR4.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+#L_DR4_msg00=Jest to system automatycznej stacji konserwacyjnej. W przystêpnej cenie mo¿na w pe³ni naprawiæ statki i sprzêt. Dla statków o du¿ej pojemnoœci oferujemy tani¹ aktualizacjê oprogramowania uk³adowego, w komputerze pok³adowym. Oprogramowanie uk³adowe w komputerze pok³adowym, jest potê¿nym narzêdziem do skutecznej organizacji przesy³ania danych. Nale¿y pamiêtaæ, ¿e nowe oprogramowanie zastêpuje stare. || Proszê dokonaæ wyboru.
+#L_DR4_ans00=Naprawy.
+#L_DR4_ans02=Oprogramowanie Uk³adowe Mk 1.
+#L_DR4_ans03=Oprogramowanie Uk³adowe Mk 2.
+#L_DR4_ans04=Oprogramowanie Uk³adowe Mk 3.
+#L_DR4_ans05=wyjœcie z menu.
+
+#L_DR4_msg10=Dziêkujemy. Naprawa kosztuje 1000 kredytów.
+#L_DR4_msg11=Dziêkujemy.
+#L_DR4_ans10=Potwierdzenie.
+#L_DR4_ans15=Powrót do menu g³ównego.
+
+#L_DR4_msg20=Dziêkujemy. Oprogramowanie Uk³adowe Mk 1 jest podstawowym zestawem ustawienia optymalizacji algorytmów, odpowiedzialnych za kontrolê interakcji ró¿nych systemów statku.
+
+#L_DR4_ans30=Oprogramowanie Uk³adowe Lotu Mk 1 - n/a.
+#L_DR4_ans31=Oprogramowanie Uk³adowe Systemu Mk 1 - n/a.
+#L_DR4_ans32=Oprogramowanie Uk³adowe Uzbrojenia Mk 1 - n/a.
+#L_DR4_ans35=Powrót do menu g³ównego.
+
+#L_DR4_msg30=Dziêkujemy. Oprogramowanie Uk³adowe Mk 2 jest rozszerzonym zestawem algorytmów optymalizacji i kontroli ustawieñ odpowiedzialnych za oddzia³ywanie czêœci statku. Ze wzglêdu na bezpoœrednie pod³¹czenie do obwodów zasilania statku, to  oprogramowanie zapewnia dodatkow¹ moc dla po³¹czonych czêœci elektronicznych.
+
+#L_DR4_ans30=Oprogramowanie Uk³adowe Lotu Mk 2 - 69,000 Kredytów.
+#L_DR4_ans31=Oprogramowanie Uk³adowe Systemu Mk 2 - 95,000 Kredytów.
+#L_DR4_ans32=Oprogramowanie Uk³adowe Uzbrojenia Mk 2 - 115,000 Kredytów.
+#L_DR4_ans35=Powrót do menu g³ównego.
+
+#L_DR4_msg40=Dziêkujemy. Oprogramowanie Uk³adowe Mk 3 jest najbardziej zaawansowanym zestawem algorytmów optymalizacji i kontroli ustawieñ odpowiedzialnych za oddzia³ywanie czêœci statku. Algorytmy te znacz¹co poprawiaj¹ wydajnoœæ systemów statku.
+
+#L_DR4_ans40=Oprogramowanie Uk³adowe Lotu Mk 3 - 300,000 Kredytów.
+#L_DR4_ans41=Oprogramowanie Uk³adowe Systemu Mk 3 - 360,000 Kredytów.
+#L_DR4_ans42=Oprogramowanie Uk³adowe Uzbrojenia Mk 3 - 450,000 Kredytów.
+#L_DR4_ans45=Powrót do menu g³ównego.
+
+#L_DR4_msg50=Niestety, to Oprogramowanie Uk³adowe nie jest dostêpne.
+#L_DR4_ans55=Powrót do menu g³ównego.
+

@@ -1,0 +1,18 @@
+;*****************************
+;DialogStartM8d.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Lastochka
+#L_DStartM8d_msg00=Powiedz nam, co chce twój przyjaciel.
+#L_DStartM8d_ans00=On chce byœmy odzyskali jakiœ stary d³ug od faceta zwanego Tito, który ¿yje gdzieœ w Shula. On równie¿ chce byœmy spotkali go w Charon. Pozwól skopiowaæ mi wiadomoœæ, abyœ móg³ sam zobaczyæ. 
+#L_DStartM8d_msg10=Myœlê, ¿e najpierw powinniœmy zaj¹æ siê Tito, a dopiero puŸniej udaæ siê do Charona. Podró¿owanie jest zawsze milsze gdy masz kredyty.
+#L_DStartM8d_ans10=To jest ponownie d³uga droga naoko³o. Udajmy siê prosto do Charona i niech Alex upora siê z tym d³ugiem. On jest jedynym, który zna ca³¹ historiê.
+#L_DStartM8d_ans11=Masz racjê, leæmy do Shula, d³uga droga naoko³o nie jest tak daleko.
+#L_DStartM8d_msg20=To jest tak g³upie, jak wyrzucanie pieniêdzy w b³oto.
+#L_DStartM8d_ans20=(Dalej)
+#L_DStartM8d_msg21=Masz racjê, partnerze. Ile ten drañ Tito jest mu winien?
+#L_DStartM8d_ans21=Alex o tym nie wspomina³. A dlaczego s¹dzisz, ¿e jest draniem?
+#L_DStartM8d_msg31=Có¿, ka¿dy, kto jest mi coœ winny, na pewno jest ³ajdakiem. W ka¿dym razie, postaramy siê z niego wycisn¹æ wiêcej, to jest tylko kwestia w³aœciwego podejœcia.
+#L_DStartM8d_ans31=(Dalej)

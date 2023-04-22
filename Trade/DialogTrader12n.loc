@@ -1,0 +1,12 @@
+;*****************************
+;DialogTrader12.xml Íû÷êà ñ íèøòÿêàìè â Ôðîíí
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+#L_DT12n_msg00=Witajcie, piloci!
+#L_DT12n_ans00=Tak samo Ty! Wszelkie wiadomoœci o œwiecie zewnêtrznym?
+#L_DT12n_msg10=Tylko plotki, plotki i tym podobne. Mam do przesiewania ziarna przydatnych informacji, takich jak z³oty piasek. Na przyk³ad, mam tak¹ dobr¹ plotkê o niektórych bardzo drogich rzeczach ukrytych w jednym z systemów. Za 5000 kredytów bêdê gotów podzieliæ siê j¹ z dobrymi ludŸmi, takimi jak Ty.
+#L_DT12n_ans10=Jesteœmy nie tylko dobrzy, jesteœmy przyk³adami dobroci. Oto twoje pieni¹dze.
+#L_DT12n_msg20=Tak, twoja dobroæ przeœwituje przez twoje rozdarte ubranie... Mo¿e, to jest jedyna waluta, któr¹ masz. Wpadnij, kiedy zdobêdziesz 5,000 kredytów.
+#L_DT12n_ans20=(Dalej)

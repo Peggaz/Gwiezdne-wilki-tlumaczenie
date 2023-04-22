@@ -1,0 +1,19 @@
+;*****************************
+;DialogStartM8b.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_DStartM8b_msg00=Siwow³osy, chcia³em zapytaæ, co siê sta³o z twoja star¹ dru¿yn¹.
+#L_DStartM8b_ans00=(Dalej)
+#L_DStartM8b_msg10=Zdarzy³o mi siê.
+#L_DStartM8b_ans10=Co masz na myœli?
+#L_DStartM8b_msg20=Szefie, wolê o tym nie mówiæ. Pozwólcie mi tylko powiedzieæ: nie ufaj pijanemu.
+#L_DStartM8b_ans20=(Dalej)
+#L_DStartM8b_msg30=Masz na myœli ¿e siê upi³eœ, odlecia³ - znowu.
+#L_DStartM8b_ans30=(Dalej)
+#L_DStartM8b_msg40=Oczywiœcie, ¿e nie! Oni mnie wysadzili wczeœniej na stacji. Ale jeœli dru¿yna straci nawet jednego cz³onka, w tym fachowca, to staje siê o wiele s³absza. Moi kumple umarli podczas wielce nastêpnej misji,  a ja nigdy sobie tego nie wybaczê.
+#L_DStartM8b_ans40=Ale to nie jest tylko twoja wina.
+#L_DStartM8b_msg50=Szefie, oszczêdŸ mi uspokajaj¹cej rozmowy, mówi³em to wszystko do siebie kiedy by³em na tej stacji. ¯e mam napuchniêt¹ g³owê, ¿e nie mia³em wystarczaj¹co du¿o rozumu, aby odstawiæ butelkê, ¿e nie dbam o mój zespó³ - to wszystko moja wina. Dlatego tak bardzo Ciê potrzebujê. Jesteœ moj¹ drug¹ szans¹, aby udowodniæ ¿e jestem cz³owiekiem, a nie jakimœ draniem o s³abej woli. I nie mam zamiaru straciæ tej szansy. Przykro mi, ale nie bêdê wiêcej ju¿ o tym mówi³.
+#L_DStartM8b_ans50=Mi te¿ przykro. Och, mamy wiadomoœæ od Roghema. Chce byœmy wrócili do Kandeli.

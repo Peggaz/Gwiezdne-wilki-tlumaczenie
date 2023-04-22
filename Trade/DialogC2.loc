@@ -1,0 +1,43 @@
+;*****************************
+;DialogC2.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+#L_DC2_msg00=Och, to ty. Co, zepsuty identyfikator? Œliski mo¿e to naprawiæ, za odpowiedni¹ cenê. Bez targowania.
+#L_DC2_ans00=Nowe Imperium, to wszystko przez nich.
+#L_DC2_msg10=Œliski zrozumie. Za 700,000 kredytów.
+
+#L_DC2_ans01=Mam problemy z MSF.
+#L_DC2_msg11=Utrudniasz ¿ycie organom w³adzy, co? Œliski to lubi, Œliski wita swoich braci. Dla nich ma zni¿ki: Tylko za 650,000 kredytów, mo¿esz iœæ, i znów zabijaæ twardog³owych!
+
+#L_DC2_ans02=Triada...
+#L_DC2_msg12=Czekaj, nie mów ¿e to tutaj! Œliski naprawi twoje ID od razu za 850,000 kredytów, i czmychnie od ciebie.
+
+#L_DC2_ans03=K³opoty z USS.
+#L_DC2_msg13=I jeszcze ¿yjesz? Hmm, jesteœ twardszy ni¿ wygl¹dasz. Mam nadziejê, ¿e jesteœ równie¿ bogatszy ni¿ wygl¹dasz. Pomogê Ci za 800,000 kredytów.
+
+#L_DC2_ans04=K³opoty z InoCo.
+#L_DC2_msg14=Œliski nie skomentuje tego. Ale on naprawi twoje ID za 900,000 kredytów. Œliski powie komuœ ten ¿art, ale kto by uwierzy³?
+
+#L_DC2_ans05=Nie, nic mi nie jest. Tylko wpad³em zobaczyæ, co robisz.
+
+#L_DC2_ans10=Umowa stoi. Zrób to, Œliski.
+#L_DC2_msg20=Œliski jest wykoñczony. Mucha nie siada.
+#L_DC2_ans20=(Dalej)
+
+#L_DC2_ans16=Czy to nie za du¿a nagroda dla Œliskiego?
+#L_DC2_msg26=Jesteœ zabawny!
+#L_DC2_ans26=(Dalej)
+
+#L_DC2_msg27=Przykro mi, ale zmieni³em swój system autoryzacji. Œliski nie mo¿e naprawiæ twojego ID. Œliskiemu jest przykro straciæ du¿e pieni¹dze.
+#L_DC2_ans27=(Dalej)
+
+#L_DC2_ans07=Pewne problemy w Sektorze Granicznym.
+#L_DC2_msg17=On istnieje? Jezu, przyjacielu, jeœli uda³o ci siê obraziæ tych ludzi, niech Œliski bêdzie uczciwy: prawdziwy problem le¿y pomiêdzy twoimi uszami. W ka¿dym razie, za 600,000 kredytów, Œliski to naprawi. Choæ na pewno na to nie zas³ugujesz.
+
+#L_DC2_ans08=Najemnicy...
+#L_DC2_msg18=Odmówi³eœ zap³aty, co? Nie powinieneœ tego robiæ. 750,000 kredytów rozwi¹¿e twój ma³y problem, ale najpierw chce zobaczyæ pieni¹dze! Nawet nie myœl ¿e oszukasz Œliskiego!
+
+#L_DC2_ans09=Niektórzy handlarze s¹ na mnie Ÿli - wszystko z powodu jakiegoœ drobiazgu!
+#L_DC2_msg19=Œliski, wiedzia³, ¿e by³o coœ podejrzanego o tobie! Zastrzeli³eœ kilku  kramarzy, prawda? Licencja na polowanie kosztuje 950,000 kredytów. Tylko pamiêtaj, aby nie strzelaæ do Œliskiego, jemu siê to nie podoba.

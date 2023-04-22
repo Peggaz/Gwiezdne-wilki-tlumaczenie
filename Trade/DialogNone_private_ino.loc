@@ -1,0 +1,9 @@
+;*****************************
+; DialogNone_private_ino.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;******************************
+#L_Dnone_private_ino_msg00=Obszar ten nale¿y do Korporacji InoCo. Sprawdzam twoje pozwolenie -  Hej, masz goœci przy wejœciu. Dokowanie zabronione dla goœci. Proszê opuœciæ strefê dokuj¹c¹.
+#L_Dnone_private_ino_ans00=(Dalej)

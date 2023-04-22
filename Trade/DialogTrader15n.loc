@@ -1,0 +1,14 @@
+;*****************************
+;DialogTrader15n.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+#L_DT15n_msg00=Hej, kolego!
+#L_DT15n_ans00=Czeœæ! Jak leci?
+#L_DT15n_msg10=Wszystko w porz¹dku. W³aœciwie jest jedna ciekawa wiadomoœæ ... jestem gotów podzieliæ siê ni¹ za zaledwie 5000 kredytów.
+#L_DT15n_ans10=ok! Oto twoje pieni¹dze.
+#L_DT15n_msg20=Dziêkujê bardzo.
+#L_DT15n_ans20=Hej, co z tymi wiadomoœciami?
+#L_DT15n_msg30=Wiadomoœci kosztuj¹ 5,000 kredytów podczas gdy masz, ale mniejsz¹ sumê. IdŸ ogl¹daæ wiadomoœci albo co, poniewa¿ nie robiê interesów z finansowymi ofiarami.
+#L_DT15n_ans30=(Dalej)

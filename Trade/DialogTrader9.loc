@@ -1,0 +1,16 @@
+;*****************************
+;DialogTrader9.xml Íû÷êà ñ íèøòÿêàìè â Âóàäèëü
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+#L_DT9_msg00=Witajcie, przyjaciele!
+#L_DT9_ans00=Pozdrowienia! Dlaczego taki szczêœliwy?
+#L_DT9_msg10=Dlatego, ¿e mam informacje! Prawdziwa okazja! Zaledwie 5000 kredytów i jest twoja!
+#L_DT9_ans10=Prawdziwa okazja mówisz?! To bardzo ciekawe! Przesy³am pieniêdze.
+#L_DT9_msg20=Mam je. Teraz zbli¿ siê i s³uchaj: Istnieje tajny sk³ad przemytnika i szcz¹tki prototypowego myœliwca gdzieœ w systemie Vaudille! WyobraŸ sobie, co tam mo¿esz znaleŸæ! 
+#L_DT9_ans20=Pewnie jakiœ przekrêt. Naprawdê mam zap³aciæ piêæ patyków za t¹ opowieœæ?!
+
+#L_DT9_ans11=Twoje informacje s¹ opowieœci¹ star¹ jak œwiat. Ostatnio nie ma ¿adnych tajnych sk³adów. Takie opowieœci opowiadaj na kanale informacyjnym.
+#L_DT9_msg21=Jak chcesz ... Powodzenia!
+#L_DT9_ans21=(Dalej)

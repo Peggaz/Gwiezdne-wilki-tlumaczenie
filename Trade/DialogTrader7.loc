@@ -1,0 +1,16 @@
+;*****************************
+;DialogTrader7.xml Íû÷êà ñ íèøòÿêàìè â Òàððîò
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+#L_DT7_msg00=Czeœæ, ch³opaki!
+#L_DT7_ans00=Cieszê siê, ¿e ciê widzê. Jakieœ wieœci?
+#L_DT7_msg10=Same stare... Patrole MSF s¹ gorsze od piratów - zawsze staraj¹ siê wetkn¹æ swoje d³ugie no sy do ³adowni. Nie ma ucieczki! Zgadujê, ¿e zapomnê o tych rarytasach - za 5000 kredytów. To szkoda, ale...
+#L_DT7_ans10=Zapomnisz, mówisz? Tylko za 5000 kredytów? Có¿, to nie jest du¿o, powiedz mi, co wiesz...
+#L_DT7_msg20=Wiêc s³uchaj: W systemie Tarrot, w sektorze Jednoro¿ca, którego InoCo nie przeczesa³o jak nale¿y, istnieje kilka tajnych skrytek. Wiêkszoœæ jest pusta, ale jeœli bêdziesz mieæ szczêœcie, to znajdziesz naprawdê dobre rzeczy!
+#L_DT7_ans20=W porz¹dku, bêdê ich szukaæ.
+
+#L_DT7_ans11=Mówisz, ¿e chcesz oddaæ przynosz¹ce zyski œmia³e przedsiêwziêcie za 5,000 kredytów? Wolê wierzyæ, ¿e asteroidy s¹ zrobione z z³ota!
+#L_DT7_msg21=Có¿, wydaje siê, ¿e bêdê musia³ znaleŸæ kogoœ bardziej ustêpliwego.
+#L_DT7_ans21=(Dalej)

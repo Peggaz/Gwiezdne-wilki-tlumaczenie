@@ -1,0 +1,43 @@
+;*****************************
+;DialogC3.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+#L_DC3_msg00=Nie wygl¹dasz, jakbyœ przyby³ tutaj odebraæ kilka silników. Twoja baza ID jest na czerwonej liœcie. Mo¿emy to naprawiæ, jeœli powiesz nam, któr¹ stron¹ jesteœ zmartwiony.
+#L_DC3_ans00=Nowe Imperium.
+#L_DC3_msg10=Standardowa op³ata wynosi 700,000 tysiêcy kredytów.
+
+#L_DC3_ans01=MSF.
+#L_DC3_msg11=To jest trochê trudniejsze. 650,000 tysiêcy kredytów.
+
+#L_DC3_ans02=K³opoty z Triad¹.
+#L_DC3_msg12=Och, to jest proste. Zaledwie 850,000 kredytów, i ich patrole odczepi¹ siê od ciebie.
+
+#L_DC3_ans03=K³opoty z USS.
+#L_DC3_msg13=To powa¿na sprawa, musimy zmieniæ wiele ustawieñ. Zrobimy to tylko za 800,000 kredytów.
+
+#L_DC3_ans04=K³opoty z InoCo.
+#L_DC3_msg14=Naprawdê? Spójrzcie na niego, ch³opaki. Uda³o mu siê obraziæ InoCo! Ch³opaku, dam Ci nawet zni¿kê. Zaledwie 900.000 kredytów i jesteœ czysty!
+
+#L_DC3_ans05=Nie, nic mi nie jest. tylko wpad³em zobaczyæ co robisz.
+
+#L_DC3_ans10=To jest umowa.
+#L_DC3_msg20=Gotowe. Wpadnij ponownie.
+#L_DC3_ans20=(Dalej)
+
+#L_DC3_ans16=Czy mo¿esz wyci¹gn¹æ swoje ceny z kapelusza? Nie p³acê tyle za tak¹ prost¹ sprawê!
+#L_DC3_msg26=To twoja decyzja. Bez odbioru.
+#L_DC3_ans26=(Dalej)
+
+#L_DC3_msg27=Hmm, to dziwne. Identyfikator ID jest nadal na czerwonej liœcie. Musieli znów zmieniæ algorytmy... Przykro mi, ale nie mo¿emy pomóc w tej chwili. Bez odbioru.
+#L_DC3_ans27=(Dalej)
+
+#L_DC3_ans07=Konflikt w Sektorze Granicznym.
+#L_DC3_msg17=Och, to miejsce jest wci¹¿ zamieszkane? Nie s³ysza³em stamt¹d ¿adnych wieœci, ju¿ jakiœ czas. W ka¿dym razie, 600,000 kredytów, i jesteœ zdolny do pracy.
+
+#L_DC3_ans08=Najemnicy z jakiegoœ powodu maj¹ mnie za z³ego.
+#L_DC3_msg18=Byæ mo¿e, zacz¹³eœ wyjaœnienia w z³y sposób? Najemnicy, to ludzie o specyficznym charakterze, dla tego bêdzie to kosztowaæ 750,000 tysiêcy kredytów.
+
+#L_DC3_ans09=By³o nieporozumienie z udzia³em handlarzy.
+#L_DC3_msg19=Nie jesteœ wymieniony zaklasyfikowany jako pirat, wiêc uwierzê Ci ¿e, to naprawdê by³o nieporozumienie. Za 950,000 kredytów, tak jest. I staraj siê unikaæ takich sytuacji w przysz³oœci.

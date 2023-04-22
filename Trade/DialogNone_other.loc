@@ -1,0 +1,11 @@
+;*****************************
+; DialogNone_other.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;******************************
+#L_Dnone_other_msg00=*Cisza*
+#L_Dnone_other_ans00=Jest tu ktoœ?
+#L_Dnone_other_msg10=*Cisza i niesamowite drapanie*
+#L_Dnone_other_ans10=Nie podoba mi siê to miejsce. Spadajmy st¹d.

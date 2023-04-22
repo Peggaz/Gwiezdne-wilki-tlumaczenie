@@ -1,0 +1,17 @@
+;*****************************
+;DialogTrader2.xml Ñòàíöèÿ ïî ñìåíå ðåïóòàöèè â Äåáðèñ 1
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+#L_DT2_msg00=Chwa³a wolnych ptaków!
+#L_DT2_ans00=Chwa³a wolnych kupców.
+#L_DT2_msg10=Nie ka¿dy kupiec jest dziœ wolny. "Proszê" nie pomo¿e pozbyæ siê korporacyjnych. Istniej¹ pewne sposoby, aby na to poradziæ, jednak... Mogê to powiedzieæ za 5000 kredytów.
+#L_DT2_ans10=Tak, wiem, co masz na myœli, wiêc to bêdzie przydatne. Przelewam pieni¹dze.
+
+#L_DT2_msg20=Doskonale! W Elinor jest stacja, gdzie mo¿na naprawiæ strzaskan¹ reputacjê za op³at¹.
+#L_DT2_ans20=Przyznajê, ¿e to mo¿e siê przydaæ. Dziêkujê bardzo.
+
+#L_DT2_ans11=To za du¿o. Mogê wydaæ te pieni¹dze na przekupywanie niektórych ludzi.
+#L_DT2_msg21=Ha! Niektórzy ludzie maj¹ zwyczaj znikaæ w odpowiednim czasie. Choæ, to twoja decyzja.
+#L_DT2_ans21=(Dalej)

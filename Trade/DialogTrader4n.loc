@@ -1,0 +1,12 @@
+;*****************************
+;DialogTrader4n.xml 
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+#L_DT4n_msg00=Hej, ludzie!
+#L_DT4n_ans00=Hej tam! Jakieœ wieœci?
+#L_DT4n_msg10=Trzeba naprawiæ swoj¹ reputacjê? Przelej 5000 kredytów, a powiem Ci, co trzeba zrobiæ! Satysfakcja gwarantowana.
+#L_DT4n_ans10=Gwarancje s¹ dobre. Oto twoje pieni¹dze.
+#L_DT4n_msg20=Gwarancje s¹ dobre tylko, gdy s¹ one poparte gotówk¹. Ale twoje konto bankowe robi s³awn¹ klapê. Powinieneœ wzi¹œæ jakiœ kredyt, czy coœ. 
+#L_DT4n_ans20=Nie dostaniesz po¿yczki w tej dziedzinie. Do widzenia.

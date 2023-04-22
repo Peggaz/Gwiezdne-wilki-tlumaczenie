@@ -1,0 +1,31 @@
+;*****************************
+;DialogStartM9c.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_DStartM9c_msg00=No, no, no, czy to nie jest wiadomoœæ od naszego przyjaciela z Nowego Imperium.
+#L_DStartM9c_ans00=(Dalej)
+#L_DStartM9c_msg10=Ona ma wiêcej szarych przyjació³?
+#L_DStartM9c_ans10=Nie, ale ma dla nas kolejn¹ misjê.
+#L_DStartM9c_msg20=Niech zgadnê, dostarczyæ inny szpiegowski coœ tam, do innego agenta?
+#L_DStartM9c_ans20=Nie, tym razem nie chodzi o p³aszcz i szpadê. Ona po prostu chce abyœmy dostarczyli ³adunek jakichœ super w³ókien. Nie jestem w tych sprawach obeznany, ale zap³aci nam - jedyna rzecz, która mi siê podoba. Warto wiêc udaæ siê do Elio. | Siwow³osy, powiedz mi jedn¹ rzecz. Gdy najemnik z³amie umowê, co byœ z nim zrobi³? Wyrzuci³ z bractwa, czy ukara³ go? Co twoja organizacja robi³a z takimi incydentami? 
+#L_DStartM9c_msg30=Szefie, o jakiej organizacji ty mówisz? Ka¿dy zespó³ dba o siebie.
+#L_DStartM9c_ans30=A wymiana na walutê?
+#L_DStartM9c_msg40=To jest w³aœnie dogodne miejsce aby dostaæ godziw¹ pracê i utrzymaæ swoj¹ reputacjê. Najemnicy nie maj¹ ¿adnej organizacji, tylko pewnego rodzaju kodeks honoru, który nie zaleca robienia brudnej roboty. Co do zerwania kontraktów... Jeœli ktoœ to robi, ju¿ nie jest najemnikiem. Pirat albo rolnik - ka¿dy, ale najemnik.
+#L_DStartM9c_ans40=Dlaczego, nikt go nie zatrudni?
+#L_DStartM9c_msg50=A dlaczego powninien? Taki facet nie jest godnym zaufania. Umowa jest fundamentem, który nie mo¿e zostaæ rozbity. Ale czasami mo¿esz zapomnieæ o kodeksie - i pozostaæ najemnikiem którym jesteœ.
+#L_DStartM9c_ans50=Bez konsekwencji?
+#L_DStartM9c_msg60=Zostaniesz wpisany na czarn¹ listê, która oznacza ju¿ brak wiêcej umów z przyzwoitymi ludŸmi. Ale ka¿dy jest swój, niektórzy kieruj¹ siê sumieniem, niektórzy pieniêdzmi. A niektórzy, po prostu lubi¹ siaæ spustoszenie.
+#L_DStartM9c_ans60=Tak wiêc istnieje wiele zespo³ów po ciemnej stronie?
+#L_DStartM9c_msg70=Zna³em kilka, ale teraz ... Szefie, nie zapomnij, spêdzi³em rok w mojej wysokiej wie¿y. Myœlê, ¿e to ja powinienem zadawaæ pytania, a nie ty.
+#L_DStartM9c_ans70=Nie, ja po prostu osi¹gn¹³em swój zewnêtrzny kosmos. ¯ycie spêdzi³em w moim biurze, patrz¹c na rachunki i rejestry, oraz ogl¹daj¹c wiadomoœci. Dlaczego, mia³em swój udzia³ w podró¿y, ale to by³o tak dawno temu, ¿e wszystko siê bardzo zmieni³o. Ja nawet- 
+#L_DStartM9c_msg80=Przez kosmos!
+#L_DStartM9c_ans80=Co siê sta³o?
+#L_DStartM9c_msg90=Co tobie siê sta³o! Niektórzy z moich przyjació³ pozazdroœciliby twojej umiejêtnoœci do trajkotu.
+#L_DStartM9c_ans90=Daj spokój, musieliœmy sobie umiliæ czas.
+#L_DStartM9c_msg100=Ktoœ musia³ zachorowaæ s³uchaj¹c ciebie. Za³o¿ê siê, ¿e ma on ju¿ mnóstwo pomys³ów dotycz¹cych ró¿nych przykrych niespodzianek dla nas.
+#L_DStartM9c_ans100=Czy ktoœ mo¿e tak po prostu nas pods³uchiwaæ?
+#L_DStartM9c_msg110=Bu³ka z mas³em. Przynajmniej ja nigdy nie mia³em z tym problemu. Dlaczego, lubiê rozmawiaæ, ale na stacji, maj¹c kawê. Rozmawiaæ w przestrzeni kosmicznej, to jak spojrzeæ na problem. Czy wyra¿am siê jasno?
+#L_DStartM9c_ans110=Wszystko w porz¹dku, wszystko w porz¹dku. Wiêc zamykam siê.

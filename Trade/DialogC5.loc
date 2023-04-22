@@ -1,0 +1,52 @@
+;*****************************
+;DialogC5.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;******************************
+;Ïàíäîðà (Ýéëîí) - ñòàíöèÿ «Õàìèø»
+;Èãðîê âûïîëíÿë ìèññèþ 8_2à, è.
+;******************************
+
+#L_DC5_msg00=Siema starzy przyjaciele... Ze starymi k³opotami. Kto tym razem?
+
+#L_DC5_ans00=NESF.
+#L_DC5_msg10=Dlaczego oni równie¿ s¹ wœciekli? Dobra naprawiê twój identyfikator. Powodzenia.
+#L_DC5_ans10=(Dalej)
+
+#L_DC5_ans01=MSF.
+#L_DC5_msg11=Nie jestem zaskoczony. Ale naprawdê zastanawiam siê, w jaki sposób innym osobom uda³o siê dogadaæ z twardog³owymi. To jest to, jesteœ czysty. Powodzenia.
+#L_DC5_ans11=(Dalej)
+
+#L_DC5_ans02=Triada.
+#L_DC5_msg12=Ten gang? Hah, mam nadziejê ¿e urz¹dzi³eœ im piek³o. Twój identyfikator jest czysty. Powodzenia.
+#L_DC5_ans12=(Dalej) Twój identyfikator jest czysty
+
+#L_DC5_ans03=USS.
+#L_DC5_msg13=Pionki triady? Przyjemnoœæ po mojej stronie.
+#L_DC5_ans13=(Dalej)
+
+#L_DC5_ans04=Wiem, ¿e to œmieszne, ale to InoCo.
+#L_DC5_msg14=Œmieszne? Dlaczego? Ka¿dy mo¿e siê obraziæ. Identyfikator jest czysty. Powodzenia.
+#L_DC5_ans14=(Dalej)
+
+#L_DC5_ans05=Nie nic mi nie jest. Tylko wpad³em zobaczyæ co robisz.
+#L_DC5_msg15=Och, dziêkujê. Mi³o wiedzieæ, ¿e ktoœ o mnie pamiêta. Wszystko w porz¹dku! A teraz przepraszam, mam pilny telefon na drugiej linii. Powodzenia!
+#L_DC5_ans15=(Dalej)
+
+#L_DC5_msg16=Przyjaciele, myœlê, ¿e mamy problem. ¯aden z hacków nie dzia³a, prawdopodobnie zaktualizowali protoko³y bezpieczeñstwa. Nie mogê teraz naprawiæ twojego identyfikatora, przepraszam.
+#L_DC5_ans16=(Dalej)
+
+#L_DC5_ans07=Sektor Graniczny.
+#L_DC5_msg17=Och, naprawdê nie powinieneœ. ¯ycie jest trudne, a ty je sobie utrudniasz. Oczyszczê twój identyfikator, ale zachowuj siê nastêpnym razem.
+#L_DC5_ans17=(Dalej)
+
+#L_DC5_ans08=K³opoty z najemnikami. Wiesz, co siê dzieje.
+#L_DC5_msg18=Och, zdecydowa³eœ siê na piêkny pogrzeb, prawda? Oczyszczê twój identyfikator, ale naprawdê, powinieneœ mieæ resztê gdzieœ, twoje nerwy s¹ w strzêpach.
+#L_DC5_ans18=(Dalej)
+
+#L_DC5_ans09=Niektórzy handlarze mnie nie lubi¹. Bez powodu!
+#L_DC5_msg19=Có¿, s¹dz¹c po tym co zrobi³eœ, maj¹ Ciê po dziurki w nosie. Oczyszczê twój identyfikator, ale musisz wiedzieæ, ¿e tutaj nie lubimy piratów. 
+#L_DC5_ans19=(Dalej)
+

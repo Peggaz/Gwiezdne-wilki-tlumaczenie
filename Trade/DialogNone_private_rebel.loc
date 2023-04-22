@@ -1,0 +1,9 @@
+;*****************************
+; DialogNone_private_rebel.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;******************************
+#L_Dnone_private_rebel_msg00=Obszar ten nale¿y do ruchu oporu. Nie jesteœ tu mile widziany i nie mo¿esz tutaj zadokokowaæ. IdŸ gdzie indziej.
+#L_Dnone_private_rebel_ans00=(Dalej)

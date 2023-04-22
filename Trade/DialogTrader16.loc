@@ -1,0 +1,16 @@
+;*****************************
+;DialogTrader16.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+#L_DT16_msg00=Mi³o jest spotkaæ przyjazn¹ twarz w przestrzeni!
+#L_DT16_ans00=Okazja nie jest rzadkoœci¹.
+#L_DT16_msg10=S³uchaj, bracie, mo¿esz móc u¿yczyæ mi ma³¹ sumê? Zaledwie 5,000 kredytów. Mój uk³ad ch³odzenia reaktora jest na krawêdzi upadku, i zosta³em okradziony przez patrol NESF dwa systemy temu. Muszê naprawiæ tê lec¹c¹ trumnê jak najszybciej, albo wybuchnie za kilka godzin! Obiecujê, ¿e zapamiêtam ciê i nied³ugo spróbujê sp³aciæ mój d³ug.
+#L_DT16_ans10=Jasne, zawsze jestem chêtny do pomocy przyjaznemu pilotowi. Oto pieni¹dze i zapamiêtaj moj¹ ¿yczliwoœæ. Nawiasem mówi¹c, wydaje siê, ¿e twoje powietrze równie¿ wycieka.
+#L_DT16_msg20=Dziêkujê bardzo, bracie! Nie masz pojêcia, jak bardzo mi pomóg³eœ! Nie zapomnê o tobie, przysiêgam.
+#L_DT16_ans20=Tak, tak, Leæ naprawiæ twój wóz albo siê udusisz!
+
+#L_DT16_ans11=Przykro mi bracie, ale jestem sp³ukany z gotówki i mój reaktor jest nieszczelny. Chêtnie bym pomóg³, ale ...
+#L_DT16_msg21=Wszystko w porz¹dku, bracie. ¯yczcie mi szczêœcia! Postaram siê, aby ten stary hipopotam trafi³ na najbli¿sze z³omowisko. Mam nadziejê, ¿e za otrzymane pieni¹dze przynajmniej kupiê myœliwiec.
+#L_DT16_ans21=(Dalej)

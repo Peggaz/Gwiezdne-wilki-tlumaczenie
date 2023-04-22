@@ -1,0 +1,15 @@
+;*****************************
+;DialogStartM9a.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;Hero
+#L_DStartM9a_msg00=Wakacje skoñczone, mam wiadomoœæ od ¯mii.
+#L_DStartM9a_ans00=(Dalej)
+#L_DStartM9a_msg10=Czego chce tym razem?
+#L_DStartM9a_ans10=Chce abyœmy odebrali niektóre urz¹dzenia ze stacji w Nowym Donbasu, i dostarczyli je do Nowej Jerozolimy 2.
+#L_DStartM9a_msg20=Wiêcej fajerwerków dla innej stacji cywilnej? Szefie, dlaczego, do cholery w ogóle mieszamy siê w MSF? Aby uzyskaæ wiêcej informacji? Kto tego potrzebuje - Za te pieni¹dze!
+#L_DStartM9a_ans20=Tu nie chodzi o informacje. Siwow³osy, - zostaliœmy powo³ani w wielkim czasie - i nie przez MSF, Stare Imperium nie ma ¿adnego powodu aby to robiæ, w tym jednym ufam ¯mii. Ale w takim razie kto siê za tym kryje? Ja po prostu nie chcê, abyœmy trafili do wiecznoœci, wczeœniej mo¿emy coœ zrobiæ. 
+#L_DStartM9a_msg30=To brzmi œmiesznie, ale jednoczeœnie rozs¹dnie.
+#L_DStartM9a_ans30=Nale¿y ws³uchaæ siê w siebie, co jakiœ czas. W ka¿dym razie, udajmy siê naprzód do Nowego Donbasu, i dbajmy o ten ³adunek.

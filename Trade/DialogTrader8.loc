@@ -1,0 +1,16 @@
+;*****************************
+;DialogTrader8.xml  Íû÷êà ñ íèøòÿêàìè â Õ244->Õ220
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+#L_DT8_msg00=Hej, mi³o ciê poznaæ!
+#L_DT8_ans00=Tak, to jest ma³y œwiat. Jak idzie?
+#L_DT8_msg10=Idzie tak szybko, ¿e chcesz zwolniæ. Potrzebujesz najnowszego sprzêtu? Prawie za darmo, tylko 5000 kredytów!
+#L_DT8_ans10=Pewnie, ¿e tak! Oto twój maj¹cy wp³ywy.
+#L_DT8_msg20=Nastêpnie spiesz siê do systemu X220. Mówi¹, ¿e ktoœ rozbi³ tam transport. Zastanawiam siê co to robi na tym koñcu œwiata. Oczywiœcie, wiêkszoœæ pojemników zosta³a ju¿ wyczyszczona. Ale niektóre z nich zosta³y zdmuchniête dalej ni¿ reszta ...
+#L_DT8_ans20=Czy to znaczy, ¿e ¿e mamy tego szukaæ?! Myœla³em, ¿e masz to nu siebie... Dobrze, do widzenia!
+
+#L_DT8_ans11=Zbyt tanio. Stawiam, ¿e spróbujesz sprzedaæ mi jak¹œ star¹ tandetê jeszcze raz. Nie, dziêkujê!
+#L_DT8_msg21=Ty jesteœ szefem. Do widzenia!
+#L_DT8_ans21=(Dalej)

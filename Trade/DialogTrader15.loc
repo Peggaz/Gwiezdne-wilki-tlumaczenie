@@ -1,0 +1,16 @@
+;*****************************
+;DialogTrader15.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+#L_DT15_msg00=Hej, kolego!
+#L_DT15_ans00=Czeœæ! Jak leci?
+#L_DT15_msg10=Wszystko w porz¹dku. W³aœciwie jest jedna ciekawa wiadomoœæ ... jestem gotów podzieliæ siê ni¹ za zaledwie 5000 kredytów.
+#L_DT15_ans10=ok! Oto twoje pieni¹dze.
+#L_DT15_msg20=Bardzo dziêkujê. Wiadomoœci: w³aœnie ofiarowa³eœ zamówienie dla Wielkiej Oœmiornicy! Twoja karma poprawi³a siê przez 3. Wrócisz do uczciwego ¿ycia do nieba gdy umrzesz. Narazie.
+#L_DT15_ans20=Co?! Zatrzymaj siê! Oddaj mi z powrotem pieni¹dze, krêtaczu! Wolê sma¿yæ siê w piekle ni¿ ofiarowaæ zamówienie jakiemuœ oœliz³emu œmierdzielowi!
+
+#L_DT15_ans11=Wiadomoœci s¹ za darmo na kanale informacyjnym.
+#L_DT15_msg21=W takim razie bêdê na swojej drodze. Mi³o z tob¹ rozmawiaæ.
+#L_DT15_ans21=(Dalej)

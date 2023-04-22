@@ -1,0 +1,9 @@
+;*****************************
+; DialogNone_other_closed.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;******************************
+#L_Dnone_other_closed_msg00=Stacja jest przepe≥niona ludümi z zewnπtrz. Dokowanie zabronione.
+#L_Dnone_other_closed_ans00=(Dalej)

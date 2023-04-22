@@ -1,0 +1,12 @@
+;*****************************
+;DialogTrader17.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+#L_DT17_msg00=Witajcie, piloci!
+#L_DT17_ans00=Hej tam!
+#L_DT17_msg10=Jak idzie? Czy równie¿ zosta³eœ okradziony przy ostatnim portalu? Te patrole NESF s¹ gorsze od MSF - zawsze staraj¹ siê zrujnowaæ uczciwych przedsiêbiorców! Chcesz us³yszeæ jakieœ ciekawe informacje na temat kontroli celnej? Cena 4999 kredytów oraz 1 kredyt za transfer.
+#L_DT17_ans10=Hmm... Nie chcia³bym mieæ z³ych stosunków z celnikami. Dobra, tu s¹ twoje pieni¹dze.
+#L_DT17_msg20=Jezu, widzê, ¿e mia³eœ mnóstwo k³opotów... Te¿ natkn¹³êœ siê na patrol? Ci ³ajdacy wezm¹ twój ostatni kredyt! Wszystko w porz¹dku, poniewa¿ nie masz pieniêdzy, tu jest coœ za darmo: B¹dŸ ostro¿ny w pobli¿u portali, bo mo¿esz znaleŸæ siê w jeszcze gorszych k³opotach. Powodzenia!
+#L_DT17_ans20=(Dalej)

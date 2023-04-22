@@ -1,0 +1,9 @@
+;*****************************
+; DialogNone_adm_closed.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;******************************
+#L_Dnone_adm_closed_msg00=W tym tygodniu nie przyjmujemy goœci. Wróæ innym razem.
+#L_Dnone_adm_closed_ans00=(Dalej)

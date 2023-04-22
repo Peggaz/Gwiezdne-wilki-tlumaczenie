@@ -1,0 +1,16 @@
+;*****************************
+;DialogTrader17.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+#L_DT17_msg00=Witajcie, piloci!
+#L_DT17_ans00=Hej tam!
+#L_DT17_msg10=Jak idzie? Czy równie¿ zosta³eœ okradziony przy ostatnim portalu? Te patrole NESF s¹ gorsze od MSF - zawsze staraj¹ siê zrujnowaæ uczciwych przedsiêbiorców! Chcesz us³yszeæ jakieœ ciekawe informacje na temat kontroli celnej? Cena 4999 kredytów oraz 1 kredyt za transfer.
+#L_DT17_ans10=Hmm... Nie chcia³bym mieæ z³ych stosunków z celnikami. Dobra, tu s¹ twoje pieni¹dze.
+#L_DT17_msg20=Tak wiêc, na czas wojny domowej ¿o³nierze postanowili zamontowaæ automatyczne wie¿yczki na wszystkich portalach miêdzy ich strefami wp³ywów! Powiedzmy, ¿e pok³uci³eœ siê z InoCo, a nastêpnie spróbuj wejœæ do systemu od kierunku MSF - to bêdzie koniec. Transportowce s¹ powolne, to zajmie ca³e minuty, aby zawruciæ jeden i wlecieæ do portalu. Wiêcej ni¿ wystarczaj¹co dla tych wie¿yczek. Wiêc pamiêtaj, aby obejrzeæ mapê polityczn¹, aby staæ z dala od k³opotów.
+#L_DT17_ans20=Dziêkujemy, informacje s¹ cenne. Spróbujemy byæ ostro¿niejsi.
+
+#L_DT17_ans11=Tak, mieliœmy nasz udzia³ w k³opotach. W³asnie lecimy do naprawy, wiêc po prostu nie mamy pieniêdzy, aby zap³aciæ za wiadomoœci.
+#L_DT17_msg21=To twoja decyzja, ale czasami informacje mog¹ uchroniæ ciê od naprawy!
+#L_DT17_ans21=(Dalej)

@@ -1,0 +1,52 @@
+;*****************************
+;DialogC6.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+;******************************
+;ÕB-13 (Jah) - ñòàíöèÿ «Jah Ðàñòàôàðè» 
+;Jah - íàø Áîã!
+;******************************
+
+#L_DC6_msg00=Jah was zaprasza, bracia i siostry. ¯yjemy w muzyce, a nasze dusze lataj¹ wysoko na huœtawce wszechœwiata. Pokój i mi³oœæ, bracia i siostry. Pokój i mi³oœæ. Poczuj rytm, otwórz swój umys³. Czujê niezgodê w waszej karmie. Nie martwcie siê, bracia i siostry, Jah jest tutaj, aby wam pomóc. Ale musisz mu powiedzieæ, jak.
+
+#L_DC6_ans00=Tak, niezgoda... Z Nowym Imperium. Cholerna niezgoda.
+#L_DC6_msg10=Och, bracia i siostry, Jah podzieli siê z tob¹ swoim pokojem, za skromn¹ darowiznê, 700.000 kredytów. I znowu bêdziecie w harmonii ze wszechœwiatem! Jah jest harmoni¹.
+
+#L_DC6_ans01=Mamy powa¿ne problemy z MSF.
+#L_DC6_msg11=w tym wszechœwiecie nic nie jest wieczne. Nienawiœæ zostanie wyleczona, jeœli ³aska spotyka j¹ z otwartymi ramionami. Wp³aæ 650 tysiêcy kredytów i radosna muzyka ponownie nape³ni wasze serca! Jah jest muzyk¹.
+
+#L_DC6_ans02=Nie mam pojêcia o twoim rytmie, ale Triada w tym momencie wykopuje topór wojenny.
+#L_DC6_msg12=Rytm jest jak fala, nie opieraj siê mu, p³yñ z nim. Za 850,000 kredytów Jah pomo¿e Ci znaleŸæ falê, aby kontynuowaæ podró¿ przez ocean, jakim jest wszechœwiat. Jah jest nieskoñczonoœci¹.
+
+#L_DC6_ans03=Bandziory z USS graj¹ mi na nerwach.
+#L_DC6_msg13=Nerwy sprawiaj¹ nam k³opoty, dla tego ich nie dopuszczamy. Nie martw siê, uspokój siê, jesteœ w miejscu, które nale¿y do Jah. Za zaledwie 800 tysiêcy kredytów Jah upewni siê, ¿e korporcyjni Ci wybacz¹. Jah jest mi³oœci¹.
+
+#L_DC6_ans04=Jesteœmy w konflikcie z InoCo.
+#L_DC6_msg14=Och, smutno jest to us³yszeæ. Jah zawsze mówi³, ¿e nikt nie powinien plamiæ swojej duszy syntetyczn¹ zgnilizn¹, kiedy pob³ogos³awi³ hydroponikê. Jah jest uczciwym Rasta, nie jakimœ ponurym kokainist¹. Jah doprowadzi twoje sprawy do porz¹dku za zwyk³e 900,000 kredytów. Ale nawet Jah nie mo¿e uporz¹dkowaæ twojego umys³u. Jah nie jest wszechmocny.
+
+#L_DC6_ans05=W³asnie wpad³em zobaczyæ co masz?
+#L_DC6_msg15=Czego potrzebujesz?
+#L_DC6_ans15=(Dalej)
+
+#L_DC6_ans10=Myœla³em, ¿e bêdziesz bardziej pokorny! Dobrze, proszê bardzo.
+#L_DC6_msg20=Jah jest pokorny i skromny. Ale potrzebuje pieniêdzy, aby donieœæ reggae do ludzi, aby mogli patrzeæ na Boga, jak guru nakaza³. To jest to, bracia i siostry. Twoje problemy ju¿ siê wiêcej nie pojawi¹. IdŸ z muzyk¹! Jah bez odbioru.
+#L_DC6_ans20=(Dalej)
+;Ñî ñ÷åòà èãðîêà ñïèñûâàåòñÿ ýííàÿ ñóììà.
+
+#L_DC6_ans16=Czy twój mózg jest ca³kowicie zjarany? Gdzie zobaczy³eœ takie ceny?
+#L_DC6_msg26=Jah mo¿e zaoferowaæ pokój i mi³oœæ, ale nie mo¿e zmusiæ, aby j¹ zaakceptowaæ. Wêdruj po wszechœwiecie, k¹p siê w jego rytmie i wróæ, jeœli zobaczysz prawdê.
+#L_DC6_ans26=(dalej)
+
+#L_DC6_msg27=Jah wspó³czuje, ale dzisiaj muzyka nie jest kompletna...
+#L_DC6_ans27=(Dalej)
+
+#L_DC6_ans07=Wydaje siê, ¿e ju¿ dzisiaj obraziliœcie niektórych funkcjonariuszy stra¿y granicznej.
+#L_DC6_msg17=Jah mówi, ¿e nale¿y kochaæ wszystkich braci i siostry, nawet jeœli mieszkaj¹ w pobli¿u granicy. Jah wybacza twoj¹ nienawiœæ i mo¿e pomodliæ siê za was za 600,000 kredytów. Jah jest hojnoœci¹.
+
+#L_DC6_ans08=Najemnicy nas nienawidz¹.
+#L_DC6_msg18=Bracia i siostry, to jest nienawiœæ, wszystko w porz¹dku. Ale Jah mo¿e j¹ naprawiæ za 750,000 tysiêcy kredytów. Jah jest reggae, i innymi fajnymi rzeczami.
+
+#L_DC6_ans09=Handlarze s¹ naszym problemem.
+#L_DC6_msg19=Twoim problemem jest to, ¿e psujesz ¿ycie swoje i innych ludzi. Nie nale¿y tego robiæ! Jah jest chêtny do pomocy za 950,000 kredytów, które powinien przeznaczyæ na utrzymanie hydroponiki. Ale nie nale¿y o tym zapominaæ. Jah jest doœwiadczeniem.

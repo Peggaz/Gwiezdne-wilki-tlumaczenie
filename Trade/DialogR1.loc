@@ -1,0 +1,42 @@
+;*****************************
+;DialogR1.xml
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+#L_DR1_msg00=Jest to system automatycznej stacji konserwacyjnej. W przystêpnej cenie mo¿na w pe³ni naprawiæ statki i sprzêt. Dla statków o du¿ej pojemnoœci oferujemy tani¹ aktualizacjê oprogramowania uk³adowego, w komputerze pok³adowym. Oprogramowanie uk³adowe w komputerze pok³adowym, jest potê¿nym narzêdziem do skutecznej organizacji przesy³ania danych. Nale¿y pamiêtaæ, ¿e nowe oprogramowanie zastêpuje stare. || Proszê dokonaæ wyboru.
+#L_DR1_ans00=Naprawy.
+#L_DR1_ans02=Oprogramowanie Uk³adowe Mk 1.
+#L_DR1_ans03=Oprogramowanie Uk³adowe Mk 2.
+#L_DR1_ans04=Oprogramowanie Uk³adowe Mk 3.
+#L_DR1_ans05=wyjœcie z menu.
+
+#L_DR1_msg10=Dziêkujemy. Naprawa kosztuje 1000 kredytów.
+#L_DR1_msg11=Dziêkujemy.
+#L_DR1_ans10=Potwierdzenie.
+#L_DR1_ans15=Powrót do menu g³ównego.
+
+#L_DR1_msg20=Dziêkujemy. Oprogramowanie Uk³adowe Mk 1 jest podstawowym zestawem ustawienia optymalizacji algorytmów, odpowiedzialnych za kontrolê interakcji ró¿nych systemów statku.
+
+#L_DR1_ans20=Oprogramowanie Uk³adowe Lotu Mk 1 - 32,000 kredytów.
+#L_DR1_ans21=Oprogramowanie Uk³adowe Systemu Mk 1 - 45,000 kredytów.
+#L_DR1_ans22=Oprogramowanie Uk³adowe Uzbrojenia Mk 1 - 65,000 kredytów.
+#L_DR1_ans25=Powrót do menu g³ównego.
+
+#L_DR1_msg30=Dziêkujemy. Oprogramowanie Uk³adowe Mk 2 jest rozszerzonym zestawem algorytmów optymalizacji i kontroli ustawieñ odpowiedzialnych za oddzia³ywanie czêœci statku. Ze wzglêdu na bezpoœrednie pod³¹czenie do obwodów zasilania statku, to  oprogramowanie zapewnia dodatkow¹ moc dla po³¹czonych czêœci elektronicznych.
+
+#L_DR1_ans30=Oprogramowanie Uk³adowe Lotu Mk 2 - n/a.
+#L_DR1_ans31=Oprogramowanie Uk³adowe Systemu Mk 2 - n/a.
+#L_DR1_ans32=Oprogramowanie Uk³adowe Uzbrojenia Mk 2 - n/a.
+#L_DR1_ans35=Powrót do menu g³ównego.
+
+#L_DR1_msg40=Dziêkujemy. Oprogramowanie Uk³adowe Mk 3 jest najbardziej zaawansowanym zestawem algorytmów optymalizacji i kontroli ustawieñ odpowiedzialnych za oddzia³ywanie czêœci statku. Algorytmy te znacz¹co poprawiaj¹ wydajnoœæ systemów statku.
+
+#L_DR1_ans40=Oprogramowanie Uk³adowe Lotu Mk 3 - n/a.
+#L_DR1_ans41=Oprogramowanie Uk³adowe Systemu Mk 3 - n/a.
+#L_DR1_ans42=Oprogramowanie Uk³adowe Uzbrojenia Mk 3 - n/a.
+#L_DR1_ans45=Powrót do menu g³ównego.
+
+#L_DR1_msg50=Niestety, to Oprogramowanie Uk³adowe nie jest dostêpne.
+#L_DR1_ans55=Powrót do menu g³ównego.
+

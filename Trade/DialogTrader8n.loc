@@ -1,0 +1,13 @@
+;*****************************
+;DialogTrader8.xml  Íû÷êà ñ íèøòÿêàìè â Õ244
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+#L_DT8n_msg00=Hej, mi³o ciê poznaæ!
+#L_DT8n_ans00=Tak, to jest ma³y œwiat. Jak idzie?
+#L_DT8n_msg10=Idzie tak szybko, ¿e chcesz zwolniæ. Potrzebujesz najnowszego sprzêtu? Prawie za darmo, tylko 5000 kredytów!
+#L_DT8n_ans10=Pewnie, ¿e tak! Oto twoje 5 patyków.
+#L_DT8n_msg20=Gdzie? Ach, nie masz doœæ kredytów. Dlaczego nie powiedzia³eœ mi tak odrazu! Do widzenia!
+#L_DT8n_ans20=(Dalej)
+

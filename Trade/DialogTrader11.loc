@@ -1,0 +1,16 @@
+;*****************************
+;DialogTrader11.xml Íû÷êà ñ íèøòÿêàìè â Ñîëíöåâêà
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+#L_DT11_msg00=Mi³o jest spotkaæ siê z przyjació³mi w otwartej przestrzeni!
+#L_DT11_ans00=Ty stawiasz.
+#L_DT11_msg10=I jako przyjazny gest mogê powiedzieæ o ciekawej kryjówce z najnowszym sprzêtem. To bêdzie 5000 kredytów. Umowa?
+#L_DT11_ans10=Umowa!
+#L_DT11_msg20=Œwietnie! Skrytka znajduje siê w Solncevka w sektorze Feniks. Jestem pewien, ¿e ³atwo j¹ znajdziesz. Skrytkê, nie sektor.
+#L_DT11_ans20=Nie mo¿na powiedzieæ, ¿e jestem tak pewny, jak ty. Ale zrobimy, ile w naszej mocy - musimy jeszcze zwróciæ pieniêdzê którymi zap³aciliœmy za te informacje.
+
+#L_DT11_ans11=Jednak jest to trochê przyjazny gest. Co do dzielenia siê za darmo - Jako krok w stronê wzmocnienia naszych relacji? 
+#L_DT11_msg21=Nie jestem jakimœ sponsorem aby dawaæ tak¹ informacjê za darmo!
+#L_DT11_ans21=(Dalej)

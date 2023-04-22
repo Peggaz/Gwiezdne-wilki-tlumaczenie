@@ -1,0 +1,13 @@
+;*****************************
+;DialogTrader5.xml Станция по смене репутации в Пандора
+;*****************************
+LOCALE_FILE
+FILETYPE MODDING
+
+#L_DT5n_msg00=Czeњж!
+#L_DT5n_ans00=Czeњж! Czy moїesz mi powiedzieж coњ ciekawego?
+#L_DT5n_msg10=Ale oczywiњcie! Zaledwie 5000 kredytуw i twoje problemy z wrogami s№ rozwi№zane!
+#L_DT5n_ans10=No dalej, powiedz mi.
+#L_DT5n_msg20=Nie sіyszysz mnie? 5000 kredytуw! Jeњli nie masz takiej sumy, dlaczego nie powiedziaіeњ od razu. Narazie!
+#L_DT5n_ans20=(Dalej)
+

@@ -1,0 +1,95 @@
+;************************************
+; interface windows
+;***********************************
+LOCALE_FILE
+FILETYPE MODDING
+
+; traders
+
+#L_FT_Replica_01=Przeklêci piraci okradli mnie w ciemno! Trzymaj siê z dala od XT-27, jeœli chcesz ¿yæ!
+#L_FT_Replica_02=Biznes jest lepszy, jeœli masz do czynienia z w³aœciwymi ludŸmi! OdwiedŸ Ergelan, USS oferuje dobre ceny.
+#L_FT_Replica_03=Dlaczego, och, dlaczego wszed³em do tego kasyna?! Straciæ ca³y zysk na kartach - jakiego rodzaju g³upcem jestem po tym?
+#L_FT_Replica_04=B¹dŸ ostro¿ny z MSF. Ci bandyci lubi¹ ogoliæ uczciwych przedsiêbiorców.
+#L_FT_Replica_05=Ci najemnicy maj¹ ob³¹kane ceny! To kosztuje wiêcej ni¿ mój ca³y ³adunek i moja skóra jako dodatek! Nie maj¹ umys³ów, naprawdê.
+#L_FT_Replica_06=Hej przyjaciele, nie nale¿y krêciæ siê wokó³ tych systemów bez odpowiedniej eskorty!
+#L_FT_Replica_07=Mój kac mnie zabije... To whisky które destyluj¹ w Granicznym sektorze jest czystym z³em!
+#L_FT_Replica_08=Niestety przyjacielu, nie mogê teraz rozmawiaæ. Czas to pieni¹dz.
+#L_FT_Replica_09=InoCo wprowadzi³o swoje systemy poza granice. Jak teram mam prowadziæ mój biznes?!
+#L_FT_Replica_10=Przyjaciele, s³yszeliœcie o jakichkolwiek dobrych umowach? Mam dosyæ przewo¿enia tej tandety do piek³a i spowrotem.
+#L_FT_Replica_11=Err ... Niewa¿ne.
+
+#L_SOS_Replica_00=Mayday! Mayday! Czy ktoœ mnie s³yszy? Jesteœmy pod ostrza³em!
+#L_SOS_Replica_01=Oto nasz intruz. ¯adnych wiêŸniów!
+
+; mercs
+
+#L_Fmerc_mess01=Pozdrowienia! Jesteœ odwa¿ny lataj¹c bez zbrojnej eskorty: niedawno by³o tu zbyt gor¹co. Za nisk¹ op³at¹ %d kredytów nasz zespó³ bêdzie dbaæ o twoje bezpieczeñstwo. Mamy doskona³¹ reputacjê, dobre statki i doœwiadczonych ¿o³nierzy. Ale dzia³amy tylko w tym systemie. Co ty na to?
+#L_Fmerc_mess02=Ahoj statki! Potrzebujecie ochrony? Za zwyk³e %d kredytów. Oprowadzimy Ciê po ca³ym systemie, ochronimy, zajmiemy siê ka¿dym problemem. Mo¿emy te¿ zaœpiewaæ piosenkê za dodatkow¹ op³at¹. Ale ostrzegam: nasz œpiew jest straszny. Nasza walka jest bezkonkurencyjna, mimo ¿e: nie straciliœmy ani jednego klienta. Nie bêdziesz rozczarowany.
+#L_Fmerc_mess03=Witamy w systemie. Nasza jednostka najemników jest gotowa do œwiadczenia us³ug ochrony i przewodnictwa. Dzia³amy tylko w tym systemie, ale nasze ceny s¹ rozs¹dne: %d kredytów. Czy s¹ Pañstwo zainteresowani?
+#L_Fmerc_mess04=Panowie, nasza jednostka najemników zaprasza! Jesteœmy doœwiadczonymi ¿o³nierzami z nieskaziteln¹ reputacj¹. Specjalizujemy siê w ochronie i oprowadzaniu odwiedzaj¹cych ten system. Standardowa umowa ochronna bêdzie kosztowaæ tylko %d kredytów: zwykle nic w porównaniu z ewentualnymi stratami. Zainteresowani?
+#L_Fmerc_mess05=Przyznajê, ¿e masz stalowe nerwy odk¹d wêdrujesz bez zbrojnej eskorty! Szanujê to. Ale musisz wiedzieæ, ¿e ostatnio piraci byli bardzo aktywni. Mo¿na wpakowaæ siê w k³opoty, bez jakiejkolwiek ochrony. Za %d kredytów, nasza jednostka uprz¹tnie wszystkie rodzaje ho³oty z twojej drogi w tym systemie. Nasze statki nie s¹ zaniedbane, nasi ¿o³nierze maj¹ doœwiadczenie, a nasza reputacja mo¿e byæ dowiedziona na jakiejkolwiek stacji. Co ty na to?
+
+#L_Fmerc_mess11=Pozdrowienia! To mi³o wiedzieæ, ¿e ludzie ostatnio nie gardz¹ ochron¹. Jesteœ bystry. Ale ostatnio by³o tu wokó³ niebezpiecznie. Z ca³ym moim szacunkiem do twoich kolegów, mo¿esz u¿ywaæ jakiejœ dodatkowej ochrony. Za zwyk³e %d kredytów bêdziemy chroniæ Ciê w tym systemie. Co ty na to?
+#L_Fmerc_mess12=K³y na zewn¹trz, ch³opcy, patrzcie tutaj! Hej tam, zatrudnioni³eœ kilku doskona³ych wojowników. Jeœli do³o¿ysz %d kredytów wiêcej, zrobimy flotê, zdoln¹ skopaæ ka¿d¹ pirack¹ ho³otê w tym systemie! Jak to wygl¹da?
+#L_Fmerc_mess13=Witamy w systemie. Widzê, ¿e ju¿ masz przyzwoit¹ ochronê, ale z nasz¹ jednostk¹ najemników, jako dodatkowe zabezpieczenie, w ogóle nie musisz siê niczego obawiaæ. Pracujemy tylko w tym systemie, ale nasze ceny s¹ rozs¹dne: %d kredytów. Zainteresowany?
+#L_Fmerc_mess14=Panowie, witamy Ciebie i twoich kolegów! Ostatnio podró¿e po tym systemie sta³y siê niebezpieczne , i s¹dzê, ¿e dodatkowa ochrona mo¿e siê przydaæ. Jesteœmy doœwiadczonymi ¿o³nierzami z nieskalan¹ reputacj¹. Specjalizujemy siê w ochronie konwojów. Standardowa umowa na dodatkowe zabezpieczenia kosztuje tylko %d kredytów. Zainteresowany?
+#L_Fmerc_mess15=Mia³eœ racjê, aby zatrudniæ uzbrojon¹ eskortê, a przy tym tak¹ mi³¹! Ale stawiam, ¿e mo¿esz u¿yæ jeszcze wiêcej pomocników: nigdy nie ma za wiele broni, prawda? Za %d kredytów, przy³¹czy siê do twojej ma³ej armii, i oczyœci twoj¹ drogê z ka¿dej ho³oty w tym systemie. Co ty na to?
+
+#L_Fmerc_mess21=Wy ³ajdacy! Jak œmiecie ponownie wkraczaæ do naszej przestrzeni? Nara¿aj¹c przy tym cywilne ¿ycia?! Sam siê o to prosi³eœ. Cywilne statki, nie mieszajcie siê. To nie jest wasza walka.
+#L_Fmerc_mess22=Przez pierœcienie Saturna, to ty! Przygotuj siê na œmieræ! Hej cywile, lepiej siê rozejdŸcie, i b¹dŸcie nam wdziêczni: Ci wynajêci ³ajdacy zrójnowali ju¿ wielu klientów!
+#L_Fmerc_mess23=Kazaliœmy trzymaæ Ci siê dala od tego systemu. Powinieneœ pos³uchaæ. Cywilne statki, proszê, trzymajcie siê w bezpiecznej odleg³oœci. To nie wasz konflikt.
+#L_Fmerc_mess24=Niech mnie diabli wezm¹! Kazaliœmy Ci trzymaæ siê z dala od tego miejsca.Czego dok³adnie nie zrozumieliœcie, ³ajdacy?! Cywile, trzymajcie siê z boku. Interesujemy siê tylko tymi tchórzami, którzy s¹ za wami.
+#L_Fmerc_mess25=Pe³na gotowoœæ! Wróg naprzeciwko! Statkom cywilnym zaleca siê natychmiast opuœciæ to miejsce. Bêdzie tu bardzo gor¹co!
+
+; pirates
+
+#L_Pmoney_mess1=To jest nasza przestrzeñ! Wisisz nam op³atê transportow¹ %d kredytów!
+#L_Pmoney_mess2=Hej, patrzecie kto tam! Przypuszczam, ¿e twoja g³owa kosztuje %d kredytów. P³acisz, czy umierasz?
+#L_Pmoney_mess3=Hej, ty! Daj mi %d kredytów lub mój brat zajmie siê tob¹.
+#L_Pmoney_mess4=Oszczêdzasz na cygara? Nie palisz? W takim razie podaruj %d kredytów Anonimowym Palaczom! 
+#L_Pmoney_mess5=Pamiêtasz mnie? Da³em Ci kiedyœ %d kredytów. Czas je sp³aciæ.
+#L_Pmoney_mess6=Panowie, w tym systemie, w którym rz¹dzi pieni¹dz jest tak mi³o spotkaæ prawdziwych altruistów gotowych rozstaæ siê z %d kredytów.
+#L_Pmoney_mess7=Co siê gapisz?! Zap³aæ mi %d kredytów albo siê rozgniewam!
+#L_Pmoney_mess8=Wiêc to ty zostawi³eœ moj¹ siostrzyczkê w Altair! Doprowadzi³eœ j¹ do ³ez! Powiedzia³a, ¿e %d kredytów, by³oby jak¹œ pociech¹. Zabi³bym ciê na œmieræ, ale poprosi³a mnie, bym zainkasowa³ pieni¹dze, i Ciê puœci³. Ale jesteœ prawdziwym ³ajdakiem, s³yszysz!
+#L_Pmoney_mess9=Panowie, jesteœcie gotowi do oddania %d kredytów na program rehabilitacji ex-zamiataczy?
+#L_Pmoney_mess10=Nienawidzê zbierania pieniêdzy w ten sposób, ale nie mam innego wyboru w tej chwili. Jeœli dasz mi %d kredytów, nikt nie bêdzie musia³ strzelaæ.
+#L_Pmoney_mess11=Zap³aæ mi %d kredytów! Szybko!
+
+; police
+
+#L_Pgibdd_mess1=£amiemy przepisy, tak? Wywo³uj¹c korki? OdjedŸ z portalowego obszaru roboczego, natychmiast! Dajê ci 30 sekund. Albo zostaniesz ukarany!
+#L_Pgibdd_mess2=Masz 30 sekund na opuszczenie miejsca roboczego portalu. W przeciwnym razie zostaniesz ukarany. Ruszaj siê, nie ma tu nic do ogl¹dania.
+
+; relations
+
+#L_Rep_Replica_01=Witajcie przyjaciele! Zgodnie z tym niedawnym biuletynem, masz pewne problemy. Nie martw siê, wyczyœcimy twój numer, dziêki czemu ¿aden prawnik siê nie doczepi. Górnicy s¹ dumnymi ludŸmi, ale zawsze zwracaj¹ przys³ugê.
+#L_Rep_Replica_02=Och, to ty. Nara¿one numery, prawda? Œliski mo¿e pomóc: %d kredytów i ponownie jesteœ bezpieczny.
+#L_Rep_Replica_03=Nie wygl¹dasz jakbyœ przyszed³ po partiê silników. Twoja baza jest zaznaczona na czerwono na wszystkich biuletynach. Mo¿emy to naprawiæ tylko za %d kredytów.
+#L_Rep_Replica_04=Hej, mi³o ciê widzieæ. Znowu k³opoty, prawda? Wyczyszczê twój identyfikator bazowy za %d kredytów.
+#L_Rep_Replica_05=Hej, starzy kumple ... Jak widzê, macie takie same problemy. Niezbêdny sprzêt jest trudny do zdobycia w dzisiejszych czasach: %d za wyczyszczenie numeru pokryje moje wydatki.
+#L_Rep_Replica_06=Mi³o Ciê widzieæ! Raany, dlaczego zawsze wpadasz w tarapaty z w³adzami? W porz¹dku, niech wyczyszczê twoj¹ bazê ID.
+
+; headhunters
+
+#L_nav_kill_target=Cel misji
+#L_Pkill_mess1=Witamy dzielnych pilotów! Ka¿dy, kto nie jest odwa¿ny ukrywa siê w domu w dzisiejszych czasach. Chcesz zarobiæ dodatkowe pieni¹dze? Musisz po prostu wyeliminowaæ jeden zespó³ piracki. Przeœlê Ci wspó³rzêdne. Twoja nagroda bêdzie wynosiæ %d kredytów.
+#L_Pkill_capt=Misja
+#L_Pkill_text=Chcesz ten kontrakt?
+#L_Pkill_mess2=To nasz cel! Atak!
+
+; closed stations
+#L_Dnone_adm_closed_msg=Nie przyjmujemy goœci w tym tygodniu. Wróæ innym razem.
+#L_Dnone_closed_msg=Centrum handlowe jest zamkniête z powodu blokady. Dokowanie zabronione.
+#L_Dnone_live_msg=Occupado! Brak wolnych pokoi!
+#L_Dnone_other_msg=...
+#L_Dnone_other_closed_msg=Stacja jest przepe³niona ludŸmi z zewn¹trz. Dokowanie zabronione.
+#L_Dnone_pirate_msg=Kim jesteœ? Odwal siê, albo wezmê karabin plazmowy!
+#L_Dnone_private_msg=To jest prywatna stacja. Dokowanie zabronione.
+#L_Dnone_private_ino_msg=Obszar ten nale¿y do Korporacji InoCo. Sprawdzam twoje pozwolenie -  Hej, masz goœci przy wejœciu. Dokowanie zabronione dla goœci. Proszê opuœciæ strefê dokuj¹c¹.
+#L_Dnone_private_tri_msg=Obszar ten nale¿y do Korporacji Triady. Twój statek nie mo¿e tutaj zadokowaæ.
+#L_Dnone_private_uss_msg=Obszar ten nale¿y do Korporacji USS. Dokowanie jest zabronione dla obcych ludzi. Proszê opuœciæ strefê dokuj¹c¹, i zrobiæ miejce dla naszych transportowców.
+#L_Dnone_private_rebel_msg=Obszar ten nale¿y do ruchu oporu. Nie jesteœ tu mile widziany i nie mo¿esz tutaj zadokokowaæ. IdŸ gdzie indziej.
+#L_Dnone_univ_msg=Hej, ty tam! Jak myœlisz gdzie idziesz? Nie widzisz napisu "Stacja Zamkniêta"? Czy nie mo¿esz czytaæ?
+#L_Dnone_war_closed_msg=Ta stacja zosta³a zamkniêta z powodu nag³ego wypadku.
+#L_Dnone_war_closed_VKS_msg=Ta stacja zosta³a zamkniêta z powodu nag³ego wypadku.
+#L_Dnone_beacon_msg=Uwaga, zbli¿asz sie do miejsca, które jest niedostêpne dla nieupowa¿nionych u¿ytkowników. Prosze nie próbowaæ przelecieæ przez portal. Stra¿nicy bed¹ strzelaæ bez ostrze¿enia!
